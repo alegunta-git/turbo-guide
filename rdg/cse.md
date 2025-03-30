@@ -32,7 +32,8 @@ OOAD
 * Bertrand Meyer, Object Oriented Software Construction, Prentice-Hall.
 
 DB Design
-* TBD
+* Database Internals: A Deep Dive into How Distributed Data Systems Work by Alex Petrov
+* Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
 
 Mobile Design
 * TBD
