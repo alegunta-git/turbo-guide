@@ -1,0 +1,11 @@
+## Excel Formulas
+* [Google sheets fn list](https://support.google.com/docs/table/25273?hl=en-GB&ref_topic=1361471)
+* [CAGR Ablebits](https://www.ablebits.com/office-addins-blog/calculate-cagr-excel-formulas/)
+* [Excel Easy: #1 Excel tutorial on the net](https://www.excel-easy.com/)
+* [xls easy fn](https://www.excel-easy.com/functions.html)
+* [tax guru xls fx](https://taxguru.in/finance/excel-formulas-shortcuts-bank-reconciliation-emi-calculation-pivot-tables.html)
+* [xls fn](https://www.excelfunctions.net/excel-functions-list.html)
+* [xls function](https://excelx.com/formulas-functions/)
+* [Excel Formula List - Which formulas you must learn - 100+ examples](https://chandoo.org/wp/excel-formula-list/)
+* [xlsJet 350](https://exceljet.net/functions)
+* [500 Excel Formula Examples | Exceljet](https://exceljet.net/formulas)
