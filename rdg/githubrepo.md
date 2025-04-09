@@ -41,7 +41,7 @@
 * https://github.com/tdonker/REST-API-books
 * https://github.com/SoumyaMukhija/head_first_series_books/blob/master/OReilly.Head.First.Web.Design.Jan.2009.pdf
 * https://github.com/baoozuma/Head-First-All-Series-PDF
-
+* https://github.com/GunterMueller/Books-3
 
 ## Github Repo
 * travis : https://github.com/moparisthebest
@@ -62,6 +62,8 @@
 * https://github.com/sindresorhus/awesome?tab=readme-ov-file
 * https://github.com/WhiteHouse/api-standards?tab=readme-ov-file
 * https://github.com/kettanaito/naming-cheatsheet
+* https://github.com/flyeralarm/onboarding
+* https://github.com/Tikam02/DevOps-Guide/tree/master/DevOps
 
 
 
