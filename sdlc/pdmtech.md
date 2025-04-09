@@ -128,6 +128,7 @@ API Security
 * [Stripe API](https://stripe.com/docs/api/customers)
 * [Dropbox API](https://www.dropbox.com/developers/documentation/http/documentation)
 * [Twitter API](https://developer.twitter.com/en/docs/twitter-api/api-reference-index)
+* https://tech-docs.io/docs/fax-services
 
 yt api
 * [yt http course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=1&pp=gAQBiAQB)
