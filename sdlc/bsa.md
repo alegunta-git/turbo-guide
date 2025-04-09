@@ -1,6 +1,7 @@
 ## QA
 **Test Cases**
 * [180 sample test case](https://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applications/)
+* https://katalon.com/resources-center/blog/test-cases-for-ecommerce-website
 * [onecore Test case Archives](https://onecore.net/archives)
 * [artoftesting ecomm](https://artoftesting.com/ecommerce)
 * [ecomm2](https://www.softwaretestinghelp.com/ecommerce-testing/)
