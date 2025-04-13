@@ -41,3 +41,24 @@
 * [100 G Interview](https://gist.github.com/KWMalik/3734578)
 * [160 Interview Qs](https://www.impactinterview.com/2010/01/160-consulting-case-interview-questions/)
 
+**How to solve a product design exercise , Answer structure - The framework**
+* Step 1: Understand your goal (Why)
+* Step 2: Define the audience (Who)
+* Step 3: Understand the customer's context and needs (When and Where)
+* Step 4: List ideas (What)
+* Step 5: Prioritise and choose an idea
+* Step 6: Solve
+* Step 7: Measure success (How)
+* Validating your solution
+* How much time should you spend on each step?
+* How to present your solution
+
+**Product Design Interview Q’s**
+* Designing a Kiosk Interface
+* A Self-Publishing Platform for Amazon
+* A Dashboard for freelancers
+* Improving Primary Health care
+* Improving the ATM experience
+
+
+
