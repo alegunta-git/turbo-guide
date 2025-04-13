@@ -58,3 +58,47 @@
 * Design any of the above architectures only using AWS, GPC or Azure- For Any cloud team.
 * Troubleshoot a slow website or a slow e-reading device.
 
+## SysDesign
+**Functional**
+* Security (OAuth , Encryption)
+* Load Balancing / Proxies / Reverse Proxy
+* Databases : SQL(relational),NOSQL , In-memory DB , Sharding , Redundancy , Replication , Indexes
+* Data Partitioning ( Consistent hashing)
+* Caching (Caching Strategies , Tools like redis/memcached)
+* Microservices Vs Monoliths
+* Message Queues ( MB Kafka , RabbitMQ for async processing)
+* API Design 
+* Rate Limiting ( Throttling users and services , preventing DDOS)
+* Monitoring and Logging (System Health , Metrics , Alerting)
+* Connecting Protocols ( TCP , UDP , HTTPS , Websockets)
+
+**Non-Functional**
+* Scalability
+* Consistency vs Availability (CAP theorem)
+* Concurrency ( Concurrent Processing , Multithreading , Synchronization)
+* Reliability ( Data replication , Single Point of Failure , System Failover) 
+* Cost Optimization
+
+**User Facing Products**
+* Designing Pastebin 
+* Designing Typeahead Suggestion 
+* URL Shortener ( Bitly , Generating short URLs, Handling redirects ,Analytics)
+* Designing Facebook’s Newsfeed 
+* Designing Yelp or Nearby Friends 
+* Web Crawler ( URL Queue Management , HTML parsing , Data Storage)
+* Search Engine( Crawling , Indexing , Query Serving)
+* Social Media Platforms ( Twitter , FB , Instagram , Post updates , Follow users , Timeline generation , Twitter search)
+* Video Streaming Service ( Netflix/Amazon prime/Hotstar, Video uploads , video Views , Live Streaming , Recommendation Engine)
+* E-commerce Website ( Amazon/Flipkart , Product Search , User Authentication , Online Payment processing , Flash Sale)
+* Chat Application(WA/FB Messenger , Real time messaging , Online indicators , Group Chats) 
+* Ride sharing Service ( Ola/Uber , Ride matching , Tracking , Fare estimation)
+* Gaming Platforms ( Handling multiple players , Real time updates , game state management) 
+* Email Service ( Sending Emails , Receiving emails , Storage of emails , searching emails )
+* Reservation / booking system ( Reliability)
+
+**Technical products**
+* Rate Limiter
+* Job Scheduler ( Prioritize and distribute jobs to workers)
+* Logging Service ( High throughput , Low latency , Easily Searchable)
+* Distributed File Storage Service ( S3/Dropbox , Data Sharding , Replication , Fault Tolerance)
+* Real-time Analytics Dashboard ( Collection of data , Process data , Data Visualization) 
