@@ -1,3 +1,7 @@
+TOC
+- #Chatgpt
+- #Google Search
+
 ## Chatgpt
 * [dev chatgpt](https://www.youtube.com/watch?v=sTeoEFzVNSc)
 * [yt pl chatgpt](https://www.youtube.com/playlist?list=PL2Jn4_RetiGQ7iFwgWivNg8XIpNiX1ScO)
@@ -104,7 +108,7 @@
 * [Search Better (2012): Google Search Tips](https://edu.gcfglobal.org/en/searchbetter/google-search-tips/1/)
 * [SearchReSearch](https://searchresearch1.blogspot.com/)
 
-
+## Chrome
 **Chrome**
 * Address Bar : Use Icons on Menu Bar for copy paste
 * Manage Search Engine(Custom Search Engine) to launch web apps ( yt , gc ,gn), Edit Search Engines
