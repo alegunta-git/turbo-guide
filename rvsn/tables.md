@@ -127,6 +127,40 @@
 | Networking       | HTTPS , TCPIP                                                               |
 | Operating System | Windows , macOS ,  Unix , Linux                                             |
 
+**Web Apps**
+* Web Search : Google , Bing , Duck Duck go                              
+* Video Search : Youtube                                                      
+* Image Search : Instagram , Pinterest                                        
+* Movie Search :  IMDB                                                        
+* Social Media : Facebook , Twitter , Tik Tok                                 
+* Portal: Yahoo , MSN , Wordpress , Blogspot                           
+* Sports : espn cric , nba , premier league , formula 1 , ipl ,  nfl    
+* News: G news , g fin ,  nytimes , cnn , bbc , Eenadu , toi , economic times ,abn                           
+* Finance : Zerodha , moneycontrol , valueresearch ,fin yahoo , screener 
+* Edu : MIT , Udemy , Coursera , Stanford , Citehr , ScrumAlliance , Github wiki pages                   
+* Jobs : Linked In , Indeed , Naukri                                  
+* Travel : MakeMyTrip ,Trip Advisor ,irctc , ksrtc , redbus , Airbnb , Expedia                                             
+* Maps : G Maps                                                       
+* Storage : G Drive , Dropbox , Onedrive                                 
+* Email : Gmail ,Outlook , Omegle                                      
+* Products : Apple , Microsoft , Samsung , Oracle        
+* ecommerce : Amazon , Flipkart ,Walmart ,eBay , CraigList , Target ,                                 
+* ecommerce : Zara , Costco , nike , etsy , starbucks , lowes ,Best Buy , Ikea , Home Depot ,  
+
+
+**T20 Apps**
+* Search : Google , Bing , Baidu 
+* Social : Facebook , WhatsApp , Twitter , Linkedin
+* e-Commerce : Amazon , Taobao , eBay , PayPal , Craiglist . Alibaba
+* Video : Youtube,Vimeo
+* Photo : Instagram, pinterest
+* IM : Whatsapp
+* News : Reddit,CNN,BBC
+* Movies : IMDB , Netflix , Imgur
+* Portal : Yahoo , MSN , Wordpress , Blogspot 
+* QA : Wikipedia, Quora , Stackoverflow
+* Software : Apple , Microsoft , Oracle , Github
+
 
 
 
