@@ -1,0 +1,56 @@
+## TPM Role Expectations
+- Monitor and handle risks internally , before client team is aware
+- Quantify Issues with numbers/impact , take corrective action(s) and document steps
+- As a TPM , be aware of CI CD , TDD and BDD , ensure the BDD (Front End components) 
+- Resolution of nfr requirements
+
+## PM Role
+- Experience
+  - Tech stack worked upon (MS.net , Java , Digital , Cloud)
+  - Responsibilities , Project Delivery , Challenges faced
+  - Project Budget size , Team size
+- Budgets
+  - SLT Funds Approval , HeadCount , Projects for Current Year
+  - Finance (Capex and Opex ) , NPV , IRR , 
+  - Project Charter , Business Case , Objectives 
+  - Proposal phase : RFP , SOW 
+- Project management
+  - Cost , Budget (Planned , actual)
+  - Scope - Change Request process , Unplanned work / rework ( WIP : Ready - doing - done) 
+  - Estimations , Schedule ,  Project Plans , WBS , Design , Fixed scope prj
+  - Usage of tools JIRA,Planview , MS project ,Excel , Onenote 
+  - Quality (Defects , Reduce bug count )
+- Risk management
+  - Risks , Issues  
+  - Evaluate the Requirements scope , check for completeness , define User stories
+  - How to address Top 5 delivery risks
+  - How to handle the Delivery Risk
+- Governance/Communication
+  - Steering committee - Presentation and How to drive it
+  - Status report for msr wsr , Weekly Status Report , Dashboard 
+  - Know the Metrics and Numbers inside out
+- Stakeholder management
+  - Positive and Negative Stakeholders , Sponsor
+  - Expectation Management
+- People management
+  - Work allocation , Team Management ,Team (Form Storm Norm , allocation and release)
+  - conflict resolution , handle multiple priorities
+  - How did you Grow the team & Getting work done through others
+  - People : Skills , competency , Training , onboarding
+- Agile process
+  - Strong foundation of Agile / Scrum / SAFE Methodologies,
+  - Backlog grooming , Velocity , Sprint Planning
+  - Challenges from SDLC to Agile transition , QA testing
+- Devops
+  - CI and CD - Concepts and Tools : Jenkins and Travis
+  - DevOpsPractices
+  - Test Driven Development(TDD) / Behavioral Driven Development (BDD),
+- Others
+  - Cert : PMP exam , PMBOK , Rita PMP
+  - PMP Exam : Integration , Scope , Schedule , Cost , Quality , HR , comms , Risk , Procurement , Stakeholder 
+  - Quality : Control / Run chart , Flow chart , Pareto , Scatter dia ,statistics formulas
+  - Process : CMM , Six Sigma , QMS/SOP documentation 
+  - Knowledge Management , Release management , Best practices , Agile audit ( Quality and metrics analysis )
+  - System Design / Scalability
+  - Microservices / AWS Cloud /Test Automation (Selenium)
+  - Digital Marketing :  G Analytics , G Adwords , FB , Twitter /YT/Pinterest , CPC 
