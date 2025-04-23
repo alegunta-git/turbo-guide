@@ -1,14 +1,21 @@
 ## WhitePapers
-* Google and Amazon whitepapers
-* Software Abstractions MIT Press Daniel Jackson , Quora : Webnode , Livenode
+Amazon
+* [amazon whitepapers](https://aws.amazon.com/whitepapers/)
+
+Google whitepapers
 * [G Search Arch](https://www.spyfu.com/blog/how-do-search-engines-work/)
 * [G Mapreduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [G BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) 
 * [G ProtocolBuffers](https://spline.de/talks/protobuf.pdf) 
 * [G sawzall](https://static.googleusercontent.com/media/research.google.com/en//archive/sawzall-sciprog.pdf)
+
+Facebook whitepapers
 * [FB Thrift](https://www.ijedr.org/papers/IJEDR2102030.pdf)
 * [FB Hive](https://web.cse.ohio-state.edu/~zhang.574/Hive-ICDE10.pdf)
 * [FB Tao](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
+
+Misc
+* Software Abstractions MIT Press Daniel Jackson , Quora : Webnode , Livenode
 
 
 ## BE SQL
