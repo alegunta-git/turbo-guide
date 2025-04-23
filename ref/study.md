@@ -9,6 +9,12 @@
 
 **APA**
 * [APA format](https://www.easybib.com/guides/citation-guides/apa-format/)
+* https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf
+* gdocs apa format : https://www.youtube.com/watch?v=f7WomKsmeuI&list=WL&index=15&pp=gAQBiAQB
+* ref website ms word : https://youtu.be/nBMQNQt_fU4?si=5ZgYzv4B_95ym-l4
+
+**ADP**
+* adp format : https://youtu.be/decO68mL-tU?si=lXzAYilac1rXTC1j
 
 **Calculator**
 * 125 + 10 , 125 - 10 , 125 * 10 , 125 / 10 
