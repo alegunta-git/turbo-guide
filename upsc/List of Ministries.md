@@ -216,6 +216,7 @@ State Service
 - Ministry of Education
   - Department of Higher Education
   - Department of School Education and Literacy
+- Ministry of Electronics and Information Technology
 - Ministry of Environment, Forest and Climate Change
 - Ministry of External Affairs
 - Ministry of Finances
@@ -283,9 +284,8 @@ State Service
   - Department of Sports
   - Department of Youth Affairs
 
-
 ## Policy
-- NEP 2020 : https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf - Ministry of Electronics and Information Technology
+- NEP 2020 : https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf 
 
 ## Tension Areas in Centre-State Relations
 -  Mode of appointment and dismissal of governor;
