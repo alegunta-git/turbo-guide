@@ -310,6 +310,7 @@ Masters
 * OS : 1-15
 * Korth : 1-4 , 6-8 , 10 , 11 , 14 , 15
 * MIT : CLRS videos , Sicp , Algorithms Design Skienna
+* Concepts of Programming Languages Robert. W. Sebesta 10/E, Pearson Education.
 
 Graph Theory
 * J. A. Bondy and U. S. R. Murty. Graph Theory with Applications.
@@ -325,20 +326,6 @@ Unix
 * Unix System Concepts and Applications - Sumithabha Das
 * The Unix Programming Environment - Kerningham& Pike
 * Maurice Bach, Design of the Unix Operating Systems, Prentice-Hall of India.
-
-
-Lang
-* Concepts of Programming Languages Robert. W. Sebesta 10/E, Pearson Education.
-* K and R The C Programming Language,PHI.
-* Thinking in Java
-
-Oracle
-* Oracle 9i - A Beginners Guide - Abbey Michael
-* Oca/ocp Oracle 9i Dba Fundamentals - Study Guide - Biju Thomas
-* Oracle 9i Database Performance Tuning Student Vol1-Oracle Press
-* Oracle 9i Database Performance Tuning Student Vol2-Oracle Press
-* Oracle SQL Tuning by Mark Gurry
-* Oracle PL/SQL Best Practices and Tuning by Steven Feuerstein
 
 ## P Finance
 ETW
@@ -454,5 +441,21 @@ Stocks
  Zebra
 * The Industry Handbook(Zebra Learn)
 * Zebra Learn Series books on Stocks , Trading , P Finance
+
+
+## Tech 
+Prog languages
+* K and R The C Programming Language,PHI.
+* Thinking in Java
+* "Basic Python for Data Management, Finance, and Marketing" Art Yudin
+
+Oracle
+* Oracle 9i - A Beginners Guide - Abbey Michael
+* Oca/ocp Oracle 9i Dba Fundamentals - Study Guide - Biju Thomas
+* Oracle 9i Database Performance Tuning Student Vol1-Oracle Press
+* Oracle 9i Database Performance Tuning Student Vol2-Oracle Press
+* Oracle SQL Tuning by Mark Gurry
+* Oracle PL/SQL Best Practices and Tuning by Steven Feuerstein
+
 
 
