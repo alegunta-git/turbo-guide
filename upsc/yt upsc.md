@@ -7,6 +7,9 @@
 * [upsc prep org notes gdocs*](https://www.youtube.com/watch?v=gKLY4c1hZv4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=28&pp=gAQBiAQB)
 * yt notes micro themes  https://youtu.be/ffyruloCiqk?si=k_zRsazW45Syw3mO
 * [yt LBSNAA trg](https://youtu.be/3SiRw-rEGIE?si=I7m2HxZTyVEysyN4)
+* use google docs for current affaris : https://www.youtube.com/watch?v=QZUoyk9AMcM&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=1&pp=gAQBiAQB0gcJCYQJAYcqIYzv
+* hindu reading cp content to g keep : https://www.youtube.com/watch?v=4hK_y24T8BI&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=2&pp=gAQBiAQB
+* upsc prep niveditha : https://www.youtube.com/@nivedithashetty_upsc/videos
 
 reference
 * [yt reports and indices](https://youtu.be/RHcf2tDe1As?si=oZKC5HU91nL9f46i)
