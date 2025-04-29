@@ -46,17 +46,17 @@
 * Puducherry
 * Chandigarh
 
-## blogs
-* India
-  * [wiki India Tourism state](https://en.m.wikipedia.org/wiki/Tourism_in_India_by_state)
-  * [Best Places to Visit India](https://soultravelindia.com/best-places-to-visit-india-month/)
-  * [India 15](https://www.travelandleisureasia.com/in/destinations/india/best-places-to-visit-in-india-according-to-travel-experts/)
-  * [India 30](https://www.tourmyindia.com/blog/top-places-in-india-that-every-tourist-must-visit/)
-* Tips
-  * [Travel tips](https://www.beontheroad.com/p/travel-tips.html)
-* yt
-  * [yt boarding](https://www.youtube.com/watch?v=4e8MROIlEnU&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=8&pp=gAQBiAQB)
-  * [USA vlog](https://www.youtube.com/watch?v=ljoO7CSGb8k&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=7&pp=gAQBiAQB)
+## YT vlogs
+* Manis Solanki : https://www.youtube.com/@ManishSolankiVlogs/playlists
+* [yt boarding](https://www.youtube.com/watch?v=4e8MROIlEnU&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=8&pp=gAQBiAQB)
+* [USA vlog](https://www.youtube.com/watch?v=ljoO7CSGb8k&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=7&pp=gAQBiAQB)
+
+## India blogs
+* [wiki India Tourism state](https://en.m.wikipedia.org/wiki/Tourism_in_India_by_state)
+* [Best Places to Visit India](https://soultravelindia.com/best-places-to-visit-india-month/)
+* [India 15](https://www.travelandleisureasia.com/in/destinations/india/best-places-to-visit-in-india-according-to-travel-experts/)
+* [India 30](https://www.tourmyindia.com/blog/top-places-in-india-that-every-tourist-must-visit/)
+* [Travel tips](https://www.beontheroad.com/p/travel-tips.html)
 
 ## World
 * USA
