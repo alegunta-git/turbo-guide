@@ -1,7 +1,13 @@
+Dental
+* properly brush : https://www.youtube.com/watch?v=621E6KyWIGA&list=WL&index=9&pp=gAQBiAQB0gcJCYQJAYcqIYzv
+
+
 Yoga
 * https://timesofindia.indiatimes.com/blogs/small-changes-big-differences/18-a-lifestyle-approach-to-improving-hba1c-and-sustainable-weight-loss/
 * [Yoga Poses](https://www.yogajournal.com/pose-finder/pose-finder/)
 * [Exercise Table](https://www.usc.edu.au/media/1000574/Exercises-for-Computer-Users-and-Office-Workers.pdf)
+* hexyfit trg : https://www.youtube.com/watch?v=YdyFWwsI4SU&list=WL&index=5&pp=gAQBiAQB
+  
 
 T2DM
 * [Diabetes Mellitus Treatment USMLE - YouTube](https://www.youtube.com/watch?v=fVSMzcQfeSM&list=WL&index=3)
