@@ -1,3 +1,45 @@
+Google docs
+- **save docs to g keep** : https://www.youtube.com/watch?v=LtBsIohTe5Y&list=WL&index=7&pp=gAQBiAQB
+- Gdocs translate: https://youtube.com/watch?v=1dDyPc0frw0&si=vLoIxWXiD3bLyUeZ
+- Add comments : https://youtu.be/7kMNAwJZKrc?si=Ii3wLHQO0_BDKTl0
+- Gdocs notion : https://youtu.be/Za81Z6eQ51I?si=jPryhTxnkOxn7hHR
+- apa word format : https://www.youtube.com/shorts/HhD9ZI4voEE
+- track reading : https://www.youtube.com/shorts/H3f-HFmU_88
+- checkbox g sheets : https://www.youtube.com/shorts/lRsOSob9HYQ
+- relace text word : https://www.youtube.com/watch?v=yV11BU7vLxo&list=WL&index=26&pp=gAQBiAQB
+- open multipe docs : https://www.youtube.com/watch?v=OApaYrB9wKM&list=WL&index=8&pp=gAQBiAQB
+- qtrly review : https://www.youtube.com/watch?v=Z_8aYbCx7zg&list=WL&index=12&t=55s&pp=gAQBiAQB
+
+pdf
+- all books gdrive : https://www.youtube.com/watch?v=sBO8jxf4GPM&list=WL&index=23&pp=gAQBiAQB
+- read ebooks tablet : https://www.youtube.com/watch?v=gRPa-n3MHNA&list=WL&index=22&pp=gAQBiAQB
+- extract bold text ; https://www.youtube.com/watch?v=lWjK_fMArDM&list=WL&index=27&pp=gAQBiAQB
+- **Print pdf : select custom range to print pages you like**
+- [How to Save Individual Pages of a PDF ✂️ | TUTORIAL - YouTube](https://www.youtube.com/watch?v=Irc_620LcaE&list=WL&index=45)
+- Use sumatra pdf for lt weight tool read pdf 
+- Use MS edge to highlight text in pdf
+- [How To Convert JPG to PDF in Windows 10 - Save Image to PDF - YouTube](https://www.youtube.com/watch?v=8ZQGSVVasuE)
+* [Save as PDF](https://pdfpro.com/blog/guides/how-to-save-screenshot-as-pdf/)
+* [Remove printing lock in PDF files online & free](https://online2pdf.com/remove-pdf-printing-lock)
+* [How to Open & Read PDF File without any software or PDF Reader - YouTube](https://www.youtube.com/watch?v=Ceoc9hfRHdY&list=WL&index=11)
+* [PDF highlights extractor](https://www.pdfgear.com/pdf-editor-reader/extract-highlighted-text-from-pdf.htm)
+* [Extract Highlight Text](http://eric-blue.com/2010/12/17/learning-faster-automatically-extract-highlighted-text-from-pdf-documents/)
+* [How to merge multiple imagesinto one PDF file](https://www.youtube.com/watch?v=bBQe7cAkOfw&list=WL&index=7)
+* [change color](https://stackoverflow.com/questions/35628200/how-do-i-change-the-highlighter-color-in-adobe-acrobat-reader-dc-permanently)
+
+**sahil and sarra**
+- learn web gpt : https://youtu.be/FGbeQ4-Kj8Q?si=JvYomuLx6lwfcmcE
+- kb shortcuts : https://www.youtube.com/shorts/2Zg0pzOSVr0
+- solve 541 leetcode : https://www.youtube.com/shorts/IrWwsfHWl_M
+- learb web deb : https://www.youtube.com/shorts/SMZULGBYOZM
+- 500 leetcode : https://www.youtube.com/shorts/sq_LYYAQT9Q
+- sysdesign : https://www.youtube.com/shorts/0JSg44zuUTw
+- yt ideas : https://www.youtube.com/watch?v=RGDQaJgvZJk&list=WL&index=17&pp=gAQBiAQB
+
+projects 
+- py projects : https://www.youtube.com/watch?v=8ext9G7xspg&list=WL&index=25&pp=gAQBiAQB
+- macbook prodvty : https://www.youtube.com/watch?v=7CXmAzZWGyg&list=WL&index=6&pp=gAQBiAQB
+- 
 **Browser**
 - Chrome : Click + for new tab , cross to close tab
 - Firefox : default search eng , add site keyword , F9 for clean reading , right click screenshot easy way
@@ -86,18 +128,6 @@ Custom Search Engine//ddg bangs
 - Use sites <www.pricewatch.com>
 
 PDF
-- **Print pdf : select custom range to print pages you like**
-- [How to Save Individual Pages of a PDF ✂️ | TUTORIAL - YouTube](https://www.youtube.com/watch?v=Irc_620LcaE&list=WL&index=45)
-- Use sumatra pdf for lt weight tool read pdf 
-- Use MS edge to highlight text in pdf
-- [How To Convert JPG to PDF in Windows 10 - Save Image to PDF - YouTube](https://www.youtube.com/watch?v=8ZQGSVVasuE)
-* [Save as PDF](https://pdfpro.com/blog/guides/how-to-save-screenshot-as-pdf/)
-* [Remove printing lock in PDF files online & free](https://online2pdf.com/remove-pdf-printing-lock)
-* [How to Open & Read PDF File without any software or PDF Reader - YouTube](https://www.youtube.com/watch?v=Ceoc9hfRHdY&list=WL&index=11)
-* [PDF highlights extractor](https://www.pdfgear.com/pdf-editor-reader/extract-highlighted-text-from-pdf.htm)
-* [Extract Highlight Text](http://eric-blue.com/2010/12/17/learning-faster-automatically-extract-highlighted-text-from-pdf-documents/)
-* [How to merge multiple imagesinto one PDF file](https://www.youtube.com/watch?v=bBQe7cAkOfw&list=WL&index=7)
-* [change color](https://stackoverflow.com/questions/35628200/how-do-i-change-the-highlighter-color-in-adobe-acrobat-reader-dc-permanently)
 
 **Excel**
 - xls : Arrange All Windows , Quick access toolbar pin it ,
