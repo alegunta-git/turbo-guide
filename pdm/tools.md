@@ -5,6 +5,8 @@
 ## Github
 * https://tylerthetech.com/github-search-tips/
 * https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts
+* download file : https://www.youtube.com/watch?v=BlEWmTzc8ws&list=WL&index=7&pp=gAQBiAQB
+* download : https://www.youtube.com/watch?v=GHUKKFEIQX4&list=WL&index=4&pp=gAQBiAQB
 * gh search : https://www.youtube.com/watch?v=qBTmygWBvIA
 * gh issue : https://www.youtube.com/shorts/SSza2dRsBok
 * org star repo as lists : https://www.youtube.com/shorts/8oTmaEa2y0c
