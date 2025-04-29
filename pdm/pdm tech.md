@@ -1,3 +1,8 @@
+pdm book
+* use Freemind2, which is an open source mind map drawing software.
+* (*.mm) on GitHub here : https://github.com/shaileshbhat/PM-Mind-Maps
+
+
 ## HTML
 * https://schoolsofweb.com/category/html-for-beginners/
 * https://htmlcheatsheet.com/
