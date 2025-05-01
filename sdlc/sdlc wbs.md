@@ -54,3 +54,18 @@
   - System Design / Scalability
   - Microservices / AWS Cloud /Test Automation (Selenium)
   - Digital Marketing :  G Analytics , G Adwords , FB , Twitter /YT/Pinterest , CPC 
+
+## Devops
+* Continuous Integration 
+* Continuous Deployment , Martin Fowler Series
+* Setup and Configure Environment pipeline : Dev -> Test -> Prod 
+* Maven , Junit
+* **Build : Jenkins** , Azure pipeline
+* Src code control/ Repository : **Github**
+* Deployment : **Docker** , Kubernetes
+* Code Configuration : Chef , Puppet , **Ansible**
+* Test Automation  : Selenium , Playwright , Katalon
+* Monitoring : Nagios
+* End to end tracing : New relic
+
+
