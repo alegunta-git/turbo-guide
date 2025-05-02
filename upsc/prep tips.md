@@ -72,11 +72,6 @@
 * Diagrams , mind maps , Flow charts , Tables , Maps reading
 * from The Hindu , **Issue : Historical background, factual. Content, current status, pros and cons , challenges, conclusion** 
 
-**IAS officers**
-* TN Seshan : reforms in EC , Ashok Kemka : Enquiry of key cases 
-* Divya Mittal : 9m get water UP Village 
-* Abhinash mishra , bhavesh mishra (Quora) , Saurabh Gaur : edu(cloud based tech ans scripts evaluation , engage Byju for 8-10 class ) 
-
 ## links
 **previous year qs**
 * [upsc syllabus](https://vajiramandravi.com/upsc-syllabus/)
