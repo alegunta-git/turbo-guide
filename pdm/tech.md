@@ -1,11 +1,3 @@
-pdm book
-* use Freemind2, which is an open source mind map drawing software.
-* (*.mm) on GitHub here : https://github.com/shaileshbhat/PM-Mind-Maps
-
-## HTML
-* https://schoolsofweb.com/category/html-for-beginners/
-* https://htmlcheatsheet.com/
-
 **HTML**
 * Web2.0 : Search , Links , Author , Tags , Signals
 * Links:,href , name , target
@@ -13,6 +5,10 @@ pdm book
 * Img:src,url,alt,align,ht,wt
 * Tables:border,cell padg ,tr,td,th,colspan | Frames | Style(bgcolor,text color,fonts,size,txt algin)
 * Forms(Form,action,method,input,name,value,size,text area, select , options)
+
+## HTML
+* https://schoolsofweb.com/category/html-for-beginners/
+* https://htmlcheatsheet.com/
 
 ## CSS
 * https://htmlcheatsheet.com/css/
