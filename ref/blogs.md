@@ -4,6 +4,10 @@
 ## Investment
 * https://gurus.rediff.com/question/qdtl/money/51-2cr-ppf-4cr-deposits-1cr-mf-sold-property-accquired/5197116
 
+
+## RWA
+* https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-apartments-struggle-with-governance/articleshow/120847122.cms
+
 ## Fincal blogs
 * https://freefincal.com/equity-mutual-fund-screener-jan-2025-shortlist-consistent-performers/
 * https://freefincal.com/equity-mutual-fund-screener-oct-2024-shortlist-consistent-performers/
