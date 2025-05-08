@@ -11,3 +11,6 @@
 * gyan post : https://pib.gov.in/PressReleasePage.aspx?PRID=2124967
 * roadmap : https://pib.gov.in/PressReleasePage.aspx?PRID=2124961
 
+### May
+* UIDAI Face authentication pilot NEET :https://pib.gov.in/PressReleasePage.aspx?PRID=2127017
+* “Phulera Ka Panchayati Raj” : https://pib.gov.in/PressReleasePage.aspx?PRID=2126985
