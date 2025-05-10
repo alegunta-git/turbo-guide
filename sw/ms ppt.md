@@ -1,5 +1,12 @@
-
 ## MS PPT 
+## YT PPT
+* [yt smartart](https://www.youtube.com/playlist?list=PLtcVLF1AuAwCC1VrXptiKpwgNaIYvtPF-)
+* [yt pl FirmLearning](https://www.youtube.com/@FirmLearning/playlists)
+* [yt pl DanGaletta](https://www.youtube.com/@DanGalletta/playlists)
+* [yt pl Analyst Academy](https://www.youtube.com/@AnalystAcademy/playlists)
+* [yt pl Strategy U](https://www.youtube.com/@StrategyU/playlists)
+
+
 **ppt basics**
 * [yt gcf ppt](https://www.youtube.com/playlist?list=PLpQQipWcxwt_KvhjMTsADzon_GY_vBGRL)
 * [PPT Templates](https://flevy.com/browse/business-document/sales-battlecard-template-78)
