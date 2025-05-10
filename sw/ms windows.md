@@ -1,3 +1,9 @@
+## MS Project
+* [ms prj tutorial](https://www.youtube.com/watch?v=BYR_S6ktoFc)
+
+## MS Outlook
+* [How To Create Email Templates in Outlook | My Templates & Quick Parts - YouTube](https://www.youtube.com/watch?v=RSlfhjbIoK8)
+
 ## Note taking
 **MS onenote**
 * [on hyperlinks](https://youtu.be/BVUmf4Y-fLA?si=FZT7N5DxUQcvGphS)
