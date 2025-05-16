@@ -1,0 +1,105 @@
+## Cleaning
+
+**Cleaning Festival Decoration** 
+- Puja Room ,  
+- Kitchen , 
+- Dining Tables 
+- Fridge , 
+- Windows
+- Bathroom
+- Doors
+
+**Cleaning Home Routine** 
+- Bedroom : Change Bedsheet 
+- Bathroom : call  Urban clap
+- Windows : call urban clap
+- House Cleaning : Dusting , Remove Cobwebs 
+- 2w : Clean vehicle , Engage security guard
+
+
+**Scrub Devices**
+- Scrub Paper : Bills , News paper , Finance Papers , books 
+- Almirah : File papers in BR and Closet 
+- PC  : Home , Office, MacAir , Mobile : M1 , M2
+- Gdrive : Sync up ebooks ,  Scrub Password list , Sort photos 
+- Chrome Browser : Book marks , github urls , Custom Search Engine
+- G Calendar : Events  ,Reminders
+- G Keep : Bill Payment , Task List , Short Notes
+- G Drive  :  Tracker , Documents , Reference Material 
+- G mail : abels , Emails , Rediff
+- Youtube : Playlist
+- Pinterest : Image Board
+- WhatsApp : Documents ,  Videos
+- HDD : Documents ,  Office files  , Images 
+
+
+## SOP Service Items
+
+
+**Gas  Connection Documents**
+- Connection Documents
+- Change of Address documents
+- Red book 
+- Delivery Slips
+
+**svc Kent Water filter**
+- 3 yrs gap for servicing
+- Post service water comes in 20 min 
+
+**svc AC**
+- Usage 3months Heavy usage (Mar-May) , 6m min usage
+- Start and run AC for 5 min off season months
+- Not using ac gas turns to moisture 
+- Cleaning filter
+- 2 bucket water , cloth, Uc team foam tech  , 2500 gas 
+- U can clean filter own , open side flap , filter in normal water (not detergent)
+- Coil compressor power issues faq , Coil aluminum cheap , buy copper
+
+
+
+## Devices
+**List Electronic items**
+- Bluetooth Speaker(Mob,PC) 
+- Cable : DVI Adapter / mini dvi /  DVI Cable , VGA Cable 
+- HDD : ebooks / Photos / ftp files
+- Laptop(Office) 
+- Laptop(self)
+- Mobile
+- Monitor (Wifi) 
+- Multi Display Port 
+- OTH ( pen drive) 
+- Printer 
+- Router
+- TV 
+- TV to HDMI Cable
+
+**Manuals**
+- Mobile Phone , 
+- TV
+- Laptops ,  
+- PC
+- Kindle  , 
+- Tablet
+- Fridge , 
+- Water Filter
+- Furniture
+
+**SOP Mobile Phone**
+
+**Handover Existing Phone**
+- Backup contact vcf file -> wifi direct 
+- Copy data to HDD / G Drive
+- Delete current set of apps 
+- Remove Google Account  
+- Factory Reset 
+- Handover Mobile Box , Charger 
+- Handover Original Bill(Take xerox)
+
+**Setup New  Mobile Phone** 
+1. Startup - Settings  (Configure Time , Region )
+2. Sign in Google account 
+3. Copy Contact Files
+4. Install New apps 
+
+## Links
+* Carpenter : https://hometriangle.com/
