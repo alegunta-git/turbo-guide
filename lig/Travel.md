@@ -1,4 +1,53 @@
-## Travel
+## Travel SOP 
+
+**Pilgrim Tour**
+- Tirupathi , 
+- Srisailam ,
+- Rayara Place  
+
+**Countries Wish List**
+- USA  , 
+- UK Germany UK France Italy Spain 
+- Japan ,Thailand
+
+
+**Tour operator**
+- Nirmala travels
+- Ask Annaya garu about LIC spoc travel prep tips
+
+**CB Planning for Gujarat trip**  
+
+_Trip planning_
+- Researched places 2 visit (CB Planning) Kudos !!!
+- Prepare Trip Agenda ( Day wise ) , 
+- book hotel after price comparison , 
+- Book Flight tickets ,
+
+_During trip_
+- use uber airport pickup
+- Train booking on paytm
+- print travel docs 
+- carry my Medicine ,
+
+_post trip_
+- bill calculation  (Travel , hotel , misc) , 
+
+
+**CB Onsite prep work for Singapore Visit** 
+- Tour Itinerary
+- Arrange for Passport 
+- Arrange for Visa With Cousin Sister help 
+- File Passport documents for folks
+- Book Flight Tickets 
+- Get Travel Insurance
+- Get Singapore Currency (SBI) , 
+- identify the Places to visit List 
+- Carry the Address for Sponsor 
+- Buy  Gift for M*
+- Office take leaves for 10 days 
+
+
+## India Travel
 * Andhra Pradesh
 * Arunachal Pradesh
 * Assam
@@ -58,7 +107,7 @@
 * [India 30](https://www.tourmyindia.com/blog/top-places-in-india-that-every-tourist-must-visit/)
 * [Travel tips](https://www.beontheroad.com/p/travel-tips.html)
 
-## World
+## World Travel
 * USA
   * [Life in USA](https://www.lifeintheusa.com/)
   * [USA travel guide](https://www.fodors.com/world/north-america/usa)
