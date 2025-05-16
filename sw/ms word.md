@@ -1,4 +1,9 @@
 ## MS Word
+
+**yt pl**
+* math expert word : https://www.youtube.com/playlist?list=PL0hIrBSf6_4lqjDSiv7M2eB2D0GsdHitr
+* math expert xls : https://www.youtube.com/playlist?list=PL0hIrBSf6_4nJmEhaWPKCOWAZKT0Wz3UE
+* 
 **text**
 * [Create an attractive article in Microsoft Word 2010 - YouTube](https://www.youtube.com/watch?v=Pouh8iOmsmY&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=7)
 * [Shortcut key to Delete Many Words at One time in MS Word - YouTube](https://www.youtube.com/watch?v=mi4gsb1wvdI&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=25)
