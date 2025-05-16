@@ -71,3 +71,12 @@
   - Tell Gotram , Purpose , Guru Pranam
   - Ask panditji mantram / ashirvaad ,
 
+**TTD Booking**
+- Check calendar frequently , 
+- try to login booking site 5-6 attempts
+- check for seva Slot , slot room bkg
+
+
+
+
+
