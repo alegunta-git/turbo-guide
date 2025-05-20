@@ -5,10 +5,11 @@
 - Bhagvad Gita
 
 
-### Japam
+### Japam Ashtottaram
 - 108 Sri raghavendra stotram
 - 108 Gayatri mantra japam
 - 1008 Gayatri mantra japam
+- https://vignanam.org/telugu/subrahmanya-ashtottara-sata-namavali.html
 
 ### Daily Puja
 - 5 Basic shlokas 
