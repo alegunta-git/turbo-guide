@@ -1,8 +1,3 @@
-
-
-
-
-
 ## Github
 **ooad**
 * [gh starred repo](https://github.com/alegunta-git?tab=stars)***
