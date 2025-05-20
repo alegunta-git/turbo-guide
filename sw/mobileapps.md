@@ -1,3 +1,7 @@
+## Android Basics
+* https://www.thesuccessmanual.in/chapter/android-for-seniors-basics-examples-specific-scenarios
+* 
+
 ## Enterprise apps
 * [Goldmine Training](https://www.goldmine.com/training/training_videos_basics.html)
 * [CFMS reconciliation](https://youtu.be/qqlgn7Y881k?si=e_Zra6DwHSVNMXZl)
