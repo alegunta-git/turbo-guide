@@ -1,3 +1,7 @@
+
+## MF
+* **26+12+26 SIP Formula** : Rs 26,000 monthly SIP grow to Rs 5 crore , 12% annualised returns , invest for 26 years in SIP
+
 ## ETW MF
 **Large cap**
 * Kotak equity opportunities* , Kotak bluechip
