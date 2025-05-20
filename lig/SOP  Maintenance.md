@@ -36,7 +36,7 @@
 ## SOP Service Items
 
 **List of Services**
-| Carpenter      | Plumber          |                                        |
+| Carpenter      | Plumber          |  Electrician                           |
 |----------------|------------------|----------------------------------------|
 | Furniture      | Kitchen sink     | Fuse & Wire connection                 |
 | Wardrobe       | Bathroom Geyser  | Switches                               |
