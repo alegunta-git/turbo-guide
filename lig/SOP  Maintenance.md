@@ -35,6 +35,25 @@
 
 ## SOP Service Items
 
+**List of Services**
+| Carpenter      | Plumber          |                                        |
+|----------------|------------------|----------------------------------------|
+| Furniture      | Kitchen sink     | Fuse & Wire connection                 |
+| Wardrobe       | Bathroom Geyser  | Switches                               |
+|                | Bathroom Coil    | Tubelights and Fan                     |
+|                | Toilet items     | Setup Inverter , Change Inverter Water |
+| **Vehicle**    | **Electronics**  | **IFB**                                |
+| 2w svc         | Mobile           |                                        |
+| 4w svc         | TV               | IFB Dishwasher                         |
+|                | Laptop(Office)   | IFB Washing m/c                        |
+|                | Laptop(self)     |                                        |
+| **Gas svc**    | **Kitchen**      |                                        |
+| Gas cylinder   | Fridge           |                                        |
+| Gas Stove      | Dry Grinder      |                                        |
+|  Gas pipe      | Wet Grinder      |                                        |
+|                | Water Filter     |                                        |
+
+
 **Sukam Inverter**
 * [refill inverter battery water](https://youtu.be/GaNQqmKY5UE?si=ky1CyrInkHFl2MXH)
 
