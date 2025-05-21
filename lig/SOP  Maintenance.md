@@ -76,6 +76,13 @@
 - U can clean filter own , open side flap , filter in normal water (not detergent)
 - Coil compressor power issues faq , Coil aluminum cheap , buy copper
 
+**CL Vehicle**
+| 2w Docs              | 2w Svc                      | Vehicle Trackers     |
+|----------------------|-----------------------------|----------------------|
+| Driving License      | 2w Emission Test (Reminder) | Petrol Expense       |
+| 2w Registration RC   | 2w Svc (Reminder)           | 2w Svc Dates, Amt    |
+| Emission Test Report | Vehicle Svc Checklist       | 2w Insurance cost ,  |
+| Insurance Copy       |                             |                      |
 
 
 ## Devices
