@@ -1,6 +1,6 @@
 ## Android Basics
 * https://www.thesuccessmanual.in/chapter/android-for-seniors-basics-examples-specific-scenarios
-* 
+* android 101 : https://www.youtube.com/playlist?list=PLPRhQEDGqsFC4NL3DiYpPVnDKP9o1dnTw
 
 ## Enterprise apps
 * [Goldmine Training](https://www.goldmine.com/training/training_videos_basics.html)
