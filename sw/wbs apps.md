@@ -183,8 +183,6 @@
 - Utilities : VBscript/Powershell scripts  , Irfan View 64b , VLC Media Player , 
 
 
-
-
 ## Misc
 **Software Suggestions Ankit Fadia**
 - 99designs 
