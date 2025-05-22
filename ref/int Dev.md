@@ -184,9 +184,11 @@
 * [yt algo sylbs](https://www.youtube.com/watch?v=BchPukWb0CU&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=3&pp=gAQBiAQB)
 * [yt dsa sheet](https://www.youtube.com/watch?v=Az3kEDm5b_k&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=4&pp=gAQBiAQB)
 * [master dsa](https://www.youtube.com/watch?v=F-ao3Q6I2Fc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=36&pp=gAQBiAQB)
-* [NPTEL narendra garg](https://youtu.be/zWg7U0OEAoE?si=Co_42DXjZOcOxMSv)
 * [djistrika algo](https://www.youtube.com/watch?v=EFg3u_E6eHU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=43&pp=gAQBiAQB)
 * DSA - mycoding school : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC
+* LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
+* DSA : https://www.youtube.com/watch?v=CBYHwZcbD-s&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
+
 
 **DSA Qs**
 * https://www.crackingthecodinginterview.com/resources.html
