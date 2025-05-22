@@ -134,3 +134,12 @@
 * Feature Prioritization and Stakeholder Matrix , Feature Road map 
 * Process Flow ,  Process Improvement Progress Report 
 * Navigation Map , Org Chart , Performance Report 
+
+## Roles and Competencies
+| Business Knowledge | Notes                            |
+|--------------------|----------------------------------|
+|                    | Biz Vision and Strategy          |
+|                    | Biz Products & Services          |
+|                    | Biz Process & Procedures         |
+|                    | Org Structure, Roles & Functions |
+
