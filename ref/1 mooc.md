@@ -1,5 +1,6 @@
-## MIT
+## NPTEL
 * Machine Learning : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC
+* [NPTEL narendra garg](https://youtu.be/zWg7U0OEAoE?si=Co_42DXjZOcOxMSv)
 
 ## MIT
 * [mit course](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum)
