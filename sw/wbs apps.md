@@ -202,7 +202,8 @@
 **Mobile Apps**
 - Most Used apps : WhatsApp, WeChat, Facebook, Messenger, 
 - Most used apps : Pandora, YouTube, Instagram, Twitter, Google Maps and Spotify
-- Social Apps : TikTok , Instagram , Facebook , WhatsApp , SnapChat , Telegram,                                              - Google : Chrome , Google , Gmail , photos ,Drive , Calendar , Docs , Keep , Files                                          
+- Social Apps : TikTok , Instagram , Facebook , WhatsApp , SnapChat , Telegram
+- Google : Chrome , Google , Gmail , photos ,Drive , Calendar , Docs , Keep , Files                                          
 - Microsoft : MS Teams , Outlook , Lens , Office , Teams                                                                     
 - IM : WhatsApp Business , Zoom , G Meet , Messenger(FB) ,                                                     
 - Payment : Phonepe ,  PayPal , G Pay , Paytm , Alipay , CashApp                                                    
