@@ -4,7 +4,6 @@
 - any person can work max 2 hrs on laptop
 - Check for updates - Adv updates 
 
-
 **Web Apps**
 * Ecommerce : Amazon , Flipkart ,Walmart ,eBay , CraigList , Target ,                                 
 * Ecommerce : Zara , Costco , nike , etsy , starbucks , lowes ,Best Buy , Ikea , Home Depot ,  
@@ -173,6 +172,15 @@
 - Good Reads , Reading List
 
 
+**Core Web Apps**
+- Browser : Chrome , Edge , Firefox , Chrome dev
+- Search : G Search (Images , Lens , voice) , Duck Duck bangs , Bing(ChatGPT), SEO 
+- Core Apps : Youtube , Gmail(email) , G Calendar , G Keep(Notes) , G drive(repository) 
+- G suite : Docs , Sheets , Slides
+- News : Google News , G Finance
+- Utils1 : Photos ,  G Maps , books , G Analytics
+- Utils2 : Scholar , Blogger , Adwords , Shopping , Translate , Classroom
+
 **Software Installed on lenovo laptop**
 - Laptop Apps : ELAN Touchpad , Realtek Audio 
 - Windows : Updates Win10 , MS VC++ 2015 ,
@@ -184,3 +192,25 @@
 - Utilities : Notepad++ ,  7zip ,  SnagIT / GreenShot ,
 - Utilities : VBscript/Powershell scripts  , Irfan View 64b , VLC Media Player , 
 
+## Mobile
+
+**Mobile Usage** 
+- Calls , SMS , Calendar , g keep , Whatsapp , 
+- urban clap , Browse youtube , Pinterest images , 
+- g search queries , news , Listen 2 songs ( prayer) , cast chrome
+
+**Mobile Apps**
+- Most Used apps : WhatsApp, WeChat, Facebook, Messenger, 
+- Most used apps : Pandora, YouTube, Instagram, Twitter, Google Maps and Spotify
+- Social Apps : TikTok , Instagram , Facebook , WhatsApp , SnapChat , Telegram,                                              - Google : Chrome , Google , Gmail , photos ,Drive , Calendar , Docs , Keep , Files                                          
+- Microsoft : MS Teams , Outlook , Lens , Office , Teams                                                                     
+- IM : WhatsApp Business , Zoom , G Meet , Messenger(FB) ,                                                     
+- Payment : Phonepe ,  PayPal , G Pay , Paytm , Alipay , CashApp                                                    
+- Streaming : Netflix , Youtube , Disney+ , Amazon Prime , YT kids , HBO , MX , Hotstar                                      - Music : Spotify , Shazam , YT music , SoundCloud , Amazon Music ,  Wynk , MP3 player , Gaana ,                             
+- Shopping : Shein , Meesho , Shopee , Amazon , Shopsy , Flipkart , Alibaba , Lazada , Walmart , Myntra , Bigbasket , quikr  - News : G News , Dailyhunt , newsbreak
+- Jobs  :  Linkedin , Indeed Job search                                                                                      - Others : Truecaller , Jiocinema , Playit , 1mgapp                                                                          
+- Food  :  McDonalds , Ubereats , DoorDash , Starbucks 
+- Food : Grab , Zomato, Swiggy , Foodpanda                                        
+- Travel : Ola , Rapido , G Maps , Uber , Where is my Train 
+- Travel :FlightRadar24  , Redbus ,porter , booking.com , Airbnb , G earth , inDrive , AutoNavi 
+- Easy Telugu typing
