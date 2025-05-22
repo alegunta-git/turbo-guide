@@ -1,87 +1,24 @@
-**Shortcut keys**
-* https://ss64.com/nt/
-* [IMP shortcut keys](https://shortcutworld.com/Shortcuts)
-* [Chrome SC Keys](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop)
-* [xls short cut2](https://www.myonlinetraininghub.com/excel-shortcuts)
-* [xls Shortcuts](https://shortcutworld.com/Excel/win/Microsoft-Excel_Shortcuts)
-
-## help docs 
-* [G Keep help](https://support.google.com/keep/?hl=en#topic=6262468)
-* [G Calendar help](https://support.google.com/calendar/?hl=en#topic=10509740)
-* [G Drive help](https://support.google.com/drive/?hl=en#topic=14940)
-* [G Mail help](https://support.google.com/mail/?hl=en#topic=7065107)
-* [G Seo](https://developers.google.com/search/docs)
-* [g sheets](https://support.google.com/a/users/answer/9282959)
-* [g docs](https://support.google.com/a/users/answer/9282664?visit_id=638558829940772340-4019882282&hl=en&rd=1)
-* [G Merchant Center](https://support.google.com/merchants/answer/7052112?visit_id=638486059717068181-155628677&hl=en&rd=1)
-
-**g news**
-* [yt gnews adv](https://youtu.be/FtSeAwRhPKs?si=AKuo_GFeXaXGPivt)
-
-**gmaps**
-* [Google Maps Tips and Tricks](https://www.youtube.com/watch?v=CU4dBJk97AI&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=3)
-
-**gbooks**
-* [yt G Books](https://www.youtube.com/watch?v=0wy8fbawzsw&list=WL&index=10)
-* [yt g playbooks](https://www.youtube.com/watch?v=W84ZD31GV6I&list=WL&index=3&pp=gAQBiAQB)
-
-**G Sheet**
-* [basic g sheet](https://www.youtube.com/watch?v=_UWPaPer1MY&list=WL&index=10&pp=gAQBiAQB)
-* [adv g sheet](https://www.youtube.com/watch?v=t0B0Tgz0b-0&list=WL&index=9&pp=gAQBiAQB)
-* [Google Sheets - Import Data from Another Sheet](https://www.youtube.com/watch?v=HnIqhnl1F2A)
-* g sheets : https://youtube.com/playlist?list=PL0ydrIIRidUJ-cnjJQzvKBAwhCa0rOubz&si=cUg3MSNSsPeEgQYc
-* tableconvert : https://youtube.com/playlist?list=PLjR-YgvYrHD3Mm4Y1WtwxIhmYWVC9zuvI&si=ZRj4mHvqTNdvckvi
-
-
-**gdocs**
-* [Google Docs: Voice Typing - YouTube](https://www.youtube.com/watch?v=LIz9UWi5z4w)
-* [Google Docs - YouTube](https://www.youtube.com/watch?v=kLLWdvEl77Q&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=22)
-* [How to Make a Newspaper on Google Docs](https://www.youtube.com/watch?v=P0sAnr2GaY8&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=5)
-
-**gdrive**
-* [yt GDrive Tutorial](https://www.youtube.com/watch?v=G5B6ksOKlYI&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=12)
-
-**Gmail**
-* [How to Save Time with Gmail Templates (Canned Responses) - YouTube](https://www.youtube.com/watch?v=W-eg49KPFIk)
-* [Gmail: Managing Email - YouTube](https://www.youtube.com/watch?v=qTeZlPja5N4&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=21)
-* [How to Delete All Read, Unread Emails](https://www.youtube.com/watch?v=nwzv0GKl9Gk&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=27)
-
-**glens**
-* [G Lens guide](https://www.theedublogger.com/google-lens-guide/)
-
-**G Scholar**
-* TBD
-
-**G Photos**
-* TBD
-
-**G Analytics**
-* TBD
-
-**gsuite**
-* [G guide](https://www.googleguide.com/category/query-input/)
-* ict guide : https://sites.google.com/moe.edu.sg/ictguide/video-conference
-* [digital literacy searching online](https://www.youtube.com/watch?v=p0hxhy2C6l0&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=9)
-* [Top Of Google - Search Snippet - YouTube](https://www.youtube.com/watch?v=9MVhnoRnFoE&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=26)
-* [What teachers don't want students to know](https://www.youtube.com/watch?v=wVc_ilWtA6g&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=32)
-* [Google Search Results Page - Overview - YouTube](https://www.youtube.com/watch?v=6WXz1UyS5Uc&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=10)
-* [complete productivity system with google - YouTube](https://www.youtube.com/watch?v=I4nd57FQmWE&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=13)
-* [800+ g svc](https://www.youtube.com/watch?v=WRepw27cUMc&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=23)
-
-**G Keep**
-* [Google Keep 101 - YouTube](https://www.youtube.com/watch?v=r7wV16oWE0g&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=17)
-* [amazing app](https://www.youtube.com/shorts/bEKPDXpyRnc)
-* [yt gk pro](https://youtu.be/-HZkasJcbGA?si=V39ES1cwVJaZzNbh)
-* [yt gk and gdocs](https://www.youtube.com/watch?v=1evS6m-W5ow&list=WL&index=4)
-* [yt extract img from keep](https://www.youtube.com/watch?v=5DmTR1SCGgc&list=WL&index=15&pp=gAQBiAQB)
-* [gk research](https://youtu.be/rnxoPlhdnYs?si=MraYctsXLQAyb_w1)
-* [gk Tutorial](https://www.androidcentral.com/google-keep)
-* [5ways](https://www.zdnet.com/home-and-office/work-life/5-ways-i-use-google-keep-for-maximum-productivity-and-you-should-too/#google_vignette)
-* [Google Keep: Everything you need to know | Android Central](https://www.androidcentral.com/google-keep)
-* [Simple org system Google Keep & Calendar](https://www.youtube.com/watch?v=64n-9s5GZPM&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=25)
-* [How to grab image text with Google Keep - YouTube](https://www.youtube.com/watch?v=fDav0_SJ588&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=3)
-* [Google Keep: Upgrade Your To-Do List! - YouTube](https://www.youtube.com/watch?v=PKMSbBymA70&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=2)
-
+**Chrome**
+* Address Bar : Use Icons on Menu Bar for copy paste
+* Manage Search Engine(Custom Search Engine) to launch web apps ( yt , gc ,gn), Edit Search Engines
+* Back , Forward, Reload , Save as, Print , Cast , Translate to English , View Page source (Ctrl U) , Inspect
+* Undo , Cut , Copy, Copy URL ,  Paste , Paste and Go , Delete , Select All
+* Open link (New tab , new win , incog win) , Send link to devices , Save link as , Copy link address , Inspect (CSI)
+* Open image in new tab , Save image as , Copy img , Copy img address , Create QR Code , search img w/ G Lens
+* Tabs : New Tab , New Window , Incognito Window  |  Pin , Mute Site , Close , Close tabs to right
+* Right Click Tab ( New Tab to the right , Add tab to reading list , new group , Move tab to new window )
+* Duplicate ( Alt+D Alt+Enter  in quick succession )
+* Right click : Copy link to highlight , Search Google for , print , inspect
+* Open All (NW,IW) , Rename , Add Page , Add Folder ,Bookmark Manager , Show Apps , Show Bookmarks bar
+* Find , Zoom :Make Text Smaller , larger , Full Screen
+* History , Downloads , Cast  : Looking for devices
+* Bookmarks ( Bookmark Current Tab , All Tabs , Show Bookmarks bar )
+* Bookmark Manager( Import Bookmarks and Settings , Mobile bookmarks)
+* More Tools / Print /Print custom Pages( HL imp points , print custom range , jpg to pdf , merge pdf )
+* Settings : Autofill , Privacy & Security , Appearance ,SearchEngine , Default Browser , OnStartup, Lang, Downloads
+* Settings : Accessibility , System , Reset and Clean-up , WebStore , Extensions
+* Guest profile , password Manager , Dev tools
+  
 **G News**
 * save Stories , how news works , personalize news , 
 * change settings , notifications
@@ -160,7 +97,6 @@
 * indoor maps , air quality , recommendations , show routes , req ride
 * shortcut to freq visited places , train and bus departures
 
-## youtube
 **Youtube menu**
 - YT ads - Use brave browser
 - Explore menu (Gaming, News, Music, Movies, Fashion & Beauty, Learning, Sports, Podcasts, and Shopping)
@@ -210,7 +146,152 @@
 * Prison ,  Romance  ,,  Science  ,  Superhero 
 * Thriller  ,  nonfiction  , Comedy  ,  Crime Drama  , Dark Fantasy 
 
-**links**
+
+ 
+## Browser
+**MS edge**
+* [9 Microsoft Edge Features Chrome Doesn't Have (...yet) - YouTube](https://www.youtube.com/watch?v=-O-10X-HFB0)
+* [Highlight Text In PDF Document Using Edge Browser In Windows 10 - YouTube](https://www.youtube.com/watch?v=u1-wYKnhoNA)
+* [Notepad Tutorial - Lesson 9 - Search with Bing - YouTube](https://www.youtube.com/watch?v=CjYpiEY1IwU)
+* CSIS 103 Module1 Web Browser Basics : https://youtu.be/fa8ECrUp9nk?si=wtaeKfkVcRmRpRtB
+
+**Firefox**
+* [Basic browsing | Firefox Help](https://support.mozilla.org/en-US/products/firefox/basic-browsing-firefox)
+* [Firefox: Browsing with Firefox](https://edu.gcfglobal.org/en/firefox/browsing-with-firefox/1/)
+* [How to Use Firefox](https://www.youtube.com/watch?v=xeFhzM8lepA&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=24)
+* [Firefox Tips: Screenshots](https://www.youtube.com/watch?v=-Rv5MKSBNUM&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=4)
+* [ff contextmenu](https://www.youtube.com/watch?v=zcoFOk7vRrE&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=14&pp=gAQBiAQB)
+* [ff search bar](https://www.youtube.com/watch?v=3vgza48s5Xw&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=13&pp=gAQBiAQB)
+* [Firefox Quick Search ](https://www.youtube.com/watch?v=pmtRBE5iFzY&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=8)
+* [How to search IMDB, Wikipedia from the address bar](https://support.mozilla.org/en-US/kb/how-search-from-address-bar)
+* [FF Search keyword](https://support.mozilla.org/en-US/kb/how-search-from-address-bar)
+* [Search Archives - The Den | The Den](https://blog.mozilla.org/theden/tag/search/)
+* [yt vivaldi multiple charts](https://www.youtube.com/watch?v=0r2xNBij0aM&list=WL&index=20)
+
+**Chrome**
+bookmarks
+* [yt export bkmrk txt](https://www.youtube.com/watch?v=pAB0sDpL-ls&list=WL&index=18)
+* [yt export bkmrk gmail](https://www.youtube.com/watch?v=yLJTARAfN1o&list=WL&index=18&pp=gAQBiAQB)
+* [yt export bookmarks](https://www.youtube.com/watch?v=rhdNwFPRsC8&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=3&pp=gAQBiAQB)
+
+right click
+* [fast right click search in Google - YouTube](https://www.youtube.com/watch?v=IbIAvgIfm0I&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=4)
+* [yt ContextMenuSearch](https://youtu.be/Phr5sxyjj6k?si=AKudrx9H4gZee6jh)
+* [yt right click](https://www.youtube.com/watch?v=pZzkAVGTT50&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=27&pp=gAQBiAQB)
+* [11ways rt click Chrome](https://www.webnots.com/11-ways-to-use-right-click-context-menu-in-google-chrome/)
+
+basics
+* [copy and paste content webpage](https://www.youtube.com/watch?v=eit7LZfWmGU)
+* [search inside page](https://www.youtube.com/watch?v=1amad7zdQBw)
+* [Tab Tips for Chrome - YouTube](https://www.youtube.com/watch?v=wqh42oPHnOY&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=3)
+* [Tips to navigate web pages efficiently with keyboard](https://www.youtube.com/watch?v=neQTWdPVxh0&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=6)
+* [Browser Basics - YouTube](https://www.youtube.com/watch?v=FxirRVJWUTs&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=7)
+* [Chrome: Browsing in Chrome - YouTube](https://www.youtube.com/watch?v=ntmhwxCqHzI&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=8)
+* [Google Chrome Tutorial](https://www.youtube.com/watch?v=dZBZaBcaUcg&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=18)
+* [Become Chrome Omnibox Power User - YouTube](https://www.youtube.com/watch?v=9gz0kfjDZDo&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=4)
+* [Become an Chrome Omnibox Power User - YouTube](https://www.youtube.com/watch?v=9gz0kfjDZDo&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=9)
+* [Manage Chrome Bookmarks Like a Pro ](https://www.youtube.com/watch?v=llqUNWs3qz8&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=13)
+
+tips
+* [18 Essential Chrome Shortcuts YouTube](https://www.youtube.com/watch?v=3Ky2qWDSflo&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=19)
+* [5 great tips on Google Chrome](https://www.youtube.com/watch?v=wnuaZIlTwWk&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=27)
+* [Top 8 Productivity Tips for Google Chrome - YouTube](https://www.youtube.com/watch?v=KXY-2fIAksY&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=27)
+* [Download all images YouTube](https://www.youtube.com/watch?v=Z-s0zBp1szc&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=30)
+* [Downloading all images from google image search](https://www.youtube.com/watch?v=fRmGqxOEBi4&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=17)
+* [Productivity Tips for Google Chrome - YouTube](https://www.youtube.com/watch?v=ytT8GU1ywgE&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=18)
+
+link
+* [How to open link in new tab with single click](https://www.youtube.com/watch?v=9joTzG8xIAw&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=22)
+* [yt Open Link w Control Click](https://www.youtube.com/watch?v=LXAZRxQXpL0)
+* [yt Linkclump](https://www.youtube.com/watch?v=ahj9xuBHGTo&pp=ygUUbGlua2NsdW1wIGhvdyB0byB1c2U%3D)
+v=LlVb3ngFouo&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=17)
+* [How to open multiple links with LinkClump and Multi Links | video tutorial by TechyV.com - YouTube](https://www.youtube.com/watch?v=JHsDPRpV5xw&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=6)
+* [LinkClump uses - YouTube](https://www.youtube.com/watch?v=6Di77JpxVa0&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=7)
+* [Link Clump Copy Links From Webpages into Spreadsheet - YouTube](https://www.youtube.com/watch?v=6_XiUMpFdj8&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=20)
+
+Chrome Dev
+* [Google Chrome Dev Tools: 12 Tricks](https://www.youtube.com/watch?v=nOEw9iiopwI&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=13)
+
+Chrome Extensions
+* Video Adblocker , Adblock Plus , AutoCopy , Copy All URLs , Copy Tables , GetThemAll 
+* Awesome screenshot  ,  ShortKeys , Print Friendly & PDF  , R-Fiddle
+* [seo ext1](https://www.blurbpoint.com/seo-chrome-extensions/)
+* [Seo ext2](https://ahrefs.com/blog/seo-chrome-extensions/)
+* [Must Have Chrome Extensions for Every Blogger](https://www.youtube.com/watch?v=flTU5qck6jA&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=7)
+
+
+
+
+**g news**
+* [yt gnews adv](https://youtu.be/FtSeAwRhPKs?si=AKuo_GFeXaXGPivt)
+
+**G Keep**
+* [Google Keep 101 - YouTube](https://www.youtube.com/watch?v=r7wV16oWE0g&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=17)
+* [amazing app](https://www.youtube.com/shorts/bEKPDXpyRnc)
+* [yt gk pro](https://youtu.be/-HZkasJcbGA?si=V39ES1cwVJaZzNbh)
+* [yt gk and gdocs](https://www.youtube.com/watch?v=1evS6m-W5ow&list=WL&index=4)
+* [yt extract img from keep](https://www.youtube.com/watch?v=5DmTR1SCGgc&list=WL&index=15&pp=gAQBiAQB)
+* [gk research](https://youtu.be/rnxoPlhdnYs?si=MraYctsXLQAyb_w1)
+* [gk Tutorial](https://www.androidcentral.com/google-keep)
+* [5ways](https://www.zdnet.com/home-and-office/work-life/5-ways-i-use-google-keep-for-maximum-productivity-and-you-should-too/#google_vignette)
+* [Google Keep: Everything you need to know | Android Central](https://www.androidcentral.com/google-keep)
+* [Simple org system Google Keep & Calendar](https://www.youtube.com/watch?v=64n-9s5GZPM&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=25)
+* [How to grab image text with Google Keep - YouTube](https://www.youtube.com/watch?v=fDav0_SJ588&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=3)
+* [Google Keep: Upgrade Your To-Do List! - YouTube](https://www.youtube.com/watch?v=PKMSbBymA70&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=2)
+
+
+**G Sheet**
+* [basic g sheet](https://www.youtube.com/watch?v=_UWPaPer1MY&list=WL&index=10&pp=gAQBiAQB)
+* [adv g sheet](https://www.youtube.com/watch?v=t0B0Tgz0b-0&list=WL&index=9&pp=gAQBiAQB)
+* [Google Sheets - Import Data from Another Sheet](https://www.youtube.com/watch?v=HnIqhnl1F2A)
+* g sheets : https://youtube.com/playlist?list=PL0ydrIIRidUJ-cnjJQzvKBAwhCa0rOubz&si=cUg3MSNSsPeEgQYc
+* tableconvert : https://youtube.com/playlist?list=PLjR-YgvYrHD3Mm4Y1WtwxIhmYWVC9zuvI&si=ZRj4mHvqTNdvckvi
+
+**gdocs**
+* [Google Docs: Voice Typing - YouTube](https://www.youtube.com/watch?v=LIz9UWi5z4w)
+* [Google Docs - YouTube](https://www.youtube.com/watch?v=kLLWdvEl77Q&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=22)
+* [How to Make a Newspaper on Google Docs](https://www.youtube.com/watch?v=P0sAnr2GaY8&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=5)
+
+**gdrive**
+* [yt GDrive Tutorial](https://www.youtube.com/watch?v=G5B6ksOKlYI&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=12)
+
+**Gmail**
+* [How to Save Time with Gmail Templates (Canned Responses) - YouTube](https://www.youtube.com/watch?v=W-eg49KPFIk)
+* [Gmail: Managing Email - YouTube](https://www.youtube.com/watch?v=qTeZlPja5N4&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=21)
+* [How to Delete All Read, Unread Emails](https://www.youtube.com/watch?v=nwzv0GKl9Gk&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=27)
+
+**gmaps**
+* [Google Maps Tips and Tricks](https://www.youtube.com/watch?v=CU4dBJk97AI&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=3)
+
+**gbooks**
+* [yt G Books](https://www.youtube.com/watch?v=0wy8fbawzsw&list=WL&index=10)
+* [yt g playbooks](https://www.youtube.com/watch?v=W84ZD31GV6I&list=WL&index=3&pp=gAQBiAQB)
+
+**glens**
+* [G Lens guide](https://www.theedublogger.com/google-lens-guide/)
+
+**G Scholar**
+* TBD
+
+**G Photos**
+* TBD
+
+**G Analytics**
+* TBD
+
+**gsuite**
+* [G guide](https://www.googleguide.com/category/query-input/)
+* ict guide : https://sites.google.com/moe.edu.sg/ictguide/video-conference
+* [digital literacy searching online](https://www.youtube.com/watch?v=p0hxhy2C6l0&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=9)
+* [Top Of Google - Search Snippet - YouTube](https://www.youtube.com/watch?v=9MVhnoRnFoE&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=26)
+* [What teachers don't want students to know](https://www.youtube.com/watch?v=wVc_ilWtA6g&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=32)
+* [Google Search Results Page - Overview - YouTube](https://www.youtube.com/watch?v=6WXz1UyS5Uc&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=10)
+* [complete productivity system with google - YouTube](https://www.youtube.com/watch?v=I4nd57FQmWE&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=13)
+* [800+ g svc](https://www.youtube.com/watch?v=WRepw27cUMc&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=23)
+
+
+
+## youtube
 * [trg guide](https://www.slideshare.net/George406752/youtube-training-guidepdf)
 * [10 Simple Tricks search]https://www.youtube.com/watch?v=sCddrLwH-fc&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=4)
 * [5 Tips to Choose Best YouTube Niche](https://vidiq.com/blog/post/youtube-niche/)
