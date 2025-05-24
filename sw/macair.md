@@ -6,6 +6,7 @@ basics
 
 new to mac
 * [new to mac](https://www.youtube.com/watch?v=3jeeFc2Vo1U&list=WL&index=2)
+* macbook prodvty : https://www.youtube.com/watch?v=7CXmAzZWGyg&list=WL&index=6&pp=gAQBiAQB
 * [yt new to mac](https://www.youtube.com/watch?v=3jeeFc2Vo1U)
 * [How To Scroll On a Mac - YouTube](https://www.youtube.com/watch?v=jQSaMw3S9uA&list=PLmMyXRtEtJEbe9jHvxCL08o6pHnKWJRQ3&index=6)
 
