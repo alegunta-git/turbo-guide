@@ -1,151 +1,110 @@
-**Chrome**
-* Address Bar : Use Icons on Menu Bar for copy paste
-* Manage Search Engine(Custom Search Engine) to launch web apps ( yt , gc ,gn), Edit Search Engines
-* Back , Forward, Reload , Save as, Print , Cast , Translate to English , View Page source (Ctrl U) , Inspect
-* Undo , Cut , Copy, Copy URL ,  Paste , Paste and Go , Delete , Select All
-* Open link (New tab , new win , incog win) , Send link to devices , Save link as , Copy link address , Inspect (CSI)
-* Open image in new tab , Save image as , Copy img , Copy img address , Create QR Code , search img w/ G Lens
-* Tabs : New Tab , New Window , Incognito Window  |  Pin , Mute Site , Close , Close tabs to right
-* Right Click Tab ( New Tab to the right , Add tab to reading list , new group , Move tab to new window )
-* Duplicate ( Alt+D Alt+Enter  in quick succession )
-* Right click : Copy link to highlight , Search Google for , print , inspect
-* Open All (NW,IW) , Rename , Add Page , Add Folder ,Bookmark Manager , Show Apps , Show Bookmarks bar
-* Find , Zoom :Make Text Smaller , larger , Full Screen
-* History , Downloads , Cast  : Looking for devices
-* Bookmarks ( Bookmark Current Tab , All Tabs , Show Bookmarks bar )
-* Bookmark Manager( Import Bookmarks and Settings , Mobile bookmarks)
-* More Tools / Print /Print custom Pages( HL imp points , print custom range , jpg to pdf , merge pdf )
-* Settings : Autofill , Privacy & Security , Appearance ,SearchEngine , Default Browser , OnStartup, Lang, Downloads
-* Settings : Accessibility , System , Reset and Clean-up , WebStore , Extensions
-* Guest profile , password Manager , Dev tools
-  
-**G News**
-* save Stories , how news works , personalize news , 
-* change settings , notifications
-* local news , news widget , digital subscriptions np/content,
+## Chatgpt
+- [chatgpt](#Chatgpt)
+- [Google search](#GoogleSearch)
+* [dev chatgpt](https://www.youtube.com/watch?v=sTeoEFzVNSc)
+* [yt pl chatgpt](https://www.youtube.com/playlist?list=PL2Jn4_RetiGQ7iFwgWivNg8XIpNiX1ScO)
+* AI Utils : Remove.bg , 12ft.io , Otter.ai(transcribe) , Hemingwayapp.com ( editor) , QuillBot.com (AI vs human text) ,
+* Overleaf : Cv prep | Quilbot : Paraphrase  | Insta : Search with hash | Pint : Search ai tools
+* [best ai tools](https://youtu.be/eFy8tepEByw?si=U13WBIEPfgUUyNdy)
+* [use chatgpt effectively](https://www.youtube.com/watch?v=IKkwyPQwdBg&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=31&pp=gAQBiAQB)
+* [use chatgpt learn](https://www.youtube.com/watch?v=MnDudvCyWpc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=21&pp=gAQBiAQB)
+* [reqs template gpt](https://www.youtube.com/watch?v=cDEgHCWhP-k&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=39&pp=gAQBiAQB)
 
-**G Finance**
-* create portfolio , custom watch list , rename/delete , playground p/f
-* 2 step verification , currency , add shares/mf to p/f , add index , remove investment
-* see p/f balance , browse news p/f , view returns , highlights , compare p/f to assets
 
-**G Keep (notes)**
-* c compose note , i compose list
-* Chrome extn ,settings , create and edit note , make list , take img notes , save a drawing
-* organize notes : label , color , pin notes , archive notes , version history , set up reminders
-* search notes , share notes , lists drawings , send keep note to another app , export data
+## GoogleSearch
+**g search tips**
+* [Google Guide Cheat Sheet](https://www.googleguide.com/print/adv_op_ref.pdf)
+* [TipSheet 2013](https://searchresearch1.blogspot.com/2013/06/tipsheet-for-ire-2013-ire13.html)
+* [Tipsheet 2017](https://fia.umd.edu/media/searchworkshop/search-workshop-tipsheet-april-2016.pdf)
+* [101 blog titles](https://seo.co/blog-post-title-ideas/)
+* [10000 search oprs](https://www.optimizesmart.com/10000-search-engine-queries-for-your-link-building-campaign/)
+* [popular keywords](https://www.wordstream.com/popular-keywords)
+* [gdorks](https://exposingtheinvisible.org/en/guides/google-dorking/)
+* [GCF G search](https://edu.gcfglobal.org/en/searchbetter/google-search-tips/1/#)
+* [Use These 33 Google Search Tricks to Find Exactly What You're Looking For](https://zapier.com/blog/advanced-google-search-tricks/)
 
-**G Calendar**
-* New calendar , View day/week/month , 
-* Print cal ,Search cal , keyboard sc , gc offline
-* Share cal , subscribe , transfer events , see availability , 
-* switch accounts , color labels track entries
-* create events gc/gm , respond event invitations , manage invitations , del event
-* add attachments , rooms , video conf , 
-* create appointment schedule , email verification appt
-* gcal appointment slots , event privacy settings , 
-* cal settings , gcal notification , working hours
-* gcl in diff time zone , lang setting , screen reader , how spend time mtg
-* sync apple cal , import events to gcal , gprd side/side , repeating tasks
+**ddg bangs tutorial**
+* [google bang](https://jerrynsh.com/how-to-google-with-a-bang/)
+* [ddb Bang lite](https://duckduckgo.com/bang_lite.html)
+* [ddg guide](https://brettterpstra.com/2019/03/07/the-ultimate-guide-to-duckduckgo/)
+* [I Stopped Using DuckDuckGo. But, I Can't Live Without the Bangs](https://www.youtube.com/watch?v=gthBmRxDFlo&list=WL&index=23)
+* [12 Things DuckDuckGo Can Do That Google Can't](https://www.gadgets360.com/internet/features/12-things-duckduckgo-can-do-that-google-cant-596526)
+* [20 DuckDuckGo Bangs to Improve Your DuckDuckGo Search Experience - TechPP](https://techpp.com/2021/12/07/best-duckduckgo-bangs/)
+* [ddg Tips, Tricks & Hacks! - YouTube](https://www.youtube.com/watch?v=lG02jB01KIE&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=19)
+* [DuckDuckGo Tips Hindi - YouTube](https://www.youtube.com/watch?v=fORncLOJY3A&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=21)
+* [DuckDuckGo Instant Answer IT Tools](https://www.youtube.com/watch?v=Sk1NCCMxvys&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=15)
 
-**G Drive(Storage)**
-* Ctrl + C, Ctrl + Shift + V move files
-* open files or folders in a new tab using Ctrl+Enter, 
-* so that you can easily view multiple files at once
-* o  open file | n rename , c  create menu | shift + p presentation | shift + f   new folder
-* GD files offline , buy more storage , manage files , find/recover file , 
-* accessibility , dark theme
-* drive toolbar buttons , drive desktop , upload files and folders , download file , view and open files
-* store and play video , save web content , convert pdf and photos to text , fill pdf forms
-* find file , org files , delete and restore files , notifications , shortcut , move files , labels to files
-* share files , limit sharing , transfer ownership , share docs visitors , add photos gd to g photos , duet ai , workspace labs
+**Custom Search Engine**
+* w (wikipedia) firefly ( add w as keyword to search)
+* [Search from Browser](https://en.wikipedia.org/wiki/Help:Searching_from_a_web_browser)
+* [CSE Wiki string](https://www.quora.com/How-can-I-make-Chrome-search-Wikipedia-for-X-when-I-type-wp-X-into-the-location-bar)
+* [CSE Tips](https://www.androidpolice.com/2021/07/10/the-ultimate-guide-to-custom-search-engines-on-chrome/)
+* [CSE Marketing](https://zapier.com/blog/best-chrome-setup-marketers/#custom-search-engines)
 
-**GMail**
-* s star msg , # del select mesg , c compose msg , l label msg, g + i    inbox  ,   g + s   starred
-* sign in , security , privacy , username , read em , org em , find em , fwd em
-* contact info , chat msg , export data , gm settings , signature , profile pic
-* vacation reply , offline , labels to org em , layout , accessibility , events
-* write em , attachments , img , send bulk em, smart compose , read receipt , branded em
-* pin conversation , mark msg read , mute notification , spaces , duet ai
+**Powersearch**
+* [Power Search](https://www.amttraining.com/knowledgebank/productivity-enhancers/power-searching-with-google/)
+* [Power Searching with Google - Course](https://coursebuilder.withgoogle.com/sample/course?use_last_location=true)
+* [How Autocomplete works on Google Search - YouTube](https://www.youtube.com/watch?v=us9tUY_yN7Y&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=12)
+* [Use Google to Find Anything](https://www.youtube.com/watch?v=bFANqJb7XGo&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=20)
+* [How to search smartly at Google](https://www.youtube.com/watch?v=2ZV1S-zNqQ8&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=10)
+* ["Google It" like a Senior SW Engr](https://www.youtube.com/watch?v=cEBkvm0-rg0&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=21)
+* [Google Like A Pro: 10 Tips](https://www.youtube.com/watch?v=233YZ6Fh1v4&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=22)
+* [Google Hacking - Hidden Google Tricks - YouTube](https://www.youtube.com/watch?v=Ft5gND96EBk&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=16)
+* [Google Search Like a Hacker [Tutorial] - YouTube](https://www.youtube.com/watch?v=z8_qz938wFU&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=24)
 
-**G Docs**
-* File : New , open , make a copy , share , email , download , rename , move to trash , version , offline , details , page setup , print
-* Edit : Undo , redo , cut , copy , paste , paste w/o format , select all , delete , find and replace
-* View : mode , show print layout , ruler , outline , eq toolbar , non print chars
-* Insert : image , table , drawing , chart , hline , emoji , smart chips , dropdown , footnote , building blocks 
-* dropdown , footnote , watermark , headers and footers , page no's , break , link , comment , bookmark , toc
-* Format : text , para styles , align and indent , spacing , cols , bullets and numbering , headers and footers 
-* page nos , page orientation ,clear formatting , borders and lines
-* Tools : spelling , word count , review edits , cmp docs , citations , line no , explore , linked obj 
-* dictionary , translate doc , voice typing, notification , preference, accessibility
-* Extensions : Add on , app script
-* Help : search menus , help , training , updates , privacy policy , terms of svc , kb sc
+**SERP**
+* [SERP Features](https://www.sistrix.com/ask-sistrix/google-index-google-bot-crawler/google-serp-features-result-types-in-the-search-results/)
+* [serp2](https://www.redantsolutions.com/resources/serp-features-guide/)
+* [What is the Google SERP? Rank High on The Search Engine Results Page](https://ignitevisibility.com/serp/)
+* [overview](https://www.searchenginejournal.com/serp-search-engine-results-page-features-guide/377094/#close)
+* [Guide to Google’s Search Engine Results Page (SERP) for 2022](https://www.oberlo.in/blog/serp-google-search-engine-results)
 
-**G Photos**
-* Search by people , places , HDR , default gallery , featured memories
-* Print Store : Photo books , Photo/Canvas prints , pmt info , transfer photos (gd)
-* Share photos & videos , Stop sharing an album , Show photos TV(Chromecast) , Label face group
-* edit photos and videos , discover creations , collages , backup photos (Storage)
-* edit photo albums , suggestion cards , archive , info surroundings , download photos
+**Search Operator**
+* [What are Search Operators? List Of Major Search Operators - Moz](https://moz.com/learn/seo/search-operators)
+* [google-advanced-search-operators](https://www.wtmdigital.com/wp-content/uploads/2014/10/google-advanced-search-operators.pdf)
+* [Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)
+* [Mastering Google Search Operators in 67 Easy Steps - Moz](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
+* [Top Google Query Operators | F5 Buddy](https://www.f5buddy.com/top-google-query-operators-that-every-seo-expert-should-know/)
+* [The Most Useful Google Search Operators for SEO | Mangools](https://mangools.com/blog/google-advanced-search-operators/amp/)
+* [G Opr1](https://seosandwitch.com/google-search-operators/)
+* [G Opr2 Moz](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
+* [35 opr](https://www.semrush.com/blog/google-search-operators/)
+* [50+ YouTube Search Operators & YouTube Search Tips & Tricks](https://seosly.com/blog/youtube-search-operators/)
+* [60+ Google Search Operators, Tips, Tricks, and Commands (NEW)](https://seosherpa.com/search-operators/)
+* [g adv opr](https://mangools.com/blog/google-advanced-search-operators/amp/)
+* [seosherpa](https://seosherpa.com/search-operators/)
+* [ahrefs seo](https://ahrefs.com/blog/google-advanced-search-operators/)
+* [Link assistant](https://www.link-assistant.com/news/google-search-operators.html)
 
-**G maps**
-* Saved , nearby , visited , lists , search (map) ,navigation , filter search results (price , hours , info)
-* Find & book online services (online classes/estimates/appointments/yoga classes) ,
-* hide personal content , see nearby events , Create a list of places , offline maps
-* Search on Google Maps built into your car (voice), street view , edit place , review , photo , dish
-* scale bar , measure distance , use layers to find places , traffic , terrain , biking
-* indoor maps , air quality , recommendations , show routes , req ride
-* shortcut to freq visited places , train and bus departures
+**seo**
+* [seo tutorial](https://www.f5buddy.com/top-google-query-operators-that-every-seo-expert-should-know/)
+* [seo mango](https://mangools.com/blog/seopedia/)
+* [Swati M Lathia](https://swatilathia.wordpress.com/)
+* [10 queries](https://learn.g2.com/types-of-search-queries)
+* [alt search engine](https://kinsta.com/blog/alternative-search-engines/)
+* [22 places content](https://www.searchenginejournal.com/content-marketing/places-to-share/)
+* [SEOpedia by Mangools | Ultimate SEO glossary](https://mangools.com/blog/seopedia/)
+* [The MARION Digital Marketing Blog - MARION Marketing 2](https://www.marion.com/marion-blog/page/2/)
+* [21 Alternative Search Engines To Use in 2022](https://kinsta.com/blog/alternative-search-engines/)
+* [50+ Search Engines to Use as Google Alternatives in 2023](https://www.stanventures.com/blog/top-search-engines-list/)
+* [Top 46 SEO Interview Questions and Answers (2022)](https://career.guru99.com/top-35-seo-interview-questions/)
 
-**Youtube menu**
-- YT ads - Use brave browser
-- Explore menu (Gaming, News, Music, Movies, Fashion & Beauty, Learning, Sports, Podcasts, and Shopping)
-- trending , adv search (filters) , official cards , search glass , mic , explore yt ,
-- Watch Videos ( find videos , change settings , diff devices )
-- comment/subscribe , save/share playlist , purchase movies/tv shows) ,
-- hashtags , watch later , captions ,slider
-- playlists (long/short create , add/remove videos , save , edit , explore you tab) ,
-- play/pause , next , prev , mute/unmute , vol slider , cc ,annotations ,
-- playback speed , quality , theater mode , full screen
-- dark theme , pic in pic , mini player , pinch to zoom , control video volume
-- chapter/grabber , location setting , siri
-- Accounts settings , supervised experience , yt premium ,
-- billing , policies , ads monetization , loop videos
-- Channel ( upload/edit videos , shorts , yt create , manage channel
-- analytics , subtitles , captions , live stream
-
-**YT Topics**
-* Beauty ,  Fashion & Style Tips  ,  Financial independence
-* Fitness Tips ,  H2 create Videos ,  Kitchen Hacks  ,  Life Hacks 
-* Music instrument   Makeup ,  Pets&animals 
-* Seminars ,  Sports  ,  Stocks  ,   Top X Lists ,  Travel Vlogging
-* Dramedy , Food & Restaurant  , Game Shows  , Gardening 
-* Health , Helpful Software & Apps  , Hindi cinema  Indian soap operas 
-* Lifestyle Adv  , Motivational & Inspirational Videos  , Music 
-* Mutual funds ,  Pakistani dramas , Recently uploaded  , Review 
-* Sitcomes , Tech & Gadget  , Trailer and Movie Reactions 
-* Trending , Web series   , World or Local News 
-
-**Youtube Niche Ideas**
-* City Tours  , Cooking Videos  , Comedy , DIY Crafts  , Dance tutorials
-* Digital Marketing & Blogging  , Educational channel  , Fashion & Style Tips 
-* Gaming Videos , Gardening Tips & Tricks , Haircare & Hairstyle Ideas 
-* Kitchen Hacks  , Music instrument tutorials   , Pets & animals 
-* Tech & Gadget Reviews  ,  Top X Lists  ,  Trailer and Movie Reactions 
-* Yoga , Car & bike News/Reviews Book Review  , Drawing & sketching tutorials 
-* Food & Restaurant Reviews , Helpful Software & Apps  , How to Create Videos 
-* Life Hacks , Makeup & Beauty Health & Fitness Tips  , 
-* Motivational & Inspirational Videos . Lifestyle Advice
-* Sports  , Travel Vlogging  , Unboxing   ,  Viral Challenges  , World or Local News 
-
-**Webseries**
-* Action ,  Adventure  ,  Animated  ,  Anthology  ,   Asian 
-* Childrens / Tweens ,   Crime , Horror fiction , Sci Fi 
-* Documentary ,  Drama ,  Dystopian  ,  Experimental Fantasy 
-* LGBT ,  Legal  ,  Literary  ,  Martial arts 
-* Prison ,  Romance  ,,  Science  ,  Superhero 
-* Thriller  ,  nonfiction  , Comedy  ,  Crime Drama  , Dark Fantasy 
-
+**Tips**
+* [100 Best YouTube Video Ideas](https://www.simplilearn.com/tutorials/social-media-marketing-tutorial/youtube-video-ideas)
+* [Most Visited Websites - Top Websites Ranking for October 2022 | Similarweb](https://www.similarweb.com/top-websites/)
+* [Tips Using Google Chrome's Omnibox - YouTube](https://www.youtube.com/watch?v=3z-0haPgtoo&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=15)
+* [How to make Google Chrome ](https://www.youtube.com/watch?v=C3V0_IAzUGs&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=18)
+* [Searching Google Scholar](https://www.youtube.com/watch?v=sdDEPdMkdo0&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=1)
+* [use Google Scholar to find Research Papers](https://www.youtube.com/watch?v=0Q8A-KnBdrk&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=24)
+* [Use Google as an Online Dictionary](https://www.youtube.com/watch?v=Ff8K2T8WhxM&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=16)
+* [How To Find Most Searched Keywords - YouTube](https://www.youtube.com/watch?v=dB6QJrZmV-I&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=23)
+* [Google Search Shortcuts - YouTube](https://www.youtube.com/watch?v=jiyBGmmoLMM&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=11)
+* [99% People Don't Know These 7 YouTube Search](https://www.youtube.com/watch?v=pOcIbSWec28&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=6)
+* [get business listed on Google Search](https://www.youtube.com/watch?v=muwk3gGqUZ4&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=15)
+* [Top 14 Google Search Tips](https://www.youtube.com/watch?v=DIuo_QL4sAQ&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=23)
+* [Google वर MCQ चे Answers](https://www.youtube.com/watch?v=nTGpmkAzGZ8&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=3)
+* [Search Better (2012): Google Search Tips](https://edu.gcfglobal.org/en/searchbetter/google-search-tips/1/)
+* [SearchReSearch](https://searchresearch1.blogspot.com/)
 
  
 ## Browser
@@ -218,8 +177,6 @@ Chrome Extensions
 * [seo ext1](https://www.blurbpoint.com/seo-chrome-extensions/)
 * [Seo ext2](https://ahrefs.com/blog/seo-chrome-extensions/)
 * [Must Have Chrome Extensions for Every Blogger](https://www.youtube.com/watch?v=flTU5qck6jA&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=7)
-
-
 
 
 **g news**
