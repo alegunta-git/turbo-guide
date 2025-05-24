@@ -1,3 +1,17 @@
+**G Search imp**
+* [yt websearch](https://www.youtube.com/watch?v=WtuAZHY1Pqo&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=12&pp=gAQBiAQB)
+* [yt g adv search](https://youtube.com/watch?v=JciRHpvtgK8&si=5QT2d6Xeqmr3RFS7)
+* [VA 10 google search hacks](https://www.youtube.com/watch?v=Bp1AdmiMHn4)
+* [yt gnews](https://www.youtube.com/watch?v=FtSeAwRhPKs&pp=ygUWZ29vZ2xlIGFkdmFuY2VkIHNlYXJjaA%3D%3D)
+* [use ggl](https://www.youtube.com/watch?v=bFANqJb7XGo&pp=ygUNZ29vZ2xlIHNlYXJjaA%3D%3D)
+* [g search reunion](https://youtu.be/gHGDN9-oFJE?si=Ddl0Rez84DM5OYNc)
+
+**ddg bangs**
+* [yt ddg bangs chrome](https://www.youtube.com/watch?v=CkpTB0ZGcy4&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=2&pp=gAQBiAQB)
+* [yt custom search engine](https://www.youtube.com/watch?v=BuiUp675j2M&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=16&pp=gAQBiAQB)
+
+
+
 ## Chatgpt
 - [chatgpt](#Chatgpt)
 - [Google search](#GoogleSearch)
