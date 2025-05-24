@@ -210,6 +210,12 @@ Chrome Extensions
 * [How to grab image text with Google Keep - YouTube](https://www.youtube.com/watch?v=fDav0_SJ588&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=3)
 * [Google Keep: Upgrade Your To-Do List! - YouTube](https://www.youtube.com/watch?v=PKMSbBymA70&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=2)
 
+gphotos
+* extract text : https://www.youtube.com/shorts/fKlWCUBomdk
+
+gmap
+* [gmap trick](https://www.youtube.com/watch?v=tlbsKEsYSWU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=22&pp=gAQBiAQB)
+
 
 **G Sheet**
 * [basic g sheet](https://www.youtube.com/watch?v=_UWPaPer1MY&list=WL&index=10&pp=gAQBiAQB)
