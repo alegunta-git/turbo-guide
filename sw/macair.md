@@ -1,4 +1,9 @@
 ## macair
+**Apple Things**
+* [culture code things](https://culturedcode.com/things/features/)
+* [Apple Things](https://www.youtube.com/watch?v=2R6o5t0VK_A&list=WL&index=3&pp=gAQBiAQB)
+
+
 **macmost**
 * [read web articles safari](https://www.youtube.com/watch?v=QiboqS86hQo&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=37&pp=gAQBiAQB)
 
