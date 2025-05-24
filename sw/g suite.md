@@ -10,6 +10,15 @@
 * [yt ddg bangs chrome](https://www.youtube.com/watch?v=CkpTB0ZGcy4&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=2&pp=gAQBiAQB)
 * [yt custom search engine](https://www.youtube.com/watch?v=BuiUp675j2M&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=16&pp=gAQBiAQB)
 
+**edge browser**
+* [How to Navigate USCutter's Website - YouTube](https://www.youtube.com/watch?v=Jv1CnqrZrdU&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=18)
+* pdf editing : https://www.youtube.com/watch?v=42tXxHrkgxE&list=WL&index=6&pp=gAQBiAQB
+* collections : https://www.youtube.com/watch?v=qd8uoezy27w&list=WL&index=7&pp=gAQBiAQB0gcJCYsJAYcqIYzv
+* debloat edge : https://www.youtube.com/watch?v=J4k6o-6PToQ&list=WL&index=4&pp=gAQBiAQB
+* [Samsung Internet Browser](https://www.youtube.com/watch?v=LyEyLPhsEf0&pp=ygUhc2Ftc3VuZyBpbnRlcm5ldCBicm93c2VyIHR1dG9yaWFs)
+* [firefox features](https://www.youtube.com/watch?v=HlHwB7KOTOc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=17&pp=gAQBiAQB)
+* [use yt](https://www.youtube.com/watch?v=tY28a5dmFL4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=20&pp=gAQBiAQB)
+* [Read Webpages](https://www.youtube.com/watch?v=Iln9oG8Rsig&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=6)
 
 
 ## Chatgpt
