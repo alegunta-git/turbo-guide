@@ -1,8 +1,30 @@
-## Win address bar
+**cmd**
+* [Laptop Touchpad TRICKS every user should know! [TOUCHPAD GESTURES] - YouTube](https://www.youtube.com/watch?v=d3Nh3fJZpy4&list=WL&index=33)
+* [Windows Explorer Address Bar Tricks](https://www.youtube.com/watch?v=POkWb83YnjM&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=2&t=1s)
+* change file extn : https://www.youtube.com/shorts/7nkRrbHRkrg
+* [g slide](https://www.youtube.com/watch?v=b_CsDAhdtpo&list=WL&index=6&pp=gAQBiAQB)
+* [How to make a timeline in powerpoint - YouTube](https://www.youtube.com/watch?v=fMC-Bn86Q4w&list=PLmMyXRtEtJEbAOUmcI4oSwy9OEKcaH7GC&index=4)
+* [How to use Eyedropper Tool in PowerPoint - YouTube](https://www.youtube.com/watch?v=N1alsSRGr58&list=PLmMyXRtEtJEbAOUmcI4oSwy9OEKcaH7GC&index=7)
 * [Navigating with Windows 7 Address Bar - YouTube](https://www.youtube.com/watch?v=0F9PDzYAtfs&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=4)
 * [Windows Explorer Address Bar Tricks You Probably Don't Know | Hindi - YouTube](https://www.youtube.com/watch?v=POkWb83YnjM&list=WL&index=48)
 * [yt Address bar](https://www.youtube.com/watch?v=POkWb83YnjM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=41&pp=gAQBiAQB)
 * [yt Address bar2](https://www.youtube.com/watch?v=0F9PDzYAtfs&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=36&pp=gAQBiAQB)
+
+
+**Images**
+- [How to Copy and Paste Pictures from Google](https://www.youtube.com/watch?v=Q9X0bZ76avQ&list=WL&index=10)
+- [How to quickly resize multiple images in Windows](https://www.youtube.com/watch?v=19GbI6oFrW0&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=3)
+- [How to merge multiple images (jpeg, png, gif) into one PDF file in Windows 10 - YouTube](https://www.youtube.com/watch?v=bBQe7cAkOfw)
+* [gcf image](https://edu.gcfglobal.org/en/imageediting101/)
+* [ms picture](https://freewindowsvistatutorials.com/workingWithPicturesInWindows7.php)
+* [Batch Rotate Photos with Actions](https://www.youtube.com/watch?v=tf80sF3_0L4&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=26)
+* [How to Use the Snipping Tool](https://www.howtogeek.com/207754/how-to-use-the-snipping-tool-in-windows-to-take-screenshots/)
+* [How to Screenshot on Windows 10](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
+* [How to Take a Screen Shot](https://www.youtube.com/watch?v=InW_AXV8Dc4&list=WL&index=22)
+* [Take a Screenshot of a Drop Down Menu](https://www.youtube.com/watch?v=qFa7Dpwm89M&list=WL&index=18)
+* [How to take Screenshot of Drop-Down Menu or Popup in Win 10](https://www.youtube.com/watch?v=pfCM45iXvaI&list=WL&index=24)
+* [How to Use Greenshot for Windows - YouTube](https://www.youtube.com/watch?v=j45VKCrNYBE)
+* [Use Greenshot for Taking Screenshots](https://www.youtube.com/watch?v=UdeYSC2ZZso&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=20)
 
 ## Folder
 * [Quickly create list of folder](https://www.youtube.com/watch?v=A9Z8AzSMAvs&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=15)
