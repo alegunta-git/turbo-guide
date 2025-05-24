@@ -42,5 +42,10 @@
 
 **projects**
 - py projects : https://www.youtube.com/watch?v=8ext9G7xspg&list=WL&index=25&pp=gAQBiAQB
-- macbook prodvty : https://www.youtube.com/watch?v=7CXmAzZWGyg&list=WL&index=6&pp=gAQBiAQB
+
+Sagar pl
+* [yt sagar pl](https://www.youtube.com/@Sagarclips/playlists)
+* [wunderlist use](https://www.youtube.com/watch?v=TGz67AMG9a8&list=WL&index=1&pp=gAQBiAQB)
+
+
 
