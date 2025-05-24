@@ -237,6 +237,14 @@ gmap
 * [Google Docs: Voice Typing - YouTube](https://www.youtube.com/watch?v=LIz9UWi5z4w)
 * [Google Docs - YouTube](https://www.youtube.com/watch?v=kLLWdvEl77Q&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=22)
 * [How to Make a Newspaper on Google Docs](https://www.youtube.com/watch?v=P0sAnr2GaY8&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=5)
+- Gdocs notion : https://youtu.be/Za81Z6eQ51I?si=jPryhTxnkOxn7hHR
+- track reading : https://www.youtube.com/shorts/H3f-HFmU_88
+- Add comments : https://youtu.be/7kMNAwJZKrc?si=Ii3wLHQO0_BDKTl0
+- checkbox g sheets : https://www.youtube.com/shorts/lRsOSob9HYQ
+- relace text word : https://www.youtube.com/watch?v=yV11BU7vLxo&list=WL&index=26&pp=gAQBiAQB
+- open multipe docs : https://www.youtube.com/watch?v=OApaYrB9wKM&list=WL&index=8&pp=gAQBiAQB
+- qtrly review : https://www.youtube.com/watch?v=Z_8aYbCx7zg&list=WL&index=12&t=55s&pp=gAQBiAQB
+- Gdocs translate: https://youtube.com/watch?v=1dDyPc0frw0&si=vLoIxWXiD3bLyUeZ
 
 **gdrive**
 * [yt GDrive Tutorial](https://www.youtube.com/watch?v=G5B6ksOKlYI&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=12)
