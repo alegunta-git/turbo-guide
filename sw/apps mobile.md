@@ -13,6 +13,30 @@ Youtube
 * [yt music](https://www.youtube.com/watch?v=CRJj3D_SAP0&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=18&pp=gAQBiAQB)
 
 
+**Todo List**
+* [5ways todo list](https://www.youtube.com/watch?v=ibGnjSKLqTc)
+* [5 tips productivity](https://www.youtube.com/shorts/H5OBxle5bjY)
+* pbm solving tips : https://www.youtube.com/playlist?list=PL9F789252CC28FB3A
+* [meal planning](https://www.youtube.com/watch?v=-fQ6mn-ABPQ&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=42&pp=gAQBiAQB)
+* [yt master checklist](https://youtu.be/lZIlwne9O8Y?si=iYf8jt9QJU_8jiAB)
+* [yt notion prj plan](https://www.youtube.com/watch?v=1bQFXC_isKU&list=WL&index=6)
+
+
+pdf/ebooks
+- all books gdrive : https://www.youtube.com/watch?v=sBO8jxf4GPM&list=WL&index=23&pp=gAQBiAQB
+- read ebooks tablet : https://www.youtube.com/watch?v=gRPa-n3MHNA&list=WL&index=22&pp=gAQBiAQB
+- [How to Save Individual Pages of a PDF ✂️ | TUTORIAL - YouTube](https://www.youtube.com/watch?v=Irc_620LcaE&list=WL&index=45)
+- [How To Convert JPG to PDF in Windows 10 - Save Image to PDF - YouTube](https://www.youtube.com/watch?v=8ZQGSVVasuE)
+- [How to merge multiple imagesinto one PDF file](https://www.youtube.com/watch?v=bBQe7cAkOfw&list=WL&index=7)
+- [Save as PDF](https://pdfpro.com/blog/guides/how-to-save-screenshot-as-pdf/)
+- [Remove printing lock in PDF files online & free](https://online2pdf.com/remove-pdf-printing-lock)
+- [How to Open & Read PDF File without any software or PDF Reader - YouTube](https://www.youtube.com/watch?v=Ceoc9hfRHdY&list=WL&index=11)
+- [PDF highlights extractor](https://www.pdfgear.com/pdf-editor-reader/extract-highlighted-text-from-pdf.htm)
+- [Extract Highlight Text](http://eric-blue.com/2010/12/17/learning-faster-automatically-extract-highlighted-text-from-pdf-documents/)
+- [change color](https://stackoverflow.com/questions/35628200/how-do-i-change-the-highlighter-color-in-adobe-acrobat-reader-dc-permanently)
+- extract bold text ; https://www.youtube.com/watch?v=lWjK_fMArDM&list=WL&index=27&pp=gAQBiAQB
+
+
 Indeed
 * [How to Use Indeed - 10 Ways to Use Indeed Like a Pro - YouTube](https://www.youtube.com/watch?v=1qzEIU8A-6A)
 * [Indeed resume search techniques - YouTube](https://www.youtube.com/watch?v=pQ7q8EvPxmY&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=27)
@@ -51,9 +75,8 @@ Goodreads
 * [How to Use Goodreads - YouTube](https://www.youtube.com/watch?v=1VdfaKBZ_Dw&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=2)
 
 Kindle
+* search kindle : https://www.youtube.com/watch?v=q6WJwFoGhHY&list=WL&index=5&pp=gAQBiAQB
 * [How To Get FREE KINDLE BOOKS On AMAZON Worth Reading - YouTube](https://www.youtube.com/watch?v=IAYxk9n7aIA&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=12)
-
-pdf ebooks
 * [Export text using free pdf](https://www.youtube.com/watch?v=r46uaho58DM&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=22)
 * [How to Download Paid Pdf Book Free [Updated-2022] - YouTube](https://www.youtube.com/watch?v=5wub9DARdqI&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=9)
 * [How to buy cheap BOOKS in India?📚[Best websites to buy books online💻] Wisewithgrace✨ - YouTube](https://www.youtube.com/watch?v=XcoTM9WKltg&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=17)
