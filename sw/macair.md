@@ -1,4 +1,8 @@
 ## macair
+**macmost**
+* [read web articles safari](https://www.youtube.com/watch?v=QiboqS86hQo&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=37&pp=gAQBiAQB)
+
+
 basics
 * [MacBook Air Essentials](https://help.apple.com/macbookair/early-2016/)
 * [The best Mac keyboard shortcuts for 2022 | Digital Trends](https://www.digitaltrends.com/computing/mac-keyboard-shortcuts/)
