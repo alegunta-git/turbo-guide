@@ -50,26 +50,6 @@
 * Concise email writing , Good external presenter , 
 * Start-up experience , Rapid learning capabilities , Self-directed
 
-## FAQ
-* [AWS Faq](https://aws.amazon.com/faqs/?nc1=f_dr)
-* [Amazon Help bill payment](https://www.amazon.in/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GXT32ZG3PV7UZCFA)
-* [yelp support topics](https://biz.yelp.com/support-center)
-
-## Amazon
-- [Amazon Letters](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx)
-- https://www.allthingsdistributed.com/2006/11/working_backwards.html
-- https://fibery.io/blog/product-management/amazon-6-pager/
-
-## blogs
-* [prd Vision](https://www.yegor256.com/2014/10/20/how-we-write-product-vision.html)
-* [blog Matrix Prioritization](https://www.mindtheproduct.com/enter-matrix-lean-prioritisation/)
-
-pdm book
-* use Freemind2, which is an open source mind map drawing software.
-* (*.mm) on GitHub here : https://github.com/shaileshbhat/PM-Mind-Maps
-
-
-
 ## PDM Tech
 **PDM Tech**
 * NP++(Text editor)
@@ -82,6 +62,10 @@ pdm book
 * Python code snippets
 * e-comm tools
 * G Analytics
+
+pdm book
+* use Freemind2, which is an open source mind map drawing software.
+* (*.mm) on GitHub here : https://github.com/shaileshbhat/PM-Mind-Maps
 
 ## Mobile
 * [IOS Patterns](https://developer.apple.com/design/human-interface-guidelines/)
@@ -123,37 +107,6 @@ yt api
 * [yt postman beginner](https://www.youtube.com/playlist?list=PLhW3qG5bs-L9P22XSnRe4suiWL4acXG-g)
 * [upi](https://www.youtube.com/watch?v=iI2NaN_QVTI&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=11&pp=gAQBiAQB)
 * [api pagination](https://www.youtube.com/watch?v=14K_a2kKTxU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=9&pp=gAQBiAQB)
-
-## HTTP
-* HTTP : https://www.cheat-sheets.org/saved-copy/http-response-codes-1.pdf
-* https://developer.mozilla.org/en-US/docs/Web/HTTP
-* https://www.javatpoint.com/http-request
-
-## JSON
-
-## REST API 
-* https://rapidapi.com/blog/api-glossary/
-* https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
-* [REST API tutorial](https://www.restapitutorial.com/)
-* [rest api sudoku](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
-* [How to Design Good API](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32713.pdf)
-
-
-## BE WhitePapers
-Amazon
-* [amazon whitepapers](https://aws.amazon.com/whitepapers/)
-
-Google whitepapers
-* [G Search Arch](https://www.spyfu.com/blog/how-do-search-engines-work/)
-* [G Mapreduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
-* [G BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) 
-* [G ProtocolBuffers](https://spline.de/talks/protobuf.pdf) 
-* [G sawzall](https://static.googleusercontent.com/media/research.google.com/en//archive/sawzall-sciprog.pdf)
-
-Facebook whitepapers
-* [FB Thrift](https://www.ijedr.org/papers/IJEDR2102030.pdf)
-* [FB Hive](https://web.cse.ohio-state.edu/~zhang.574/Hive-ICDE10.pdf)
-* [FB Tao](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 
 Misc
 * Software Abstractions MIT Press Daniel Jackson , Quora : Webnode , Livenode
@@ -331,93 +284,8 @@ Patterns
 * Tables:border,cell padg ,tr,td,th,colspan | Frames | Style(bgcolor,text color,fonts,size,txt algin)
 * Forms(Form,action,method,input,name,value,size,text area, select , options)
 
-## HTML
-* https://schoolsofweb.com/category/html-for-beginners/
-* https://htmlcheatsheet.com/
-
-## CSS
-* https://htmlcheatsheet.com/css/
-* [yt html css](https://www.youtube.com/watch?v=QMnv3QrjZoU&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=2&pp=gAQBiAQB)
-* [yt css derek](https://www.youtube.com/watch?v=I-rTKuEhrCM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=3&pp=gAQBiAQB)
-* [yt xpath locator](https://www.youtube.com/watch?v=9tnHnQ1-DY4&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=39&pp=gAQBiAQB)
-
-## Javascript
-* https://htmlcheatsheet.com/js/
-* [yt js derek](https://www.youtube.com/watch?v=fju9ii8YsGs&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=4&pp=gAQBiAQB)
-
-## Python code snippets
-* [pydocs](https://docs.python.org/3/tutorial/index.html)
-
-## Unix
-* http://www.catb.org/esr/writings/taoup/html/
-* [unix commands](https://www.stationx.net/unix-commands-cheat-sheet/)
-* [Regex](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
-
-## Cheatsheet
-* https://cheatography.com/
-* [Google Java](https://google.github.io/styleguide/javaguide.html)
-* [Google Test](https://testing.googleblog.com/search/label/TotT)
-* [Google dev SG](https://developers.google.com/style)
-
 ## tech writer
 * tw notebook : https://youtu.be/rpCt3YATueA?si=p4Fryj1ThGjSnoxa
 * tw portfolio : https://youtu.be/68ddwfpXHrE?si=byXgd5De3w7Dc367
-
-
-## Markdown
-* https://github.com/lifeparticle/Markdown-Cheatsheet
-* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-## Github
-* https://tylerthetech.com/github-search-tips/
-* https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts
-* download file : https://www.youtube.com/watch?v=BlEWmTzc8ws&list=WL&index=7&pp=gAQBiAQB
-* download : https://www.youtube.com/watch?v=GHUKKFEIQX4&list=WL&index=4&pp=gAQBiAQB
-* gh search : https://www.youtube.com/watch?v=qBTmygWBvIA
-* gh issue : https://www.youtube.com/shorts/SSza2dRsBok
-* org star repo as lists : https://www.youtube.com/shorts/8oTmaEa2y0c
-* add topic names : https://www.youtube.com/shorts/G5lXZLoetYA
-* gh repo as docs  https://www.youtube.com/shorts/HtyF4cBrfs8
-* slash commands : https://www.youtube.com/shorts/MF2GK3nWSMM
-* gh tables : https://www.youtube.com/shorts/2qUx0Ignn38
-* add folder : https://www.youtube.com/watch?v=4wo4csHfabw&list=WL&index=4&pp=gAQBiAQB
-* git data:https://www.youtube.com/watch?v=kAUS7YIi7Fk&list=WL&index=4&pp=gAQBiAQB
-* add gif to repo : https://www.youtube.com/watch?v=EF6fqnnl3Uk&list=WL&index=9&pp=gAQBiAQB
-* git tutorial:https://www.youtube.com/watch?v=LbanWJyLMnA&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=30&pp=gAQBiAQB
-* git cert : https://youtube.com/playlist?list=PLBfufR7vyJJ4uRXqarjPKqxYq4_Pexj1V&si=1DwDxsoGRNLEAcM1
-
-
-## Notepad++
-* [Add Firefox in Notepad++ ](https://www.youtube.com/watch?v=neUPiV2DiA8)
-* [yt np bookmark](https://youtu.be/g3sOIqs1Ifw?si=i5dv8yN89IYqR0hH)
-* [yt np space removal](https://youtu.be/y3rNhoHQCQU?si=ZLDeGf8_mwsjdD71)
-* [Macros text manipulation](https://www.youtube.com/watch?v=Dgmhb8k1whs)
-* [Notepad++ Macros](https://www.youtube.com/watch?v=3FNmecjZ86w)
-* [find and replace in files](https://www.youtube.com/watch?v=rC-HRRPxhbo&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=12)
-* [view two documents side by side](https://www.youtube.com/watch?v=9Ztvzkf9Hzg&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=17)
-* [Replace new lines with a comma delimiter](https://stackoverflow.com/questions/15740853/replace-new-lines-with-a-comma-delimiter-with-notepad)
-* [Text Selection using Ctrl Shift](https://www.youtube.com/watch?v=ove9izWW_W8&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=35)
-* [How to Autocomplete Brackets](https://www.youtube.com/watch?v=cwbkl75itX8&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=16)
-* [Create HTML Ordered List](https://www.youtube.com/watch?v=lYB_1wYuxTA&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=18)
-* https://stackoverflow.com/questions/15740853/replace-new-lines-with-a-comma-delimiter-with-notepad
-* [Tips and Tricks in Notepad++ - Perficient Blogs](https://blogs.perficient.com/2016/01/21/tips-and-tricks-in-notepad/)
-* [select the entire line in Np++](https://superuser.com/questions/947296/is-there-a-keyboard-shortcut-to-select-the-entire-current-line-in-notepad)
-* [extract only text data from HTML pages - Quora](https://www.quora.com/How-can-I-extract-only-text-data-from-HTML-pages)
-* [Notepad++ Macros Example | Cathrine Wilhelmsen](https://www.cathrinewilhelmsen.net/notepad-macros-example/)
-* https://www.cathrinewilhelmsen.net/notepad-macros-example/
-* https://blogs.perficient.com/2016/01/21/tips-and-tricks-in-notepad/
-  
-
-## postman
-* https://learning.postman.com/docs/introduction/overview/
-* https://www.postman.com/api-platform/
-* [postman api](https://www.youtube.com/watch?v=CLG0ha_a0q8)
-
-## Chromedev
-* [yt chrome dev](https://youtu.be/oIrDcE4tG5A?si=HHLkLDTgNRZXq2tx)
-* [yt chrome dev tools](https://www.youtube.com/watch?v=wcFnnxfA70g&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=3&pp=gAQBiAQB)
-* [chrome browser](https://developer.chrome.com/blog/inside-browser-part1/#at_the_core_of_the_computer_are_the_cpu_and_gpu)
-* [Chrome Dev Tools](https://techbrij.com/chrome-developer-tools-inspect-json-path-query)
-* [Chromedev](https://blittle.github.io/chrome-dev-tools/sources/editing-content.html)
 
 
