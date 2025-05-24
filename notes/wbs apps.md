@@ -32,6 +32,35 @@
 - SitePoint Community , Slashdot , Source forge , 
 - The Interaction Design Foundation Community , Women Who Code ,
 
+**Devsites**
+* **Github.com (issues,readmes,docs,wikis)**
+* Interview Prep : **Leetcode , geeks for geeks , hackerrank.com**
+* QA : Stack Overflow  ,StackExchange ( code queries)
+* QA : Quora , Reddit 
+* Job Search : Glassdoor  ,Linkedin  ,Indeed , www.angel.co , www.startupweekend.org
+* Latest News : hackernews (timepass) , Twitter  , Telegram  , Medium (writeups , dev stories)
+* News aggregation (Google reader, StumbleUpon, or Feedburner)
+* Docs : mdn , nodejs.org , DevDocs , developer.mozilla.org
+* Dev Blogs : Reddit Programming , Medium(blogs) ,Dev.to  ,DevDocs.IO ,
+* MOOC : Udemy , Pluralsight , Linkedinlearning ,  skillshare , MIT open courseware , Coursera , 
+* MOOC : Freecodecamp's Blog , Codecademy , khanacademy.org , udacity , futurelearn.com
+* MOOC : MSDN (channel9.msdn.com) , skillzcafe, edx , harvard , byju , unacademy
+* Codecademy.com (free) , Codeschool.com ( 29$/mo) , teamtreehouse.com ( 25,45 ) bentobox.io
+* Learncodethehardway.org Ruby and Python , datasciencemasters.org  , courseera introduction to data science 
+* Social networking (Facebook or LinkedIn)
+* Social search (Google, Bing, or Ask.com)
+* photo sharing (Flickr, Photobucket, or Picasa)
+* video sharing (YouTube,  MetaCafe)
+* livecasting (Ustream or Justin.TV),
+* YT Data sci : StatQuest with John Starmer , krish naik , Simplilearn , , Edureka! , Corey Schafer , Joma Tech
+* YT ChatGPT : OpenAI , sentdex , Two Minute Papers , CodeEmporium , Yann LeCun
+* Niche : Kaggle , google digital unlocked , apple itunes ,
+* Front End : Blog.jenniferdewalt.com , Joshuakemp.blogspot.com,Html and css – John duckett 
+* UI : The Interaction Design Foundation Community 
+* Data Analysis : Edward Tufte , Python for data analysis , ibmbigdatahub.com/blogs
+* SEO : Moz.com/learn/seo ,Cutroni.com  , The art of SEO  enge et al
+* Mobile dev : App.itize.us , Twotoasters.com/blogs/ideas , Swift llanguage 
+* Popular APIs : Google Map , Uber , Facebook , Stripe  , Twilio , Foursquare
 
 ## Web Apps
 
