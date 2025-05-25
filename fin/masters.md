@@ -25,6 +25,19 @@
 * Value destoryers : Dhfl , ( loans shell cos , round tripping  , A3Z infra , 
 * Small cap universe : murky deals , price manipulation,  forged financial results,  no earnings calls agter qtrly results
 
+**bogle 12 pillars of investment wisdom**
+* investing is not nearly as difficult as it looks 
+* when all else fails , fall back on simplicity , occams razor , select simplest solution for multiple options
+* time marches on , magic of compounding , capital accumulation
+* nothing ventured , nothing gained - take reasonable interim risks
+* diversify , diversify , diversify 
+* eternal triangle : risk , return and cost , triangle of investing
+* powerful magnetism of the mean , returns tend to regress towards mean , returns fall after exceeding historical norms
+* do not overestimate your ability to pick superior MF , underestimate ability to pick bond and money market funds 
+* you may have a stable principal value or stable income stream , buy you may not have both (investment choices , trade-offs , compromises)
+* beware of 'fighting the last war'
+* you rarely , if ever , know something that the market does not ( collective wisdom of crowds)
+* think long term , short term volatility , stay the course 
 
 
 
