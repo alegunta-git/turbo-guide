@@ -21,10 +21,10 @@
 **Stocks**
 * Invest in Stock : 100 -  Current Age of = % in Equity , @30 - 70% , @60- 40%
 * Stocks investment for 3-5 yrs , 8-12 stocks ,prune p/f
-* hold no less than 10 stocks and no more than 30 stocks , more stocks - txn and monitoring costs will increase , track co action(dividend)
+* hold no less than 10 stocks and no more than 30 stocks ,
+* more stocks - txn and monitoring costs will increase , track co action(dividend)
 * diversify atlest 4 diff sectors with no single sector 40% pf value , no single stock 20% of pf value 
 * do not overexpose small cap cos , 50% in top 200 cos (equity mf)
-
 * Retirement 4% w/d rule : 33000 monthly income ( 4l/yr ,4% corpus) , 1 cr , 2yrs , earns 7% inflation % 
 * MF diversify 4 schemes , 3 diff fund houses
 * cost of acquiring (entry load) , cost of holding(expense ratio) , cost of exiting(exit load) mf scheme
