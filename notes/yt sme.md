@@ -5,7 +5,6 @@
 * [org documents easily in malayalam](https://www.youtube.com/watch?v=olSqc4Ru3V0&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=12)
 * [FLYing Lesson: Routines | FlyLady.net](https://www.flylady.net/d/getting-started/flying-lessons/routines/#google_vignette)
 
-
 **projects**
 - py projects : https://www.youtube.com/watch?v=8ext9G7xspg&list=WL&index=25&pp=gAQBiAQB
 
