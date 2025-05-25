@@ -1,13 +1,4 @@
 
-**Calcuator**
-* EMI Calc : https://emicalculator.net/
-* https://www.icicidirect.com/calculators
-* https://groww.in/calculators
-* https://investmentjunctions.com/index.php/tools/financial-tools?cmdAction=loadPlanYourSIP
-* https://www.calculator.net/finance-calculator.html
-* https://www.calculator.net/sitemap.html
-* http://emicalculator.net/loan-calculator/#
-
 **P Finance**
 | E Fund | Insurance        | Debt  | Debt      | Equity                 | others      | Plan            |
 |--------|------------------|-------|-----------|------------------------|-------------|-----------------|
@@ -15,19 +6,6 @@
 |        | Health Insurance | RD    | PPF       | MF SIP (Hybrid/Equity) | Real Estate | Estate Planning |
 |        | 2w/4w Insurance  | Bonds | PNS       | ELSS                   |             | Investment Plan |
 |        |                  |       | POMIS/NSC | Stocks                 |             | Tax Plan        |
-
-**Sample MF p/f** 
-| Goal                          | Mutual Fund                    | Rate  | Notes                                    |
-|-------------------------------|--------------------------------|-------|------------------------------------------|
-| SHORT TERM GOALS ( 1-3 YRS)   |  ( 100% DEBT)                  |       |                                          |
-| Buying a Car                  | Open ended ST Debt Fund        | 9.5%  | 9500/mo ( 3 yrs) , 4 lac ( 3yrs)         |
-| Go On Holiday                 | Short term Debt Fund           | 9.5%  | 10,500/mo ( 18mon) , 2 lakh 18 mon       |
-| MEDIUM TERM GOALS ( 3-7 YRS)  | ( 60% DEBT , 40% EQUITY)       |       |                                          |
-| Child’s Higher education      |  Monthly Income Plan           | 10%   | 14,000 / mo (5 years) , 10 lakh ( 5 yrs) |
-| Buy House                     | Equity  Balanced Funds >3 yrs  | 14%   | 14,000 / mo ( 7 years) , 20 lakh (7 yrs) |
-| LONG TERM GOALS (> 7 yrs )    | 100% EQUITY                    |       |                                          |
-| Child’s Marriage              | Diversified Equity Funds       | 15%   | 3,700 / mo(15 years ) , 25 Lakh( 15 yrs) |
-| Retirement                    | Diversified Equity Funds       | 15%   | 3,300 / mo (20 yrs) , 50 Lakh (20 yrs)   |
 
 
 **Simple Portfolio**
@@ -70,7 +48,6 @@
 | Young   | 80:20        | 60:40        |
 
 
-
 **What to Read**
 * ETW formulas , xls Finance fx , TVM
 * ETW qs
@@ -108,28 +85,9 @@
 **Basics**
 * Returns , Risks , Cost ,Liquidity , Inflation , CAGR chart , Compounding 
 * [How to calculate compound annual growth rate in Excel?](https://www.blogger.com/blog/post/edit/1882019388501619639/3850429997432530501)
-* CAGR Formula:  CAGR=((FV/PV)^(1/n)) - 1 , ((5,000/1,000)^(1/10)) - 1 = 17.4%
-* Purchasing Power =10,000/ (1+5%) ^10 = 6,139
-* Compound Interest ,  A = P * (1+r/t) ^ (nt)  = 1,00,000(1+0.1) ^10 = 2,59,374.25
 * Investment 9 per cent annual rate compounding quarterly, EAR  (1+(0.09/4)^4) -1*100  = 9.3 per cent
 * DCF , IRR
-* XIRR ( B14:b15 , A14:a15) , 01-Jan-2010 -1000  , 01-Jan-2012  12000
-* Inflation adjusted returns = [(1+ r) / (1+P)}-1]*100, where r is nominal return and P is inflation rate
 * Tax Adjusted returns TR = NR * (1-tax rate), NR: nominal return , = 10 - 10 * 30% = 10 - 10 * 0.3 = 7
-
-**Ratios**
-* Savings Ratio = Savings / Gross Income , target 20% savings rate,
-* Debt to income r : Monthly Debt Payment / Monthly Income 15000(emi)/50000(sal) DTI : 30% , DTI < 30% ( to get a loan)
-* Solvency ratio = Total assets / Total liabilities , Ideally, the ratio should be more than 1
-* Liquidity Ratio = Total liquid assets/Total current debt , The value should be above one. 
-* Payback period = Initial investment amount/value ÷ Cash flow per year
-
-
-**Time Value of Money**
-* FV , PV , Rate of Int % , Duration (N years) , PMT , 
-* FV = PV * (1+inflation rate) ^number of years , = 10,000* (1+5%) ^10 = 16,289
-* Future cost= a* (1+r) ^ n | = 1200000 * ( 1+7% ) ^ 15 = 33 10 838  , 7 % inflation , 15 yr child education , Current Val 12l
-* How much to invest = PMT (RATE, NPER, PV, FV, Type) | = PMT( 12%/12 , 15.12 , 0 , 33 10 838)
 
 **Rule of Thumb**
 * Time taken to double , triple 2x 72 / 9 % = 8y , 3x 114/ 3 % = 38 y , 4x  144/12 % = 12y  
@@ -153,97 +111,6 @@
 * MF diversify 4 schemes , 3 diff fund houses
 * cost of acquiring (entry load) , cost of holding(expense ratio) , cost of exiting(exit load) mf scheme
 * returns of 10 yrs a/z , avoid schemes at top/bottom of performance deck , avoid schemes low corpus < 100 cr 
-
-**bogle 12 pillars of investment wisdom**
-* investing is not nearly as difficult as it looks 
-* when all else fails , fall back on simplicity , occams razor , select simplest solution for multiple options
-* time marches on , magic of compounding , capital accumulation
-* nothing ventured , nothing gained - take reasonable interim risks
-* diversify , diversify , diversify 
-* eternal triangle : risk , return and cost , triangle of investing
-* powerful magnetism of the mean , returns tend to regress towards mean , returns fall after exceeding historical norms
-* do not overestimate your ability to pick superior MF , underestimate ability to pick bond and money market funds 
-* you may have a stable principal value or stable income stream , buy you may not have both (investment choices , trade-offs , compromises)
-* beware of 'fighting the last war'
-* you rarely , if ever , know something that the market does not ( collective wisdom of crowds)
-* think long term , short term volatility , stay the course 
-
-
-**Where to Invest**
-* Pay yourself first : 5000 / mo - 8.5% SIP , increase investment 10% every year , after 30yrs , 2.5cr 
-* Where to invest 2 yr : Debt , 3-5 yr : equities/commodities , 5+ ; real est/equity
-* Invest 5000/mo , 30y , 8% RD ( 75l) , gold 10% , 1.15cr , debt mf 9%(91l) , equity mf 15%(3.5cr)
-* 5 cr retmt 60y , 10% step up ( 25y - 9073/3172 , 30y - 16229/6262 , 35y - 29374/12706 , 40 - 54356pm/26838 ) 12%  pa 
-* 2cr retmt corpus - 60l debt f(30%), 60l eq f , 80l 40% fully equity 
-* Expense 50000/month ,6l/1yr , E-fund : Bucket1 : 1l 2mon (sweep in FD) , b2 ( 2l - 4 mo , arbitrge/liquid fd) , 3l - 6m ( short debt fund)
-
-**Mutual Fund**
-* mf investor : kyc compliance (id , address , photo , pan) , kra , p info ( em , b info , micr) , nomination , fatca compliance 
-* details : postal address (follow ups) , email , contact no , bank a/c ( delay in dividend pmt) , nomination ( handover)
-* Diversify : Large Cap ( 40%) , Diversified ( 40%) , Midcap ( 10%) , US(10%)
-* 15 15 15 , Invest Rs. 15,000/month for 15 years w/ 15% , build corpus of Rs. 1 crore, 
-* 15 15 30 ,Invest Rs. 15,000/month for 30 years w/ 15% , build corpus of Rs. 10 crore, 
-* 8 4 3  first 8 years  money grows steadily, next 4 years it accelerates and next 3 years snowball effect
-* Invest approximately ₹1.3 to 1.5 lakhs per month to reach ₹1 Crore in 5 years (15%)
-* Equity Debt Hybrid Flexi US , open and closed , lumpsum STP SIP SWP , fund fact sheet , CAS , growth and ICDW (dividend)
-* cost of entry , maintenance expense ratio , exit ,nav , return , benchmark , 
-* Standard Deviation—low , Beta—low | Alpha—high , Sharpe ratio—high , Sortino ratio—high
-* index investing
-* you rebalance when asset allocation changes or when life situation changes.
-* DIY , distributor , RIA
-* MF portfolio
-  * Level one: equity index funds + PF + PPF + FD
-  * Level two: equity index funds + PF + PPF + FDs +debt funds
-  * Level three: equity index funds + active funds + PF + PPF + FDs + debt funds (50% index, 25% aggressive hybrid and 25% large- and mid-cap  
-  * Level four: equity index + active multi-cap funds + PF + PPF + debt funds (50 per cent index, 25 per cent mid-cap and 25 per cent small-cap fund)
-  * Level five: equity index + active multi-cap + foreign funds + PF + PPF + debt funds
-  
-**MF Notes**
-* High targets require sip hiked 10% year
-* Cut number of funds to make p/f manageable
-* Small midcap skew, ready volatility
-* Chose aggressive allocation nps 75%
-* Review Investment,  rebalance once year
-* Reduce risk when goal is near so that you dont miss target
-* Stock volatility , invest equity fund
-
-
-**MF Ratios**
-* SIP Future Value ,  S = R((1+i)^n-1/i) (1+i) , 1,000 each month 10 years(120), 15% pa , 15/12 = 1.25% = 0.0125 , 
-* S = 1,000 * [{(1+ 0.0125) ^120 - 1}/0.0125] *  (1+ 0.0125)  = Rs 2,78,657
-* ALPHA : fund's risk-adjusted return. + alpha fund better than expected, a negative alpha the fund has underperformed.
-* BETA : volatility returns relative mkt index. beta 1.3 , Nifty rises 1%, stock +13%; index falls 1%, -13% , higher beta -> high risk investment.
-* Sharpe Ratio (S) = (r (Portfolio return) – rf (Risk free rate)) / portfoli volatility (v)
-* Treynor Ratio (S) = (r (Portfolio return) – rf (Risk free rate)) / portfoli beta (b)
-
-**Loan(Home,Car)**
-* EMI Formula: EMI= (A*R)*(1+R) ^N/ ((1+R) ^N)-1)
-* loan 10l ,11%,15 years ,Tenure = 15*12 = 180 months , EMI = (1000000 x 0.00916)x((1+.00916)^180)/([(1+.00916) ^180] - 1)  = = Rs 11,361 
-
-**Loan Details**
-| Loan             | Criteria                  | Rate   | Duration               |
-|------------------|---------------------------|--------|------------------------|
-| Personal Loan    | Age 21-60 , 25000 /month  | 12-18% | 40l , 12-60 months     |
-| Educational Loan | Age 16-35                 | 9-12%  | 50l , 15yr 180 EMIs    |
-| Auto Loan        | Age 21-60 , 3l /yr salary | 9-14%  | 25l , 12-60 months     |
-| Home Loan        | Age 21-65 , 10000 pm      | 7-9%   | 20-30 yr , 240-360 EMI |
-
-**Income tax**
-* Tax Planning = ELSS + NPS + PPF , Post Office Investment = FD + SCSS 
-* old and new tax regime
-* Cleartax ITR Filing
-* [How to file ITR online? | ITR Filing tutorial for salaried employees AY 2024-25 - YouTube](https://www.youtube.com/watch?v=ShWu6vniMgQ&t=1s)
-* [Income Tax Portal, Government of India Login Page](https://eportal.incometax.gov.in/iec/foservices/#/login)
-* [Form26AS](https://cleartax.in/s/view-form-26as-tax-credit-statement)
-* [verify etax](https://cleartax.in/s/income-tax-e-verification-evc)
-
-
-**Banking**
-* KYC , Nomination  , Banking Account(self,family) , Netbanking/Telebanking 
-* Loans ( Car , Home , 2w ,Educational , Personal , Loan against shares , Gold , working capital , agri)
-* Investment : FD (Interest Rate , Tax Deduction , Form 15G/H), MF , RD , SIP , Gold bar , Demat , pension plan , child plan , ULIP 
-* Insurance : Med ins , vehicle ins ,travel ins , gen ins , term plan
-* other svc : Credit Report , Debt repayment CC , Debit card , Forex Card , Letter of credit , Online bill payment
 
 
 **Guidelines**
@@ -296,25 +163,5 @@
 * A document detailing the claims process for all the assets and investments.
 
 
-**MF links**
-* [morning star](https://www.morningstar.in/funds.aspx)
-* [MF ValueRes](https://www.valueresearchonline.com/funds/best-mutual-funds/)
-* [MF MoneyControl](https://www.moneycontrol.com/mutual-funds/find-fund/)
-* [valueresearchonline.com](http://valueresearchonline.com/)
-* https://gurus.rediff.com/question/qdtl/money/which-best-mutual-funds-india-january-2025-long-term-wealth/5192323
-
-**Stock market links**
-* [moneycontrol.com](http://moneycontrol.com/)
-* [equitymaster.com](http://equitymaster.com/)
-* [nseindia.com](http://nseindia.com/)
-* [profit.ndtv.com](http://profit.ndtv.com/)
-* [money.rediff.com](http://money.rediff.com/)
-* https://www.screener.in/
-* [sensex historical data](https://in.investing.com/indices/sensex-historical-data)
-* [MoneyControl](https://www.moneycontrol.com/stocksmarketsindia/)
-* [4-traders.com](http://4-traders.com/)
-* [Guide screener](https://www.screener.in/guides/creating-screens/)
-* [Quora CL Stock](https://www.quora.com/What-is-your-investment-checklist-before-you-buy-a-stock)
-* [dividend stocks](https://www.equitymaster.com/detail.asp?date=12/22/2023&story=2&title=Highest-Dividend-Paying-Stocks-in-India-2024-for-Long-Term-Investment)
 
 
