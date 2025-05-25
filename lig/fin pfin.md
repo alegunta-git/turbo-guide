@@ -296,23 +296,6 @@
 * A document detailing the claims process for all the assets and investments.
 
 
-
-
-**Fin Planning**
-* [10 options](https://weinvestsmart.com/top-10-best-investment-options-in-india/)
-* [Thumb rules](https://www.icicidirect.com/investonomics/articles/the-thumb-rules-of-investing)
-* [15 fin resolutions](https://freefincal.com/15-personal-finance-resolutions-for-2023/)
-* [10 rules](https://www.financialexpress.com/money/10-personal-finance-rules-millennials-should-follow-2468828/)
-* [DCF](https://www.asimplemodel.com/financial-curriculum/financial-modeling/discounted-cash-flow/dcf-model-basics)
-
-**Blog**
-* [UmaS articles](https://muckrack.com/uma-shashikant/articles)
-* [GetMoneyRich](https://getmoneyrich.com/start-here/)
-* [bemoneyaware](https://bemoneyaware.com/income-tax/)
-* [Quora SReddy](https://www.quora.com/profile/Sreekanth-Reddy-423)
-* [GMR MF7531](https://getmoneyrich.com/the-7-5-3-1-rule-of-sip-investing-in-mutual-funds/)
-* [Mental Models Farnham ](https://fs.blog/mental-models/)
-
 **MF links**
 * [morning star](https://www.morningstar.in/funds.aspx)
 * [MF ValueRes](https://www.valueresearchonline.com/funds/best-mutual-funds/)
@@ -334,28 +317,4 @@
 * [Quora CL Stock](https://www.quora.com/What-is-your-investment-checklist-before-you-buy-a-stock)
 * [dividend stocks](https://www.equitymaster.com/detail.asp?date=12/22/2023&story=2&title=Highest-Dividend-Paying-Stocks-in-India-2024-for-Long-Term-Investment)
 
-
-
-**FinCal blogs**
-* [checklist](https://freefincal.com/a-money-management-checklist-for-young-earners/)
-* [fin planning 1](https://freefincal.com/financial-planning-is-simple-but-overwhelming-part-1/)
-* [fin ind parents](https://freefincal.com/our-financial-independence-today-is-because-of-our-parents-sweat-and-toil/)
-* [asset allocation](https://freefincal.com/how-a-couple-reached-their-desired-asset-allocation-after-starting-late/)
-* [retirement plan](https://freefincal.com/my-retirement-plan-to-handle-the-harsh-realities-of-the-it-industry/)
-* [share details w/ family](https://freefincal.com/i-finally-managed-to-share-all-financial-details-with-my-wife/)
-* [MF pf mistkes](https://freefincal.com/my-mf-portfolio-is-worth-six-crores-in-spite-of-multiple-mistakes/)
-* [mf 42/260](https://freefincal.com/only-42-out-of-260-equity-mutual-funds-consistently-outperformed-the-nifty-50/)
-* [mf screener](https://freefincal.com/equity-mutual-fund-screener-april-2024-shortlist-consistent-performers/)
-* [networth](https://freefincal.com/how-i-learnt-to-keep-it-simple-and-build-a-net-worth-19-times-my-annual-expenses/)
-* Equity MF screener : https://freefincal.com/equity-mutual-fund-screener-july-2024-shortlist-consistent-performers/
-
-**Q&A**
-* https://m.rediff.com/amp/getahead/report/how-to-turn-rs-1-lakh-into-rs-1-crore/20250109.htm
-* https://gurus.rediff.com/question/qdtl/money/fd-19lac-where-how-invest-safely-effectively-utilize-daughters-higher/5188580
-* https://m.rediff.com/getahead/report/retirement-goal-rs-2-cr-possible/20250110.htm
-* https://www.zeebiz.com/personal-finance/photo-gallery-sip-swp-mutual-fund-return-monthly-income-calculator-how-investor-can-get-inr-rs-97000-pension-for-44-years-after-monthly-investment-of-17000-for-20-years-retirement-planning-corpus-320947
-* https://www.cnbctv18.com/personal-finance/how-much-health-insurance-should-you-buy-and-when--an-age-wise-breakup-16377221.htm
-* [Retire 40s](https://www.timesnownews.com/web-stories/business/early-retirement-10-expert-financial-tips-to-help-you-retire-in-your-40s/photostory/106979868.cms)
-* https://www.businesstoday.in/entrepreneurship/story/if-i-had-rs-100-i-would-invest-in-zerodhas-nikhil-kamath-reveals-his-investment-preference-354463-2022-11-28
-* https://taxconcept.net/income-tax/income-tax-departments-to-trace-these-cash-transactions-list/
 
