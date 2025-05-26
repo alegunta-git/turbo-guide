@@ -7,4 +7,38 @@
 |        |                  |       | POMIS/NSC | Stocks                 |             | Tax Plan        |
 
 
+**Charity**
+* identify top 3 areas to contribute
+* What shld be the monthly %
+
+**Ideas** 
+- Etw  1pager
+- mf p/f  where to invest : dhirendra p/f ,  Etw model p/f ,  Gain fin freedom case study
+
+**Personal Health Insurance**
+- to be renewed
+
+**ofc Health Insurance**
+- Check insurance docs
+- Print Ofc health insurance
+
+**Mf**
+- axis mf : investment
+- hdfc mf
+- parag : send em to parag
+
+**ppf**
+Check profile 
+ppf amt : How much till date invested
+
+**ofc ppf**
+- login details , 
+- check actual amount , 
+- nomination 
+- UAN
+
+**income tax**
+- enquire new CA
+- get form 16
+- Review f26
 
