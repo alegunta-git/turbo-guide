@@ -6,7 +6,6 @@
 |        | 2w/4w Insurance  | Bonds | PNS       | ELSS                   |             | Investment Plan |
 |        |                  |       | POMIS/NSC | Stocks                 |             | Tax Plan        |
 
-
 **Charity**
 * identify top 3 areas to contribute
 * What shld be the monthly %
@@ -26,10 +25,11 @@
 - axis mf : investment
 - hdfc mf
 - parag : send em to parag
+- id top 3 funds , start sip , build tracker
 
 **ppf**
-Check profile 
-ppf amt : How much till date invested
+- pwd issue  
+- ppf amt : How much till date invested
 
 **ofc ppf**
 - login details , 
@@ -42,3 +42,6 @@ ppf amt : How much till date invested
 - get form 16
 - Review f26
 
+**Stocks**
+- login issue
+- ac dormant look into this
