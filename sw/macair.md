@@ -7,11 +7,14 @@
 **macmost**
 * [read web articles safari](https://www.youtube.com/watch?v=QiboqS86hQo&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=37&pp=gAQBiAQB)
 
-
 basics
 * [MacBook Air Essentials](https://help.apple.com/macbookair/early-2016/)
 * [The best Mac keyboard shortcuts for 2022 | Digital Trends](https://www.digitaltrends.com/computing/mac-keyboard-shortcuts/)
 * [Save time with Mac keyboard shortcuts — Apple Support - YouTube](https://www.youtube.com/watch?v=r2xVvFVp3a4&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=30)
+
+**finder**
+* https://www.howtogeek.com/customize-finder-on-your-mac-for-a-more-productive-experience/
+
 
 new to mac
 * [new to mac](https://www.youtube.com/watch?v=3jeeFc2Vo1U&list=WL&index=2)
