@@ -1,4 +1,7 @@
 **Basics**
+- Inflation
+- Market risk , interest rate risk , credit risk , liquidity risk , reinvestment risk , volatility , risk of fraud 
+- investing = returns , liquidity ,  diversification , costs ,  ease of transaction ,  having the money when you need it.
 - Returns , Risks , Cost ,Liquidity , Inflation , CAGR chart , Compounding 
 - Income , Expense , Asset , Liability 
 - Income - Expense = Cash Flow
