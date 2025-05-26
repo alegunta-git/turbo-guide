@@ -4,7 +4,13 @@
 * [pay bill herb](https://youtu.be/mRwOUuMKdjI?si=-4347Kol5rXCmGCu)
 * [pvnr coding](https://www.youtube.com/watch?v=FbR6fesYU8M&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=52&pp=gAQBiAQB)
 
-## Mobile Apps
+
+## Others
+* [ideas for SMB](https://www.godigit.com/business-insurance/ideas/small-business-ideas-in-gujarat)
+* https://speechify.com/voice-cloning/?srsltid=AfmBOopLU-GT2YxzqOuoGJak8RmLIDkFm3HTWM7ITOFR9vyniHM3nbjm
+* https://gdoc.io/checklist-templates/new-hire-checklist-free-google-docs-template/
+
+
 **Android Basics**
 * android 101 : https://www.youtube.com/playlist?list=PLPRhQEDGqsFC4NL3DiYpPVnDKP9o1dnTw
 * https://www.thesuccessmanual.in/chapter/android-for-seniors-basics-examples-specific-scenarios
