@@ -1,5 +1,25 @@
 **P Fin Products**
 - **Emergency Fund - term ins - tax savings - Short/Med term goals - long term/retirement - post retirement** 
+- **last year annual cash inflows ( 1 pt ) , cash outflows( 2 pt) , roi investment ( 3 pts)** 
+
+**Market Information**
+- sensex today , sensex this week
+- m/e sensex change % , Check for +-3% dips
+- gold price today , silver price today
+- us dollar
+- Brent Oil
+
+**Finance Information**
+- Inflation : Rate this month , Last 10 years trend
+- Interest Rate : Trend , Home loan , car loan , Personal Loan 
+- Tax : Old Regime , New Regime , Income Tax Calculator
+- MF : Large cap , Flexicap , multicap , Midcap , Smallcap
+- Dividend stock
+- Stock Screener , 
+- Calculator : SIP , EMI , PPF , RD and FD 
+- IFSC Code Search
+
+
 
 **Simple Portfolio**
 * Goals : Long term view Financial Goals , Retirement Plan
