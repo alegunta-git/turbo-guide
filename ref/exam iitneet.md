@@ -1,6 +1,4 @@
-
 ## IIT Prep
-
 **books**
 * https://www.vidyalankar.org/iitjee/recommended-books
 
@@ -29,20 +27,6 @@
 * Note taking , Notes1(rough) , underline , Notes2(topic summaries, formulas, doubts to clarify(online/classroom)) , 
 * Sample problem , re-read , active recall , star tough q's  , Do mock exams (2/3hr slot) 
 * Review mistakes , identify weak areas/mistakes/complex topics
-
-## MBBS Prep
-**books**
-* [Books in MBBS from 1st Year to Final Year!😱| MBBS Syllabus - YouTube](https://www.youtube.com/watch?v=4FitjW6BIMk&list=WL&index=2)
-* https://medicostimes.com/all-mbbs-books-pdf/
-* [read medical book](https://www.youtube.com/shorts/h7rBsehUz0M)
-
-**doc SME**
-* [*AWESOME* Notes NEET Anuj Pachhel YouTube](https://www.youtube.com/watch?v=-FaFlDKdzT8&list=WL&index=5&pp=gAQBiAQB)
-* [yt Clinical Practice notes](https://www.youtube.com/watch?v=GxumhC3C1ss&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy)
-
-**YT PL**
-* biochemistry : https://www.youtube.com/playlist?list=PLVZ65NT_eXfH_SGeXiyVROO6QVRrFNhPO
-
 
 ## Neet prep
 **NEET links**
@@ -79,3 +63,18 @@
 * Practise past papers - MCQs , Short Ans , Best Ans Others
 * Clinical Skills : Practice , Simulation , Practice w/ Patients ,
 * Ask for specific feedback Learning Ops : Drug Charts , Drug Rounds , Check Pulse BP, Physio , Radiology
+
+
+## MBBS Prep
+**books**
+* [Books in MBBS from 1st Year to Final Year!😱| MBBS Syllabus - YouTube](https://www.youtube.com/watch?v=4FitjW6BIMk&list=WL&index=2)
+* https://medicostimes.com/all-mbbs-books-pdf/
+* [read medical book](https://www.youtube.com/shorts/h7rBsehUz0M)
+
+**doc SME**
+* [*AWESOME* Notes NEET Anuj Pachhel YouTube](https://www.youtube.com/watch?v=-FaFlDKdzT8&list=WL&index=5&pp=gAQBiAQB)
+* [yt Clinical Practice notes](https://www.youtube.com/watch?v=GxumhC3C1ss&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy)
+
+**YT PL**
+* biochemistry : https://www.youtube.com/playlist?list=PLVZ65NT_eXfH_SGeXiyVROO6QVRrFNhPO
+* obs and gynae : https://www.youtube.com/watch?v=jM2n-G4eBHs&list=WL&index=2&pp=gAQBiAQB
