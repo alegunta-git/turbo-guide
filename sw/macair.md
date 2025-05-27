@@ -6,6 +6,8 @@
 
 **macmost**
 * [read web articles safari](https://www.youtube.com/watch?v=QiboqS86hQo&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=37&pp=gAQBiAQB)
+* notes tips : https://www.youtube.com/watch?v=yeypOg858NU
+* mac finder : https://www.youtube.com/watch?v=TY_ViHj4gFU
 
 basics
 * [MacBook Air Essentials](https://help.apple.com/macbookair/early-2016/)
