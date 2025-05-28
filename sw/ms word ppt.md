@@ -22,6 +22,12 @@
 * [MS Word Skills - Document Formatting Skills & Hacks - YouTube](https://www.youtube.com/watch?v=Ss2lPz7m0GY&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=26)
 * [5 neat tips for formatting Microsoft Word tables - Part 1 - YouTube](https://www.youtube.com/watch?v=3VI7GIDaBvY&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=5)
 
+
+**Tables**
+- 5 tables problems : https://www.youtube.com/watch?v=we2ZMWPriYw
+- time table word : https://www.youtube.com/watch?v=THm-HpSnn9M&pp=0gcJCRgCSCBzzxdG
+
+
 **tips**
 * [How to Combine Multiple Word File to Single One - YouTube](https://www.youtube.com/watch?v=TWVW3tZR0l0&list=WL&index=30)
 * [How to merge two or more word documents into one document - YouTube](https://www.youtube.com/watch?v=Yzl9GKhZLSI&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=6)
