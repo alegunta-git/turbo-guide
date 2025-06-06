@@ -18,6 +18,12 @@
 |  Gas pipe      | Wet Grinder      |                                        |
 |                | Water Filter     |                                        |
 
+**HP Laptop**
+- Charge upto 85 per cent 
+- Dont work on laptop while charing
+- any person can work max 2 hrs on laptop
+- Check for updates - Adv updates 
+
 
 **Sukam Inverter**
 * [refill inverter battery water](https://youtu.be/GaNQqmKY5UE?si=ky1CyrInkHFl2MXH)
