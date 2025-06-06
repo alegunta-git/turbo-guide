@@ -93,6 +93,7 @@ _post trip_
 * Andaman and Nicobar Islands
 * Lakshadweep
 * Puducherry
+  * https://pondicherrytourism.co.in/places-to-visit-in-pondicherry
 * Chandigarh
 
 ## YT vlogs
