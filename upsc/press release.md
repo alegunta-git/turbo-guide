@@ -14,7 +14,3 @@
 * “Phulera Ka Panchayati Raj” : https://pib.gov.in/PressReleasePage.aspx?PRID=2126985
 
 
-
-## The Hindu Analysis
-* Jan 2025 : https://www.youtube.com/watch?v=XWv6afUPVtI&list=PLmMyXRtEtJEYsYjrggO7h4rFKvQB9Tmq&index=4&pp=gAQBiAQB
-* Nov 2024 : https://www.youtube.com/watch?v=HwR-QhY7-k8&list=PLmMyXRtEtJEYsYjrggO7h4rFKvQB9Tmq&index=3&pp=gAQBiAQB
