@@ -1,3 +1,18 @@
+
+## R1 to 8 Reading
+
+### To be done
+* _PMP guide_
+* _TVM Pbm set_
+* _YT Case study_
+
+**Case Interview**
+* _case in point_
+* _wharton_
+* _mck case study_
+
+
+### Done
 **UPSC**
 * Master Ans Writing , Feb 5d
 * upsc interview prep , Feb 2d 
@@ -17,16 +32,9 @@
 * 101 PM Problem , Apr
 * Dev Mgr Qs , Apr
 * PM 300 qs , Apr
-* TBDPMP guide
 * Rita PMP , May 1d
 
 **P Finance**
 * NISM 1, May 1d
 * NISM 2 , May 1d
-* TVM Pbm set
-* YT Case study
 
-**Case Interview**
-* TBDcase in point
-* TBDwharton
-* TBDmck case study
