@@ -1,21 +1,7 @@
-## Travel SOP 
-
-**Pilgrim Tour**
+## Pilgrim Tour
 - Tirupathi , 
 - Srisailam ,
 - Rayara Place  
-
-**Countries Wish List**
-- USA  , 
-- UK
-- Germany France Italy Spain 
-- Japan ,Thailand
-
-
-**Tour operator**
-- Nirmala travels
-- Ask Annaya garu about LIC spoc travel prep tips
-
 
 ## India Travel
 * Andhra Pradesh
@@ -66,12 +52,16 @@
   * https://pondicherrytourism.co.in/places-to-visit-in-pondicherry
 * Chandigarh
 
-## YT vlogs
+ **YT vlogs**
 * Manis Solanki : https://www.youtube.com/@ManishSolankiVlogs/playlists
 * [yt boarding](https://www.youtube.com/watch?v=4e8MROIlEnU&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=8&pp=gAQBiAQB)
 * [USA vlog](https://www.youtube.com/watch?v=ljoO7CSGb8k&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=7&pp=gAQBiAQB)
 
-## India blogs
+**Tour operator**
+- Nirmala travels
+- Ask Annaya garu about LIC spoc travel prep tips
+
+**India blogs**
 * [wiki India Tourism state](https://en.m.wikipedia.org/wiki/Tourism_in_India_by_state)
 * [Best Places to Visit India](https://soultravelindia.com/best-places-to-visit-india-month/)
 * [India 15](https://www.travelandleisureasia.com/in/destinations/india/best-places-to-visit-in-india-according-to-travel-experts/)
@@ -79,14 +69,22 @@
 * [Travel tips](https://www.beontheroad.com/p/travel-tips.html)
 
 ## World Travel
-* USA
-  * [Life in USA](https://www.lifeintheusa.com/)
-  * [USA travel guide](https://www.fodors.com/world/north-america/usa)
-* Japan  
-  * [Japan](https://www.japan-zone.com/new/accommodation.shtml)
-  * [Japan vlog](https://www.youtube.com/watch?v=FhDS4oP-HoM&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=6&pp=gAQBiAQB)
-* Europe
-  * [Italy trip](https://www.contiki.com/en-sg/tours/simply-italy?gclid=Cj0KCQjw- 
-    pyqBhDmARIsAKd9XIOmBMYIrsqsEvPrTNW3X2r9mVHmCwvYtRVdRggM-Af7E_FsSv0CPc8aAoCgEALw_wcB&gclsrc=aw.ds)
+
+**Countries Wish List**
+- USA 
+- [Life in USA](https://www.lifeintheusa.com/)
+- [USA travel guide](https://www.fodors.com/world/north-america/usa)
+- UK
+- Germany
+- France
+- Italy
+- [Italy trip](https://www.contiki.com/en-sg/tours/simply-italy?gclid=Cj0KCQjwpyqBhDmARIsAKd9XIOmBMYIrsqsEvPrTNW3X2r9mVHmCwvYtRVdRggM-Af7E_FsSv0CPc8aAoCgEALw_wcB&gclsrc=aw.ds)
+- Spain 
+- Japan
+- [Japan](https://www.japan-zone.com/new/accommodation.shtml)
+- [Japan vlog](https://www.youtube.com/watch?v=FhDS4oP-HoM&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=6&pp=gAQBiAQB)
+- Thailand
+
+
 
 
