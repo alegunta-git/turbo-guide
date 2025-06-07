@@ -1,14 +1,3 @@
-**Office Logistics**
-- Bag 
-- ID Card
-- Bus pass / metro pass
-- Laptop + Laptop Charger 
-- Working Mouse 
-- Mobile Charger
-- Pen , Notebook 
-- Any reading material 
-- Network cable
-
 ## TPM Role Expectations
 - Monitor and handle risks internally , before client team is aware
 - Quantify Issues with numbers/impact , take corrective action(s) and document steps
