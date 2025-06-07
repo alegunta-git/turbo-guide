@@ -55,8 +55,7 @@ Update fin.xls
 - Setup Monthly task b.log
 - Check OKR for Qtr 
 
-
-**Tools**
+## Tools
 - Prayer Notes
 - BLSD
 - Task List w/e
@@ -74,6 +73,8 @@ Update fin.xls
 - gcal reminder
 - check gm
 
+## Guidelines
+
 **Read newspaper**
 - Review The Hindu Daily 
 - scan headlines , read imp stories 
@@ -82,8 +83,7 @@ Update fin.xls
 - Read Data Point & Editorials ( if reqd keep cut out)
 - ref to yt videos TH for detailed analysis 
 
-
-**Guidelines**
+**GTD**
 - Sleep / Wake up ( 12 pm , 8am ) ; BLSD – 913079  
 - Call Folks regularly 
 - Start day by 11am ( 11-8), Take hols 10 days , 
@@ -94,7 +94,7 @@ Update fin.xls
 - Think about Ideas and how to implement good ones
 - Book Reading : Take notes  and schedule revision session
 
-**Finance Guidelines**
+**Finance**
 - check bank statement , sal slip ( income tax ) , hols balance
 - review month on month spend , current month spend areas % 
 - review top 10 spend areas , A/L update 
