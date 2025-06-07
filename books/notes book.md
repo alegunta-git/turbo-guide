@@ -80,4 +80,38 @@ Book :Self-Discipline: How to Develop Spartan Discipline, Unbreakable Mental Tou
 - Rather, strength is—according to Navy SEAL instructors—90 percent mental and only 10 percent physical.
 - Spartans Had a ‘Why’ That Enabled Them to Endure Almost Any ‘How’ , “He who has a ‘why’ to live can bear almost any ‘how’.”— Friedrich Nietzsche
 
+## Finance
+**The Story of the Reserve Bank of India :Rahul Bajoria**
+- 1861 : government took control of paper currency  through the Paper Currency Act, which gave the
+- The Reserve Bank of India came into existence on 1 April 1935. Sir Osborne Arkell Smith, first governor 
+- Preparing for independence , The 1946 demonetization 1947 Dismantling imperial structures
+- 1950 and the first five-year plan  was its new monetary policy
+- The Mundra scam, and the RBI loses face
+- The second five-year plan and currency troubles India’s , 
+- 1958 bailed out by donor support , India returned to the IMF in July 1961 for a withdrawal of US$250 million,
+- 1966 currency devaluation Indira Gandhi 
+- The Palai Bank failure Despite the RBI’s apparent lack of independence as displayed in the bitter exit of Governor
+- Indira Gandhi proceeds with bank nationalization , oil shock , While the external problems played out from 1970 to 1975, domestic problems were compounding quickly. 
+- 1971 war with P was successful, The Emergency era begins , While governors L.K. Jha and S. Jagannathan showed moments of leadership, it was bankers like R.K. Talwar
+- The 1978 demonetization The Janata Party government ,The Iranian revolution and the second oil price shock 
+- The Congress came back to power in 1980 largely on the back of policy mistakes made by the Janata
+- 1987-88 , the government decided to turn a bit more populist in the budget 
+- On the brink of bankruptcy By April 1991, India’s foreign exchange position was officially in its twilight zone. Currency devaluation and gold pledging The team put together by Narasimha Rao had considerable economic heft. 
+- 1 July 1991, when the rupee was devalued by 7 to 9 per cent against major currencies. This was followed by another large devaluation, by 11 per cent, on 3 July. 
+- The first Narasimham Committee report From the RBI’s perspective, running a tight monetary policy was necessary till foreign exchange reserves came under control. 
+- The Harshad Mehta affair Animal spirits in economics 
+- Rangarajan who announced the new policy, which eventually led to the entry of ten new private sector banks from 1994 onwards, including ICICI Bank, HDFC Bank, UTI Bank 
+- The Rangarajan Committee on balance of payments
+- The Tarapore Committee and the Asian crisis , Fin Min also asked RBI to set up an expert committee to lay out a road map for full capital account convertibility.
+- On 11 and 13 May 1998, the Vajpayee government initiated nuclear weapons tests, Economic sanctions and mounting economic troubles
+- The second Narasimham Committee report Even in midst of the Asian financial crisis, 
+- Rising foreign exchange reserves By the end of the Kargil war, 
+- Ketan Parekh and the Global Trust Bank debacle Just after the 2001-02 budget was announced, 
+- Lehman collapses In July 2007, investment bank Bear Stearns decided it was going to close two of its hedge funds specializing in subprime mortgage loans.
+- 2009 it was becoming apparent that IMF and World Bank were undercapitalized ,The Indian government was keen to display its new-found economic muscle, and the RBI purchased 
+- almost US$7 billion to diversify its foreign exchange reserves, after the sale of over 400 metric tonnes of gold was announced by the IMF to shore up its coffers. 
+- Former governor S. Venkitaramanan, who had overseen the gold pledging in 1991, welcomed the purchase, saying that ‘the wheel has now come full circle’, and the purchase was a risk mitigation exercise given that India’s US$285 billion of reserves were largely in US dollar denominated
+- Asset quality review and the NPA mess By the middle of 2015, even though government policies had changed, oil prices had fallen, the fiscal deficit
+- former Comptroller and Auditor General (CAG) Vinod Rai, to improve governance practices as recommended by the P.J. Nayak Committee on banking governance reforms. 
+- The demonetization episode : Cost-benefit analysis of demonetization is unclear The demonetization exercise remains a conundrum
 
