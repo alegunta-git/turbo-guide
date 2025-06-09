@@ -2,6 +2,23 @@
 * biochemistry : https://www.youtube.com/playlist?list=PLVZ65NT_eXfH_SGeXiyVROO6QVRrFNhPO
 * obs and gynae : https://www.youtube.com/watch?v=jM2n-G4eBHs&list=WL&index=2&pp=gAQBiAQB
 
+## MBBS Year 1 Text books
+- Grays anatomy
+- Human Anatomy ( B D Chaurasia) , General Anatomy , Selective Anatomy ( Vishram Singh)
+- Medical Physiology ( Guton and Hall) , K Sembulingam , G K Pal , 
+- Biochemisty ( Pankaja Naik) , DM Vasudevan
+- Pharmacology ( K D Tripathi) , Shanbag
+- Basic Pathology ( Robbins and Kumar) , Harsh Mohan , Ramadas Nayak 
+- Medical Microbilogy ( Apurba)
+- Forensic and Medical Toxicology , Dekal
+- ENT  P L Dhingra
+- Preventive and Social medicine , Park
+- ENT Hack
+- Gynecology , DC Dutta
+- Manipal Manual of Surgery , Shriram Bhat
+- Orthopaedics , Maheshwari & MHaskar
+
+
 ## MBBS Prep
 **books**
 * [Books in MBBS from 1st Year to Final Year!😱| MBBS Syllabus - YouTube](https://www.youtube.com/watch?v=4FitjW6BIMk&list=WL&index=2)
