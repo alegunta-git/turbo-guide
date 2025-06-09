@@ -40,3 +40,19 @@
 * things we learned from (conf , seminars , workshops) , lessons learned , magic formula
 * timeline on , statistics on 
 * videos to watch / podcasts to listen / blogs to read
+
+
+**ddg bangs tutorial**
+* [google bang](https://jerrynsh.com/how-to-google-with-a-bang/)
+* [yt ddg bangs chrome](https://www.youtube.com/watch?v=CkpTB0ZGcy4&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=2&pp=gAQBiAQB)
+* [yt custom search engine](https://www.youtube.com/watch?v=BuiUp675j2M&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=16&pp=gAQBiAQB)
+* [ddb Bang lite](https://duckduckgo.com/bang_lite.html)
+* [ddg guide](https://brettterpstra.com/2019/03/07/the-ultimate-guide-to-duckduckgo/)
+* [I Stopped Using DuckDuckGo. But, I Can't Live Without the Bangs](https://www.youtube.com/watch?v=gthBmRxDFlo&list=WL&index=23)
+* [12 Things DuckDuckGo Can Do That Google Can't](https://www.gadgets360.com/internet/features/12-things-duckduckgo-can-do-that-google-cant-596526)
+* [20 DuckDuckGo Bangs to Improve Your DuckDuckGo Search Experience - TechPP](https://techpp.com/2021/12/07/best-duckduckgo-bangs/)
+* [ddg Tips, Tricks & Hacks! - YouTube](https://www.youtube.com/watch?v=lG02jB01KIE&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=19)
+* [DuckDuckGo Tips Hindi - YouTube](https://www.youtube.com/watch?v=fORncLOJY3A&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=21)
+* [DuckDuckGo Instant Answer IT Tools](https://www.youtube.com/watch?v=Sk1NCCMxvys&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=15)
+
+
