@@ -157,6 +157,38 @@ tips
 * [Productivity Tips for Google Chrome - YouTube](https://www.youtube.com/watch?v=ytT8GU1ywgE&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=18)
 
 
+## Browser
+**UX**
+* [How to Navigate USCutter's Website - YouTube](https://www.youtube.com/watch?v=Jv1CnqrZrdU&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=18)
+
+**Samsung**
+* [Samsung Internet Browser](https://www.youtube.com/watch?v=LyEyLPhsEf0&pp=ygUhc2Ftc3VuZyBpbnRlcm5ldCBicm93c2VyIHR1dG9yaWFs)
+
+**Browser Basics**
+* CSIS 103 Module1 Web Browser Basics : https://youtu.be/fa8ECrUp9nk?si=wtaeKfkVcRmRpRtB
+* [Notepad Tutorial - Lesson 9 - Search with Bing - YouTube](https://www.youtube.com/watch?v=CjYpiEY1IwU)
+
+**MS edge**
+* [9 Microsoft Edge Features Chrome Doesn't Have (...yet) - YouTube](https://www.youtube.com/watch?v=-O-10X-HFB0)
+* [Highlight Text In PDF Document Using Edge Browser In Windows 10 - YouTube](https://www.youtube.com/watch?v=u1-wYKnhoNA)
+* pdf editing : https://www.youtube.com/watch?v=42tXxHrkgxE&list=WL&index=6&pp=gAQBiAQB
+* collections : https://www.youtube.com/watch?v=qd8uoezy27w&list=WL&index=7&pp=gAQBiAQB0gcJCYsJAYcqIYzv
+* debloat edge : https://www.youtube.com/watch?v=J4k6o-6PToQ&list=WL&index=4&pp=gAQBiAQB
+
+**Firefox**
+* [firefox features](https://www.youtube.com/watch?v=HlHwB7KOTOc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=17&pp=gAQBiAQB)
+* [Firefox Quick Search ](https://www.youtube.com/watch?v=pmtRBE5iFzY&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=8)
+* [How to search IMDB, Wikipedia from the address bar](https://support.mozilla.org/en-US/kb/how-search-from-address-bar)
+* [Basic browsing | Firefox Help](https://support.mozilla.org/en-US/products/firefox/basic-browsing-firefox)
+* [Firefox: Browsing with Firefox](https://edu.gcfglobal.org/en/firefox/browsing-with-firefox/1/)
+* [How to Use Firefox](https://www.youtube.com/watch?v=xeFhzM8lepA&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=24)
+* [Firefox Tips: Screenshots](https://www.youtube.com/watch?v=-Rv5MKSBNUM&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=4)
+* [ff contextmenu](https://www.youtube.com/watch?v=zcoFOk7vRrE&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=14&pp=gAQBiAQB)
+* [ff search bar](https://www.youtube.com/watch?v=3vgza48s5Xw&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=13&pp=gAQBiAQB)
+* [FF Search keyword](https://support.mozilla.org/en-US/kb/how-search-from-address-bar)
+* [Search Archives - The Den | The Den](https://blog.mozilla.org/theden/tag/search/)
+* [yt vivaldi multiple charts](https://www.youtube.com/watch?v=0r2xNBij0aM&list=WL&index=20)
+
 
 
 
