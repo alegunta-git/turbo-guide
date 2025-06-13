@@ -50,6 +50,34 @@
 * Matrix factorization 
 * Ranking and learning to rank
 
+
+## Algorithms ML
+## TODO 
+- Format the Algo ML List
+- Can we have the code base in md files
+
+**Data mining Algorithms**
+* PageRank , Apriori  , Naive Bayes 
+* K-means /  kNN- K Nearest Neighbor 
+* SVM Support Vector machines 
+* Linear Prog (capacity planning) 
+* EM /  C4.5  / CART - Classification and Regression Trees 
+* Gradient boosting algorithm and AdaBoosting algorithm
+
+**Machine Learning Algorithms**
+* Linear regression 
+* Logistic regression 
+* Decision tree , classifiers
+* Random forest algorithm
+* Dimensionality reduction algorithms 
+* Unsupervised learning ,  Supervised learning
+* Clustering , euclidean/manhattan/cosine/k-means 
+* hierarchial c , Neural network (ANN)
+* PAC Principal component analysis , Association rules (market basket) 
+* SVM , NLP (Sentiment analysis) , 
+* Streaming , Data compression(huffman)
+
+
 ## YT DSA
 * [big o](https://www.youtube.com/watch?v=x2CRZaN2xgM&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=10&pp=gAQBiAQB)
 * dsa nan s : https://www.youtube.com/watch?v=QD7m7NMCfrY&pp=ygURbmFuY3kgc29sYW5raSBkc2E%3D
@@ -61,7 +89,6 @@
 * DSA - mycoding school : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC
 * LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
 * DSA : https://www.youtube.com/watch?v=CBYHwZcbD-s&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
-
 
 **DSA Qs**
 * https://www.crackingthecodinginterview.com/resources.html
