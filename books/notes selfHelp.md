@@ -12,6 +12,10 @@
 * THE RULES OF WELL-DESIGNED WRITING  : Rule 1: Make Key Information Immediately Visible bottom line up front (BLUF) , 2: Separate Distinct Ideas
 * **Rule 3: Place Related Ideas Together , Order Ideas by Priority , Include Headings , 6 : Consider Using Visuals**
 
+
+**Decisions are temporary**
+"But what if ...?" "What happens when ...?" "Don't we need to plan for ...?"  Don't make up problems you don't have yet. It's not a problem until it's a real problem. Most of the things you worry about never happen anyway.  Besides, the decisions you make today don't need to last forever. It's easy to shoot  down good ideas, interesting policies, or worthwhile experiments by assuming that whatever you decide now needs to work for years on end. It's just not so, especially for a small business. If circumstances change, your decisions can change. Decisions are temporary
+
 ## Book :Self-Discipline: How to Develop Spartan Discipline, Unbreakable Mental Toughness, and Relentless Willpower 
 - Spartan Minimalism , “Luxury dilutes hunger.”— Robin Sharma
 - “Our life is frittered away by detail. Simplify, simplify.”— Henry David Thoreau “Simplicity is the ultimate sophistication.”— Leonardo da Vinci
