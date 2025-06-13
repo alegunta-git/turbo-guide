@@ -1,5 +1,11 @@
+
+**Sanskrit**
+* https://www.learnsanskrit.org/guide/
+* [Quora Vedas how to memorize](https://www.quora.com/Before-the-Vedas-were-written-down-how-were-they-memorised)
+* [How the ancients learnt the Vedas perfectly](https://indianexpress.com/article/parenting/learning/how-ancients-learnt-vedas-perfectly-5743767/)
+
+
 **yt note taking**
-* [notes kindle](https://www.youtube.com/watch?v=XzsFvetijH4&list=WL&index=15)
 * Notetaking : Mindmap , outline 
 * [billgnotes](https://decidingbetter.com/?p=611)
 * [billg review](https://grokable.com/2003/04/post-billg-review/)
