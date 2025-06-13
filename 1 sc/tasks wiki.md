@@ -4,4 +4,5 @@
 * 12
   * No progress constipation
 * 13
-  * mv wi  from books to notes , break up books links 
+  * mv wi  from books to notes , break up books links
+  * sb pm , qs , pdm , mooc , misc 
