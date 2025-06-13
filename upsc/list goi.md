@@ -99,5 +99,16 @@
   - Department of Sports
   - Department of Youth Affairs
 
+## IAS Officers
+* TN Seshan : Bought Reforms in Indian Election Commission and SOP for elections
+* Saurabh Gaur : edu(cloud based tech ans scripts evaluation , engage Byju for 8-10 class ) 
+* Ashok Kemka : Enquiry of key cases , most transferrred
+* Divya Mittal : 9m get water UP Village 
+* Toppers tips : Abhinash mishra , bhavesh mishra (Quora) 
+
+
+
 ## Policies
 - NEP 2020 : https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf 
+
+
