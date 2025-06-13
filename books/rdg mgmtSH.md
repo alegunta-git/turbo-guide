@@ -1,15 +1,23 @@
-## PDM Interview
-* Cracking PM Interview 
-* Cracking PM Career
-* Solving Product Design Exercises
-* Sacred Seven
+## GTD 
+* Getting Things done
+* PARA method Tiago Forte
+* Building Second Brain Tiago Forte
+* Time Management Sysadmin ( Thomas A Limoncelli)
+* Life Leverage (rob moore) 
+* The Art of Discarding: How to Get Rid of Clutter and Find Joy - Nagisa Tatsumi
+* The life Changing Habit of Tidying Up Kondo Mari
 
-## Case Interview
-* Case formulas ,  
-* Case in Point M Consentino  
-* Wharton case study
-* Case Interview secrets
-* Ind SME
+## Self Help
+* This is your life(Donovan)
+* Eat That Frog (Brian Tracy)
+* Atomic Habits James Clear
+* The Almanac of Naval Ravikant
+* Ikigai
+
+## Sales
+* Be a Sales SuperStar ( Brian Tracy)
+* Game of Sales (David Perry)
+* Make It Happen Before Lunch: 50 Cut-to-the-Chase Strategies for Getting the Business Results You Want(Stephan Schiffman)
 
 ## Mckinsey
 * Minto Pyramid ,  
@@ -34,26 +42,6 @@
 * HBR Guide to Building Your Business Case
 * HBR Guide to Data Analytics Basics for Managers
 
-## GTD 
-* Getting Things done
-* PARA method Tiago Forte
-* Building Second Brain Tiago Forte
-* Time Management Sysadmin ( Thomas A Limoncelli)
-* Life Leverage (rob moore) 
-* The Art of Discarding: How to Get Rid of Clutter and Find Joy - Nagisa Tatsumi
-* The life Changing Habit of Tidying Up Kondo Mari
-
-## Self Help
-* This is your life(Donovan)
-* Eat That Frog (Brian Tracy)
-* Atomic Habits James Clear
-* The Almanac of Naval Ravikant
-* Ikigai
-
-## Sales
-* Be a Sales SuperStar ( Brian Tracy)
-* Game of Sales (David Perry)
-* Make It Happen Before Lunch: 50 Cut-to-the-Chase Strategies for Getting the Business Results You Want(Stephan Schiffman)
 
 ## Management
 IT Management
@@ -173,8 +161,5 @@ Work
 * Rapid Problem Solving Postit notes
 * Be a Kickass Assistant (Heather Beckel  ) 
 * The Wealthy Consultant: Welch, Taylor A.
-
-
-
 
 
