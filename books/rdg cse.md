@@ -1,37 +1,3 @@
-## Interview
-Coding Interview
-*  Cracking The Coding Interview: 150 Programming Questions And Solutions gayle
-*  Elements of Programming Interview
-*  Coding Interview Patterns
-*  Dynamic Programming for coding interview
-*  Fav Prog Lang effectiveSeries - Java C++ Python
-*  Daily Coding Problem
-
-System Design
-*  System Design Vol1 Alex Xu 
-*  System Design Vol2 
-
-Algorithms
-* Algorithm Design Manual ( S Skiena)
-* Algorithms (Sedgewick)
-* Grokking Algorithms
-* CLRS T. H. Cormen, C. L. Leiserson, Introduction to Algorithms, MIT Press.
-* J. Kleinberg and E. Tardos, Algorithm Design, Addison-Wesley.
-* Michael T. Goodrich and Roberto Tamassia, Algorithm Design:
-* Udi Manber, Introduction to Algorithms: A Creative Approach, Addison-Wesley.
-
-Scalability
-* Philip and Alex's Guide to Web Publishing, P. Greenspun. Lecture notes, 
-* Scalability Rules
-* Scalable Internet Architectures
-* Architecting for Scale
-* Designing Data-Intensive Applications
-
-Data Science
-* Ace the Data Science Interview
-* ML Design Patterns
-
-
 ## CSE Textbooks
 **CSE Subjects**
 * **Data Structures and Algorithms**
