@@ -10,6 +10,10 @@
 * We read and think. Warren and I do more reading and thinking and less doing than most people in business. That is very uncommon –Charlie Munger
 * If you took our top fifteen decisions out, we’d have a pretty average record. It wasn’t hyperactivity, but a hell of a lot of patience. You stuck to your principles and when opportunities came along, you pounced on them with vigor –Charlie Munger
 
+**N Narayana Murthy**
+I observed how in a western country even the socialists understood that wealth has first to be created before it can be distributed; that there could only be a few leaders to create wealth. And that it’s the job of the government to create an environment
+
+
 **The Story of the Reserve Bank of India :Rahul Bajoria**
 - 1861 : government took control of paper currency  through the Paper Currency Act, which gave the
 - The Reserve Bank of India came into existence on 1 April 1935. Sir Osborne Arkell Smith, first governor 
