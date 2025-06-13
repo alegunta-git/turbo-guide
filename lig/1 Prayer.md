@@ -1,33 +1,39 @@
-## List of Prayer
-### Advanced
+## 1000 names
 - [Vishnu Sahasranamam - Hindupedia, the Hindu Encyclopedia](https://www.hindupedia.com/en/Vishnu_Sahasranamam)
 - [Lalitha Sahasranamam - Hindupedia, the Hindu Encyclopedia](https://www.hindupedia.com/en/Lalitha_Sahasranamam)
-- Bhagvad Gita
-
-
-### Japam Ashtottaram
-- 108 Sri raghavendra stotram
-- 108 Gayatri mantra japam
-- 1008 Gayatri mantra japam
-- https://vignanam.org/telugu/subrahmanya-ashtottara-sata-namavali.html
-
-### Daily Puja
+  
+## Daily Puja
 - 5 Basic shlokas 
 - 21 Gayatri mantra
-* [yt Gayatri Mantra](https://www.youtube.com/watch?si=YgD0K_vu6ze82Ud7&v=mxLv8KnBfjg&feature=youtu.be)
 - 19 Sri saneshwarji
 - 21 Sri raghavendra stotram
 - Govinda namalu
 - Sri Lakshmi astotram
 - Sri Raghavendra ashtakam
 - Sri kalabhairavashtakam
-- meaning : https://www.artofliving.org/in-en/mahashivratri/kalabhairava-ashtakam-lyrics-meaning
 - Durga chalisa
 - Subhramanya ashtakam
 - Hanuman chalisa
 - Sri yantroddaraka stotram
 - Hayagriva stotram
 - Sri Nava graha stotram
+
+### Meaning
+* [yt Gayatri Mantra](https://www.youtube.com/watch?si=YgD0K_vu6ze82Ud7&v=mxLv8KnBfjg&feature=youtu.be)
+- https://www.artofliving.org/in-en/mahashivratri/kalabhairava-ashtakam-lyrics-meaning
+
+
+## Ashtottaram
+- https://vignanam.org/telugu/subrahmanya-ashtottara-sata-namavali.html
+
+## Japam
+- 108 Sri raghavendra stotram
+- 108 Gayatri mantra japam
+- 1008 Gayatri mantra japam
+
+## Advanced
+- Bhagvad Gita
+
 
 ## Learn
 * [Sanskrit for Shastra](https://www.youtube.com/watch?si=T-0sKZuD29g4we6-&v=kDgozf92HnE&feature=youtu.be)
