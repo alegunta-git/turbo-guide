@@ -164,6 +164,31 @@
 * SVM , NLP (Sentiment analysis) , 
 * Streaming , Data compression(huffman)
 
+
+
+**geeksforgeeks**
+* https://www.geeksforgeeks.org/10-most-important-data-structures-for-coding-interviews/
+* https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+* https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/
+* https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
+* https://www.geeksforgeeks.org/top-50-searching-coding-problems-for-interviews/
+* https://www.google.com/amp/s/www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/amp/
+
+
+## DSA Cheatsheet
+* https://www.bigocheatsheet.com/
+* https://algs4.cs.princeton.edu/cheatsheet/
+* https://en.wikipedia.org/wiki/List_of_data_structures
+* https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd
+* 10 algo : https://hbfs.wordpress.com/2008/12/23/the-10-classes-of-algorithms-every-programmer-must-know-about/
+
+## Cheatsheet
+* https://cheatography.com/
+* [Google Java](https://google.github.io/styleguide/javaguide.html)
+* [Google Test](https://testing.googleblog.com/search/label/TotT)
+* [Google dev SG](https://developers.google.com/style)
+
+
 ## leetcode
 * https://leetcode.com/studyplan/top-interview-150/
 * [14 patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
