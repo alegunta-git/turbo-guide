@@ -47,3 +47,9 @@
 **Sagar pl**
 * [yt sagar pl](https://www.youtube.com/@Sagarclips/playlists)
 * [wunderlist use](https://www.youtube.com/watch?v=TGz67AMG9a8&list=WL&index=1&pp=gAQBiAQB)
+
+**Telugu vlogs**
+* namaste america : https://www.youtube.com/watch?v=mvC7-m8q5hk&list=WL&index=7&pp=gAQBiAQB
+
+**Travel glogs**
+- nandas journey : https://www.youtube.com/watch?v=1lsiIXQBaag&list=WL&index=2&pp=gAQBiAQB
