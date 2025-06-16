@@ -178,3 +178,7 @@
 * The School of Hard Knocks: The Evolution of Pension Investing at Eastman Kodak  by Russell L. Olson 
 * Business Model Generation ,  
 * Value Proposition Design
+
+
+## YT
+- 10 best investing books : https://www.youtube.com/watch?v=ON6H-BmL50g&list=WL&index=4&pp=gAQBiAQB0gcJCd4JAYcqIYzv
