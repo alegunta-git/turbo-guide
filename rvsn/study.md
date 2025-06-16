@@ -5,6 +5,11 @@
 * [How the ancients learnt the Vedas perfectly](https://indianexpress.com/article/parenting/learning/how-ancients-learnt-vedas-perfectly-5743767/)
 
 
+
+math
+- yt study math : https://www.youtube.com/watch?v=3RyL_FqbaX0&list=WL&index=6&pp=gAQBiAQB
+
+
 **yt note taking**
 * Notetaking : Mindmap , outline 
 * [billgnotes](https://decidingbetter.com/?p=611)
