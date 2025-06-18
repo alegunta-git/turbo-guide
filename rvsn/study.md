@@ -1,13 +1,47 @@
 
+**Roots**
+* [greeklatinroots](https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf)
+* [rootchart](http://www.prefixsuffix.com/rootchart.php)
+
+## Maths
+- yt study math : https://www.youtube.com/watch?v=3RyL_FqbaX0&list=WL&index=6&pp=gAQBiAQB
+- [fast math skills*](https://managementconsulted.com/fast-math/)
+
+**Calculator**
+* 125 + 10 , 125 - 10 , 125 * 10 , 125 / 10 
+* 125 + 10% , 125 - 20% , 125 * 15% , 125 / 5% 
+* 2 * 2 * 2 * 2 = , 2^4 16 , 4 * sqrt(16) , log 1000 , ln 10
+* [IMP calc soup](https://www.calculatorsoup.com/calculators/math/basic.php)
+* [hp calc](https://h10032.www1.hp.com/ctg/Manual/c00363319.pdf)
+* [yt calc](https://www.youtube.com/watch?v=X98-TJRMZRk&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=11&pp=gAQBiAQB)
+* [percentage](https://wordpandit.com/percentages-formulas-tricks-and-shortcuts/)
+
+
+
+## Writing
+**elos**
+* https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf
+
+**APA**
+* [APA format](https://www.easybib.com/guides/citation-guides/apa-format/)
+* gdocs apa format : https://www.youtube.com/watch?v=f7WomKsmeuI&list=WL&index=15&pp=gAQBiAQB
+* ref website ms word : https://youtu.be/nBMQNQt_fU4?si=5ZgYzv4B_95ym-l4
+
+**ADP**
+* adp format : https://youtu.be/decO68mL-tU?si=lXzAYilac1rXTC1j
+
+**Writing**
+* Writing paradigms : https://www.lupinworks.com/roche/pages/paradigms.php
+* [Writing Templates for Google Docs (Pack of 3) — Abbie Emmons](https://abbieemmonsauthor.com/store/writing-templates-for-google-docs-pack-of-3)
+* [Write book summary](https://copywritingcourse.com/how-to-write-a-book-summary/)
+
+
 **Sanskrit**
 * https://www.learnsanskrit.org/guide/
 * [Quora Vedas how to memorize](https://www.quora.com/Before-the-Vedas-were-written-down-how-were-they-memorised)
 * [How the ancients learnt the Vedas perfectly](https://indianexpress.com/article/parenting/learning/how-ancients-learnt-vedas-perfectly-5743767/)
 
 
-
-math
-- yt study math : https://www.youtube.com/watch?v=3RyL_FqbaX0&list=WL&index=6&pp=gAQBiAQB
 
 
 **yt note taking**
