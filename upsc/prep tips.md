@@ -82,3 +82,29 @@
 
 **GS4**
 - Ethics :famous quotes key issues , collection quotes , pyq case studies
+
+## Mains Exam 
+
+| Paper | Subject                           | Remarks                                                                                                                                                              |
+|-------|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| GS1   | Indian  History, Art  and Culture | Old NCERTS thorough reading Hx Art and Culture                                                                                                                       |
+|       | World  History                    | New NCERT: Themes in History , PYQ                                                                                                                                   |
+|       | Geography                         | NCERT 6 to 12  , Emphasize on Map Work, through Map                                                                                                                  |
+|       |                                   |                                                                                                                                                                      |
+| GS2   | Polity                            | NCERT 11 to 12                                                                                                                                                       |
+|       |                                   | Emphasis on National News from Administrative perspective                                                                                                            |
+|       |                                   | Follow up on Supreme Court Judgements  and Constitutional Amendments                                                                                                 |
+|       | Governance                        | Ongoing government schemes and policies (Google and PIB)                                                                                                             |
+|       |                                   | Current Affairs (The Hindu/Indian Express newspaper)                                                                                                                 |
+|       |                                   |                                                                                                                                                                      |
+| GS3   | Economy                           | Indian Economic Survey (past two years )                                                                                                                             |
+|       |                                   | Budget and its analysis                                                                                                                                              |
+|       | Ecology and Environment           | Follow current affairs, Inter Conventions, COPS                                                                                                                      |
+|       |                                   | National developments                                                                                                                                                |
+|       | Science and tech                  | PYQs Trend , Study of latest technological in such as blockchain, artificial int CBDC, 5G, etc. and their policy i (Google, newspaper and coaching Government sites  |
+|       | Int Security                      | Gov Sites and Data                                                                                                                                                   |
+|       | Disaster Management               | CA , IGNOU material                                                                                                                                                  |
+|       |                                   |                                                                                                                                                                      |
+| GS4   | Ethics                            | Quotes on imp issues and topics earth , democracy , freedom                                                                                                          |
+|       |                                   | collection of quotes MG , NM , MLKing , PYQ case studies                                                                                                             |
+
