@@ -52,13 +52,19 @@
   * Read amz kindle sme bks , upsc files
   * Read core books , track reading in  wiki list (daily tracker)
   * Download yt marathon videos , view 1.5x , yt recos,
+
 ## Subjects
-* GS1 : Art and Heritage , History of India (Ancient, Medieval , modern), World History
-* GS1 : Indian society , Geography India , Geography World
-* GS2 : Constitution ,Polity  , Governance ,  Social Justice , International relations
-* GS3 : Indian economy , Disaster Management  , Internal security
-* GS3 : Agriculture & Food  , Environment & Biodiversity  , Science and Tech, Infrastructure 
-* GS4 : Ethics , Integrity , moral thinkers , Emotional intelligence  , Probity in governance
+* GS1
+  * Art and Heritage ,
+  * History of India (Ancient, Medieval , modern), World History ,Indian society
+  * Geography India , Geography World
+* GS2
+  * Constitution ,Polity  , Governance ,  Social Justice , International relations
+* GS3
+  * Indian economy , Disaster Management  , Internal security
+  * Agriculture & Food  , Environment & Biodiversity  , Science and Tech, Infrastructure 
+* GS4
+  * Ethics , Integrity , moral thinkers , Emotional intelligence  , Probity in governance
 
 **GS1**
 - Ind Art & Culture : ncert 11 and 12 , chronology , mind map , tables spectrum , st and lt impact
