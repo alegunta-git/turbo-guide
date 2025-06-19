@@ -1,3 +1,11 @@
+## Ratios
+* [11 thumb rules](https://www.youtube.com/watch?v=w3Y0-Keho9Y&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=6&pp=gAQBiAQB)
+* [10 rules investing](https://www.youtube.com/watch?v=rfScEFtcx3s&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=34&pp=gAQBiAQB)
+* [5 ratio mf](https://www.youtube.com/watch?v=X1rbN1VRaxc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=37&pp=gAQBiAQB)
+* [sip 8 4 3 ](https://www.youtube.com/watch?v=dzzC8i0reUw&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=52&pp=gAQBiAQB)
+* [15 65 20](https://www.youtube.com/watch?v=NEzqHbtGa9U&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=10&pp=gAQBiAQB)
+* [yt finviz](https://www.youtube.com/watch?v=CX_SSefhWsU&list=WL&index=15)
+
 ## Fin Planning
 * [6 fin tools](https://www.youtube.com/watch?v=_ZvK35NlI8Q&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=30&pp=gAQBiAQB)
 * [6 fin rules](https://www.youtube.com/watch?v=RdVyjKRxZfs&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=25&pp=gAQBiAQB)
@@ -17,13 +25,6 @@
 * [1% club](https://www.youtube.com/watch?v=dUYRdW6fYTk&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=22&pp=gAQBiAQB)
 * Wint wealth PL : https://www.youtube.com/@WintWealthYT/playlists
 
-## Ratios
-* [11 thumb rules](https://www.youtube.com/watch?v=w3Y0-Keho9Y&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=6&pp=gAQBiAQB)
-* [10 rules investing](https://www.youtube.com/watch?v=rfScEFtcx3s&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=34&pp=gAQBiAQB)
-* [5 ratio mf](https://www.youtube.com/watch?v=X1rbN1VRaxc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=37&pp=gAQBiAQB)
-* [sip 8 4 3 ](https://www.youtube.com/watch?v=dzzC8i0reUw&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=52&pp=gAQBiAQB)
-* [15 65 20](https://www.youtube.com/watch?v=NEzqHbtGa9U&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=10&pp=gAQBiAQB)
-* [yt finviz](https://www.youtube.com/watch?v=CX_SSefhWsU&list=WL&index=15)
 
 ## MF
 * [How to consolidate your mutual funds](https://www.youtube.com/watch?v=nTFOwFmsyA4)
