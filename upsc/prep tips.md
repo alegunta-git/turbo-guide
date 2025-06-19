@@ -1,69 +1,55 @@
-## To do refactor this page
-**SOP prep work**
+## Prep Tips
 * Know Syllabus(80%) : Memorize syllabus
-* PYQs
-  * Refer to 5 years Prev Year  Qs (topic wise)
-  * Keep it as near as possible
-* Study Aids
-  * Weekly Time table(topics/week)
-* Books
-  * NCERT 6-12 : Art and Culture , History , Polity , Geography , Economics , 
-  * Core Books ( Polity-Lakshmikanth , IR - Pavneet , Eco - Sanjiv Verma)
-  * Geography : Oxford Atlas ( Map Reading)
-  * History : Timelines
-* SOP reading
-  * NCERT 3 round reading ,  90days challenge 
-  * Read 1 Standard book 10 times rather than 10 books only 1 time
-    * First rdg: should be casual
-    * 2nd rdg : Analyse pyq papers
-    * 3rd rdg : highlight key section , note making
-* Reports & Reference
-  * Eco Survey
-  * ARC Reports
-  * Constitution of India
-  * vikaspedia , arthapedia
-* Essay Writing
-  * Prewriting / Refine / Revise
-  * Essays Disha 151
-* Toppers Answers
-  * Review Toppers Ans scripts
-  * Refer to Master Ans writing
-* News
-  * The Hindu Editorial  Analysis (2)
-  * **Issue : Historical background, factual. Content, current status, pros and cons , challenges, conclusion** 
-  * PIB Press releases
-  * Vision ias current affairs
-* DAR
-  * SWOT analysis 
-* Tips
-  * Regular review : 1-1-1 (Read 1 newspaper , 1 credible textbook and 1 online resource) 
-  * FOMO Dont pile up books , DONT be Information Collector 
-  * Reading newspaper ( must , helpful) , CA : follow news , read n/p no tv and audio
-  * Correlate syllabus w np reading ,
-  * Newspaper clipping – 6 files ( Categories) : TH NP cutouts gs 1 2 3 4 topics ,
-  * Take notes topic wise rather than date wise
-  * Make brief notes for Key news items  , Focus / Editorials / View Points
-  * Note taking
-    * Diagrams , mind maps , Flow charts , Tables , Maps reading
-* Notes 2024 Prep Plan
-  * sabbatical 2wk,
-  * Read Toppers bk(71/gamla/Pavneet)
-  * Refer to yt shrt(aspirant) ,manuj jindal videos
-  * Read amz kindle sme bks , upsc files
-  * Read core books , track reading in  wiki list (daily tracker)
-  * Download yt marathon videos , view 1.5x , yt recos,
+* PYQs : Refer to 5 years Prev Year  Qs (topic wise) , Keep it as near as possible
+* Study Aids :  Weekly Time table(topics/week)
+* Regular review : 1-1-1 (Read 1 newspaper , 1 credible textbook and 1 online resource) 
+* FOMO Dont pile up books , DONT be Information Collector 
+* Reading newspaper ( must , helpful) , CA : follow news , read n/p no tv and audio
+* Correlate syllabus w np reading ,
+* Newspaper clipping – 6 files ( Categories) : TH NP cutouts gs 1 2 3 4 topics ,
+* Take notes topic wise rather than date wise
+* Make brief notes for Key news items  , Focus / Editorials / View Points
+* Note taking : Diagrams , mind maps , Flow charts , Tables , Maps reading
+
+**SOP reading**
+* NCERT 3 round reading ,  90days challenge 
+* Core books Read 1 Standard book 10 times rather than 10 books only 1 time
+* Rdg 1 : should be casual , Rdg 2 : Analyse pyq papers , Rdg 3 : highlight key section , note making
+* Toppers Answers : Review Toppers Ans scripts , Refer to Master Ans writing
+
+**News**
+* The Hindu Editorial  Analysis (2)
+* **Issue : Historical background, factual. Content, current status, pros and cons , challenges, conclusion** 
+* PIB Press releases
+* Vision ias current affairs
+
+ **Books List**
+* NCERT 6-12 : Art and Culture , History , Polity , Geography , Economics ,
+* Core Books ( Polity-Lakshmikanth , IR - Pavneet , Eco - Sanjiv Verma)
+* Geography : Oxford Atlas ( Map Reading)
+* History : Timelines
+* Economy : vikaspedia , arthapedia
+* Reports : ARC Reports , Eco Survey
+* Constitution of India 
+* Essay Writing : Essays Disha 151 (Prewriting / Refine / Revise)
+* DAR : SWOT analysis 
+ 
+**2024 Prep Plan**
+* sabbatical 2wk,
+* Read Toppers bk(71/gamla/Pavneet)
+* Refer to yt shrt(aspirant) ,manuj jindal videos
+* Read amz kindle sme bks , upsc files
+* Read core books , track reading in  wiki list (daily tracker)
+* Download yt marathon videos , view 1.5x , yt recos,
 
 ## Subjects
-* GS1
-  * Art and Heritage ,History of India (Ancient, Medieval , modern), World History ,Indian society
-  * Geography India , Geography World
-* GS2
-  * Constitution ,Polity  , Governance ,  Social Justice , International relations
-* GS3
-  * Indian economy , Disaster Management  , Internal security
-  * Agriculture & Food  , Environment & Biodiversity  , Science and Tech, Infrastructure 
-* GS4
-  * Ethics , Integrity , moral thinkers , Emotional intelligence  , Probity in governance
+* GS1 : Art and Heritage ,History of India (Ancient, Medieval , modern), World History ,Indian society
+* Geography India , Geography World
+* GS2 : Constitution ,Polity  , Governance ,  Social Justice , International relations
+* GS3 : Indian economy , Disaster Management  , Internal security ,Agriculture & Food  ,
+* Environment & Biodiversity  , Science and Tech, Infrastructure 
+* GS4 : Ethics , Integrity , moral thinkers , Emotional intelligence  , Probity in governance
+
 
 **GS1**
 - Ind Art & Culture : ncert 11 and 12 , chronology , mind map , tables spectrum , st and lt impact
