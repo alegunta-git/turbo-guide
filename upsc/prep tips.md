@@ -55,8 +55,7 @@
 
 ## Subjects
 * GS1
-  * Art and Heritage ,
-  * History of India (Ancient, Medieval , modern), World History ,Indian society
+  * Art and Heritage ,History of India (Ancient, Medieval , modern), World History ,Indian society
   * Geography India , Geography World
 * GS2
   * Constitution ,Polity  , Governance ,  Social Justice , International relations
