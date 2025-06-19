@@ -1,3 +1,8 @@
+**Key**
+* [101 blog titles](https://seo.co/blog-post-title-ideas/)
+* [10000 search oprs](https://www.optimizesmart.com/10000-search-engine-queries-for-your-link-building-campaign/)
+* [popular keywords](https://www.wordstream.com/popular-keywords)
+* [gdorks](https://exposingtheinvisible.org/en/guides/google-dorking/)
 
 **ddg**
 * !a books  , !a iPhone 15 cases (Amazon USA) ,   !ain  ( Amazon india) , !acro rss
