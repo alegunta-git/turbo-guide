@@ -4,5 +4,5 @@
 * 13 : mv wi  from books to notes , break up books links , sb pm , qs , pdm , mooc , misc
 * 16 : sb rdg , stock , sb int qs 
 * 18 : yt links , sc keys , ofc notes , sb ofc
-* 19 : crl svb pdf , sb fin links , sb gd2 upsc 
+* 19 : crl svb pdf , sb fin links , sb gd2 upsc , cl daily doc
 
