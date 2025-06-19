@@ -4,7 +4,6 @@
 * [popular keywords](https://www.wordstream.com/popular-keywords)
 * [gdorks](https://exposingtheinvisible.org/en/guides/google-dorking/)
 
-## DDG
 **ddg**
 * !a books  , !a iPhone 15 cases (Amazon USA) ,   !ain  ( Amazon india) , !acro rss
 * !b hadoop Bing search , !bang (bangs),  !blogspot  Blogspot , !bbc bbc
