@@ -1,3 +1,4 @@
+# Concepts
 **Basics**
 - Inflation
 - Market risk , interest rate risk , credit risk , liquidity risk , reinvestment risk , volatility , risk of fraud 
@@ -16,6 +17,91 @@
 - 68 95 99.75 , 68%  returns distributed 1 SD mean , 95% 2 SD , 99% 3 SD
 - Investment 9 per cent annual rate compounding quarterly, EAR  (1+(0.09/4)^4) -1*100  = 9.3 per cent
 
+
+**asset allocation model**
+|         | Accumulation | Distribution |
+|---------|--------------|--------------|
+| Old Age | 70:30        | 50:50        |
+| Young   | 80:20        | 60:40        |
+
+**Need to take risk**
+| Fin Goal (Rate %)   | 8 | 9  | 10.5 | 12 | 13.5 | 15  |
+|---------------------|---|----|------|----|------|-----|
+| Equity Allocaiton % | 0 | 20 | 40   | 60 | 80   | 100 |
+
+**Tolerable loss and equity exposure**
+| Max Tolerable loss % | 5  | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 50  |
+|----------------------|----|----|----|----|----|----|----|----|-----|
+| Max equity exposure  | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |
+
+
+**Budget**
+* Emergency Fund : Salaried : 6 months of expenses , 12mo liquid fund , Self employed : 9x-12x
+* Expenses - 60% - EMI's , Reg Exp , Future Goals - 30% - g1 , g2 , g3 ,  Retirement - 10% - PPF , MF SIP 
+* 50/30/20 : monthly income is Rs 100,000, HH Expense : 50000 , Needs : 30000 , Savings 20000
+* 6m e fund , 15% liquidity , 50-30-20 budgeting , 20% savings , 50% debt to asset ration , credit score 800 , 
+* save 25% per month , avg bal bk < 1l , understand investment , life ins 5 ann inc , hlth ins > 10L , 
+* car ( registration 4-8% , road tax 2-12% , insurance , temp regn , handling and logistic charges , no extended warranty) 
+* medical checkup (3-5k), fin adviser (10-25k) , start sip (5-20k) ,
+* sr citizen a/c (50k-2l) , pm vaya v ( 2-3l) , gold etf(5-10k), health ins 
+* Salary 1lakh per month
+  * Food (20%,20000) , 8% transport 8000 , 20% housing  20000
+  * 20% savings 20000 , 20% discretiornary 20000 ,  4% hlth ins 4000 , 3% life ins 3000,
+
+**Banking**
+* KYC , Nomination  , Banking Account(self,family) , Netbanking/Telebanking 
+* Loans ( Car , Home , 2w ,Educational , Personal , Loan against shares , Gold , working capital , agri)
+* Investment : FD (Interest Rate , Tax Deduction , Form 15G/H), MF , RD , SIP , Gold bar , Demat , pension plan , child plan , ULIP 
+* Insurance : Med ins , vehicle ins ,travel ins , gen ins , term plan
+* other svc : Credit Report , Debt repayment CC , Debit card , Forex Card , Letter of credit , Online bill payment
+
+**Insurance**
+* 10X life insurance rule , 10 time annual income
+* 2015 insurance , 1 cr term plan 12000,
+* 5l family floater 8000, 20l cover personalaccident  cover 4000 ( Ann premium 24000)
+
+**Loans**
+* House : 2-3x Annual income , 20 lakh salary , home loan 40-60l 
+* Car Loan : value < 50% ann income , 20/4/10 - down payment of 20% , tenure 4 years , emi not higher than 10% income 
+* Personal loan 16% , 3l amt - 2 y - 14689 emi 
+* Auto loan 12% , 8l - 5y - 17795 ,
+* home loan 7% - 50l - 20y - 38764 , CC 36% 
+
+**Loan(Home,Car)**
+* EMI Formula: EMI= (A*R)*(1+R) ^N/ ((1+R) ^N)-1)
+* loan 10l ,11%,15 years ,Tenure = 15*12 = 180 months , EMI = (1000000 x 0.00916)x((1+.00916)^180)/([(1+.00916) ^180] - 1)  = = Rs 11,361 
+
+**Loan Details**
+| Loan             | Criteria                  | Rate   | Duration               |
+|------------------|---------------------------|--------|------------------------|
+| Personal Loan    | Age 21-60 , 25000 /month  | 12-18% | 40l , 12-60 months     |
+| Educational Loan | Age 16-35                 | 9-12%  | 50l , 15yr 180 EMIs    |
+| Auto Loan        | Age 21-60 , 3l /yr salary | 9-14%  | 25l , 12-60 months     |
+| Home Loan        | Age 21-65 , 10000 pm      | 7-9%   | 20-30 yr , 240-360 EMI |
+
+
+**Tax** 
+- Tax Planning = ELSS + NPS + PPF
+- Post Office Investment = FD + SCSS 
+- Tax Adjusted returns TR = NR * (1-tax rate), NR: nominal return , = 10 - 10 * 30% = 10 - 10 * 0.3 = 7
+* Tax Investment Sec 80C 150000 - 130000 ELSS , 10000 term ins , 10000 ppf 
+* Tax filing ( 2000 , 4000 , 7000) : salary / pension / interest / rent / capital gains / foreign assets
+* Src of Income : Savings bank interest , FD rd  nsc , ins policies ,
+* Dividends , st capital gains , lt capital gains , gold funds 
+
+
+**Income tax**
+* Tax Planning = ELSS + NPS + PPF , Post Office Investment = FD + SCSS 
+* old and new tax regime
+* Cleartax ITR Filing
+* [How to file ITR online? | ITR Filing tutorial for salaried employees AY 2024-25 - YouTube](https://www.youtube.com/watch?v=ShWu6vniMgQ&t=1s)
+* [Income Tax Portal, Government of India Login Page](https://eportal.incometax.gov.in/iec/foservices/#/login)
+* [Form26AS](https://cleartax.in/s/view-form-26as-tax-credit-statement)
+* [verify etax](https://cleartax.in/s/income-tax-e-verification-evc)
+  
+**Retirement**
+- Retirement 4% w/d rule : 33000 monthly income ( 4l/yr ,4% corpus) , 1 cr , 2yrs , earns 7% inflation % 
+
 **Stocks**
 * Invest in Stock : 100 -  Current Age of = % in Equity , @30 - 70% , @60- 40%
 * 10/5/3 - 10% equities , 5% bonds/debt , 3% FDs/t bills/savings bank a/c
@@ -30,19 +116,7 @@
 * cost of acquiring (entry load) , cost of holding(expense ratio) , cost of exiting(exit load) mf scheme
 * returns of 10 yrs a/z ,
 * avoid schemes at top/bottom of performance deck , avoid schemes low corpus < 100 cr 
-
-**Tax** 
-- Tax Planning = ELSS + NPS + PPF
-- Post Office Investment = FD + SCSS 
-- Tax Adjusted returns TR = NR * (1-tax rate), NR: nominal return , = 10 - 10 * 30% = 10 - 10 * 0.3 = 7
-* Tax Investment Sec 80C 150000 - 130000 ELSS , 10000 term ins , 10000 ppf 
-* Tax filing ( 2000 , 4000 , 7000) : salary / pension / interest / rent / capital gains / foreign assets
-* Src of Income : Savings bank interest , FD rd  nsc , ins policies ,
-* Dividends , st capital gains , lt capital gains , gold funds 
-
-
-**Retirement**
-- Retirement 4% w/d rule : 33000 monthly income ( 4l/yr ,4% corpus) , 1 cr , 2yrs , earns 7% inflation % 
+## Formulas
 
 **Ratios**
 - Payback period = Initial investment amount/value ÷ Cash flow per year
@@ -105,50 +179,13 @@
 - Interest: 15% per annum - 15/12 = 1.25% = 0.0125
 - S = 1,000 * [{(1+ 0.0125) ^120 - 1}/0.0125] *  (1+ 0.0125)  = Rs 2,78,657, which is the future value of the SIP.
 
-**Budget**
-* Emergency Fund : Salaried : 6 months of expenses , 12mo liquid fund , Self employed : 9x-12x
-* Expenses - 60% - EMI's , Reg Exp , Future Goals - 30% - g1 , g2 , g3 ,  Retirement - 10% - PPF , MF SIP 
-* 50/30/20 : monthly income is Rs 100,000, HH Expense : 50000 , Needs : 30000 , Savings 20000
-* 6m e fund , 15% liquidity , 50-30-20 budgeting , 20% savings , 50% debt to asset ration , credit score 800 , 
-* save 25% per month , avg bal bk < 1l , understand investment , life ins 5 ann inc , hlth ins > 10L , 
-* car ( registration 4-8% , road tax 2-12% , insurance , temp regn , handling and logistic charges , no extended warranty) 
-* medical checkup (3-5k), fin adviser (10-25k) , start sip (5-20k) ,
-* sr citizen a/c (50k-2l) , pm vaya v ( 2-3l) , gold etf(5-10k), health ins 
-* Salary 1lakh per month
-  * Food (20%,20000) , 8% transport 8000 , 20% housing  20000
-  * 20% savings 20000 , 20% discretiornary 20000 ,  4% hlth ins 4000 , 3% life ins 3000,
-
-**Insurance**
-* 10X life insurance rule , 10 time annual income
-* 2015 insurance , 1 cr term plan 12000,
-* 5l family floater 8000, 20l cover personalaccident  cover 4000 ( Ann premium 24000)
-
-**Loans**
-* House : 2-3x Annual income , 20 lakh salary , home loan 40-60l 
-* Car Loan : value < 50% ann income , 20/4/10 - down payment of 20% , tenure 4 years , emi not higher than 10% income 
-* Personal loan 16% , 3l amt - 2 y - 14689 emi 
-* Auto loan 12% , 8l - 5y - 17795 ,
-* home loan 7% - 50l - 20y - 38764 , CC 36% 
 
 ## TVM 
 **TVM Fx**
 - PV (rate, nper, pmt, fv, type)
 - FV , PV , Rate of Int % , Duration (N years) , PMT , 
 
-**YT links**
-* [excel tvm](https://www.youtube.com/watch?v=TDpuYH7d7Nc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=5&pp=gAQBiAQB)
-* [TVM CFP Rahul A](https://www.youtube.com/watch?v=XxJcfe5uppY&list=PLaszgMtgc9pnzmIQWYSEqPU6tU2fMnltp)
-* [NISM Cert](https://www.youtube.com/playlist?list=PLHZhh8OWIA9S1GvYPCSuZTDuVo6ycPC-j)
-
-## Formula
-* [CAGR](https://www.youtube.com/shorts/hc2AybJZtbk)
-* [mbl calc](https://www.youtube.com/watch?v=CTZ9nvIrsrM&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=3&pp=gAQBiAQB)
-* [mbl discount](https://www.youtube.com/watch?v=9_2nOgv6UDY&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=2&pp=gAQBiAQB)
-* [prd discount](https://www.youtube.com/watch?v=VWcDMlRbQbk&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=4&pp=gAQBiAQB)
-* [vaddi lekkalu](https://www.youtube.com/watch?v=QC7HZUxoSy4&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=1&pp=gAQBiAQB)
-
-## Misc
-Some points to note
+**NPV ,Some points to note**
 1. NPV is an absolute number
 2. IRR is expressed in % terms
 3. NPV calculates additional wealth
@@ -158,22 +195,6 @@ Some points to note
 7. Since NPV is a direct measure of increase in wealth, NPV is preferred over IRR in case of conflict in mutually exclusive investments (where we have to select only one investment). In case of a scenario like: A’s NPV is high & B’s IRR is high, always go with the higher NPV option.
 
 
-## Math
-**asset allocation model**
-|         | Accumulation | Distribution |
-|---------|--------------|--------------|
-| Old Age | 70:30        | 50:50        |
-| Young   | 80:20        | 60:40        |
-
-**Need to take risk**
-| Fin Goal (Rate %)   | 8 | 9  | 10.5 | 12 | 13.5 | 15  |
-|---------------------|---|----|------|----|------|-----|
-| Equity Allocaiton % | 0 | 20 | 40   | 60 | 80   | 100 |
-
-**Tolerable loss and equity exposure**
-| Max Tolerable loss % | 5  | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 50  |
-|----------------------|----|----|----|----|----|----|----|----|-----|
-| Max equity exposure  | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |
 
 
 
