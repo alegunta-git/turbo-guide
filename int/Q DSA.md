@@ -1,6 +1,10 @@
 
-
-
+**Top 5 Algorithms** 
+- Breadth First Search and Depth 
+- Dynamic Programming 
+- Backtracking 
+- Sliding Window
+- top k elements
 
 **Algorithms Analysis**
 - Sorting Techniques (Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort)
