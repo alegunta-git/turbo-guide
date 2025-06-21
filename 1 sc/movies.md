@@ -1,11 +1,7 @@
 
-- Jan
-  - Bandish Bandits
-- Apr 
-  - bullet train , kushi
-- May
-  - hindi mv , hidden figures . the diplomat , doc g , baby ila raa
+
+
+  - hidden figures . the diplomat , doc g , baby ila raa
   - jamnapaar , rocket boys , 
   - udta punjab , sajjan singh
-- June
-  - scam 1992
+
