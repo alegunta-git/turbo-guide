@@ -1,21 +1,3 @@
-**Fin Planning**
-* [10 options](https://weinvestsmart.com/top-10-best-investment-options-in-india/)
-* [Thumb rules](https://www.icicidirect.com/investonomics/articles/the-thumb-rules-of-investing)
-* [15 fin resolutions](https://freefincal.com/15-personal-finance-resolutions-for-2023/)
-* [10 rules](https://www.financialexpress.com/money/10-personal-finance-rules-millennials-should-follow-2468828/)
-* [DCF](https://www.asimplemodel.com/financial-curriculum/financial-modeling/discounted-cash-flow/dcf-model-basics)
-
-**Blog**
-* [UmaS articles](https://muckrack.com/uma-shashikant/articles)
-* [GetMoneyRich](https://getmoneyrich.com/start-here/)
-* [bemoneyaware](https://bemoneyaware.com/income-tax/)
-* [Quora SReddy](https://www.quora.com/profile/Sreekanth-Reddy-423)
-* [GMR MF7531](https://getmoneyrich.com/the-7-5-3-1-rule-of-sip-investing-in-mutual-funds/)
-* [Mental Models Farnham ](https://fs.blog/mental-models/)
-
-## Investment
-* https://gurus.rediff.com/question/qdtl/money/51-2cr-ppf-4cr-deposits-1cr-mf-sold-property-accquired/5197116
-
 ## Fincal blogs
 * https://freefincal.com/equity-mutual-fund-screener-jan-2025-shortlist-consistent-performers/
 * https://freefincal.com/equity-mutual-fund-screener-oct-2024-shortlist-consistent-performers/
@@ -33,11 +15,26 @@
 * Equity MF screener : https://freefincal.com/equity-mutual-fund-screener-july-2024-shortlist-consistent-performers/
 
 
+**Fin Planning**
+* [10 options](https://weinvestsmart.com/top-10-best-investment-options-in-india/)
+* [Thumb rules](https://www.icicidirect.com/investonomics/articles/the-thumb-rules-of-investing)
+* [15 fin resolutions](https://freefincal.com/15-personal-finance-resolutions-for-2023/)
+* [10 rules](https://www.financialexpress.com/money/10-personal-finance-rules-millennials-should-follow-2468828/)
+* [DCF](https://www.asimplemodel.com/financial-curriculum/financial-modeling/discounted-cash-flow/dcf-model-basics)
+
+**Blog**
+* [UmaS articles](https://muckrack.com/uma-shashikant/articles)
+* [GetMoneyRich](https://getmoneyrich.com/start-here/)
+* [bemoneyaware](https://bemoneyaware.com/income-tax/)
+* [Quora SReddy](https://www.quora.com/profile/Sreekanth-Reddy-423)
+* [GMR MF7531](https://getmoneyrich.com/the-7-5-3-1-rule-of-sip-investing-in-mutual-funds/)
+* [Mental Models Farnham ](https://fs.blog/mental-models/)
+
+
 ## tax
 * https://upstox.com/news/personal-finance/tax/senior-citizen-has-1-28-crore-in-fixed-deposit-pomis-and-scss-how-much-tax-will-he-pay-in-fy-2025-26/article-157660/
+* https://taxconcept.net/income-tax/income-tax-departments-to-trace-these-cash-transactions-list/
 
-## RWA
-* https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-apartments-struggle-with-governance/articleshow/120847122.cms
 
 ## Q and A
 * https://m.rediff.com/amp/getahead/report/how-to-turn-rs-1-lakh-into-rs-1-crore/20250109.htm
@@ -47,4 +44,8 @@
 * https://www.cnbctv18.com/personal-finance/how-much-health-insurance-should-you-buy-and-when--an-age-wise-breakup-16377221.htm
 * [Retire 40s](https://www.timesnownews.com/web-stories/business/early-retirement-10-expert-financial-tips-to-help-you-retire-in-your-40s/photostory/106979868.cms)
 * https://www.businesstoday.in/entrepreneurship/story/if-i-had-rs-100-i-would-invest-in-zerodhas-nikhil-kamath-reveals-his-investment-preference-354463-2022-11-28
-* https://taxconcept.net/income-tax/income-tax-departments-to-trace-these-cash-transactions-list/
+* https://gurus.rediff.com/question/qdtl/money/51-2cr-ppf-4cr-deposits-1cr-mf-sold-property-accquired/5197116
+* https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-apartments-struggle-with-governance/articleshow/120847122.cms
+* https://www.businesstoday.in/personal-finance/investment/story/sips-alone-wont-secure-your-future-says-this-financial-planner-heres-why-goal-based-investing-matters-481190-2025-06-20
+* https://www.businesstoday.in/personal-finance/real-estate/story/when-you-book-an-under-construction-flat-in-india-a-wealth-advisor-flags-the-silent-risks-480786-2025-06-18
+* 
