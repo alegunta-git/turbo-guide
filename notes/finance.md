@@ -1,3 +1,27 @@
+**N Narayana Murthy**
+I observed how in a western country even the socialists understood that wealth has first to be created before it can be distributed; that there could only be a few leaders to create wealth. And that it’s the job of the government to create an environment
+
+**Behavioral Finance ( list of bias)**
+* Anchoring and Adjustment , Availability , Conservatism  , Confirmation 
+* Cognitive Dissonance  , Endowment , Framing , Hindsight , 
+* Illusion of Control  , Mental Accounting , Loss Aversion 
+* Overconfidence , Optimism , Recency , Regret Aversion  , Representatives 
+* Self-Attribution (Self-Serving)  , Self-Control  , Status Quo
+
+**bogle 12 pillars of investment wisdom**
+* investing is not nearly as difficult as it looks 
+* when all else fails , fall back on simplicity , occams razor , select simplest solution for multiple options
+* time marches on , magic of compounding , capital accumulation
+* nothing ventured , nothing gained - take reasonable interim risks
+* diversify , diversify , diversify 
+* eternal triangle : risk , return and cost , triangle of investing
+* powerful magnetism of the mean , returns tend to regress towards mean , returns fall after exceeding historical norms
+* do not overestimate your ability to pick superior MF , underestimate ability to pick bond and money market funds 
+* you may have a stable principal value or stable income stream , buy you may not have both (investment choices , trade-offs , compromises)
+* beware of 'fighting the last war'
+* you rarely , if ever , know something that the market does not ( collective wisdom of crowds)
+* think long term , short term volatility , stay the course
+  
 **Warren Buffett**
 * Most people spend most of their time and effort earning money and hardly any time managing and growing it
 * An investor without investment objectives is like a traveler without a destination
@@ -10,8 +34,29 @@
 * We read and think. Warren and I do more reading and thinking and less doing than most people in business. That is very uncommon –Charlie Munger
 * If you took our top fifteen decisions out, we’d have a pretty average record. It wasn’t hyperactivity, but a hell of a lot of patience. You stuck to your principles and when opportunities came along, you pounced on them with vigor –Charlie Munger
 
-**N Narayana Murthy**
-I observed how in a western country even the socialists understood that wealth has first to be created before it can be distributed; that there could only be a few leaders to create wealth. And that it’s the job of the government to create an environment
+
+**notes from big b rakesh j**
+* Check for Nifty and sensex dividend yield
+* Opportunity and market size move in tandem, runway growth (big change , tirnaround) , learn to value company
+* Investment Checklist :, Corp Governance,  owners runing w frugality , demand exists , competitive advantage,  liquidity imp , not more than 5_10% stick (liquidating difficult) , cash flows matter ( amz , fk) , Great business made w skills and superior budiness models
+* F500 cos built c/lows and profits , not w/ investors money , Rnd 1 and 2 funding fine , 3 & 4 sales growth, f500 pay taxes unlike online players 
+* Value destoryers : Dhfl , ( loans shell cos , round tripping  , A3Z infra , 
+* Small cap universe : murky deals , price manipulation,  forged financial results,  no earnings calls agter qtrly results
+
+**The great indian fraud - Smarak swain** 
+- 1957 securities fraud haridas mundhra 
+- 2001 tata finance insider trading dilip pendse 
+- 1992 Bibg bull The Harshad Mehta scam , money market , sbi loans against shares , replacement cost theory , jack securities prices
+- 2001 Big Bull Volume 2 Ketan Parekh
+- 1:Sai Baba Investment and Commercial Enterprises Shares on BSE (in INR)Source:
+- 2008 satyam accountant fiasco ramalingaraju
+- 2018 pnb scam gitanjali gems mckosin
+- 2019 exim fraud nirav miodi fake exports 
+- Pyramid ponzi schemes Chit fund  Sarada group  , Shells, Mailboxes and Islands: The Fraud EcosystemS
+- The Hasan Ali Scam , Bhushan steel ilfs scam 
+- 20 Criminal Cases That Shook India , New Delhi
+- Parekh, S. (2018) Fraud, Manipulation and Insider Trading in the Indian Securities Markets , 55,
+- Joshi, M. (2017) Stock Market and Accounting Frauds , Kindle: Riskpro Publication.43Para.
 
 
 **The Story of the Reserve Bank of India :Rahul Bajoria**
@@ -49,35 +94,12 @@ I observed how in a western country even the socialists understood that wealth h
 - The demonetization episode : Cost-benefit analysis of demonetization is unclear The demonetization exercise remains a conundrum
 
 
-**Behavioral Finance ( list of bias)**
-* Anchoring and Adjustment , Availability , Conservatism  , Confirmation 
-* Cognitive Dissonance  , Endowment , Framing , Hindsight , 
-* Illusion of Control  , Mental Accounting , Loss Aversion 
-* Overconfidence , Optimism , Recency , Regret Aversion  , Representatives 
-* Self-Attribution (Self-Serving)  , Self-Control  , Status Quo
+
   
 
-**notes from big b rakesh j**
-* Check for Nifty and sensex dividend yield
-* Opportunity and market size move in tandem, runway growth (big change , tirnaround) , learn to value company
-* Investment Checklist :, Corp Governance,  owners runing w frugality , demand exists , competitive advantage,  liquidity imp , not more than 5_10% stick (liquidating difficult) , cash flows matter ( amz , fk) , Great business made w skills and superior budiness models
-* F500 cos built c/lows and profits , not w/ investors money , Rnd 1 and 2 funding fine , 3 & 4 sales growth, f500 pay taxes unlike online players 
-* Value destoryers : Dhfl , ( loans shell cos , round tripping  , A3Z infra , 
-* Small cap universe : murky deals , price manipulation,  forged financial results,  no earnings calls agter qtrly results
 
-**bogle 12 pillars of investment wisdom**
-* investing is not nearly as difficult as it looks 
-* when all else fails , fall back on simplicity , occams razor , select simplest solution for multiple options
-* time marches on , magic of compounding , capital accumulation
-* nothing ventured , nothing gained - take reasonable interim risks
-* diversify , diversify , diversify 
-* eternal triangle : risk , return and cost , triangle of investing
-* powerful magnetism of the mean , returns tend to regress towards mean , returns fall after exceeding historical norms
-* do not overestimate your ability to pick superior MF , underestimate ability to pick bond and money market funds 
-* you may have a stable principal value or stable income stream , buy you may not have both (investment choices , trade-offs , compromises)
-* beware of 'fighting the last war'
-* you rarely , if ever , know something that the market does not ( collective wisdom of crowds)
-* think long term , short term volatility , stay the course 
+
+
 
 
 
