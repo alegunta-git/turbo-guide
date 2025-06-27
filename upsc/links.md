@@ -1,18 +1,6 @@
 ## Toppers Answer
 * [Toppers Answers](http://www.visionias.in/resources/toppers_answers.php)
 
-## YT Prep Tips
-* [use gdocs for CA](https://www.youtube.com/watch?v=QZUoyk9AMcM&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=1&pp=gAQBiAQB0gcJCYQJAYcqIYzv)
-* [org notes gdocs*](https://www.youtube.com/watch?v=gKLY4c1hZv4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=28&pp=gAQBiAQB)
-* [Notes micro themes](https://youtu.be/ffyruloCiqk?si=k_zRsazW45Syw3mO)
-* [cp content g keep](https://www.youtube.com/watch?v=4hK_y24T8BI&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=2&pp=gAQBiAQB)
-* [art of reading upsc](https://youtu.be/aammPSrYIZM?si=rK4yyi_ctOPEElKU)
-* [yt upsc exam tip](https://www.youtube.com/watch?v=IZAQaEZXUho)
-* [upsc prep tip](https://www.youtube.com/clip/UgkxfHnEjZYblfevnKVZzBfResZQyZ9mlYii)
-* [upsc ans tip](https://www.youtube.com/clip/Ugkx4aL2vYmwiGHJElZexPt6V6ZyEKB9IujY)
-* [yt Niveditha](https://www.youtube.com/@nivedithashetty_upsc/videos)
-* [yt LBSNAA trg](https://youtu.be/3SiRw-rEGIE?si=I7m2HxZTyVEysyN4)
-
 ## Syllabus PYQ
 * [upsc syllabus](https://vajiramandravi.com/upsc-syllabus/)
 * https://www.upscprep.com/plans/
