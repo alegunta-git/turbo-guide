@@ -1,29 +1,3 @@
-## Evernote
-* [what evernote](https://www.youtube.com/watch?v=NgkCgqIogcY)
-* [evernote hacks](https://www.youtube.com/watch?v=9_nnVaa5UMQ&list=WL&index=7&pp=gAQBiAQB)
-* [Evernote 5 for Mac](https://www.youtube.com/watch?v=7QgB1u0oMAA&list=PLEaqAN8MdyCxVX6AHs82GXbBYukB6XfI8)
-* [How To Use Evernote for CSE Note Making | How to Make UPSC Notes on Evernote - YouTube](https://www.youtube.com/watch?v=hz41-BU6wUw)
-* [yt pl evernote](https://www.youtube.com/playlist?list=PL4I5cq2DfrSrvYFyGDWcQ-VFf9j5qKKPf)
-
-
-
-## MS onenote
-* [How I summarize note pages in each section to a Summary Page (OneNote) - YouTube](https://www.youtube.com/watch?v=eeUNhOVBdQU&list=WL&index=46)
-* [on tables](https://www.youtube.com/watch?v=Ir9nJo_N2g8&list=WL&index=6&pp=gAQBiAQB)
-* [on hyperlinks](https://youtu.be/BVUmf4Y-fLA?si=FZT7N5DxUQcvGphS)
-* [adv onenote](https://www.youtube.com/watch?v=ESYRCgh4BFY&list=WL&index=5&pp=gAQBiAQB)
-* [How to use OneNote effectively & be more organized - YouTube](https://www.youtube.com/watch?v=I725xySvwug&list=WL&index=43)
-* [get organized with me - YouTube](https://www.youtube.com/watch?v=fJMpa13dC2U&list=WL&index=22)
-* [DIGITAL NOTETAKING Pt. 2 | OneNote - YouTube](https://www.youtube.com/watch?v=pH1o3w_mLrw)
-* [math onenote](https://www.howtogeek.com/28961/calculate-simple-math-quickly-in-onenote/)
-* https://www.xda-developers.com/reasons-finally-uninstalling-notion-what-replacing-it-with/
-
-
-## MS Project
-* [ms prj tutorial](https://www.youtube.com/watch?v=BYR_S6ktoFc)
-
-## MS Outlook
-* [How To Create Email Templates in Outlook | My Templates & Quick Parts - YouTube](https://www.youtube.com/watch?v=RSlfhjbIoK8)
 
 ## cmd
 * [Windows CMD: Drag Path Into Command Prompt - YouTube](https://www.youtube.com/watch?v=q494i9RH8NE&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=7)
@@ -62,17 +36,4 @@
 * [RPA](https://www.youtube.com/watch?edufilter=NULL&v=MBl-3Yb30FA)
 * [10 FREE PROGRAMS](https://www.youtube.com/watch?v=ODO5iqNkXts&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=21)
 
-## Images
-- [How to Copy and Paste Pictures from Google](https://www.youtube.com/watch?v=Q9X0bZ76avQ&list=WL&index=10)
-- [How to quickly resize multiple images in Windows](https://www.youtube.com/watch?v=19GbI6oFrW0&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=3)
-- [How to merge multiple images (jpeg, png, gif) into one PDF file in Windows 10 - YouTube](https://www.youtube.com/watch?v=bBQe7cAkOfw)
-* [gcf image](https://edu.gcfglobal.org/en/imageediting101/)
-* [ms picture](https://freewindowsvistatutorials.com/workingWithPicturesInWindows7.php)
-* [Batch Rotate Photos with Actions](https://www.youtube.com/watch?v=tf80sF3_0L4&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=26)
-* [How to Use the Snipping Tool](https://www.howtogeek.com/207754/how-to-use-the-snipping-tool-in-windows-to-take-screenshots/)
-* [How to Screenshot on Windows 10](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
-* [How to Take a Screen Shot](https://www.youtube.com/watch?v=InW_AXV8Dc4&list=WL&index=22)
-* [Take a Screenshot of a Drop Down Menu](https://www.youtube.com/watch?v=qFa7Dpwm89M&list=WL&index=18)
-* [How to take Screenshot of Drop-Down Menu or Popup in Win 10](https://www.youtube.com/watch?v=pfCM45iXvaI&list=WL&index=24)
-* [How to Use Greenshot for Windows - YouTube](https://www.youtube.com/watch?v=j45VKCrNYBE)
-* [Use Greenshot for Taking Screenshots](https://www.youtube.com/watch?v=UdeYSC2ZZso&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=20)
+
