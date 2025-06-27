@@ -1,29 +1,4 @@
 ## macair
-**Apple Things**
-* [culture code things](https://culturedcode.com/things/features/)
-* [Apple Things](https://www.youtube.com/watch?v=2R6o5t0VK_A&list=WL&index=3&pp=gAQBiAQB)
-
-
-**macmost**
-* [read web articles safari](https://www.youtube.com/watch?v=QiboqS86hQo&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=37&pp=gAQBiAQB)
-* notes tips : https://www.youtube.com/watch?v=yeypOg858NU
-* mac finder : https://www.youtube.com/watch?v=TY_ViHj4gFU
-
-basics
-* [MacBook Air Essentials](https://help.apple.com/macbookair/early-2016/)
-* [The best Mac keyboard shortcuts for 2022 | Digital Trends](https://www.digitaltrends.com/computing/mac-keyboard-shortcuts/)
-* [Save time with Mac keyboard shortcuts — Apple Support - YouTube](https://www.youtube.com/watch?v=r2xVvFVp3a4&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=30)
-
-**finder**
-* https://www.howtogeek.com/customize-finder-on-your-mac-for-a-more-productive-experience/
-
-
-new to mac
-* [new to mac](https://www.youtube.com/watch?v=3jeeFc2Vo1U&list=WL&index=2)
-* macbook prodvty : https://www.youtube.com/watch?v=7CXmAzZWGyg&list=WL&index=6&pp=gAQBiAQB
-* [yt new to mac](https://www.youtube.com/watch?v=3jeeFc2Vo1U)
-* [How To Scroll On a Mac - YouTube](https://www.youtube.com/watch?v=jQSaMw3S9uA&list=PLmMyXRtEtJEbe9jHvxCL08o6pHnKWJRQ3&index=6)
-
 
 keys
 * [gestures](https://support.apple.com/en-in/HT204895)
@@ -42,11 +17,6 @@ Files
 * [How to cut-paste (or move) files on Mac OS X - YouTube](https://www.youtube.com/watch?v=Y79pInal6pM)
 * [Moving Files - Mac - YouTube](https://www.youtube.com/watch?v=N4bKr_AFSCs&list=WL&index=5)
 * [How to Copy, Move and Group Files on the Mac - YouTube](https://www.youtube.com/watch?v=Ao9e0cDzMrE&list=WL&index=4)
-
-apple notes
-* [Apple notes](https://www.youtube.com/watch?v=zdoKysc1ttk)
-* [apple notes2 imp](https://youtu.be/9NNCsdpZKn8?si=vk-10DyNvO34D3Ki)
-* [yt Voice Dictation on Macbook](https://www.youtube.com/shorts/VfWygO5nH84)
 
 settings
 * [30 Mac / macOS Getting Started Tips! Do you know them all? - YouTube](https://www.youtube.com/watch?v=1qknuwb0LGM&list=WL&index=12)
