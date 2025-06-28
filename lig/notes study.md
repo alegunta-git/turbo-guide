@@ -1,96 +1,4 @@
-
-**Roots**
-* [greeklatinroots](https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf)
-* [rootchart](http://www.prefixsuffix.com/rootchart.php)
-
-## Maths
-- yt study math : https://www.youtube.com/watch?v=3RyL_FqbaX0&list=WL&index=6&pp=gAQBiAQB
-- [fast math skills*](https://managementconsulted.com/fast-math/)
-
-**Calculator**
-* 125 + 10 , 125 - 10 , 125 * 10 , 125 / 10 
-* 125 + 10% , 125 - 20% , 125 * 15% , 125 / 5% 
-* 2 * 2 * 2 * 2 = , 2^4 16 , 4 * sqrt(16) , log 1000 , ln 10
-* [IMP calc soup](https://www.calculatorsoup.com/calculators/math/basic.php)
-* [hp calc](https://h10032.www1.hp.com/ctg/Manual/c00363319.pdf)
-* [yt calc](https://www.youtube.com/watch?v=X98-TJRMZRk&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=11&pp=gAQBiAQB)
-* [percentage](https://wordpandit.com/percentages-formulas-tricks-and-shortcuts/)
-
-
-
-## Writing
-**elos**
-* https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf
-
-**APA**
-* [APA format](https://www.easybib.com/guides/citation-guides/apa-format/)
-* gdocs apa format : https://www.youtube.com/watch?v=f7WomKsmeuI&list=WL&index=15&pp=gAQBiAQB
-* ref website ms word : https://youtu.be/nBMQNQt_fU4?si=5ZgYzv4B_95ym-l4
-
-**ADP**
-* adp format : https://youtu.be/decO68mL-tU?si=lXzAYilac1rXTC1j
-
-**Writing**
-* Writing paradigms : https://www.lupinworks.com/roche/pages/paradigms.php
-* [Writing Templates for Google Docs (Pack of 3) — Abbie Emmons](https://abbieemmonsauthor.com/store/writing-templates-for-google-docs-pack-of-3)
-* [Write book summary](https://copywritingcourse.com/how-to-write-a-book-summary/)
-
-
-**Sanskrit**
-* https://www.learnsanskrit.org/guide/
-* [Quora Vedas how to memorize](https://www.quora.com/Before-the-Vedas-were-written-down-how-were-they-memorised)
-* [How the ancients learnt the Vedas perfectly](https://indianexpress.com/article/parenting/learning/how-ancients-learnt-vedas-perfectly-5743767/)
-
-
-
-
-**yt note taking**
-* Notetaking : Mindmap , outline 
-* [billgnotes](https://decidingbetter.com/?p=611)
-* [billg review](https://grokable.com/2003/04/post-billg-review/)
-* [dev notes](https://dev.to/logan/how-i-take-notes-ag1)
-* [meeting notes](https://www.scrumgenius.com/blog/how-to-take-meeting-notes)
-* [notes2](https://www.theopennotebook.com/2011/12/06/taking-good-notes/)
-* [notion](https://nira.com/how-to-use-notion/)
-* https://www.xda-developers.com/i-turned-my-note-taking-overload-to-an-efficient-pkm-system-heres-what-i-learned/ 
-
-**yt reading**
-* [IMP book notes](https://www.youtube.com/watch?v=mQzYdYOp9jg&list=WL&index=9&pp=gAQBiAQB)
-* [speed reading](http://www.drurywriting.com/keith/SPEED.htm)
-* [Warren Buffett 500p](https://www.cnbc.com/2018/03/27/warren-buffetts-key-tip-for-success-read-500-pages-a-day.html)
-* [how to read more](https://www.samuelthomasdavies.com/how-to-read-more/)
-* [eff reading](https://jamesclear.com/reading-comprehension-strategies)
-* [track reading](https://bookriot.com/track-reading-ultimate-reading-spreadsheet/)
-* [yt read ncert](https://www.youtube.com/watch?v=vRQdwf3mzBE&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=4&pp=gAQBiAQB)
-* [yt read book mortimer](https://www.youtube.com/playlist?list=PLzPY0u8zL8HdMsiKDs8ABWSycYc_hGhUv)
-* [tips read & remember](https://www.youtube.com/watch?v=7axLldOp6n8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=6&pp=gAQBiAQB)
-* [yt rembr read](https://youtube.com/shorts/pmHXXXH5DmI?si=FXQkobBD_rQaPVew)
-* [A System for Reading](https://www.youtube.com/watch?v=-T57bBtEymo)
-
-**yt mark book**
-* [yt mark a book](https://www.youtube.com/watch?v=9ect7YFveEs)
-* [ca Notes](https://www.youtube.com/clip/UgkxjwqDLVckvfjw3bjzCVFAtiE4DgAOh2uD)
-* [highlight text book](https://www.youtube.com/watch?v=LsiJ-CNmEJE&pp=ygUTaGlnaGxpZ2h0IHRleHQgYm9vaw%3D%3D)
-* [highlight text hindi](https://www.youtube.com/watch?v=A-wpSMcKZ-o&pp=ygUZaGlnaGxpZ2h0IHRleHQgYm9vayBoaW5kaQ%3D%3D)
-* [yt docs hindi typing](https://www.youtube.com/watch?v=lWr9FlZwwWQ&list=WL&index=17)
-
-Tips
-* [How To Study and Mind Power Techniques](https://youtu.be/IR9Vp_TGsH4?si=jNc-Fhtmb_iALOhF)
-* yt pl chet : https://www.youtube.com/@ChetChat101/playlists
-* [LBCC Study skills](https://www.youtube.com/watch?v=QLjip0wygAI)
-
-
-**cbse**
-* [gcse paper](https://www.youtube.com/watch?v=PJqsL_uaSko&list=WL&index=4&pp=gAQBiAQB)
-* [cbse sample papers](https://www.jagranjosh.com/articles/amp/cbse-class-10-sample-papers-and-marking-scheme-for-board-exam-2024-pdf-1680333171-1)
-* cbse parent handbook : https://www.cbse.gov.in/cbsenew/documents/Parents_Handbook_Careers_2025.pdf
-* [learning strategies](https://lsc.cornell.edu/notes.html)
-* [top edu sites](https://www.upwork.com/resources/top-sites-for-online-education-and-learning)
-* [40 apps college students](https://collegeinfogeek.com/best-apps-for-college-students/)
-* [⁠Life Skills That Are Not Taught In School](https://www.cheggindia.com/web-stories/life-skills-that-are-not-taught-in-school/)
-
 ## SOP Reading
-
 **Levels**
 * Level 1 : xls Formulas Vedic math
 * Level 2 : fin modeling , CFP , TVM problems , Regression 
@@ -232,6 +140,109 @@ _Why did this happen_
 
 **Note taking** 
 - Create Searchable Notes , reading tracker ,Read It Twice
-- Evernote( Audiobook , kindle hl ebook , clippings , book summaries , print) 
+- Evernote( Audiobook , kindle hl ebook , clippings , book summaries , print)
+
+
+## NEET
+## YT Playlist
+* biochemistry : https://www.youtube.com/playlist?list=PLVZ65NT_eXfH_SGeXiyVROO6QVRrFNhPO
+* obs and gynae : https://www.youtube.com/watch?v=jM2n-G4eBHs&list=WL&index=2&pp=gAQBiAQB
+
+## MBBS Year 1 Text books
+- Grays anatomy
+- Human Anatomy ( B D Chaurasia) , General Anatomy , Selective Anatomy ( Vishram Singh)
+- Medical Physiology ( Guton and Hall) , K Sembulingam , G K Pal , 
+- Biochemisty ( Pankaja Naik) , DM Vasudevan
+- Pharmacology ( K D Tripathi) , Shanbag
+- Basic Pathology ( Robbins and Kumar) , Harsh Mohan , Ramadas Nayak 
+- Medical Microbilogy ( Apurba)
+- Forensic and Medical Toxicology , Dekal
+- ENT  P L Dhingra
+- Preventive and Social medicine , Park
+- ENT Hack
+- Gynecology , DC Dutta
+- Manipal Manual of Surgery , Shriram Bhat
+- Orthopaedics , Maheshwari & MHaskar
+
+
+## MBBS Prep
+**books**
+* [Books in MBBS from 1st Year to Final Year!😱| MBBS Syllabus - YouTube](https://www.youtube.com/watch?v=4FitjW6BIMk&list=WL&index=2)
+* https://medicostimes.com/all-mbbs-books-pdf/
+* [read medical book](https://www.youtube.com/shorts/h7rBsehUz0M)
+
+**doc SME**
+* [*AWESOME* Notes NEET Anuj Pachhel YouTube](https://www.youtube.com/watch?v=-FaFlDKdzT8&list=WL&index=5&pp=gAQBiAQB)
+* [yt Clinical Practice notes](https://www.youtube.com/watch?v=GxumhC3C1ss&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy)
+
+## Neet prep
+**NEET links**
+* https://www.pw.live/exams/neet/neet-2025-preparation/
+* https://www.pw.live/exams/neet/neet-2024//
+* https://www.pw.live/exams/neet/neet-result-2023/
+
+**How to crack NEET**
+1. **Remember for competitive exam, time is limited and one can't afford to waste it here and there.(8am to 10pm)**
+1. Study Schedule , Study plan , freq revision session, Solve numerical pbm , draw diagram , mnemonics 
+1. PYQ :check hidden info , eliminate incorrect option, Id weak area , review mistakes 
+1. Skim entire q paper, prioritize qs , id easy qs , Skip difficult qs initially , use shortcuts approx , avoid overthinking second guessing 
+1. There is none who can pay you for your hours spent sitting on table and chair with the book.
+1. _You will be only paid for the pages read and remembered and that too pages selected carefully and not interestingly_.
+1. If a person selects one subject and read all the books written on one subject, he can not clear a competitive exam. 
+1. Rather who can remember physics/chemistry 60/60% and biology 80 per- cent will get better rank.
+1. If you are not able to understand something just cram or leave it , you are not supposed to do research(rca fail : overenthusiasm)
+
+**THE ULTIMATE GUIDE TO USE PHYSICS WALLAH APP**
+* Syllabus of various examinations
+* Test series , Previous Year’s Question Paper , Mock Tests . MCQs
+* NCERT Solutions , Notes for Classes , Formula Lists
+* Weekly Topic List: Create weekly topics list from  NEET syllabus.Stay aligned w/ coaching classes if enrolled, ensuring you don’t fall behind.
+* Basics First: Start w/ basics reading NCERT textbooks all subjects. Dive deep into text, diagrams, captions, summaries, points to ponder, and tables.
+* Consistent Revision: Regularly revise topics to reinforce learning.
+* Practice Previous Years’ Questions: Solve past NEET questions to understand exam patterns.
+  
+**HOW TO SUCCEED AT MEDICAL SCHOOL - AN ESSENTIAL GUIDE TO LEARNING**
+* What to Read : Blooms Taxonomy ,Concept Notes
+* SQ3R (Survey , Question , Read , Re-Read , Review notes) Making Notes
+* Keywords + Headings + Drawings , Cornell , Outline , Mindmap , Cue Cards , Tables Time Management
+* Activity Sheet [ Date - Time - Activity - Duration - Value ]
+* Revision Plan, Post it notes , record voice , Mnemonics , Anki Cards , Colored highlights
+* Practise past papers - MCQs , Short Ans , Best Ans Others
+* Clinical Skills : Practice , Simulation , Practice w/ Patients ,
+* Ask for specific feedback Learning Ops : Drug Charts , Drug Rounds , Check Pulse BP, Physio , Radiology
+* https://www.homeobook.com/pdf/succeed-at-medical-school.pdf
+
+
+## IIT Prep
+**books**
+* https://www.vidyalankar.org/iitjee/recommended-books
+
+**links**
+* https://www.scribd.com/document/318490609/Micro-Schedule
+* https://mystudycart.com/best-books-for-iit-jee-preparation
+* https://www.jagranjosh.com/articles/jee-advanced-physics-formula-sheet-pdf-1747221995-1
+
+**IIT Book – Som Paul**
+* 6m – Maths , Daily 40 problems , Vedic maths , Brilliant Tutorials
+* English : Every Day write 4page essay , get it reviewed by Mom
+* Note taking – imp : Sent , Outline , Cornell , Mindmap
+
+**IIT Prep**
+* Review syllabus & Topics 
+* Length + weight age  , * Study Low(1 Session 3hr) , Med (2 s) , High(3s) ) 
+* M(16)P(20)C(28), 64.3 = 192d (7m) 
+* Get study material  , Textbooks, Coaching material , 
+* Old Q papers , internet material , Attend Classes(HW,CW)
+* Understand concepts(reading/videos) , Videos 1.5x repeat , sticky notes
+* Time Management , Calendar - Study and Misc activities
+* Revise 2 subjects AM PM , Practice own(time table) 
+* Concept Maps  , Cram Formulae/Equations  , Mindmaps
+* Dog ear imp pages , Imp problem sets , Solve problem sets
+* Carry PDF/Audio and Video files in phone for revision
+* Note taking , Notes1(rough) , underline , Notes2(topic summaries, formulas, doubts to clarify(online/classroom)) , 
+* Sample problem , re-read , active recall , star tough q's  , Do mock exams (2/3hr slot) 
+* Review mistakes , identify weak areas/mistakes/complex topics
+
+
 
 
