@@ -98,14 +98,6 @@
 * https://en.wikipedia.org/wiki/List_of_software_development_philosophies
 
 
-**PKM**
-* https://www.xda-developers.com/productivity-hacks-discovered-after-testing-dozens-of-personal-knowledge-management-tools/
-* [common place book](https://ryanholiday.net/how-and-why-to-keep-a-commonplace-book/)
-* [30 Things bored](https://www.thegeekstuff.com/2010/03/30-things-to-do-when-you-are-bored-and-have-a-computer/)
-* [github wiki are repos](https://www.youtube.com/watch?v=U18COUDlzu8&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=24&pp=gAQBiAQB)
-* Veda Vyas : Document the Vedas , Palm Leaves , Scriptures : Organized Knowledge
-* Blooms Taxonomy
-
 **notion AI**
 * Create a business plan for a subscription-based AI tutoring platform.
 * Draft a business proposal for an AI-powered customer service chatbot.
