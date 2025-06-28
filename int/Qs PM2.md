@@ -1,3 +1,113 @@
+## Software Project Management
+* Assembling a team
+* Collecting requirements and building a project plan
+* Setting delivery milestones
+* Establishing source code and document controls, and development processes
+* Managing and tracking risk
+* Managing employees
+* Managing the schedule and the delivery dependencies
+* Instituting quality assurance processes for unit test, functional , acceptance test, system verification, and quality assurance
+* Running early release programs, such as alphas and betas
+* Building marketing and publicity collateral
+* Executing defect tracking, monitoring, projecting, and take-down
+* Handling packaging and delivery
+* Performing causal analysis
+
+Once you've got all that under your belt, some little- known gems can help turn a good project into a great one. 
+They group into ideas around managing people, process and quality. 
+Adding these tips and insights to your portfolio of skills can help you manage teams with the alacrity of a seasoned F500 executive.
+
+## TPM Role
+- How to address the Delivery Top 5 risks 
+- Know the Metrics and Numbers inside out 
+- How did you Grow the team & Getting work done through others 
+- Challenge faced 
+- Responsibilities 
+- Status report for msr wsr 
+- How to handle the Delivery Risk 
+- People management , Work allocation , 
+- Team Management , conflict resolution , handle multiple priorities 
+- Project management : Schedule and Cost (Budget) , Scope - CR Process , Fixed Bid Project Steering committee - Presentation and How to drive it 
+- Tech stack worked upon (MS.net , Java , Digital , Cloud) 
+- Agile process (Backlog grooming , Velocity , Sprint Planning , Challenges from SDLC to Agile transition , QA testing ) 
+- Release management 
+- Value-Adds : Best practices , Agile audit ( Quality and metrics analysis ) , Knowledge Management
+  
+**TPM Role at Emid Expectations** 
+- Monitor and handle the risks internally , before client is aware 
+- Quantify with number the issue list and action taken 
+- Ensure the BDD is followed for Front End and ff documents 
+- Resolution of nfr requirements 
+- As a TPM , be aware of CI CD , TDD and BDD 
+
+**Note** 
+- Answer your interview questions in a calm and assertive tone. Take time to gather your thoughts before answering, it is a key project manager skill to be able to process the facts before responding! 
+- Most project management candidates handle the questions designed to evaluate their technical proficiency well but tend to slip up on the project management interview questions that explore the behaviors or competencies required for a project manager position. 
+- Behaviors or competencies are important because over 80 percent of candidates lose the job offer due to their inability to demonstrate the required project manager behaviors.
+
+## Standard Project Management Interview Questions: 
+- How do you determine realistic schedules for the project? 
+- Explain your methods for resource allocation. 
+- How do you manage suppliers? 
+- How do you inform all the stakeholders of the progress of the project on a regular basis? How do you monitor risks to the project and mitigate them? 
+- What tools do you use to monitor and control projects? 
+- What project management methodologies are you most familiar with? 
+- What project software have you used? 
+- What change management processes have you used to ensure that change is introduced properly? 
+- What are the practices you follow for closing a project and meeting the conditions required to establish closure? 
+- What specific training have you had that would be relevant to this project manager job? How would you handle non- productive developers? 
+- If you do not get traction form a fellow TPM on another Team what would you do? How do you motivate your team of developers? 
+- What are the main things you would look for when you are running a cross-team Program? Was your loyalty ever challenged ? Give an example of such a scenario and what you did about it? 
+- An example of a win-win situation you have negotiated. 
+- Give an example of a challenging situation you had and how you handled it Describe a situation where you were the voice of the customer?
+- Give an example when you took ownership of a program. 
+- give an example where you insisted on the highest standards and at the same time focused on iterative development 
+- How do you earn the trust of your team members 
+- how did you use your analytical to solve a problem 
+- Example of getting by in from Stakeholders? 
+- A situation where you think target where unachievable and how you overcame it How do you add value to an already high-performance team 
+- What is the thing you are most proud of? 
+- An example of a stressful/tough situation you encountered. How did you handle it? If you had to do it over again, would you do it any differently? 
+- How do you plan for a project or program? 
+- What in your opinion are the three constraints of a project or program? 
+- What are the tell-tale signs that your project or program is going to fail? 
+- How have you contributed to the success of your programs? 
+- How would you increase the efficiency of your development team? 
+- How would you describe the critical path and float in a program? 
+- How do you deal with stress, pressure, and unreasonable demands? 
+- What are the tools you would use to ensure your program will succeed? 
+- If you come about an early delay in one of your milestones what would you do? Describe a situation when you had conflicting responsibilities and how did you handle it? How do you decide if you would like to you traditional project management vs Agile methodologies? 
+- How would you manage cross-team dependencies and deliverables? 
+- Describe a time when your project failed. 
+- What are the various states of a project? – RYG what do the various states stand for ? how do you move a Red to Green? 
+- The importance of data and how you have used data analytics in previous roles You missed a project deadline. How would you handle it?
+
+
+## Agile Questions
+- What are the different types of agile methodologies that you have used and know about? What are the core components of Scrum that you think are most valuable and what things do you feel are not so valuable? 
+- How would you describe the most effective standup? 
+- What are the best methods of sizing during a planning meeting 
+- What kind of preparation is necessary before you start a sprint planning meeting? How would you decide your sprint length? 
+- How do you calculate velocity? And how important is this? Where does calculating velocity not make sense? 
+- Have you ever used Kanban? Describe the situation where kanban makes sense and what are its advantages? 
+- Differentiate between cycle time vs Lead time? 
+- What are the key components of having a successful Agile team? 
+- Difference between a burn-up and a burndown chart? 
+- Various Agile tools you have used? 
+- How would you describe a spike in scrum? 
+- Why is CI, CD important? 
+- What is your take on documentation within a Scrum team? 
+- How do you manage dependencies within an agile development team? 
+- What is your take on the SAFe framework? 
+- What is your take on MVP? 
+- When does a scrum team fail and why? 
+- What are the primary advantages of using Scrum? 
+- Common problems of estimation during a planning session. 
+- How do you split large epic stories? Give an example. 
+- have you ever moved a Team to start using agile? If so describe the experience and the hurdles you faced. 
+- How do you prioritize when you groom your backlog or Take stories into your sprint? 
+
+
 ## BSA 
 - Explain SOW , BRD , JAD , Prototyping /Traceability/Change Management 
 - Change Req , Handle CR , Process modeling 
@@ -53,7 +163,6 @@
 - Building a Team : Tell me about a time when you had to build or motivate a team.
 - Teamwork Style : if I called up your teammates, how do you think they would describe you? 
 
-
 **Behavioral or Situational Interview Questions For PMs** 
 - All you need to do is have 5 to 8 different stories/project ready which you can use for various questions. Common questions
 - Describe a situation where used your leadership skills to help your project team meet a difficult challenge. 
@@ -64,96 +173,6 @@
 - You will find a thousand more when you google but if you have real projects that you have executed well you should be able to answer all of these with ease. 
 - Always use the STAR methodology – Situation, Task, Action, Result. Be clear and detailed in your answers. 
 - Ask the interviewer if he is following along and if your answer was what he was looking for. 
-
-## Agile Questions
-- What are the different types of agile methodologies that you have used and know about? What are the core components of Scrum that you think are most valuable and what things do you feel are not so valuable? 
-- How would you describe the most effective standup? 
-- What are the best methods of sizing during a planning meeting 
-- What kind of preparation is necessary before you start a sprint planning meeting? How would you decide your sprint length? 
-- How do you calculate velocity? And how important is this? Where does calculating velocity not make sense? 
-- Have you ever used Kanban? Describe the situation where kanban makes sense and what are its advantages? 
-- Differentiate between cycle time vs Lead time? 
-- What are the key components of having a successful Agile team? 
-- Difference between a burn-up and a burndown chart? 
-- Various Agile tools you have used? 
-- How would you describe a spike in scrum? 
-- Why is CI, CD important? 
-- What is your take on documentation within a Scrum team? 
-- How do you manage dependencies within an agile development team? 
-- What is your take on the SAFe framework? 
-- What is your take on MVP? 
-- When does a scrum team fail and why? 
-- What are the primary advantages of using Scrum? 
-- Common problems of estimation during a planning session. 
-- How do you split large epic stories? Give an example. 
-- have you ever moved a Team to start using agile? If so describe the experience and the hurdles you faced. 
-- How do you prioritize when you groom your backlog or Take stories into your sprint? 
-
-## PM Qs
-**TPM Role** 
-- How to address the Delivery Top 5 risks 
-- Know the Metrics and Numbers inside out 
-- How did you Grow the team & Getting work done through others 
-- Challenge faced 
-- Responsibilities 
-- Status report for msr wsr 
-- How to handle the Delivery Risk 
-- People management , Work allocation , 
-- Team Management , conflict resolution , handle multiple priorities 
-- Project management : Schedule and Cost (Budget) , Scope - CR Process , Fixed Bid Project Steering committee - Presentation and How to drive it 
-- Tech stack worked upon (MS.net , Java , Digital , Cloud) 
-- Agile process (Backlog grooming , Velocity , Sprint Planning , Challenges from SDLC to Agile transition , QA testing ) 
-- Release management 
-- Value-Adds : Best practices , Agile audit ( Quality and metrics analysis ) , Knowledge Management 
-
-**TPM Role at Emid Expectations** 
-- Monitor and handle the risks internally , before client is aware 
-- Quantify with number the issue list and action taken 
-- Ensure the BDD is followed for Front End and ff documents 
-- Resolution of nfr requirements 
-- As a TPM , be aware of CI CD , TDD and BDD 
-
-**Note** 
-- Answer your interview questions in a calm and assertive tone. Take time to gather your thoughts before answering, it is a key project manager skill to be able to process the facts before responding! 
-- Most project management candidates handle the questions designed to evaluate their technical proficiency well but tend to slip up on the project management interview questions that explore the behaviors or competencies required for a project manager position. 
-- Behaviors or competencies are important because over 80 percent of candidates lose the job offer due to their inability to demonstrate the required project manager behaviors. 
-
-## Standard Project Management Interview Questions: 
-- How do you determine realistic schedules for the project? 
-- Explain your methods for resource allocation. 
-- How do you manage suppliers? 
-- How do you inform all the stakeholders of the progress of the project on a regular basis? How do you monitor risks to the project and mitigate them? 
-- What tools do you use to monitor and control projects? 
-- What project management methodologies are you most familiar with? 
-- What project software have you used? 
-- What change management processes have you used to ensure that change is introduced properly? 
-- What are the practices you follow for closing a project and meeting the conditions required to establish closure? 
-- What specific training have you had that would be relevant to this project manager job? How would you handle non- productive developers? 
-- If you do not get traction form a fellow TPM on another Team what would you do? How do you motivate your team of developers? 
-- What are the main things you would look for when you are running a cross-team Program? Was your loyalty ever challenged ? Give an example of such a scenario and what you did about it? 
-- An example of a win-win situation you have negotiated. 
-- Give an example of a challenging situation you had and how you handled it Describe a situation where you were the voice of the customer?
-- Give an example when you took ownership of a program. 
-- give an example where you insisted on the highest standards and at the same time focused on iterative development 
-- How do you earn the trust of your team members 
-- how did you use your analytical to solve a problem 
-- Example of getting by in from Stakeholders? 
-- A situation where you think target where unachievable and how you overcame it How do you add value to an already high-performance team 
-- What is the thing you are most proud of? 
-- An example of a stressful/tough situation you encountered. How did you handle it? If you had to do it over again, would you do it any differently? 
-- How do you plan for a project or program? 
-- What in your opinion are the three constraints of a project or program? 
-- What are the tell-tale signs that your project or program is going to fail? 
-- How have you contributed to the success of your programs? 
-- How would you increase the efficiency of your development team? 
-- How would you describe the critical path and float in a program? 
-- How do you deal with stress, pressure, and unreasonable demands? 
-- What are the tools you would use to ensure your program will succeed? 
-- If you come about an early delay in one of your milestones what would you do? Describe a situation when you had conflicting responsibilities and how did you handle it? How do you decide if you would like to you traditional project management vs Agile methodologies? 
-- How would you manage cross-team dependencies and deliverables? 
-- Describe a time when your project failed. 
-- What are the various states of a project? – RYG what do the various states stand for ? how do you move a Red to Green? 
-- The importance of data and how you have used data analytics in previous roles You missed a project deadline. How would you handle it? 
 
 ## Qs To Ask 
 - Do you have any concerns about my candidacy? 
