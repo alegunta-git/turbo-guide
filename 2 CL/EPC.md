@@ -1,13 +1,10 @@
-## Links EPC
-
-**Vendors**
-* [UrbanFix](https://urbanfix.co.in/ac-installation-service-bangalore/)
-* [Gapoon Svc](https://www.gapoon.com/bangalore/electrician)
-* Carpenter : https://hometriangle.com/
-
-**House Construction**
+## House Construction
 * [Blog House construction](https://houseconstructiontips.com/)
 * [House Plan](https://www.homeplansindia.com/stages-of-house-construction-in-india.html)
+
+## Electrician
+* [UrbanFix](https://urbanfix.co.in/ac-installation-service-bangalore/)
+* [Gapoon Svc](https://www.gapoon.com/bangalore/electrician)
 
 ## Plumbing
 * [yt skilltrain - plumbing](https://www.youtube.com/watch?v=-YCp-msm3oM&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=9&pp=gAQBiAQB)
@@ -15,8 +12,7 @@
 * creative jilani pl : https://www.youtube.com/@CreativeJilani/playlists
 
 ## Carpentry
-* tbd
-
+* Carpenter : https://hometriangle.com/
 
 ## 2w  Driving
 * [motor cycle checklist](https://www.team-bhp.com/forum/motorbikes/180937-my-pdi-checklist-gearless-scooters.html)
@@ -31,4 +27,38 @@
 ## Misc
 * [J Shopping](https://www.youtube.com/watch?v=2cJC6OXsvV0&list=WL&index=11&pp=gAQBiAQB)
 * [yt dress well](https://www.youtube.com/watch?v=R9BP1loyA7Y&list=PLmMyXRtEtJEbpcDHcySTAefGOFKPA_e_z&index=4&pp=gAQBiAQB)
+
+
+## LIG Skills
+**KFA**
+- Career , 
+- Relationship  , 
+- Finance ,  
+- Health ,   
+- Home Improvement ,  
+- T - Task Management (GTD) 
+
+**How to** 
+- How to Cook  
+- How to Manage Money  
+- How to be Organized ,  cope with failure 
+- How to Drive Safely , 
+- How to clean a home , Laundry
+- How to spend wisely ,
+- How to Manage Time 
+- How to Use a Map 
+- How to find a job 
+
+**Naza training**
+- Laptop repair 
+- Mobile repair
+- Basic networking 
+- Sas data analysis 
+- Python prog
+- Eng 
+- Kannada 
+- Basic pc
+- Tally erp9
+
+
 
