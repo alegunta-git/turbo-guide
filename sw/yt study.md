@@ -39,7 +39,7 @@
 * [yt Niveditha](https://www.youtube.com/@nivedithashetty_upsc/videos)
 * [yt LBSNAA trg](https://youtu.be/3SiRw-rEGIE?si=I7m2HxZTyVEysyN4)
 
-  **yt note taking**
+**yt note taking**
 * Notetaking : Mindmap , outline 
 * [billgnotes](https://decidingbetter.com/?p=611)
 * [billg review](https://grokable.com/2003/04/post-billg-review/)
