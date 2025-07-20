@@ -301,5 +301,10 @@
 * Sharpe Ratio (S) = (r (Portfolio return) – rf (Risk free rate)) / portfoli volatility (v)
 * Treynor Ratio (S) = (r (Portfolio return) – rf (Risk free rate)) / portfoli beta (b)
 
-
+**"Retail Loan Growth (CAGR) Pre-pandemic (FY09–19) vs Post-pandemic (FY19–24):**
+Credit Cards: 12.1% → 21.0%
+Personal Loans: 15.1% → 18.2%
+Vehicle Loans: 16.5% → 14.8%
+Housing Loans: 19.0% → 15.5%
+Credit card usage has exploded in particular. Over the last 13 years, spending on credit cards has surged 13x—from ₹1.2 lakh crore to ₹15.6 lakh crore. The number of cards in circulation also grew over 5x—from 2 crore to 10.8 crore."
 
