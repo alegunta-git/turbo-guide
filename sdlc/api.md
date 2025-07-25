@@ -41,3 +41,13 @@
 * https://www.postman.com/api-platform/
 * [postman api](https://www.youtube.com/watch?v=CLG0ha_a0q8)
 
+## YT Training
+* [yt http course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=1&pp=gAQBiAQB)
+* [yt json](https://www.youtube.com/watch?v=iiADhChRriM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=5&pp=gAQBiAQB)
+* [yt api design](https://www.youtube.com/watch?v=hEj61QV0wdg&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=1&pp=gAQBiAQB)
+* [yt api documentation](https://www.youtube.com/watch?v=NawxzLB4aro&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=2&pp=gAQBiAQB)
+* [yt postman beginner](https://www.youtube.com/playlist?list=PLhW3qG5bs-L9P22XSnRe4suiWL4acXG-g)
+* [upi](https://www.youtube.com/watch?v=iI2NaN_QVTI&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=11&pp=gAQBiAQB)
+* [api pagination](https://www.youtube.com/watch?v=14K_a2kKTxU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=9&pp=gAQBiAQB)
+
+  
