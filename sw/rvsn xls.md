@@ -178,111 +178,94 @@ Probability
 * z.test ( a1:a12 , 5) , (frequency(a2:a11, b2:b9)}
 
 
-## Web design
-**web Patterns**
-* **GETTING INPUT**
-* Flagging / Reporting , Tagging , Inline (Conversational) Forms , Input Hints , Natural Language Inputs
-* Forgiving Formats , Inline Validation , Wizards / Stepped Forms , Completeness Meters , Action Context
-* Keyboard Shortcuts , Drag-and-Drop Actions , Default Values & Autocomplete , 
-* Immediate Immersion (or “Lazy Signups”) , Social Login , Notifications , 
-* Discoverable Controls, Expandable Inputs , Undo
-* **NAVIGATION**
-* Jump to Section , Single-Page Web Apps , Recommendations , Related Content , 
-* Next Steps , History / Recently Viewed , Featured Content , 
-* Infinite Scroll , Walkthroughs & Coach Marks
-* Overflow Menus , Morphing Controls , “Sticky” Fixed Navigation , Vertical Navigation ,
-* Popovers , Slideouts, Sidebars & Drawers , Links to Everything
-* **DATA & CONTENT MANAGEMENT**
-* Favorites & Bookmarks , Stats / Dashboards , Contextually-Aware Content , Hover Controls
-* Context Menus , WYSIWYG , Autosave , Lightbox Photo Slideshows , Full-Screen Modes
-* Interactive Content Layers , Maps As Backgrounds , Group Friends & Content , Grids , Cards
-* Hidden Information , Empty States , Direct Manipulation of Content & Data , Draggable Objects
-* **SOCIAL**
-* Achievements & Badges , Auto-Sharing , Activity Feeds , Friend Lists , Follow
-* Vote to Promote , Pay To Promote , Direct Messaging , Like , Find & Invite Friends
+## MS Excel
+**Excel Formulas**
+* [Google sheets fn list](https://support.google.com/docs/table/25273?hl=en-GB&ref_topic=1361471)
+* [CAGR Ablebits](https://www.ablebits.com/office-addins-blog/calculate-cagr-excel-formulas/)
+* [Excel Easy: #1 Excel tutorial on the net](https://www.excel-easy.com/)
+* [xls easy fn](https://www.excel-easy.com/functions.html)
+* [tax guru xls fx](https://taxguru.in/finance/excel-formulas-shortcuts-bank-reconciliation-emi-calculation-pivot-tables.html)
+* [xls fn](https://www.excelfunctions.net/excel-functions-list.html)
+* [xls function](https://excelx.com/formulas-functions/)
+* [Excel Formula List - Which formulas you must learn - 100+ examples](https://chandoo.org/wp/excel-formula-list/)
+* [xlsJet 350](https://exceljet.net/functions)
+* [500 Excel Formula Examples | Exceljet](https://exceljet.net/formulas)
+* [xls Stats fn](https://real-statistics.com/excel-capabilities/built-in-statistical-functions/)
+* [xls Stats fn2](https://bettersolutions.com/excel/functions/statistical-category.htm) 
 
-**Web Design**
-* IA blue print site ,  top level navigation ( tabs , menu bar , links , buttons ) 
-* sketches / mock ups focus on functionality 
-* text scannable( intro , header - section , bold and italics , short paras easier to read than text , bullet points to give facts ) 
-* visual metaphor for page elements ( main navigation , sub navigation , sidebar ,  white space , content , footer )
-* user persona , story boards , keep your site organized with IA ( Card sorting )
-* grid , golden ration , 2/3 , 1/3 (1.66 ratio )
-* color wheel , base color , typography , fonts , css style sheets for media 
-* web copy , text present in inverted pyramid ( main heading , sub heading , provide gist , add detail afterward , user can skip low level details)
-* web accessibility ( screen reader , audio. , alt text ) 
+tips
+* [yt Top 30 tips](https://www.youtube.com/watch?v=Hj4PVFYhqhQ&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=2)
+* [xls tips](https://www.teachexcel.com/excel-tutorial/#9)
+* [xls tips300](https://excelchamps.com/guides/tips/)
+* [Top 100 Excel Tips and TRICKS (Basic + Advanced) (Free PDF)](https://excelchamps.com/blog/tips/)
 
-**Web Design Deliverables**
-* Detailed description of site content
-* Wireframes and prototypes demonstrating site architecture
-* validated through user research and usability testing
-* Taxonomies representing categories and tags
-* Text, edited and proofread
-* Graphic design specifications for all page types
-* Header and footer graphics, logos, buttons, backgrounds
-* Detailed page comps or finished examples of key pages
-* Site graphic standards ,  master page grid templates completed 
-* Finished html template pages , SEO
-* cms templates , content structures , JavaScript scripts , Database tables 
+vba
+* [yt xls vba loops](https://www.youtube.com/watch?v=QOxhRSCfHaw&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=3)
+* [18 ready-to-use VBA Codes that will save your day](https://yonkov.github.io/post/18-ready-to-use-vba-codes-that-will-save-your-day/)
+
+I banking
+* [yt xls Investment Banking](https://www.youtube.com/watch?v=VpY-v9Gn6YA&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=23)
+* [bks FinModeling](https://corporatefinanceinstitute.com/resources/financial-modeling/best-financial-modeling-books/)
+
+**Data Analysis**
+* [Custom Excel number format](https://www.ablebits.com/office-addins-blog/custom-excel-number-format/)
+* [Group Pivot Table](https://www.excel-easy.com/examples/group-pivot-table-items.html)
+* [Create Two-Variable Data Table in Excel (Step by Step Examples)](https://www.wallstreetmojo.com/two-variable-data-table-in-excel/)
+* [3 ways duplicate](https://spreadsheetplanet.com/duplicate-sheet-in-excel/)
+* [download data](https://www.spreadsheetsports.com/free-tools/how-to-download-sport-data-into-a-spreadsheet/)
 
 
-**HTML**
-* Web2.0 : Search , Links , Author , Tags , Signals
-* Links:,href , name , target
-* Text : Formatting , Section , List(ol,ul,dt) , Block(div,hr,p) , inline(span,a,img)
-* Img:src,url,alt,align,ht,wt
-* Tables:border,cell padg ,tr,td,th,colspan | Frames | Style(bgcolor,text color,fonts,size,txt algin)
-* Forms(Form,action,method,input,name,value,size,text area, select , options)
+**yt xls tips**
+* [yt xls](https://www.youtube.com/watch?v=9iQj0Lix7UM)
+* [yt Percentage increase and decrease](https://www.youtube.com/watch?edufilter=NULL&v=HlX3O9vDzlc)
+* [yt Percent GST](https://www.youtube.com/watch?v=eYlrebch0oU&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=36)
+* [yt Financial Functions - YouTube](https://www.youtube.com/watch?edufilter=NULL&v=-6ERqkxlcFY)
+* [yt How To Calculate CAGR, IRR & XIRR on Excel Spreadsheet? - YouTube](https://www.youtube.com/watch?edufilter=NULL&v=JD0ootg9JOE)
+* [yt Excel add ins : How to Make your own Excel Add-ins - YouTube](https://www.youtube.com/watch?edufilter=NULL&v=t9MFnBpDHfA)
+* [yt text to col](https://www.youtube.com/shorts/sKLEBqSZlTE)
+* [yt Excel select data](https://www.youtube.com/watch?v=GBPLRthTsGc&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=15)
+* [yt Excel Autofill](https://www.youtube.com/watch?v=zQOafMG3Iq4&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=8)
+* [yt Advanced Find & Replace](https://www.youtube.com/watch?v=ZDuM2oQAiLw&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=9)
+* [yt clean data](https://www.youtube.com/watch?v=x78JR7XHTro&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=10)
+* [yt Copy Text from Browser to Excel](https://www.youtube.com/watch?v=7UVbaBuUWEA&list=PLmMyXRtEtJEbe9jHvxCL08o6pHnKWJRQ3&index=9)
+* [yt Excel Autofill](https://www.youtube.com/watch?v=zQOafMG3Iq4&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=2)
+* [yt Advanced Find & Replace](https://www.youtube.com/watch?v=ZDuM2oQAiLw&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=11)
+* [yt ⏱Do in 10sec Combine Multiple Workbook](https://www.youtube.com/watch?v=wIFXqd0m4VY&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=16)
+* [yt Download Data from the Web](https://www.youtube.com/watch?v=RCcEUpRNsXg&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=21)
+v
 
-**Developing User Interfaces for Microsoft Windows-Microsoft Press (1999)**
-- The Windows Interface Guidelines for Software Design
-- Microsoft Manual of Style for Technical Publications
-- About Face: The Essentials of User Interface Design
-- Donald A. Norman's The Design of Everyday Things
-- Macintosh Human Interface Guidelines
-- Easy to learn , configurability , beginning vs advanced users ,Information at Your Fingertips.
-- Users Perform Tasks, Not Features
+**Finance Modeling**
+* [How to Build a Financial Model in Excel - Full Tutorial for Beginners - YouTube](https://www.youtube.com/watch?edufilter=NULL&v=-ivpFNCU4CY)
+* [How to Build a Basic Financial Model in Excel - YouTube](https://www.youtube.com/watch?edufilter=NULL&v=Wws6T9uPVfA)
+* [Financial Modeling Tut - Quantitative Portfolio Management ](https://www.youtube.com/playlist?list=PL6YwPExkSESoghM_-FoS0VVI7elc4dLVB)
+* [Financial Modeling CMU](https://www.cmu.edu/swartz-center-for-entrepreneurship/assets/connects-spring-2018/Financial%20Modeling%20-%20CMU%20-%20Compton%202-2-18.pdf)
+* [Financial Modelling Best Practices - YouTube](https://www.youtube.com/watch?v=lvVfN6uFrrM&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=15)
+* [Financial Modeling The Top 10 Skills](https://corporatefinanceinstitute.com/resources/knowledge/modeling/financial-modeling-skills/)
+* [Top 5 Excel Features for Financial Modellers - YouTube](https://www.youtube.com/watch?v=HGlYRbxpVJU&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=12)
+* [Core Financial Modeling Part 1 - YouTube](https://www.youtube.com/watch?v=BXP0i1TIvrg&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=13)
+* [Advanced Financial Modeling In Excel - Essentials of Excel Skills in Building a Financial Model - YouTube](https://www.youtube.com/watch?v=IW8Jp4-8q-Y&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=22)
+* [The great Excel-based project plan template explained - tacticalprojectmanager.com - YouTube](https://www.youtube.com/watch?v=gyySngGuWqQ&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=32)
+  
+
+**Statistics**
+* [wsj 2 Var Data ](https://www.wallstreetmojo.com/two-variable-data-table-in-excel/)
+* [Scatter plot](https://www.excel-easy.com/examples/scatter-plot.html)
+* [How To Make Normal Distribution Graph in Excel? (With Examples)](https://www.educba.com/normal-distribution-graph-in-excel/?source=leftnav)
+* [Scatter Chart in Excel (Examples) | How To Create Scatter Chart in Excel?](https://www.educba.com/scatter-chart-in-excel/?source=leftnav)
+* [Bell Curve in Excel | How To Make Bell Curve in Excel?](https://www.educba.com/bell-curve-in-excel/?source=leftnav)
+* [Bubble Chart in Excel (Examples) | How to Create Bubble Chart?](https://www.educba.com/bubble-chart-in-excel/)
+* [Control Charts in Excel | How to Create Control Charts in Excel?](https://www.educba.com/control-charts-in-excel/)
+* [Understanding the normal distribution - statistics help - YouTube](https://www.youtube.com/watch?v=mtH1fmUVkfE&list=PLmMyXRtEtJEZ4Mt2eOzcARIIqjF4DrwEO&index=9)
+* [Interpretation of control charts SPC 7QC Tool - YouTube](https://www.youtube.com/watch?v=jBO-W8cKqLw)
+* [Create a Basic Control Chart - YouTube](https://www.youtube.com/watch?v=os17KYZAnd0)
+* [Create Control Charts (X-Bar & R Chart) in Excel - YouTube](https://www.youtube.com/watch?v=krowVMzxecI)
+* [Interpretation of control charts SPC 7QC Tool - YouTube](https://www.youtube.com/watch?v=jBO-W8cKqLw)
+* [What is RStudio and Why Should You Download It? | R Tutorial 1.1 | MarinStatsLectures - YouTube](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLmMyXRtEtJEZ4Mt2eOzcARIIqjF4DrwEO&index=7)
+* [The Five Number Summary, Boxplots, and Outliers (1.6) - YouTube](https://www.youtube.com/watch?v=tpToLyZibKM&list=PLmMyXRtEtJEZ4Mt2eOzcARIIqjF4DrwEO&index=5)
+* [Statistics 101: Population vs Sample Data - YouTube](https://www.youtube.com/watch?v=8X2xfwBP4uo&list=PLmMyXRtEtJEZ4Mt2eOzcARIIqjF4DrwEO&index=1)
 
 
-## UX
-UI Patterns
-| Type            | UI elements                                                                          |
-|-----------------|--------------------------------------------------------------------------------------|
-| Navigational    | Address bar , bread crumb , hyperlink ,  Navigation bar , Pager , Tree view          |
-| Container       | Accordion , Disclosure widget , Frame , Field , Menu Bar ,                           |
-|                 | Panel , Popover , Ribbon , Tab , Toolbar , Window , Work space                       |
-| Command Input   | Button , Hamburger button , Context menu ,  Drop Down list , Menu                    |
-| Data i/p o/p    | Checkbox , Color Picker , Combo box , Date picker ,  Grid view ,                     |
-|                 | List box , List builder Radio , Scroll bar , Search box , Slider , Spinner , Textbox |
-| Informational   | Icon , Info bar , Label , Loading screen ,  Progress Indicator ,                     |
-|                 |  Progress bar Splash screen , Throbber , Sidebar , Status Bar , Toast , Tool tip     |
-| Special Windows | Alert Dialog box , Dialog box , File dialog , Inspector window ,                     |
-|                 | Modal Window , Palette window                                                        |
-| Others          | File viewer , Layout manager ,  Look and feel , Mouse over , WIMP                    |
 
 
-eCommerce Site UI Controls
-* About page , Accepted payment methods , 
-* Added to basket , Alternatives to buying
-* Badges , Basic form usability
-* Basket – products , Basket – shipping cost , Buy button
-* Carousels, Category descriptions
-* Checkout (1a. Basket , 1b. Product customization) -> 2 Delivery information -> 3 Billing information -> 4 Payment details
-* Checkout navigation , Contact methods , Content pages , Country & currency
-* Credibility messages , Cross-selling
-* Delivery information , Details
-* Do you need a product finder? , Do your users understand your product names?
-* Editorial content , Extra content
-* Filters – mobile , Filters – desktop
-* Guest checkout , Images , Landing , Layout , Listings
-* Mailing list sign-up , Main heading , Main image
-* Maps , Mobile form usability , Names
-* Order collection , Order confirmation , Order summary
-* Payment gateways , Price , Primary actions
-* Product , Product video , Promo code field , Promotions
-* Quick view , Ratings , Related products , Repeated links
-* Reviews , Search fields , Should you use ‘add to basket’ links?
-* Site navigation , Smart defaults , Social buttons , Social media feeds , Social proof
-* Stock levels , Thumbnail images , Title field , USP , Variant options
-* Variations , Video , Wallets
+
 
