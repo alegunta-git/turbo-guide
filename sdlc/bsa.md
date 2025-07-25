@@ -1,3 +1,36 @@
+## BSA
+**BSA skills**
+* Reqs ,Requirements Elicitation/Workshop , Document Reqs 
+* Knowledge of Req patterns , Interfaces , Data modeling
+* Use cases , User Stories , User Guides , Diagrams ,
+* Cert : BABOK
+
+**RML Patterns**
+* Objectives : Business Objectives , Objective Chain , KPI , Feature Tree , Reqs Mapping Matrix 
+* People : Org Chart , Process Flow  , Use Case , Roles & Permission 
+* Systems : Ecosystem , System Flow  , UI Flow , Display-Action-Response , Decision Table , Decision Tree , System Interface
+* Data : Business Data , Data Flow , Data Dictionary , State Table , State Diagram  , Report table
+
+**22 Visual models BSA**
+* [22 BSA Visual Models](https://www.bridging-the-gap.com/22-visual-models-used-by-business-analysts/)
+* Activity Diagram , Business Domain Model , Scope Model 
+* Data Flow , Data model ,Use Case , UI Wireframe
+* Stakeholder Map , SWOT Analysis 
+* System Architecture , System Context 
+* Evaluation Criteria , Competitive Comparison Matrix
+* Feature Brainstorming Mind Map , Feature Matrix
+* Feature Prioritization and Stakeholder Matrix , Feature Road map 
+* Process Flow ,  Process Improvement Progress Report 
+* Navigation Map , Org Chart , Performance Report 
+
+## QA
+**QA Testing skills**
+* Test Plan , Test Scenarios  ,
+* Test Cases ( Functional/Negative/Regression )
+* Test Automation : Selenium , Playwright 
+* API Testing : SOAP / Postman / DB Testing / Mobile / Security Testing
+
+
 ## QA
 ### Sample Test Cases
 * [180 sample test case](https://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applications/)
