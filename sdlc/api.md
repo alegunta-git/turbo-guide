@@ -12,18 +12,6 @@
 1. Popular API : Facebook , Amazon WebServices
 1. Tools ( JSON schema , API Dev : cURL , API Testing : Postman , API Documentation : Swagger )
 
-**API Security**
-* https://owasp.org/www-project-api-security/
-
-**API Documentation**
-* [doc learn apis ratthwerwriting](https://idratherbewriting.com/learnapidoc/docapis_introtoapis.html)
-* [API Ship docs](https://www.aftership.com/docs/tracking/quickstart/api-quick-start)
-* [Parse API](https://docs.parseplatform.org/rest/guide/)
-* [Stripe API](https://stripe.com/docs/api/customers)
-* [Dropbox API](https://www.dropbox.com/developers/documentation/http/documentation)
-* [Twitter API](https://developer.twitter.com/en/docs/twitter-api/api-reference-index)
-* https://tech-docs.io/docs/fax-services
-
 ## HTTP
 * HTTP : https://www.cheat-sheets.org/saved-copy/http-response-codes-1.pdf
 * https://developer.mozilla.org/en-US/docs/Web/HTTP
@@ -35,6 +23,18 @@
 * [REST API tutorial](https://www.restapitutorial.com/)
 * [rest api sudoku](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
 * [How to Design Good API](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32713.pdf)
+  
+**API Security**
+* https://owasp.org/www-project-api-security/
+
+**API Documentation**
+* [doc learn apis ratthwerwriting](https://idratherbewriting.com/learnapidoc/docapis_introtoapis.html)
+* [API Ship docs](https://www.aftership.com/docs/tracking/quickstart/api-quick-start)
+* [Parse API](https://docs.parseplatform.org/rest/guide/)
+* [Stripe API](https://stripe.com/docs/api/customers)
+* [Dropbox API](https://www.dropbox.com/developers/documentation/http/documentation)
+* [Twitter API](https://developer.twitter.com/en/docs/twitter-api/api-reference-index)
+* https://tech-docs.io/docs/fax-services
 
 ## postman
 * https://learning.postman.com/docs/introduction/overview/
@@ -49,5 +49,3 @@
 * [yt postman beginner](https://www.youtube.com/playlist?list=PLhW3qG5bs-L9P22XSnRe4suiWL4acXG-g)
 * [upi](https://www.youtube.com/watch?v=iI2NaN_QVTI&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=11&pp=gAQBiAQB)
 * [api pagination](https://www.youtube.com/watch?v=14K_a2kKTxU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=9&pp=gAQBiAQB)
-
-  
