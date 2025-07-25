@@ -6,7 +6,8 @@
 * [52 SM](https://www.scrum.org/resources/blog/52-scrum-master-interview-questions)
 * [yt 200 agile qs](https://www.youtube.com/watch?v=tNIHysh2ZW4&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=11&pp=gAQBiAQB)
 
-  ## Agile Questions
+
+## Agile Questions
 - What are the different types of agile methodologies that you have used and know about? What are the core components of Scrum that you think are most valuable and what things do you feel are not so valuable? 
 - How would you describe the most effective standup? 
 - What are the best methods of sizing during a planning meeting 
