@@ -27,7 +27,11 @@
 * you rebalance when asset allocation changes or when life situation changes.
 * DIY , distributor , RIA
 * **26+12+26 SIP Formula** : Rs 26,000 monthly SIP grow to Rs 5 crore , 12% annualised returns , invest for 26 years in SIP
-
+* MF diversify 4 schemes , 3 diff fund houses
+* cost of acquiring (entry load) , cost of holding(expense ratio) , cost of exiting(exit load) mf scheme
+* returns of 10 yrs a/z ,
+* avoid schemes at top/bottom of performance deck , avoid schemes low corpus < 100 cr
+  
 **MF portfolio**
   * Level one: equity index funds + PF + PPF + FD
   * Level two: equity index funds + PF + PPF + FDs +debt funds
@@ -52,6 +56,14 @@
 * Sharpe Ratio (S) = (r (Portfolio return) – rf (Risk free rate)) / portfoli volatility (v)
 * Treynor Ratio (S) = (r (Portfolio return) – rf (Risk free rate)) / portfoli beta (b)
 
+**Stocks**
+* Invest in Stock : 100 -  Current Age of = % in Equity , @30 - 70% , @60- 40%
+* 10/5/3 - 10% equities , 5% bonds/debt , 3% FDs/t bills/savings bank a/c
+* Stocks investment for 3-5 yrs , 8-12 stocks ,prune p/f
+* hold no less than 10 stocks and no more than 30 stocks ,
+* more stocks - txn and monitoring costs will increase , track co action(dividend)
+* diversify atlest 4 diff sectors with no single sector 40% pf value , no single stock 20% of pf value 
+* do not overexpose small cap cos , 50% in top 200 cos (equity mf)
 
 
 ## ETW MF Suggestions
