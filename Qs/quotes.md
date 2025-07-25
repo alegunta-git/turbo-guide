@@ -42,6 +42,28 @@
 - use alerts and reminders for future tasks , rtm app , em y/e + - and next actions , cornell notes / bujo
 - Use gcal(tickler file/reminders)
 
+## Apple
+1. 2 by 2 matrix to prioritize Prd development
+1. 1.Simplify 2.Focus 3.Relentless in execution)
+1. Reduce cycle time , Cut down inventory , min no of suppliers and hand offs
+1. Tim Cook : Ask distributor to  cut Inventory 75% , Min Supplrs 100/24 ,
+2. Closed 10/19 warehouse , reduced invry 2 months, Cut Prd Dev  from 4 to 2 months (Save money) 
+1. Product Line review ,Eliminate excess Prd lines (70%), Find stuff not to do , Cross off Low ROI prj from List
+1. Launch events(choreograph, backup) -> Direct Responsible Individual ,Long List of Checklist (OEM/Product rollout)
+1. Ask MS "Need Help" , Simple Deal , "these are the things we care about" 
+1. Decide what NOT to do is as imp as what to do (Companies/Products)
+1. Emp retreat : top 100 to 10 , write 100 , cross out 7 , ONLY Do Three
+
+
+## Amazon
+- Working Backwards : Write Press Release (feature/benefits) , FAQ
+- Define Customer Experience(Mockup ,Usecase)
+- 6p Narratives to SLT
+
+## Google
+* G Lazlo Hierarchy :  HR that works , mass Customization , Anticipation , Nirvana 
+* G HR : 1.Consulting (Structure , H2 solve Biz Problem) 2.HR Experience 3.Analytics(SQL/R)
+
 
 **How to Organize Information / Things** 
 * **PEEP(Place for everything , everything has its own place) -> Don’t search things twice**
