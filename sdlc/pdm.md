@@ -101,17 +101,5 @@
 * G Analytics
 * (*.mm) on GitHub here : https://github.com/shaileshbhat/PM-Mind-Maps , use Freemind2, open source mind map SW
 
-## Amazon
-- [Amazon Letters](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx)
-- https://www.allthingsdistributed.com/2006/11/working_backwards.html
-- https://fibery.io/blog/product-management/amazon-6-pager/
 
-## blogs
-* [prd Vision](https://www.yegor256.com/2014/10/20/how-we-write-product-vision.html)
-* [blog Matrix Prioritization](https://www.mindtheproduct.com/enter-matrix-lean-prioritisation/)
-
-## FAQ
-* [AWS Faq](https://aws.amazon.com/faqs/?nc1=f_dr)
-* [Amazon Help bill payment](https://www.amazon.in/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GXT32ZG3PV7UZCFA)
-* [yelp support topics](https://biz.yelp.com/support-center)
 
