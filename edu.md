@@ -31,3 +31,11 @@
 ## tutorials
 * http://www.w3schools.com/
 * https://www.tutorialspoint.com/
+
+## Github
+* [gh starred repo](https://github.com/alegunta-git?tab=stars)***
+* [gh JS int](https://github.com/sudheerj/javascript-interview-questions#what-are-classes-in-es6)
+* [gh Android](https://github.com/amitshekhariitbhu/android-interview-questions#core-android)
+* [gh backend](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions#anti-corruption-layer)
+* https://github.com/moparisthebest
+* https://github.com/ryanoasis/dev-interview-study-guide
