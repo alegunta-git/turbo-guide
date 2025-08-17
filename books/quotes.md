@@ -13,6 +13,16 @@
 * You May Wonder "How much should I give?" The answer is always, "Start where you are. Do what works for you. The teaching will unfold naturally."
 
 
+## Problem Solving
+- Dont start Level zero - search internet for ideas (g image search w/ domain words ,frameworks)
+- [simplest thing](https://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork) That WORKS !!
+- Dont Solve A LOT OF of problems - Aim Top 3 Initiatives
+- Dont REINVENT WHEEL , Dont boil ocean ( Simplest doable NEXT Step , analyze tradeoffs) 
+- Customize good approaches , **write SOP for working soution**
+- Break complex problem into doable chunks ( Map Reduce , Merge Sort , unite and build )
+- Invert problem (Charlie Munger), Check Constraints and Assumptions , Occams Razor
+- Build Frameworks - Scalable , Maintainable , Plug Points for Extension and Enhancement
+- Dont over engineer , Reduce operational burden 
 
 ## Poems 
 * Robert Frost
