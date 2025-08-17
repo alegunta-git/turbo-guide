@@ -1,6 +1,7 @@
 **dsa**
 * https://github.com/tajpouria/algorithms-and-data-structures-cheat-sheet
 * https://github.com/ashishps1
+* [NPTEL narendra garg](https://youtu.be/zWg7U0OEAoE?si=Co_42DXjZOcOxMS)
   
 ## Data Structures
 * Arrays
