@@ -39,3 +39,4 @@
 * [gh backend](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions#anti-corruption-layer)
 * https://github.com/moparisthebest
 * https://github.com/ryanoasis/dev-interview-study-guide
+* https://github.com/RishikeshOps/DevOps-Learning-Resources?tab=readme-ov-file
