@@ -1,3 +1,21 @@
+## github
+onboarding
+* https://github.com/apptension/developer-handbook?tab=readme-ov-file#apptension-technical-onboarding-checklist
+* https://github.com/flyeralarm/onboarding
+* https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
+
+guidelines
+* https://github.com/elsewhencode/project-guidelines
+* https://github.com/kettanaito/naming-cheatsheet
+
+resources
+* https://roadmap.sh/backend/project-ideas
+* https://github.com/Ibexoft/awesome-startup-tools-list?tab=readme-ov-file
+* https://github.com/markodenic/web-development-resources
+* https://github.com/dexteryy/spellbook-of-modern-webdev?tab=readme-ov-file#microservices--api-services-nodejs
+* https://github.com/sindresorhus/awesome?tab=readme-ov-file
+
+
 **Roadmap**
 * [Ref passit](https://passit.bg/en/certification-roadmaps/)
 * [Dev Roadmap](https://roadmap.sh/)
