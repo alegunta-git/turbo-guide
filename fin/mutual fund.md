@@ -1,3 +1,10 @@
+**MF Tracker**
+* [morning star](https://www.morningstar.in/funds.aspx)
+* [MF ValueRes](https://www.valueresearchonline.com/funds/best-mutual-funds/)
+* [MF MoneyControl](https://www.moneycontrol.com/mutual-funds/find-fund/)
+* [valueresearchonline.com](http://valueresearchonline.com/)
+
+
 **Sample MF p/f** 
 | Goal                          | Mutual Fund                    | Rate  | Notes                                    |
 |-------------------------------|--------------------------------|-------|------------------------------------------|
@@ -66,3 +73,27 @@
 * [rediff best sip](https://m.rediff.com/amp/getahead/report/the-best-sip-for-long-term-investment/20231031.htm)
 * [Track MF](https://www.personalfn.com/dwl/Mutual-Funds/5-effective-ways-to-track-your-mutual-fund-investment-performance)
 * [MF Retirement](https://economictimes.indiatimes.com/markets/expert-view/can-one-retire-just-by-investing-in-mutual-funds-atul-shinghal-explains/articleshow/98532487.cms)
+
+## YT mutual fund
+* [G kothari mf master class](https://www.youtube.com/watch?v=qqipukZ25GA&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=19&pp=gAQBiAQB)
+* [How to consolidate your mutual funds](https://www.youtube.com/watch?v=nTFOwFmsyA4)
+* [5 mf pf](https://www.youtube.com/watch?v=H0q-JnF1gh4&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=13&pp=gAQBiAQB)
+* [invest lump sum mf*](https://www.youtube.com/watch?v=A01OtTSq3wg&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=3&pp=gAQBiAQB)
+* [best mf long term](https://www.youtube.com/watch?v=sIaHNEAoCiA&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=5&pp=gAQBiAQB)
+* [3 mf sip 15k](https://www.youtube.com/watch?v=KQt7p3GhTdI&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=20&pp=gAQBiAQB)
+* [SWP monthly scheme](https://www.youtube.com/watch?v=Is_kEY9-5MY&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=42&pp=gAQBiAQB)
+* [swp2](https://www.youtube.com/watch?v=mqrjqD5GaWs&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=28&pp=gAQBiAQB)
+* [hdfc mf sip](https://www.youtube.com/watch?v=D_v-mHE7wbY&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=14&pp=gAQBiAQB)
+* [axis mf sip](https://www.youtube.com/watch?v=ask2a4RT17w&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=9&pp=gAQBiAQB)
+* [mf dhirendra](https://www.youtube.com/watch?v=xmQN82hmdAc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=46&pp=gAQBiAQB)
+* [mf screener](https://www.youtube.com/watch?v=Y4NTACsUn6Y&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=12&pp=gAQBiAQB)
+* [mf p/f](https://www.youtube.com/watch?v=_RYyyCcpyaA&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=2&pp=gAQBiAQB)
+* [mf ram prasad](https://www.youtube.com/watch?v=dt60T00CHh4&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=11&pp=gAQBiAQB)
+* [5 ratio mf](https://www.youtube.com/watch?v=X1rbN1VRaxc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=37&pp=gAQBiAQB)
+* [sip 8 4 3 ](https://www.youtube.com/watch?v=dzzC8i0reUw&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=52&pp=gAQBiAQB)
+* [15 65 20](https://www.youtube.com/watch?v=NEzqHbtGa9U&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=10&pp=gAQBiAQB)
+* * [3% mf investor](https://www.youtube.com/watch?v=us1YHIXJkac&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=12&pp=gAQBiAQB)
+* [mf returns thumb rule](https://www.youtube.com/watch?v=oqC7RqUzAl0&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=14&pp=gAQBiAQB)
+* [hw many mf shankar](https://www.youtube.com/watch?v=ERLNMSxTkVc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=15&pp=gAQBiAQB)
+* [ppf or nps](https://www.youtube.com/watch?v=60ALIIapZ5g&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=17&pp=gAQBiAQB)
+* [mf passive income](https://www.youtube.com/watch?v=jqUGHpOK1gA&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=1&pp=gAQBiAQB)
