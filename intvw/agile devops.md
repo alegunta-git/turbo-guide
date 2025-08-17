@@ -22,7 +22,13 @@
 * DASA Cert
 * Cheat sheet ( CICD , Devops patterns
 
-
+**Agile Qs**
+* [Agile Int](https://mindmajix.com/agile-interview-questions)
+* [Agile Int2](https://www.whizlabs.com/blog/agile-scrum-interview-questions/)
+* [38 SM](https://age-of-product.com/38-scrum-master-interview-questions-to-avoid-imposters-free-pdf/)
+* [52 SM](https://www.scrum.org/resources/blog/52-scrum-master-interview-questions)
+* [yt 200 agile qs](https://www.youtube.com/watch?v=tNIHysh2ZW4&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=11&pp=gAQBiAQB)
+  
 ## Agile Questions
 - What are the different types of agile methodologies that you have used and know about? What are the core components of Scrum that you think are most valuable and what things do you feel are not so valuable? 
 - How would you describe the most effective standup? 
