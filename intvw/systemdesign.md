@@ -1,3 +1,9 @@
+**sysdesign**
+* [gh SD Donne Martin](https://github.com/donnemartin/system-design-primer)
+* https://github.com/karanpratapsingh/system-design
+* https://github.com/InterviewReady/system-design-resources?tab=readme-ov-file
+* https://github.com/ByteByteGoHq/system-design-101
+
 ## Qs System Design
 **Steps on Tackling a System Design Interview**
 * Ask as many questions as possible to get a clear understanding of the requirements.
