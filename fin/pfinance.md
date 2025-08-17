@@ -1,3 +1,6 @@
+**NISM**
+* [NISM Cert](https://www.youtube.com/playlist?list=PLHZhh8OWIA9S1GvYPCSuZTDuVo6ycPC-j)
+
 **pfinance**
 * 10 best investing books : https://www.youtube.com/watch?v=ON6H-BmL50g&list=WL&index=4&pp=gAQBiAQB0gcJCd4JAYcqIYzv
 * [6 fin tools](https://www.youtube.com/watch?v=_ZvK35NlI8Q&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=30&pp=gAQBiAQB)
