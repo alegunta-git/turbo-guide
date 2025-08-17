@@ -1,7 +1,16 @@
-
+**Maths**
+* 125 + 10 , 125 - 10 , 125 * 10 , 125 / 10 
+* 125 + 10% , 125 - 20% , 125 * 15% , 125 / 5% 
+* 2 * 2 * 2 * 2 = , 2^4 16 , 4 * sqrt(16) , log 1000 , ln 10
+* [IMP calc soup](https://www.calculatorsoup.com/calculators/math/basic.php)
+* [hp calc](https://h10032.www1.hp.com/ctg/Manual/c00363319.pdf)
+* [yt calc](https://www.youtube.com/watch?v=X98-TJRMZRk&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=11&pp=gAQBiAQB)
+* [percentage](https://wordpandit.com/percentages-formulas-tricks-and-shortcuts/)
+* yt study math : https://www.youtube.com/watch?v=3RyL_FqbaX0&list=WL&index=6&pp=gAQBiAQB
+* [fast math skills*](https://managementconsulted.com/fast-math/)
 
 ## Basics 
-- Get things done 1.0 ^365 = 1 , 1.01 ^ 365 = 37.7
+* Get things done 1.0 ^365 = 1 , 1.01 ^ 365 = 37.7
 * Real est : Location , Location , Location , Renovation , Renovation (aka maintenance)
 * PM : Communication , Communication , Communication
 * Anti-Patterns : Procrastrination , too many choices , Analysis Paralysis
