@@ -1,3 +1,10 @@
+## Behavioral
+* [300 Behavioral Qs](https://www.mockrabbit.com/300-behavioral-questions-interviewer/)
+* [101 behavioral qs](https://cleverism.com/102-behavioral-interview-questions-including-answers/)
+* https://projectbliss.net/project-manager-behavioral-interview-questions/
+* [www.va.gov/pbi/questions.asp](http://www.va.gov/pbi/questions.asp)
+
+
 **G Kayle Behavioral Q’s** 
 - Challenges : Tell me about a challenge you've faced. How did you overcome it?
 - Setbacks : Tell me about a setback you've faced. How did you handle it? 
