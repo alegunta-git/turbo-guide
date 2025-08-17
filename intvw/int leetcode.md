@@ -1,3 +1,17 @@
+## leetcode
+* https://leetcode.com/studyplan/top-interview-150/
+* [14 patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+* [20 coding patterns](https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3)
+* [Top Leetcode Ptrns](https://dev.to/arslan_ah/top-leetcode-patterns-for-faang-coding-interviews-1on4)
+* yt leet code patterns : https://youtu.be/RYT08CaYq6A?si=0OZ-meWDAr4WdsPz
+* yt leetcode 5 hrs : https://youtu.be/lvO88XxNAzs?si=O5_ThoA1yMlREAlp
+* [yt 70 ltc](https://www.youtube.com/watch?v=lvO88XxNAzs&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=6&pp=gAQBiAQB)
+* [solve ctc timer](https://www.youtube.com/watch?v=dTOyWh0YlJk&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=32&pp=gAQBiAQB)
+* [solve ltc tip](https://www.youtube.com/watch?v=IrWwsfHWl_M&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=40&pp=gAQBiAQB)
+* [start ltc ](https://www.youtube.com/watch?v=G5_Q2_yRFsY&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=34&pp=gAQBiAQB)
+* [ltc strategy](https://www.youtube.com/watch?v=l0FvnARfGKg&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=33&pp=gAQBiAQB)
+* 5 artiles coding : https://youtu.be/Bq48TgQfHBU?si=qwTxLeufbkFWXoI_
+
 ## Leetcode Patterns
 * 0/1 Knapsack (DP)
 * Backtracking ,  
