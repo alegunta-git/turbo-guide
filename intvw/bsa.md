@@ -101,7 +101,7 @@
 * [AWS devops cert](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 
 **Machine learning**
-* Machine learning : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC
+* **Machine Learning : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC**
 * [IMP google machine learing](https://developers.google.com/machine-learning)
 * [IMP yt machine learning iit](https://www.youtube.com/watch?v=qg_M37WGKG8&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=8&pp=gAQBiAQB)
 * [Machine Learning notes](https://mrcet.com/downloads/digital_notes/CSE/IV%20Year/MACHINE%20LEARNING(R17A0534).pdf)
