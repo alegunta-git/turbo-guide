@@ -1,3 +1,7 @@
+pdm
+* pdm guide : https://github.com/vipl0ve/product-management-guide?tab=readme-ov-file
+* [gh Open PDM](https://github.com/ProductHired/open-product-management)
+
 ## Amazon FAQ
 * https://www.allthingsdistributed.com/2006/11/working_backwards.html
 * https://fibery.io/blog/product-management/amazon-6-pager/
