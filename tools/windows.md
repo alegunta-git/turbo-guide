@@ -14,6 +14,12 @@
 * [Use Greenshot for Taking Screenshots](https://www.youtube.com/watch?v=UdeYSC2ZZso&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=20)
 
 
+## Shortcut keys
+* https://ss64.com/nt/
+* [IMP shortcut keys](https://shortcutworld.com/Shortcuts)
+* [Chrome SC Keys](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop)
+* [xls short cut2](https://www.myonlinetraininghub.com/excel-shortcuts)
+* [xls Shortcuts](https://shortcutworld.com/Excel/win/Microsoft-Excel_Shortcuts)
   
 ## Win Utils
 * [Space Remove and Replace Notepad file1](https://www.youtube.com/watch?v=y3rNhoHQCQU&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=19)
