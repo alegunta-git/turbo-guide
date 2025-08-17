@@ -1,3 +1,66 @@
+## google search
+* [yt g adv search](https://youtube.com/watch?v=JciRHpvtgK8&si=5QT2d6Xeqmr3RFS7)
+* [yt gnews](https://www.youtube.com/watch?v=FtSeAwRhPKs&pp=ygUWZ29vZ2xlIGFkdmFuY2VkIHNlYXJjaA%3D%3D)
+* [use ggl](https://www.youtube.com/watch?v=bFANqJb7XGo&pp=ygUNZ29vZ2xlIHNlYXJjaA%3D%3D)
+* [g search reunion](https://youtu.be/gHGDN9*oFJE?si=Ddl0Rez84DM5OYNc)
+* [VA 10 google search hacks](https://www.youtube.com/watch?v=Bp1AdmiMHn4)
+* [yt websearch](https://www.youtube.com/watch?v=WtuAZHY1Pqo&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=12&pp=gAQBiAQB)
+* [Google Search Results Page * Overview * YouTube](https://www.youtube.com/watch?v=6WXz1UyS5Uc&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=10)
+* [art og googling](https://www.youtube.com/watch?v=bNbPtThW2fM&list=WL&index=2&pp=gAQBiAQB)
+
+## Browser
+* [Browser basics](https://www.youtube.com/watch?v=FxirRVJWUTs&list=WL&index=13&pp=gAQBiAQB0gcJCcwJAYcqIYzv)
+* [Read Webpages](https://www.youtube.com/watch?v=Iln9oG8Rsig&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=6)
+
+## github wiki repo
+* [github wiki are repos](https://www.youtube.com/watch?v=U18COUDlzu8&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=24&pp=gAQBiAQB)
+* github wiki : https://youtu.be/U18COUDlzu8?si=Lr1l*H7GyQs4gpEv&t=14
+* [how to sell](https://www.youtube.com/watch?v=_1HEIe7sU0I&list=WL&index=8&pp=gAQBiAQB)
+
+**PKM**
+* [common place book](https://ryanholiday.net/how*and*why*to*keep*a*commonplace*book/)
+* https://www.thegoodtrade.com/features/what*is*a*commonplace*book/
+* DSA : https://www.youtube.com/watch?v=wDgQL8sOgjM&t=418s
+* PARA : https://youtu.be/T6Mfl1OywM8?si=75aksgC*Y37bl2l2
+* gtd2 : https://www.youtube.com/watch?v=95hTa0JkE9Y&t=130s
+* [Automate Every Aspect Of Your Life](https://www.youtube.com/watch?v=LEycQh8a*_0&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=3)
+* [30 Things bored](https://www.thegeekstuff.com/2010/03/30*things*to*do*when*you*are*bored*and*have*a*computer/)
+* [80 20 examples](https://www.thelangelfirm.com/debt*collection*defense*blog/2018/august/100*examples*of*the*80*20*rule/)
+* [BASB](https://www.youtube.com/watch?v=SjZSy8s2VEE&list=WL&index=3&pp=gAQBiAQB)
+
+
+## Tools
+**Browser**
+* [copy and paste content webpage](https://www.youtube.com/watch?v=eit7LZfWmGU)
+* copy text from web : https://www.youtube.com/watch?v=eit7LZfWmGU&list=WL&index=9&pp=gAQBiAQB
+* Browser basics : https://youtu.be/FxirRVJWUTs?si=Du_mphenwjEtgDeM
+
+**g keep**
+* [cp content g keep](https://www.youtube.com/watch?v=4hK_y24T8BI&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=2&pp=gAQBiAQB)
+* gkeep : https://youtu.be/ZPovcDlJ64k?si=LX204fCpHTSRD9CI&t=150
+* **save docs to g keep** : https://www.youtube.com/watch?v=LtBsIohTe5Y&list=WL&index=7&pp=gAQBiAQB
+
+**g docs**
+* [gdocs android](https://youtu.be/xV3PahIZmNs?si=pD7978Vlb*KkUxxv)
+* tips gdocs : https://www.youtube.com/watch?v=*fd2FLwlnkg
+* [How to Write a Novel in Google DocsIMP](https://www.youtube.com/watch?v=rCG6Gdj_fWE&list=WL&index=2&t=4s)
+* [Writing Templates for Google Docs (Pack of 3) — Abbie Emmons](https://abbieemmonsauthor.com/store/writing*templates*for*google*docs*pack*of*3)
+* [Write book summary](https://copywritingcourse.com/how*to*write*a*book*summary/)
+* [g slide](https://www.youtube.com/watch?v=b_CsDAhdtpo&list=WL&index=6&pp=gAQBiAQB)
+
+**ms excel**
+* [copy text to xls](https://www.youtube.com/watch?v=7UVbaBuUWEA&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=38&pp=gAQBiAQB)
+* md to xls : https://www.youtube.com/watch?v=iIyNSbPElf4&list=WL&index=9&pp=gAQBiAQB
+* fin literacy : https://www.youtube.com/watch?v=vJabNEwZIuc&list=WL&index=2&pp=gAQBiAQB
+
+**ms word**
+* outline : https://www.youtube.com/watch?v=3ifS9c8I*so&list=WL&index=2&pp=gAQBiAQB
+* apa word format : https://www.youtube.com/shorts/HhD9ZI4voEE
+
+**projects**
+* py projects : https://www.youtube.com/watch?v=8ext9G7xspg&list=WL&index=25&pp=gAQBiAQB
+
+
 ## Tech Tips
 **LIG**
 - **org life in text files (np++) , prj.txt , todo.txt , sdmb.txt , simplenote app , evernote , rdg (instapaper)**
