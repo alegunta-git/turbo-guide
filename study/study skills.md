@@ -9,6 +9,7 @@
 * [greeklatinroots](https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf)
 * [rootchart](http://www.prefixsuffix.com/rootchart.php)
 
+
 **kindle**
 * send docs to kindle : https://www.youtube.com/watch?v=ZnE3UJVX8fs&list=WL&index=7&pp=gAQBiAQB
 * export highlights to kindle : https://www.youtube.com/watch?v=nU9Po_hrf5k&list=WL&index=4&pp=gAQBiAQB
