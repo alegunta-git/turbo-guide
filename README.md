@@ -31,13 +31,6 @@
 * https://medium.com/
 * https://stackoverflow.com/questions
 
-## Books
-* book summary good to great
-* intitle:index.of?pdf java complete reference
-* amazon books best sellers 2024
-* G search : books business analyst / data structures and algorithms / devops / project management / agile 
-* amz - amazon services in action - customers also viewed
-* https://libgen.is/
 
 ## JS
 * [it jobs](https://www.itjobswatch.co.uk/)
@@ -49,14 +42,7 @@
 * shine
 * https://www.glassdoor.co.in/index.htm
 
-## edu
-* https://www.udemy.com/
-* https://www.oracle.com/in/
-* https://online.stanford.edu/
-* https://ocw.mit.edu/
-* https://www.citehr.com/
-* https://www.scrum.org/
-* https://www.scrumalliance.org/
+
 
 ## Social NW
 * https://x.com/?lang=en
