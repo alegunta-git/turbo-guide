@@ -3,10 +3,25 @@
 - Srisailam ,
 - Rayara Place  
 
+## Travel 
+* https://www.google.com/travel/flights?gl=IN&hl=en
+* https://www.irctc.co.in/nget/train-search
+* https://ksrtc.in/
+* https://www.redbus.in/
+* https://www.uber.com/in/en/
+* https://www.rapido.bike/Home
+* https://www.makemytrip.com/
+* https://www.goindigo.in/flights?linkNav=Flight%7CBook%7CBook
+
+
 ## YT vlogs
 * Manis Solanki : https://www.youtube.com/@ManishSolankiVlogs/playlists
 * [yt boarding](https://www.youtube.com/watch?v=4e8MROIlEnU&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=8&pp=gAQBiAQB)
 * [USA vlog](https://www.youtube.com/watch?v=ljoO7CSGb8k&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=7&pp=gAQBiAQB)
+* nandas journey : https://www.youtube.com/watch?v=1lsiIXQBaag&list=WL&index=2&pp=gAQBiAQB
+* namaste america : https://www.youtube.com/watch?v=mvC7*m8q5hk&list=WL&index=7&pp=gAQBiAQB
+
+## Travel blogs
 * Nirmala travels
 * Ask Annaya garu about LIC spoc travel prep tips
 * [wiki India Tourism state](https://en.m.wikipedia.org/wiki/Tourism_in_India_by_state)
