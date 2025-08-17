@@ -1,3 +1,13 @@
+## help docs 
+* [G Keep help](https://support.google.com/keep/?hl=en#topic=6262468)
+* [G Calendar help](https://support.google.com/calendar/?hl=en#topic=10509740)
+* [G Drive help](https://support.google.com/drive/?hl=en#topic=14940)
+* [G Mail help](https://support.google.com/mail/?hl=en#topic=7065107)
+* [G Seo](https://developers.google.com/search/docs)
+* [g sheets](https://support.google.com/a/users/answer/9282959)
+* [g docs](https://support.google.com/a/users/answer/9282664?visit_id=638558829940772340-4019882282&hl=en&rd=1)
+* [G Merchant Center](https://support.google.com/merchants/answer/7052112?visit_id=638486059717068181-155628677&hl=en&rd=1)
+
 ## G Suite
 **Chrome**
 * Address Bar : Use Icons on Menu Bar for copy paste
