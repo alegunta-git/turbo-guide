@@ -1,5 +1,11 @@
-## CFP Notes
+**Fin Planning**
+* [10 options](https://weinvestsmart.com/top-10-best-investment-options-in-india/)
+* [Thumb rules](https://www.icicidirect.com/investonomics/articles/the-thumb-rules-of-investing)
+* [15 fin resolutions](https://freefincal.com/15-personal-finance-resolutions-for-2023/)
+* [10 rules](https://www.financialexpress.com/money/10-personal-finance-rules-millennials-should-follow-2468828/)
+* [DCF](https://www.asimplemodel.com/financial-curriculum/financial-modeling/discounted-cash-flow/dcf-model-basics)
 
+## CFP Notes
 **CFP Topics**
 * Personal Finance Planning
 * Investment Planning
