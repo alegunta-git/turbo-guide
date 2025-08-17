@@ -139,3 +139,79 @@ Adding these tips and insights to your portfolio of skills can help you manage t
 - Describe a time when your project failed. 
 - What are the various states of a project? – RYG what do the various states stand for ? how do you move a Red to Green? 
 - The importance of data and how you have used data analytics in previous roles You missed a project deadline. How would you handle it?
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Roles and Competencies
+**Business Knowledge**
+- Biz Vision and Strategy
+- Biz Products & Services
+- Biz Process & Procedures
+- Org Structure, Roles & Functions
+
+**Business Analysis & Design**
+- Requirements gathering , 
+- Process Analysis & Design
+- Functional Analysis & Design , 
+- Data Analysis & Design
+- Risk Analysis ,Cost & Benefit Analysis
+- Analysis Tools & Techniques , 
+- User Acceptance Testing
+- Functional Testing
+
+**Delivery Management**
+- Project / programme Planning & Tracking 
+- Stakeholder Management
+- Scope Management 
+- Budget / Cost Management 
+- Resource Management ,Outsourcing
+- Issue & Risk Management
+- Quality Planning & Assurance
+- Business Continuity Planning
+- Benefits Realization
+- Service Level Management
+
+**System Design and Architecture**
+- Application Architecture&Design , 
+- System Analysis
+- Infrastructure Arch & Design
+- Data Arch & Design 
+- Technical Arch & Design
+- Performance Planning , Capacity Planning
+- Design for re-use ,
+- Scalability / Availability / Usability
+
+**System Development**
+- Coding / Engg / Scripting , 
+- System Dev Tools
+- System Dev Methodologies , System Integration
+- Unit and Non-Functional testing , 
+- System Testing , Integration Testing
+
+**Systems Support**
+- Incident Response  
+- Problem Management
+- Monitoring & System Checks
+- Service Request Management
+
+**Environments Knowledge**
+- Infrastructure / Application Environment
+- Database/Storage /Network/Security  Environment
+
+**Change Control**
+- Impact Assessment 
+- Quality Control
+- Configuration Management 
+- Code Management
+- Release Management
+
