@@ -1,8 +1,0 @@
-
-
-mv where to invest
-
-
-
-
-
