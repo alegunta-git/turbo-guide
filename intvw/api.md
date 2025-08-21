@@ -1,6 +1,8 @@
-
-api
-* https://github.com/WhiteHouse/api-standards?tab=readme-ov-file
+## Mobile 
+* [IOS Patterns](https://developer.apple.com/design/human-interface-guidelines/)
+* [mobile app features](https://attractgroup.com/blog/most-comprehensive-list-of-mobile-app-features-while-developing-a-mobile-application/)
+* [yt apps appstore](https://www.youtube.com/watch?v=Ormjb-BX1sw&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=1&pp=gAQBiAQB)
+* [release mobile apps](https://www.youtube.com/watch?v=RIX4ufelA58&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=13&pp=gAQBiAQB)
 
 ## API
 **API Topics**
@@ -41,7 +43,6 @@ api
 * https://tech-docs.io/docs/fax-services
 
 
-
 **api YT Training**
 * [yt http course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=1&pp=gAQBiAQB)
 * [yt json](https://www.youtube.com/watch?v=iiADhChRriM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=5&pp=gAQBiAQB)
@@ -50,3 +51,7 @@ api
 * [yt postman beginner](https://www.youtube.com/playlist?list=PLhW3qG5bs-L9P22XSnRe4suiWL4acXG-g)
 * [upi](https://www.youtube.com/watch?v=iI2NaN_QVTI&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=11&pp=gAQBiAQB)
 * [api pagination](https://www.youtube.com/watch?v=14K_a2kKTxU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=9&pp=gAQBiAQB)
+
+
+
+
