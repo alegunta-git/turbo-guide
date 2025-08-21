@@ -3,16 +3,6 @@
 - Srisailam ,
 - Rayara Place  
 
-## Travel 
-* https://www.google.com/travel/flights?gl=IN&hl=en
-* https://www.irctc.co.in/nget/train-search
-* https://ksrtc.in/
-* https://www.redbus.in/
-* https://www.uber.com/in/en/
-* https://www.rapido.bike/Home
-* https://www.makemytrip.com/
-* https://www.goindigo.in/flights?linkNav=Flight%7CBook%7CBook
-
 
 ## YT vlogs
 * Manis Solanki : https://www.youtube.com/@ManishSolankiVlogs/playlists
