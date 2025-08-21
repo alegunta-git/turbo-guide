@@ -2,6 +2,22 @@
 * [gh starred repo](https://github.com/alegunta-git?tab=stars)***
 * https://github.com/moparisthebest
 
+api
+* https://github.com/WhiteHouse/api-standards?tab=readme-ov-file
+
+**sysdesign**
+* [gh SD Donne Martin](https://github.com/donnemartin/system-design-primer)
+* https://github.com/karanpratapsingh/system-design
+* https://github.com/InterviewReady/system-design-resources?tab=readme-ov-file
+* https://github.com/ByteByteGoHq/system-design-101
+* [gh OOAD grokking ooad](https://github.com/tssovi/grokking-the-object-oriented-design-interview?tab=readme-ov-file)
+
+
+pdm
+* pdm guide : https://github.com/vipl0ve/product-management-guide?tab=readme-ov-file
+* [gh Open PDM](https://github.com/ProductHired/open-product-management)
+
+
 int
 * [gh JS int](https://github.com/sudheerj/javascript-interview-questions#what-are-classes-in-es6)
 * [gh Android](https://github.com/amitshekhariitbhu/android-interview-questions#core-android)
