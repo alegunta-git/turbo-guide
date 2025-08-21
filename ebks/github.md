@@ -2,6 +2,10 @@
 * [gh starred repo](https://github.com/alegunta-git?tab=stars)***
 * https://github.com/moparisthebest
 
+**dsa**
+* https://github.com/tajpouria/algorithms-and-data-structures-cheat-sheet
+* https://github.com/ashishps1
+
 api
 * https://github.com/WhiteHouse/api-standards?tab=readme-ov-file
 
