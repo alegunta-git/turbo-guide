@@ -1,9 +1,9 @@
 # Table of Contents
-- [IITPrep](#IIT Prep)
-- [NEETPrep](#NEET Prep)
+- [IIT](#IIT)
+- [NEETPrep](#NEET)
 - [MBBS](#MBBS)
 
-## IIT Prep
+## IIT
 **iit prep links**
 * https://www.scribd.com/document/318490609/Micro-Schedule
 * https://mystudycart.com/best-books-for-iit-jee-preparation
@@ -32,7 +32,7 @@
 * Review mistakes , identify weak areas/mistakes/complex topics
 
 
-## NEET Prep
+## NEET
 **NEET links**
 * https://www.pw.live/exams/neet/neet-2025-preparation/
 * https://www.pw.live/exams/neet/neet-2024//
