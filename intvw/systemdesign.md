@@ -3,6 +3,9 @@
 * https://github.com/karanpratapsingh/system-design
 * https://github.com/InterviewReady/system-design-resources?tab=readme-ov-file
 * https://github.com/ByteByteGoHq/system-design-101
+* bhttps://github.com/InterviewReady/system-design-resources?tab=readme-ov-file
+* https://github.com/ByteByteGoHq/system-design-101
+
 
 ## Qs System Design
 **Steps on Tackling a System Design Interview**
