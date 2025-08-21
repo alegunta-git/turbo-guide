@@ -1,3 +1,31 @@
+# TOC
+- [Writing](#Writing)
+- [Reading](#Reading)
+
+
+## Writing
+**Writing for Business Readers**
+* Think Like a Busy Reader , Spoiler alert: Everyone skims.
+* Principles of Effective Writing
+  * First Principle: Less Is More , more deters readers , more dilutes information 
+  * Second Principle: Make Reading Easy ( “Federal Plain Language Guidelines”[19]
+  * Tell Readers Why They Should Care
+* THE RULES OF “LESS IS MORE” : Rule 1: Use Fewer Words 2: Include Fewer Ideas Rule 3: Make Fewer Requests
+* THE RULES OF READABLE WRITING : 1: Use Short & Common Words 2:Write Straightforward and Shorter Sentences , 3: Design for Easy Navigation
+* THE RULES OF WELL-DESIGNED WRITING  : Rule 1: Make Key Information Immediately Visible bottom line up front (BLUF) , 2: Separate Distinct Ideas
+* **Rule 3: Place Related Ideas Together , Order Ideas by Priority , Include Headings , 6 : Consider Using Visuals**
+
+
+**Guidelines APA**
+* https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf
+* [APA format](https://www.easybib.com/guides/citation-guides/apa-format/)
+* gdocs apa format : https://www.youtube.com/watch?v=f7WomKsmeuI&list=WL&index=15&pp=gAQBiAQB
+* ref website ms word : https://youtu.be/nBMQNQt_fU4?si=5ZgYzv4B_95ym-l4
+* adp format : https://youtu.be/decO68mL-tU?si=lXzAYilac1rXTC1j
+* Writing paradigms : https://www.lupinworks.com/roche/pages/paradigms.php
+
+
+## Reading
 **yt reading**
 * [speed reading](http://www.drurywriting.com/keith/SPEED.htm)
 * [Warren Buffett 500p](https://www.cnbc.com/2018/03/27/warren-buffetts-key-tip-for-success-read-500-pages-a-day.html)
@@ -10,15 +38,13 @@
 * [yt rembr read](https://youtube.com/shorts/pmHXXXH5DmI?si=FXQkobBD_rQaPVew)
 * [A System for Reading](https://www.youtube.com/watch?v=-T57bBtEymo)
 
-
-## SOP Reading
 **Levels**
 * Level 1 : xls Formulas Vedic math
 * Level 2 : fin modeling , CFP , TVM problems , Regression 
 * Level 3 : Read Balance Sheet 
 * Level 5 : Real Estate rule of thumb MF / real est / Pick stocks (Stock Pickup ( P/E , PB , div yield % ))
 
-  **Read Book**
+**Read Book**
 * Highlight Imp Points , Rd Ideas(20%, NOT e2e) , rnd 2 : DONT READ FULL BOOK(**refer to indexed pages**)
 * R1 : skim toc , headings , para , R2 : review Qs , summary e_o_chapter , R3 :  highlight & make notes 
 * Reading : SQ3R , Skimming ,Scanning , 1/4 margin , eye span , focus keywords
