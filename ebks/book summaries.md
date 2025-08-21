@@ -45,3 +45,8 @@
 * [eff engr2](https://notes.webutvikling.org/the-effective-engineer/)
 * [Phoenix Project](https://danlebrero.com/2020/02/05/the-unicorn-project-summary/#ch-6)
 
+
+## Self help
+* https://thomasjfrank.com/productivity/books/the-para-method-by-tiago-forte-summary-and-book-notes/
+* https://www.samuelthomasdavies.com/book-summaries/business/eat-that-frog/
+
