@@ -1,31 +1,3 @@
-## github
-onboarding
-* https://github.com/apptension/developer-handbook?tab=readme-ov-file#apptension-technical-onboarding-checklist
-* https://github.com/flyeralarm/onboarding
-* https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
-
-guidelines
-* https://github.com/elsewhencode/project-guidelines
-* https://github.com/kettanaito/naming-cheatsheet
-
-resources
-* https://roadmap.sh/backend/project-ideas
-* https://github.com/Ibexoft/awesome-startup-tools-list?tab=readme-ov-file
-* https://github.com/markodenic/web-development-resources
-* https://github.com/dexteryy/spellbook-of-modern-webdev?tab=readme-ov-file#microservices--api-services-nodejs
-* https://github.com/sindresorhus/awesome?tab=readme-ov-file
-
-
-**Roadmap**
-* [Ref passit](https://passit.bg/en/certification-roadmaps/)
-* [Dev Roadmap](https://roadmap.sh/)
-* [System Design Roadmap](https://whimsical.com/system-design-roadmap-31C9vnRRATGW5Q95Krdciu)
-* [EP128: The Ultimate Software Architect Knowledge Map](https://blog.bytebytego.com/p/ep128-the-ultimate-software-architect)
-* [yt hld lld roadmap](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=5&pp=gAQBiAQB)
-* fe roadmap : https://www.youtube.com/watch?v=lH1bGIEHboI&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=35&pp=gAQBiAQB
-* api roadmap : https://www.youtube.com/watch?v=hltLrjabkiY&list=WL&index=3&pp=gAQBiAQB
-* web roadmap : https://www.youtube.com/watch?v=afgAMTln7s0&list=WL&index=5&pp=gAQBiAQB
-
 ## IT Architecture
 **IT Frameworks** 
 | Tech             | Notes                                                                       |
