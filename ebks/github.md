@@ -17,6 +17,14 @@ api
 * [gh OOAD grokking ooad](https://github.com/tssovi/grokking-the-object-oriented-design-interview?tab=readme-ov-file)
 
 
+agile
+* https://github.com/lorabv/awesome-agile
+
+**devops**
+* https://github.com/wmariuss/awesome-devops
+* https://github.com/Tikam02/DevOps-Guide/tree/master/DevOps
+* https://github.com/schoolofdevops/ansible-playbook-essentials/tree/master
+  
 pdm
 * pdm guide : https://github.com/vipl0ve/product-management-guide?tab=readme-ov-file
 * [gh Open PDM](https://github.com/ProductHired/open-product-management)
