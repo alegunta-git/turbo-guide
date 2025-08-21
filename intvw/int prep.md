@@ -1,15 +1,11 @@
-**dsa**
-* https://github.com/tajpouria/algorithms-and-data-structures-cheat-sheet
-* https://github.com/ashishps1
-* [NPTEL narendra garg](https://youtu.be/zWg7U0OEAoE?si=Co_42DXjZOcOxMS)
-
-  **geeksforgeeks**
+**geeksforgeeks**
 * https://www.geeksforgeeks.org/10-most-important-data-structures-for-coding-interviews/
 * https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 * https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/
 * https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
 * https://www.geeksforgeeks.org/top-50-searching-coding-problems-for-interviews/
 * https://www.google.com/amp/s/www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/amp/
+* [NPTEL narendra garg](https://youtu.be/zWg7U0OEAoE?si=Co_42DXjZOcOxMS)
 
 ## System Design
 * [blog SD prep](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
