@@ -1,10 +1,21 @@
-**sysdesign**
-* [gh SD Donne Martin](https://github.com/donnemartin/system-design-primer)
-* https://github.com/karanpratapsingh/system-design
-* https://github.com/InterviewReady/system-design-resources?tab=readme-ov-file
-* https://github.com/ByteByteGoHq/system-design-101
-* bhttps://github.com/InterviewReady/system-design-resources?tab=readme-ov-file
-* https://github.com/ByteByteGoHq/system-design-101
+## OOAD
+* Design an ATM 
+* Design Blackjack and a Deck of Cards 
+* Design a Library Management System 
+* Design a Hotel Management System 
+* Design a Restaurant Management system 
+* Design a Parking Lot 
+* Design Chess 
+* Design a Movie Ticket Booking System 
+* Design an Airline Management System 
+* Design an Online Stock Brokerage System 
+* Design a Car Rental System 
+* Design LinkedIn 
+* Design Cricinfo 
+* Design Stack Overflow 
+* Design Amazon - Online Shopping System 
+* Design Facebook - a social network
+
 
 
 ## Qs System Design
