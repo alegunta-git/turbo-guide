@@ -1,11 +1,3 @@
-agile
-* https://github.com/lorabv/awesome-agile
-
-**devops**
-* https://github.com/wmariuss/awesome-devops
-* https://github.com/Tikam02/DevOps-Guide/tree/master/DevOps
-* https://github.com/schoolofdevops/ansible-playbook-essentials/tree/master
-
 ## Agile Topics
 * Agile & SAFE glossary
 * Process : Kanban , Lean , LESS ,SAFE  
