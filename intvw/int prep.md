@@ -1,3 +1,12 @@
+## Int prep Handbook
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university#the-daily-plan/)
+* [Tech Interview handbook](https://github.com/yangshun/tech-interview-handbook/)
+* [FE Interview handbook](https://www.frontendinterviewhandbook.com/)
+* [PDM Handbook](https://www.rocketblocks.me/guide/pm/product-management-primer.php)
+* [Stevey Blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+
+
+## geeks for geeks
 **geeksforgeeks**
 * https://www.geeksforgeeks.org/10-most-important-data-structures-for-coding-interviews/
 * https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
@@ -7,19 +16,6 @@
 * https://www.google.com/amp/s/www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/amp/
 * [NPTEL narendra garg](https://youtu.be/zWg7U0OEAoE?si=Co_42DXjZOcOxMS)
 
-## System Design
-* [blog SD prep](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
-* https://dev.to/somadevtoo/the-software-design-system-design-interview-preparation-roadmap-with-resources-1no0
-* [hn t10 sysdia](https://hackernoon.com/10-tips-for-using-diagrams-to-ace-the-system-design-interview-906p3609)
-* https://blog.algomaster.io/p/30-system-design-concepts
-* https://dev.to/alexr/14-case-studies-master-system-design-in-a-month-2jk2
-* https://dev.to/somadevtoo/top-15-system-design-resources-for-programming-interviews-1m15
-* [Dist sys patterns](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/)
-* [Latency numbers](https://gist.github.com/jboner/2841832)
-* [Back of envelope](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
-* [dt Calc Capacity](https://dev.to/ievolved/how-i-calculate-capacity-for-systems-design-3477)
-* [Caching](https://dzone.com/articles/introducing-amp-assimilating-caching-quick-read-fo)
-* [Scaler Articles](https://www.scaler.com/topics/articles/)
 
 ## leetcode
 * https://leetcode.com/studyplan/top-interview-150/
@@ -35,13 +31,101 @@
 * [ltc strategy](https://www.youtube.com/watch?v=l0FvnARfGKg&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=33&pp=gAQBiAQB)
 * 5 artiles coding : https://youtu.be/Bq48TgQfHBU?si=qwTxLeufbkFWXoI_
 
-## DSA Cheatsheet
+## DSA
+**dsa Cheatsheet**
 * https://www.bigocheatsheet.com/
 * https://algs4.cs.princeton.edu/cheatsheet/
 * https://en.wikipedia.org/wiki/List_of_data_structures
 * https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd
 * 10 algo : https://hbfs.wordpress.com/2008/12/23/the-10-classes-of-algorithms-every-programmer-must-know-about/
 * https://cheatography.com/
+
+
+**YT DSA**
+* [big o](https://www.youtube.com/watch?v=x2CRZaN2xgM&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=10&pp=gAQBiAQB)
+* yt coding interview cheatsheet : https://youtu.be/3l8FY_L0_ic?si=_DJP-Kr_7Wcei60B
+* [yt algo sylbs](https://www.youtube.com/watch?v=BchPukWb0CU&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=3&pp=gAQBiAQB)
+* [yt dsa sheet](https://www.youtube.com/watch?v=Az3kEDm5b_k&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=4&pp=gAQBiAQB)
+* [master dsa](https://www.youtube.com/watch?v=F-ao3Q6I2Fc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=36&pp=gAQBiAQB)
+* [djistrika algo](https://www.youtube.com/watch?v=EFg3u_E6eHU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=43&pp=gAQBiAQB)
+* DSA - mycoding school : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC
+* LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
+* DSA : https://www.youtube.com/watch?v=CBYHwZcbD-s&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
+* dsa nan s : https://www.youtube.com/watch?v=QD7m7NMCfrY&pp=ygURbmFuY3kgc29sYW5raSBkc2E%3D
+
+
+**DSA Qs**
+* https://www.crackingthecodinginterview.com/resources.html
+* https://www.techiedelight.com/top-100-liked-data-structures-and-algorithm-problems/
+* [Top10Algo](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+* [must do qs](https://www.codingninjas.com/studio/library/must-do-coding-interview-questions-for-product-based-companies)
+* https://fpcastle.com/2021/10/03/coding-interviews.html
+* https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms
+* [Interview prep](https://hackernoon.com/how-not-to-succeed-in-your-45-minute-coding-interview-2eebd46bd6ec)
+* [Reddit links](https://www.reddit.com/r/e/comments/2lzc4h/big_collection_of_interview_preparation_links/?rdt=58725)
+* [Answer Tech Qs](https://www.dice.com/career-advice/answer-technical-interview-question)
+
+**Courses**
+* [G Intvw](https://www.educative.io/blog/google-coding-interview)
+* [Courses](https://docs.google.com/document/d/1PeK69h4H82rwKjhactiE_sAIorCcZgXgXTY7k-nXpnE/edit#heading=h.p3wx5d6ii3r8)
+* [zhia course design](https://docs.google.com/document/d/1PeK69h4H82rwKjhactiE_sAIorCcZgXgXTY7k-nXpnE/edit#heading=h.90hg31r85qlt)
+* [DSA Course](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)
+* https://docs.google.com/document/d/1PUDQ_LD95iYp8YLDB1yeiUvs7LWlgca-5e9zQ8I1cE8/edit
+* prep : https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1
+* https://dev.to/javinpaul/top-10-free-books-and-courses-to-learn-data-structure-and-algorithms-in-2019-30gl
+* https://www.businessinsider.in/tech/news/a-self-taught-engineer-at-google-shares-the-8-best-google-programming-courses-you-can-access-for-free/amp_articleshow/113632216.cms
+
+
+## System Design
+* [blog SD prep](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+* https://dev.to/somadevtoo/the-software-design-system-design-interview-preparation-roadmap-with-resources-1no0
+* [hn t10 sysdia](https://hackernoon.com/10-tips-for-using-diagrams-to-ace-the-system-design-interview-906p3609)
+* https://blog.algomaster.io/p/30-system-design-concepts
+* https://dev.to/alexr/14-case-studies-master-system-design-in-a-month-2jk2
+* https://dev.to/somadevtoo/top-15-system-design-resources-for-programming-interviews-1m15
+* [Dist sys patterns](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/)
+* [Latency numbers](https://gist.github.com/jboner/2841832)
+* [Back of envelope](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
+* [dt Calc Capacity](https://dev.to/ievolved/how-i-calculate-capacity-for-systems-design-3477)
+* [Caching](https://dzone.com/articles/introducing-amp-assimilating-caching-quick-read-fo)
+* [Scaler Articles](https://www.scaler.com/topics/articles/)
+
+
+## IT Certifications
+
+### AWS
+* https://dev.to/aws-builders/how-i-passed-both-aws-professional-exams-in-6-months-tips-on-how-you-can-too-32em
+
+### Agile CSM
+* https://umarani.com/how-pass-leading-safe-40-exam)
+* https://scrumtrainingseries.com/
+* https://mlapshin.com/index.php/scrum-quizzes/sm-learning-mode/
+* https://www.scrum.org/pathway/scrum-master/developing-and-delivering-products-professionally/technical-debt
+* [PSM1](https://www.scrum.org/forum/scrum-forum/7198/passes-psm1-938-first-attempt-experience-share-tips)
+
+## CSPO
+* https://www.scrum.org/pathway/product-owner-learning-path
+* https://training-course-material.com/training/Scrum_Product_Owner
+* http://aqqurite.se/material-from-certified-scrum-product-owner-training
+* https://www.scrum.org/forum/scrum-forum/6745/pspo-i-study-materials-help-needed)
+* https://www.andycleff.com/2021/10/resources-for-product-owners/
+* https://qaiglobalinstitute.com/product/certified-scrum-product-owner-cspo-live-virtual-training-online/
+* https://scrumcrazy.wordpress.com/2018/09/22/scrumcrazy-com-is-moving/
+
+### Agile SAFE Qs
+* TBD
+
+### Devops
+* DASA Cert
+* Cheat sheet ( CICD , Devops patterns
+
+## Q Bank
+
+### AMZ TPM
+* [Amazon interview](https://helloacm.com/how-to-prepare-for-an-amazon-interview-my-amazon-interview-experience/)
+* [amz tpm](https://www.youtube.com/watch?v=8EOWgSsk3yM&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=4&pp=gAQBiAQB)
+
+### Google 
 * [Google Java](https://google.github.io/styleguide/javaguide.html)
 * [Google Test](https://testing.googleblog.com/search/label/TotT)
 * [Google dev SG](https://developers.google.com/style)
@@ -92,54 +176,5 @@ boolean search
 * [yt Sourcing Ninja](https://www.youtube.com/watch?v=7Dt3WJzGorU&list=PLmMyXRtEtJEaOVBqTSCVWg--SR7Jn3Ea7&index=5)
 * [5 phrases](https://www.theladders.com/career-advice/5-phrases-that-make-you-appear-powerful-in-a-job-interview)
 * [Boolean search](https://resources.workable.com/find-graphic-designer-boolean-search-strings)
-
-
-## Int prep Handbook
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university#the-daily-plan/)
-* [Tech Interview handbook](https://github.com/yangshun/tech-interview-handbook/)
-* [FE Interview handbook](https://www.frontendinterviewhandbook.com/)
-* [PDM Handbook](https://www.rocketblocks.me/guide/pm/product-management-primer.php)
-* [Stevey Blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
-
-**YT DSA**
-* [big o](https://www.youtube.com/watch?v=x2CRZaN2xgM&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=10&pp=gAQBiAQB)
-* dsa nan s : https://www.youtube.com/watch?v=QD7m7NMCfrY&pp=ygURbmFuY3kgc29sYW5raSBkc2E%3D
-* yt coding interview cheatsheet : https://youtu.be/3l8FY_L0_ic?si=_DJP-Kr_7Wcei60B
-* [yt algo sylbs](https://www.youtube.com/watch?v=BchPukWb0CU&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=3&pp=gAQBiAQB)
-* [yt dsa sheet](https://www.youtube.com/watch?v=Az3kEDm5b_k&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=4&pp=gAQBiAQB)
-* [master dsa](https://www.youtube.com/watch?v=F-ao3Q6I2Fc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=36&pp=gAQBiAQB)
-* [djistrika algo](https://www.youtube.com/watch?v=EFg3u_E6eHU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=43&pp=gAQBiAQB)
-* DSA - mycoding school : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC
-* LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
-* DSA : https://www.youtube.com/watch?v=CBYHwZcbD-s&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
-
-
-
-**DSA Qs**
-* https://www.crackingthecodinginterview.com/resources.html
-* https://www.techiedelight.com/top-100-liked-data-structures-and-algorithm-problems/
-* [Top10Algo](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
-* [must do qs](https://www.codingninjas.com/studio/library/must-do-coding-interview-questions-for-product-based-companies)
-* https://fpcastle.com/2021/10/03/coding-interviews.html
-* https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms
-* [Interview prep](https://hackernoon.com/how-not-to-succeed-in-your-45-minute-coding-interview-2eebd46bd6ec)
-* [Reddit links](https://www.reddit.com/r/e/comments/2lzc4h/big_collection_of_interview_preparation_links/?rdt=58725)
-* [Answer Tech Qs](https://www.dice.com/career-advice/answer-technical-interview-question)
-
-**Courses**
-* [G Intvw](https://www.educative.io/blog/google-coding-interview)
-* [Courses](https://docs.google.com/document/d/1PeK69h4H82rwKjhactiE_sAIorCcZgXgXTY7k-nXpnE/edit#heading=h.p3wx5d6ii3r8)
-* [zhia course design](https://docs.google.com/document/d/1PeK69h4H82rwKjhactiE_sAIorCcZgXgXTY7k-nXpnE/edit#heading=h.90hg31r85qlt)
-* [DSA Course](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)
-* https://docs.google.com/document/d/1PUDQ_LD95iYp8YLDB1yeiUvs7LWlgca-5e9zQ8I1cE8/edit
-* prep : https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1
-* https://dev.to/javinpaul/top-10-free-books-and-courses-to-learn-data-structure-and-algorithms-in-2019-30gl
-* https://www.businessinsider.in/tech/news/a-self-taught-engineer-at-google-shares-the-8-best-google-programming-courses-you-can-access-for-free/amp_articleshow/113632216.cms
-
-
-
-
-
-
 
 
