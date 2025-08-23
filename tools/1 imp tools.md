@@ -5,6 +5,7 @@
 * [Read Webpages](https://www.youtube.com/watch?v=Iln9oG8Rsig&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=6)
 * [copy and paste content webpage](https://www.youtube.com/watch?v=eit7LZfWmGU)
 * copy text from web : https://www.youtube.com/watch?v=eit7LZfWmGU&list=WL&index=9&pp=gAQBiAQB
+* copy text from image android : https://youtube.com/shorts/nR4S7j3Rtko?si=RnTHzHNihddV1Mnq
 * Browser basics : https://youtu.be/FxirRVJWUTs?si=Du_mphenwjEtgDeM
 
 ## google search
