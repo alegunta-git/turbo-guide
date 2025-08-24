@@ -187,6 +187,7 @@ Goodreads
 * https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts
 * download file : https://www.youtube.com/watch?v=BlEWmTzc8ws&list=WL&index=7&pp=gAQBiAQB
 * download : https://www.youtube.com/watch?v=GHUKKFEIQX4&list=WL&index=4&pp=gAQBiAQB
+* readme for github : https://youtu.be/HKdhiOp2uVA?si=7q2H4Q_C69k733mX
 * gh search : https://www.youtube.com/watch?v=qBTmygWBvIA
 * gh issue : https://www.youtube.com/shorts/SSza2dRsBok
 * org star repo as lists : https://www.youtube.com/shorts/8oTmaEa2y0c
