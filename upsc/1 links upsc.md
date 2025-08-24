@@ -1,6 +1,8 @@
 ## Toppers Answer
 * [Toppers Answers](http://www.visionias.in/resources/toppers_answers.php)
 * https://search.app/TcZMe
+* http://www.xaam.in/2017/05/how-did-arushi-sharma-air-292-cse-2015.html
+* http://www.xaam.in/2017/08/neeraj-kumar-agarwal-strategy-rank.html
 
 
 ## Syllabus PYQ
