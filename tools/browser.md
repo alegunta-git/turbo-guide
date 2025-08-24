@@ -125,10 +125,6 @@ https://www.sibsagarcollege.in/jee-mains-result-2025/
 <tr><td>Category</td><td><a href="https://www.sibsagarcollege.in/category/result/">Result</a></td></tr>
 <tr><td>Official Website</td><td><a href="https://jeemain.nta.nic.in/" target="_blank" rel="noreferrer noopener nofollow">https://jeemain.nta.nic.in/</a></td></tr></tbody></table></figure>
 
-* html code :  https://entdata.co.in/NTT_ADM_2024_2025/homresult.html
-```
-* <td width="184" height="45" align="center" bgcolor="#FFFFCC"><font size="2"><a href="N01_G_merged.pdf">A.S.K </a><br></font></td>
-```
-* https://webreference.com/
-
+html code :  https://entdata.co.in/NTT_ADM_2024_2025/homresult.html
+<td width="184" height="45" align="center" bgcolor="#FFFFCC"><font size="2"><a href="N01_G_merged.pdf">A.S.K </a><br></font></td>
 ```
