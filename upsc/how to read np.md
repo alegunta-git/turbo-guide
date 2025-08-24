@@ -1,3 +1,9 @@
+**Tips Read The hindu NP**
+* [NP How to read Hindu](https://iassquad.in/how-to-read-the-hindu-newspaper-upsc/)
+* https://iasabhiyan.in/33122-2/
+* https://compass.rauias.com/blog/how-read-the-hindu-newspaper-upsc/
+* https://iasbaba.com/how-to-read-the-hindu/
+
 ## How to read The Hindu newspaper
 **Key Sections of NP**
 | Page #           | Topic                                                     | Notes                |
