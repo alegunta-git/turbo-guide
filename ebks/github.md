@@ -53,6 +53,7 @@ resources
 * https://github.com/dexteryy/spellbook-of-modern-webdev?tab=readme-ov-file#microservices--api-services-nodejs
 * https://github.com/sindresorhus/awesome?tab=readme-ov-file
 * https://github.com/RishikeshOps/DevOps-Learning-Resources?tab=readme-ov-file
+* https://github.com/nareshbhatia/react-learning-resources?tab=readme-ov-file
 
 books download
 * http://github.com/vhf/free-programming-books
