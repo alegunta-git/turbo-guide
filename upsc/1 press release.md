@@ -1,8 +1,4 @@
-**Tips Read The hindu NP**
-* [NP How to read Hindu](https://iassquad.in/how-to-read-the-hindu-newspaper-upsc/)
-* https://iasabhiyan.in/33122-2/
-* https://compass.rauias.com/blog/how-read-the-hindu-newspaper-upsc/
-* https://iasbaba.com/how-to-read-the-hindu/
+https://github.com/alegunta-git/turbo-guide/blob/master/upsc/how%20to%20read%20np.md
 
 ## Policies
 - NEP 2020 : https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf 
