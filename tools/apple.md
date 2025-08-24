@@ -1,5 +1,6 @@
 ## Apple things
 * [culture code things](https://culturedcode.com/things/features/)
+* https://culturedcode.com/things/features/
 * [Apple Things](https://www.youtube.com/watch?v=2R6o5t0VK_A&list=WL&index=3&pp=gAQBiAQB)
 
 ## Apple Notes
