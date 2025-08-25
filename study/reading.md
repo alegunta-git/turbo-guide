@@ -1,43 +1,13 @@
-# TOC
-- [Writing](#Writing)
-- [Reading](#Reading)
+## School
+**CBSE Exam Prep**
+* Board Syllabus (CBSE/State) , Timings : Single Shift 8:00 am to 2:30 pm, 9:30 am to 3:30 pm
+* School (Pvt/Govt) , Classes , school dress uniform , lesson plan , Home Wrk , Class wrk , Exams , Attendance , Sports 
+* Make concept Maps > Freq Revision > Mug Formulae > Colored Notes /Sticky > Do Mock Exams ( Time limit)
 
 
-## Writing
-**Writing for Business Readers**
-* Think Like a Busy Reader , Spoiler alert: Everyone skims.
-* Principles of Effective Writing
-  * First Principle: Less Is More , more deters readers , more dilutes information 
-  * Second Principle: Make Reading Easy ( “Federal Plain Language Guidelines”[19]
-  * Tell Readers Why They Should Care
-* THE RULES OF “LESS IS MORE” : Rule 1: Use Fewer Words 2: Include Fewer Ideas Rule 3: Make Fewer Requests
-* THE RULES OF READABLE WRITING : 1: Use Short & Common Words 2:Write Straightforward and Shorter Sentences , 3: Design for Easy Navigation
-* THE RULES OF WELL-DESIGNED WRITING  : Rule 1: Make Key Information Immediately Visible bottom line up front (BLUF) , 2: Separate Distinct Ideas
-* **Rule 3: Place Related Ideas Together , Order Ideas by Priority , Include Headings , 6 : Consider Using Visuals**
-
-
-**Guidelines APA**
-* https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf
-* [APA format](https://www.easybib.com/guides/citation-guides/apa-format/)
-* gdocs apa format : https://www.youtube.com/watch?v=f7WomKsmeuI&list=WL&index=15&pp=gAQBiAQB
-* ref website ms word : https://youtu.be/nBMQNQt_fU4?si=5ZgYzv4B_95ym-l4
-* adp format : https://youtu.be/decO68mL-tU?si=lXzAYilac1rXTC1j
-* Writing paradigms : https://www.lupinworks.com/roche/pages/paradigms.php
 
 
 ## Reading
-**yt reading**
-* [speed reading](http://www.drurywriting.com/keith/SPEED.htm)
-* [Warren Buffett 500p](https://www.cnbc.com/2018/03/27/warren-buffetts-key-tip-for-success-read-500-pages-a-day.html)
-* [how to read more](https://www.samuelthomasdavies.com/how-to-read-more/)
-* [eff reading](https://jamesclear.com/reading-comprehension-strategies)
-* [track reading](https://bookriot.com/track-reading-ultimate-reading-spreadsheet/)
-* [yt read ncert](https://www.youtube.com/watch?v=vRQdwf3mzBE&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=4&pp=gAQBiAQB)
-* [yt read book mortimer](https://www.youtube.com/playlist?list=PLzPY0u8zL8HdMsiKDs8ABWSycYc_hGhUv)
-* [tips read & remember](https://www.youtube.com/watch?v=7axLldOp6n8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=6&pp=gAQBiAQB)
-* [yt rembr read](https://youtube.com/shorts/pmHXXXH5DmI?si=FXQkobBD_rQaPVew)
-* [A System for Reading](https://www.youtube.com/watch?v=-T57bBtEymo)
-
 **Levels**
 * Level 1 : xls Formulas Vedic math
 * Level 2 : fin modeling , CFP , TVM problems , Regression 
@@ -63,12 +33,6 @@
 * Write down questions as they arise. No question is too small!
 * Color code your notes. Use different colors for definitions, questions, thoughts, etc.
 * Give each chapter a title, even if it already has one. Title = Main idea
-
-**CBSE Exam Prep**
-* Board Syllabus (CBSE/State) , Timings : Single Shift 8:00 am to 2:30 pm, 9:30 am to 3:30 pm
-* School (Pvt/Govt) , Classes , school dress uniform , lesson plan , Home Wrk , Class wrk , Exams , Attendance , Sports 
-* Make concept Maps > Freq Revision > Mug Formulae > Colored Notes /Sticky > Do Mock Exams ( Time limit)
-
 
 **Speed Reading**
 - Myth : Read sequentially , Word2w (sentence,para) ,
