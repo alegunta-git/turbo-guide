@@ -83,7 +83,10 @@
 - Water Filter
 - Furniture
 
-**SOP Mobile Phone**
+## SOP Mobile Phone
+
+syllabus mobile
+* https://sctvesd.wb.gov.in/files/academic/viii_stc/new/Junior%20Mobile%20and%20Smartphone%20Repairing%20Person_MSPRA.pdf?utm_source=perplexity
 
 **Handover Existing Phone**
 - Backup contact vcf file -> wifi direct 
