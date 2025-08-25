@@ -58,6 +58,7 @@ resources
 books download
 * http://github.com/vhf/free-programming-books
 * https://github.com/tdonker/REST-API-books
+* https://github.com/manjunath5496
 * https://github.com/SoumyaMukhija/head_first_series_books/blob/master/OReilly.Head.First.Web.Design.Jan.2009.pdf
 * https://github.com/baoozuma/Head-First-All-Series-PDF
 * https://github.com/GunterMueller/Books-3
