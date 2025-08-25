@@ -1,3 +1,18 @@
+READ Work backwards blog IMP
+**PDM Blogs**
+* [Working Backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
+* [Adrian C blog](http://perfcap.blogspot.com/2012/03/ops-devops-and-noops-at-netflix.html)
+* [DeptPrd Blog](https://www.departmentofproduct.com/blog/)
+* [DeptPrd Metrics PDM](https://www.departmentofproduct.com/blog/metrics-matter-product-managers/)
+* [Scott H Blog](https://www.hanselman.com/blog/a-coder-a-programmer-a-hacker-a-developer-and-a-computer-scientist-walk-into-a-venn-diagram)
+
+**Manager blogs**
+* [Sincera Metrics](https://www.sincera.in/five-sales-performance-metrics-key-to-successful-business-operations/)
+* [MgrClub](https://www.managersclub.com/rich-archbold/)
+* https://www.slideshare.net/slideshow/giving-presentations-to-senior-managers/2707336
+* https://randsinrepose.com/archives/
+* https://engineeringbolt.com/tech/meta-facebook-engineering-manager-checklist-maximizing-efficiency-and-productivity/
+
 ## Finance
 **pfin sme blogs**
 * https://www.basunivesh.com/am-i-rich-or-poor/
