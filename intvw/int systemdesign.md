@@ -1,3 +1,17 @@
+## System Design
+* [blog SD prep](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+* https://dev.to/somadevtoo/the-software-design-system-design-interview-preparation-roadmap-with-resources-1no0
+* [hn t10 sysdia](https://hackernoon.com/10-tips-for-using-diagrams-to-ace-the-system-design-interview-906p3609)
+* https://blog.algomaster.io/p/30-system-design-concepts
+* https://dev.to/alexr/14-case-studies-master-system-design-in-a-month-2jk2
+* https://dev.to/somadevtoo/top-15-system-design-resources-for-programming-interviews-1m15
+* [Dist sys patterns](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/)
+* [Latency numbers](https://gist.github.com/jboner/2841832)
+* [Back of envelope](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
+* [dt Calc Capacity](https://dev.to/ievolved/how-i-calculate-capacity-for-systems-design-3477)
+* [Caching](https://dzone.com/articles/introducing-amp-assimilating-caching-quick-read-fo)
+* [Scaler Articles](https://www.scaler.com/topics/articles/)
+
 ## OOAD
 * Design an ATM 
 * Design Blackjack and a Deck of Cards 
