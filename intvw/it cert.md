@@ -20,11 +20,18 @@
 
 ## IT Certifications
 
+## PMP Exam
+* [PMP formulas](https://www.whizlabs.com/blog/pmp-formulas-for-pmp-certification-exam/)
+* [WBS](https://www.brighthubpm.com/project-planning/2940-tips-for-building-a-work-breakdown-structure/)
+* WBS PMI : https://www.pmi.org/learning/library/work-breakdown-structure-basic-principles-4883
+* [PMI Library](https://www.pmi.org/learning/library/challenges-fixed-price-contracts-9640)
+* [PMBOK 6e](https://prothoughts.co.in/wp-content/uploads/2022/06/a-guide-to-the-project-management-body-of-knowledge-6e.pdf)
 
-### AWS
+
+## AWS
 * https://dev.to/aws-builders/how-i-passed-both-aws-professional-exams-in-6-months-tips-on-how-you-can-too-32em
 
-### Agile CSM
+## Agile CSM
 * https://umarani.com/how-pass-leading-safe-40-exam)
 * https://scrumtrainingseries.com/
 * https://mlapshin.com/index.php/scrum-quizzes/sm-learning-mode/
@@ -40,9 +47,9 @@
 * https://qaiglobalinstitute.com/product/certified-scrum-product-owner-cspo-live-virtual-training-online/
 * https://scrumcrazy.wordpress.com/2018/09/22/scrumcrazy-com-is-moving/
 
-### Agile SAFE Qs
+## Agile SAFE Qs
 * TBD
 
-### Devops
+## Devops
 * DASA Cert
 * Cheat sheet ( CICD , Devops patterns
