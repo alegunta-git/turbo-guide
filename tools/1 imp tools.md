@@ -19,7 +19,8 @@
 * [art og googling](https://www.youtube.com/watch?v=bNbPtThW2fM&list=WL&index=2&pp=gAQBiAQB)
 
 
-## upsc prep
+## Study
+**upsc prep**
 * [use gdocs for CA](https://www.youtube.com/watch?v=QZUoyk9AMcM&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=1&pp=gAQBiAQB0gcJCYQJAYcqIYzv)
 * [org notes gdocs*](https://www.youtube.com/watch?v=gKLY4c1hZv4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=28&pp=gAQBiAQB)
 * [Notes micro themes](https://youtu.be/ffyruloCiqk?si=k_zRsazW45Syw3mO)
@@ -30,7 +31,21 @@
 * [yt Niveditha](https://www.youtube.com/@nivedithashetty_upsc/videos)
 * [yt LBSNAA trg](https://youtu.be/3SiRw-rEGIE?si=I7m2HxZTyVEysyN4)
 * tablet for upsc : https://youtu.be/lhbnOiZiLpc?si=bX04x2Q2oCNPOy6w
-  
+
+
+**yt reading**
+* [speed reading](http://www.drurywriting.com/keith/SPEED.htm)
+* [Warren Buffett 500p](https://www.cnbc.com/2018/03/27/warren-buffetts-key-tip-for-success-read-500-pages-a-day.html)
+* [how to read more](https://www.samuelthomasdavies.com/how-to-read-more/)
+* [eff reading](https://jamesclear.com/reading-comprehension-strategies)
+* [track reading](https://bookriot.com/track-reading-ultimate-reading-spreadsheet/)
+* [yt read ncert](https://www.youtube.com/watch?v=vRQdwf3mzBE&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=4&pp=gAQBiAQB)
+* [yt read book mortimer](https://www.youtube.com/playlist?list=PLzPY0u8zL8HdMsiKDs8ABWSycYc_hGhUv)
+* [tips read & remember](https://www.youtube.com/watch?v=7axLldOp6n8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=6&pp=gAQBiAQB)
+* [yt rembr read](https://youtube.com/shorts/pmHXXXH5DmI?si=FXQkobBD_rQaPVew)
+* [A System for Reading](https://www.youtube.com/watch?v=-T57bBtEymo)
+
+
 ## ms ofc g suite
 **g keep**
 * [cp content g keep](https://www.youtube.com/watch?v=4hK_y24T8BI&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=2&pp=gAQBiAQB)
