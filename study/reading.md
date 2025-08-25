@@ -1,10 +1,47 @@
 ## School
+**Study skills**
+* Organize Study Environment Manage Time – Home and College
+* Manage Materials :Use Binder , Filing System , Color Code
+* Priortize what to study (IMP)
+* Time Utilization (Pie Chart) , w/e Schedule -> Set Goals
+* To Do List , Task / Planner Active Listening
+* Ask  Q's , Summarize what has been said 
+* Note taking : Cornell , Mind Mapping (Cohort) , Use Abbreviations Test preparation
+* "site:edu production possibilities curve exam"
+* Web Sites Online edu : Toppr. Meritnation smart gurukul , Byju
+
+
 **CBSE Exam Prep**
 * Board Syllabus (CBSE/State) , Timings : Single Shift 8:00 am to 2:30 pm, 9:30 am to 3:30 pm
 * School (Pvt/Govt) , Classes , school dress uniform , lesson plan , Home Wrk , Class wrk , Exams , Attendance , Sports 
 * Make concept Maps > Freq Revision > Mug Formulae > Colored Notes /Sticky > Do Mock Exams ( Time limit)
 
+**Tips**
+* **Golden Book - notebook imp points - revision on weekends**
+* Tables till 20, Factorials till 10, Square roots till 10,
+* Squares from 1 to 30, Cubes from 1 to 20,
+* Fractions and their Decimal Notations,
+* Powers of 2, 3 and 5 till 7th power,
 
+**Sanskrit**
+* https://www.learnsanskrit.org/guide/
+* [Quora Vedas how to memorize](https://www.quora.com/Before-the-Vedas-were-written-down-how-were-they-memorised)
+* [How the ancients learnt the Vedas perfectly](https://indianexpress.com/article/parenting/learning/how-ancients-learnt-vedas-perfectly-5743767/)
+* Veda Vyas : Document the Vedas , Palm Leaves , Scriptures : Organized Knowledge
+* Blooms Taxonomy
+  
+**ROOTS read this**
+* [greeklatinroots](https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf)
+* [rootchart](http://www.prefixsuffix.com/rootchart.php)
+
+**cbse**
+* [gcse paper](https://www.youtube.com/watch?v=PJqsL_uaSko&list=WL&index=4&pp=gAQBiAQB)
+* [cbse sample papers](https://www.jagranjosh.com/articles/amp/cbse-class-10-sample-papers-and-marking-scheme-for-board-exam-2024-pdf-1680333171-1)
+* cbse parent handbook : https://www.cbse.gov.in/cbsenew/documents/Parents_Handbook_Careers_2025.pdf
+* [learning strategies](https://lsc.cornell.edu/notes.html)
+* [top edu sites](https://www.upwork.com/resources/top-sites-for-online-education-and-learning)
+* [40 apps college students](https://collegeinfogeek.com/best-apps-for-college-students/)
+* [⁠Life Skills That Are Not Taught In School](https://www.cheggindia.com/web-stories/life-skills-that-are-not-taught-in-school/)
 
 
 ## Reading
