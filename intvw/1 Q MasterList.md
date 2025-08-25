@@ -2,6 +2,14 @@
 * [Amazon interview](https://helloacm.com/how-to-prepare-for-an-amazon-interview-my-amazon-interview-experience/)
 * [amz tpm](https://www.youtube.com/watch?v=8EOWgSsk3yM&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=4&pp=gAQBiAQB)
 
+**Agile Qs**
+* [Agile Int](https://mindmajix.com/agile-interview-questions)
+* [Agile Int2](https://www.whizlabs.com/blog/agile-scrum-interview-questions/)
+* [38 SM](https://age-of-product.com/38-scrum-master-interview-questions-to-avoid-imposters-free-pdf/)
+* [52 SM](https://www.scrum.org/resources/blog/52-scrum-master-interview-questions)
+* [yt 200 agile qs](https://www.youtube.com/watch?v=tNIHysh2ZW4&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=11&pp=gAQBiAQB)
+
+
 ### Google 
 * [Google Java](https://google.github.io/styleguide/javaguide.html)
 * [Google Test](https://testing.googleblog.com/search/label/TotT)
