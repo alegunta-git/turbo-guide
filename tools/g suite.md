@@ -24,6 +24,8 @@
 **glens**
 * g photos  extract text : https://www.youtube.com/shorts/fKlWCUBomdk
 * [G Lens guide](https://www.theedublogger.com/google-lens-guide/)
+* g lens hindi : https://youtu.be/i9gDjvoo7ZU?si=tk0okpqFi919B-jm
+* convert photo to pdf w g lens : https://youtu.be/i2ySYld-i6s?si=jLZfHpSPJ3kwqNBW
 
 **G Keep**
 * [Google Keep 101 - YouTube](https://www.youtube.com/watch?v=r7wV16oWE0g&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=17)
