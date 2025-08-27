@@ -4,9 +4,6 @@
 * https://www.flipkart.com/books-store
 * https://shopping.google.com/?pli=1)
 
-## Kindle
-* https://www.amazon.com/sendtokindle
-* https://read.amazon.in/landing
 
 ## Book Search
 * book summary good to great
