@@ -1,3 +1,14 @@
+## Data mining Algorithms
+* PageRank ,
+* Apriori  ,
+* Naive Bayes 
+* K-means /  kNN- K Nearest Neighbor 
+* SVM Support Vector machines 
+* Linear Prog (capacity planning) 
+* EM /  C4.5
+* CART - Classification and Regression Trees 
+* Gradient boosting algorithm and
+* AdaBoosting algorithm
 
 ## ML Interview book
 - Chapter 1 Introduction and Overview
@@ -25,26 +36,49 @@
 - Chapter 10 Personalized Headshot Generation
 - Chapter 11 Text-to-Video Generation
 
-## Algorithms ML
-- Format the Algo ML List when can we do this 
+## Machine Learning Algorithms
 
-**Data mining Algorithms**
-* PageRank , Apriori  , Naive Bayes 
-* K-means /  kNN- K Nearest Neighbor 
-* SVM Support Vector machines 
-* Linear Prog (capacity planning) 
-* EM /  C4.5  / CART - Classification and Regression Trees 
-* Gradient boosting algorithm and AdaBoosting algorithm
+### Supervised  Learning ( Data with label)
+Classification (email spam detection , speech recognition , Sentiment analysis)
+1. Logistic Regression
+2. Naive Bayes Classifier
+3. K Nearest Neighbors
+4. Support Vector Machines
 
-**Machine Learning Algorithms**
-* Linear regression 
-* Logistic regression 
-* Decision tree , classifiers
-* Random forest algorithm
-* Dimensionality reduction algorithms 
-* Unsupervised learning ,  Supervised learning
-* Clustering , euclidean/manhattan/cosine/k-means 
-* hierarchial c , Neural network (ANN)
-* PAC Principal component analysis , Association rules (market basket) 
-* SVM , NLP (Sentiment analysis) , 
-* Streaming , Data compression(huffman)
+Regression ( stock market prediction , rainfall prediction)
+1. Linear Regression
+2. Ridge Regression
+3. Ordinary Least squares regression
+4. Stepwise Regression
+
+### Unsupervised Learning ( Data Without Label )
+
+Clustering ( id fake news , document analysis)
+1. k-means
+2. K-median
+3. Hierarchical clustering
+4. Expectation Maximization
+
+Association Analysis ( market basket analysis)
+1. APRIORI
+2. eclat
+3. FP growth 
+
+Dimensionality Reduction ( Anlaysis of written text , DNA data)
+1. Feature Extraction ( Principal Component Analysis)
+2. Feature Selection ( Wrapper , Filetr , Embedded method)
+
+### Reinforcement Learning (State and Action)
+Model Free
+1. Q Learning
+2. Hybrid
+3. Policy Optimization
+
+Model based
+1. Learn the model
+2. Given the model 
+
+
+
+
+
