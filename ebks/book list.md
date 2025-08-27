@@ -470,6 +470,8 @@ Misc
 * Intelligent Investor
 * Peter Lynch , Learn to Earn
 * Peter Lynch , Beating the street
+* winning the losers game
+* the corporate lifecycle
 
 
 ### P Fin India
