@@ -8,6 +8,7 @@
 * [Goldmine Training](https://www.goldmine.com/training/training_videos_basics.html)
 * [CFMS reconciliation](https://youtu.be/qqlgn7Y881k?si=e_Zra6DwHSVNMXZl)
 * [pay bill herb](https://youtu.be/mRwOUuMKdjI?si=-4347Kol5rXCmGCu)
+* https://profitbooks.net/27-best-free-software-tools-for-small-businesses/
 
 **Android Basics**
 * android 101 : https://www.youtube.com/playlist?list=PLPRhQEDGqsFC4NL3DiYpPVnDKP9o1dnTw
