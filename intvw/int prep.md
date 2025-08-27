@@ -4,6 +4,7 @@
 * [FE Interview handbook](https://www.frontendinterviewhandbook.com/)
 * [PDM Handbook](https://www.rocketblocks.me/guide/pm/product-management-primer.php)
 * [Stevey Blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+* bbg recommendation for tech intvw : https://youtu.be/wAMc7NyL4tQ?si=K6VsrZQLDKWbDQKw
 
 ## DSA Cheatsheet
 * https://www.bigocheatsheet.com/
