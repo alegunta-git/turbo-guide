@@ -39,6 +39,7 @@ mutual fund
 * 10 Mutual Funds That Turned Rs 1 Lakh Into Over Rs 10 Lakhs in 15 Years https://share.google/adrvcUn8ljTCAc2JN
 * https://www.advisorkhoj.com/mutual-fund-software-in-india?utm_source=perplexity
 * https://www.moneycontrol.com/news/photos/business/personal-finance/how-to-gift-mutual-funds-or-stocks-to-your-children-the-right-way-13424022.html
+* https://www.livemint.com/money/personal-finance/fund-houses-backed-by-sbi-hdfc-bank-and-icici-bank-dominate-inflows-report-mutual-funds-11756203204823.html
 
 news
 * https://indianexpress.com/article/technology/perplexity-finance-is-now-tailor-made-for-india-offers-premium-data-for-free-10186545/#webview=1
