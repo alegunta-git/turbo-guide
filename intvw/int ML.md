@@ -78,6 +78,8 @@ Model based
 1. Learn the model
 2. Given the model 
 
+## Yt links 
+* Design an ML Recommendation Engine : https://youtu.be/FoSCaue3lcg?si=2meFDK-XYDMge-aI
 
 
 
