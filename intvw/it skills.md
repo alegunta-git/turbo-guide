@@ -16,6 +16,28 @@
 * [Python Training](https://www.tertiarycourses.com.sg/python-3-essential-training-in-singapore.html)
 * [vignan bio tech](https://www.vignan.ac.in/r22/R22%20B.Tech(BT)%20Course%20Structure%20and%20Contents.pdf)
 
+
+## Cert
+**Certification SDLC**
+| Role             | Exam                                             |
+|------------------|--------------------------------------------------|
+| PM               | PMP , Agile (CSM , CSPO ) , SAFE                 |
+| Business Analyst | CBAP                                             |
+| QA               | ISTB                                             |
+| Design/Architect | TOGAF                                            |
+| Devops           | DASA                                             |
+
+**Certification Tech**
+| Role             | Exam                                             |
+|------------------|--------------------------------------------------|
+| AWS              | AWS Cloud Practitioner , AWS Solution Architect  |
+| GCP/Azure        | GCP Data Engineer , Cloud Architect              |
+| JIRA             | JIRA Admin                                       |
+| Dev              | SQL , Java , MCSD , Salesforce Trail             |
+| Security         | CRISC , CISSP , CISM , CISA                      |
+| Networking       | CompTIA , ITIL , CEH , Cisco                     |
+
+
 ## IT Architecture
 **IT Frameworks** 
 | Tech             | Notes                                                                       |
