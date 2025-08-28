@@ -41,6 +41,20 @@
 - The importance of data and how you have used data analytics in previous roles You missed a project deadline. How would you handle it?
 
 
+## Devops
+* Continuous Integration 
+* Continuous Deployment , Martin Fowler Series
+* Setup and Configure Environment pipeline : Dev -> Test -> Prod 
+* Maven , Junit
+* **Build : Jenkins** , Azure pipeline
+* Src code control/ Repository : **Github**
+* Deployment : **Docker** , Kubernetes
+* Code Configuration : Chef , Puppet , **Ansible**
+* Test Automation  : Selenium , Playwright , Katalon
+* Monitoring : Nagios
+* End to end tracing : New relic
+
+
 ## Agile Topics
 * Agile & SAFE glossary
 * Process : Kanban , Lean , LESS ,SAFE  
