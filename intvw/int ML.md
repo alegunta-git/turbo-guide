@@ -79,7 +79,6 @@ Model based
 2. Given the model 
 
 
-
 ## Int prep
 * https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI?tab=readme-ov-file
 * https://github.com/khangich/machine-learning-interview?tab=readme-ov-file
@@ -94,11 +93,8 @@ Model based
 ## Yt links 
 * Design an ML Recommendation Engine : https://youtu.be/FoSCaue3lcg?si=2meFDK-XYDMge-aI
 * https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/
-
 * https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/
 * amz intvw : https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV
 * stat quest : https://www.youtube.com/user/joshstarmer
-
-
 
 
