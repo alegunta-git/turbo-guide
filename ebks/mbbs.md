@@ -53,27 +53,26 @@
 - Orthopaedics , Maheshwari & MHaskar
 
 ## YT links
-Medicine playlist
-* biochemistry : https://www.youtube.com/playlist?list=PLVZ65NT_eXfH_SGeXiyVROO6QVRrFNhPO
-* obs and gynae : https://www.youtube.com/watch?v=jM2n-G4eBHs&list=WL&index=2&pp=gAQBiAQB
-* [yt dandelion med](https://youtu.be/s-Xpa5UZAZs?si=fAjvDKb5A6MOtQ-a)
-
-T2DM Diabetes
-* [Diabetes Mellitus Treatment USMLE - YouTube](https://www.youtube.com/watch?v=fVSMzcQfeSM&list=WL&index=3)
-
-
-Ortho
-* [lower back pain ex](https://www.youtube.com/shorts/R9XTmO8DnEo)
-* [OMed](https://www.youtube.com/watch?v=MLmLr0KW3f0&list=PLmMyXRtEtJEbk1k9YhlP1QfnGJ2AhLK_-&index=11)
-
 Health tips
 * properly brush : https://www.youtube.com/watch?v=621E6KyWIGA&list=WL&index=9&pp=gAQBiAQB0gcJCYQJAYcqIYzv
 * https://indianexpress.com/article/lifestyle/health/4-warning-signs-gut-asking-for-help-nutritionist-9821488/
-
-## Yoga
 * https://timesofindia.indiatimes.com/blogs/small-changes-big-differences/18-a-lifestyle-approach-to-improving-hba1c-and-sustainable-weight-loss/
 * [Yoga Poses](https://www.yogajournal.com/pose-finder/pose-finder/)
 * [Exercise Table](https://www.usc.edu.au/media/1000574/Exercises-for-Computer-Users-and-Office-Workers.pdf)
 * hexyfit trg : https://www.youtube.com/watch?v=YdyFWwsI4SU&list=WL&index=5&pp=gAQBiAQB
 
+Medicine Terminology 
+* prescription ovw hindi : https://youtu.be/aJKIFlOLV2c?si=Fgm8AjIAm62DRZLM
 
+T2DM Diabetes
+* [Diabetes Mellitus Treatment USMLE - YouTube](https://www.youtube.com/watch?v=fVSMzcQfeSM&list=WL&index=3)
+
+Ortho
+* [lower back pain ex](https://www.youtube.com/shorts/R9XTmO8DnEo)
+* [OMed](https://www.youtube.com/watch?v=MLmLr0KW3f0&list=PLmMyXRtEtJEbk1k9YhlP1QfnGJ2AhLK_-&index=11)
+
+
+mbbs playlist
+* biochemistry : https://www.youtube.com/playlist?list=PLVZ65NT_eXfH_SGeXiyVROO6QVRrFNhPO
+* obs and gynae : https://www.youtube.com/watch?v=jM2n-G4eBHs&list=WL&index=2&pp=gAQBiAQB
+* [yt dandelion med](https://youtu.be/s-Xpa5UZAZs?si=fAjvDKb5A6MOtQ-a)
