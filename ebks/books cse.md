@@ -1,8 +1,8 @@
 ## Core Subjects
-* **Data Structures and Algorithms**
-* **Algorithms Design** 
 * **Machine Learning**
 * AI and NLP
+* **Data Structures and Algorithms**
+* **Algorithms Design** 
 * **Data Mining**
 * **DWBI** ,
 * **DBMS** ,
@@ -14,6 +14,49 @@
 *  Networking
 
 ## Reading List
+
+### Machine Learning
+* Tom Mitchell, Machine Learning, McGraw*Hill.
+* MACHINE LEARNING(R17A0534).pdf
+* Practical Information Architecture, by Eric L. Reiss (Addison*Wesley, 2000).
+* Pattern Recognition and Machine Learning
+
+**For Absolute Beginners**
+* Machine Learning for Absolute Beginners by Oliver Theobald
+* The Hundred-Page Machine Learning Book by Andriy Burkov
+* Machine Learning for Dummies by John Paul Mueller and Luca Massaron
+* The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World , Pedro Domingos, 2015
+
+
+**For Coders with experience**
+* Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow by Aurélien Géron
+* Introduction to Machine Learning with Python by Andreas C. Müller and Sarah Guido
+* The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+* An Introduction to Statistical Learning: With Applications in R , Trevor Hastie, 2013
+* Pattern Recognition and Machine Learning by Christopher M. Bishop:
+* Machine Learning in Action ,Peter Harrington, 2012
+* Programming Collective Intelligence
+
+**ML Interview**
+- Machine Learning System Design Interview , Alex Xu, 2023
+- Grokking Machine Learning , Luis G. Serrano, 2021
+- Machine Learning Design Patterns , Valliappa Lakshmanan, 2020
+- Machine Learning Engineering Andriy Burkov, 2020
+- Machine Learning Algorithms in Depth Vadim Smolyakov, 2024
+- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications , Chip Huyen, 2022
+
+**For Advanced Learners**
+* Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+* Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto
+* Machine Learning: A Probabilistic Perspective by Kevin P. Murphy:
+
+
+### AI and NLP
+* Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach,
+* Nils J. Nilsson, Artificial Intelligence: A New Sythesis, Morgan*Kaufmann. 
+* Speech & Natural Language Processing * Daniel Jurafsky & James H Martin, Pearson
+* Chris Manning and Hinrich Schuetze, Foundations of Statistical Natural LP, MIT
+
 
 Data Structures and Algorithms
 * R. G. Dromey, How to Solve it by Computer 16
@@ -28,17 +71,6 @@ Algorithms Design
 * Algorithm Design Manual ( S Skiena)
 * Michael T. Goodrich and Roberto Tamassia, Algorithm Design:
 
-Machine Learning
-* Tom Mitchell, Machine Learning, McGraw*Hill.
-* MACHINE LEARNING(R17A0534).pdf
-* Practical Information Architecture, by Eric L. Reiss (Addison*Wesley, 2000).
-* Pattern Recognition and Machine Learning
-  
-AI and NLP
-* Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach,
-* Nils J. Nilsson, Artificial Intelligence: A New Sythesis, Morgan*Kaufmann. 
-* Speech & Natural Language Processing * Daniel Jurafsky & James H Martin, Pearson
-* Chris Manning and Hinrich Schuetze, Foundations of Statistical Natural LP, MIT
 
 Data Mining
 * Introduction to Data Mining * Pang Ning Tan*
@@ -115,10 +147,6 @@ Scalability
 * Scalable Internet Architectures
 * Architecting for Scale
 * Philip and Alex's Guide to Web Publishing, P. Greenspun. Lecture notes,
-
-## ML Interview
-* Ace the Data Science Interview
-* ML Design Patterns
 
 ## PDM Interview
 * Cracking PM Interview 
