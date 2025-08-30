@@ -78,8 +78,26 @@ Model based
 1. Learn the model
 2. Given the model 
 
+
+
+## Int prep
+* https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI?tab=readme-ov-file
+* https://github.com/khangich/machine-learning-interview?tab=readme-ov-file
+* https://github.com/chiphuyen/machine-learning-systems-design/blob/master/README.md
+* https://github.com/binhnguyennus/awesome-scalability?tab=readme-ov-file
+* https://github.com/checkcheckzz/system-design-interview?tab=readme-ov-file
+* https://www.educative.io/courses/grokking-the-system-design-interview
+* https://seanprashad.com/leetcode-patterns/
+* https://www.windowfunctions.com/
+* https://github.com/alirezadir/Production-Level-Deep-Learning
+
 ## Yt links 
 * Design an ML Recommendation Engine : https://youtu.be/FoSCaue3lcg?si=2meFDK-XYDMge-aI
+* https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/
+
+* https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/
+* amz intvw : https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV
+* stat quest : https://www.youtube.com/user/joshstarmer
 
 
 
