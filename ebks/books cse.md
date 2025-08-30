@@ -4,10 +4,10 @@
 * **Machine Learning**
 * AI and NLP
 * **Data Mining**
-* Discrete Math
 * **DWBI** ,
 * **DBMS** ,
 * OOAD ,  
+* Discrete Math
 * Statistics ,
 * Probability , 
 * **Operating Systems(unix Internals)**
@@ -99,13 +99,13 @@ Others
 Coding Interview
 *  Cracking The Coding Interview: 150 Programming Questions And Solutions gayle
 *  **Elements of Programming Interview**
-*  Coding Interview Patterns
+*  **Coding Interview Patterns**
 *  Fav Prog Lang effectiveSeries * Java C++ Python
 *  Daily Coding Problem
 *  Dynamic Programming for coding interview
 
 System Design
-*  **System Design Vol1 Alex Xu **
+*  **System Design Vol1 Alex Xu**
 *  **System Design Vol2** 
 * Database Internals: A Deep Dive into How Distributed Data Systems Work by Alex Petrov
 * Designing Data*Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
