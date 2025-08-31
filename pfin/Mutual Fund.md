@@ -20,6 +20,13 @@
   * Level four: equity index + active multi-cap funds + PF + PPF + debt funds (50 per cent index, 25 per cent mid-cap and 25 per cent small-cap fund)
   * Level five: equity index + active multi-cap + foreign funds + PF + PPF + debt funds
 
+**Types of Funds**
+- Liquid Funds For a period of up to 91 days
+- Ultra Short Duration Funds For a period of up to 6 months
+- Low Duration Funds For more than 6 months till up to 12 months.
+- Short Duration Funds For more than 12 months till up to 3 years
+
+
 **KYC/MF Investment**
 * mf investor : kyc compliance (id , address , photo , pan) , kra , p info ( em , b info , micr) , nomination , fatca compliance 
 * details : postal address (follow ups) , email , contact no , bank a/c ( delay in dividend pmt) , nomination ( handover)
@@ -57,3 +64,6 @@
 * BETA : volatility returns relative mkt index. beta 1.3 , Nifty rises 1%, stock +13%; index falls 1%, -13% , higher beta -> high risk investment.
 * Sharpe Ratio (S) = (r (Portfolio return) – rf (Risk free rate)) / portfoli volatility (v)
 * Treynor Ratio (S) = (r (Portfolio return) – rf (Risk free rate)) / portfoli beta (b)
+
+
+
