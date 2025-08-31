@@ -1,13 +1,4 @@
-## LIG Skills
-**KFA**
-- Career , 
-- Relationship  , 
-- Finance ,  
-- Health ,   
-- Home Improvement ,  
-- T - Task Management (GTD) 
-
-**How to** 
+## How to
 - How to Cook  
 - How to Manage Money  
 - How to be Organized ,  cope with failure 
@@ -16,18 +7,13 @@
 - How to spend wisely ,
 - How to Manage Time 
 - How to Use a Map 
-- How to find a job 
+- How to find a job
+- [J Shopping](https://www.youtube.com/watch?v=2cJC6OXsvV0&list=WL&index=11&pp=gAQBiAQB)
 
-**Naza training**
-- Laptop repair 
-- Mobile repair
-- Basic networking 
-- Sas data analysis 
-- Python prog
-- Eng 
-- Kannada 
-- Basic pc
-- Tally erp9
+## Tailoring
+* [yt dress well](https://www.youtube.com/watch?v=R9BP1loyA7Y&list=PLmMyXRtEtJEbpcDHcySTAefGOFKPA_e_z&index=4&pp=gAQBiAQB)
+* TAILORING CLASS - BASIC COURSE : https://youtube.com/playlist?list=PLs4myZ6tmF0bNfY5VOOBexJCuq25BhZ8s&si=GYnYqVTbuyPCgC3k
+
 
 ## House Construction
 * [Blog House construction](https://houseconstructiontips.com/)
@@ -56,9 +42,16 @@
 * yt shorts : https://youtube.com/shorts/z_su4cimtWo?si=NBPpLolOAmCw1YsV
 * https://www.team-bhp.com/news/why-i-prefer-bangalore-metro-over-my-own-ev-daily-office-commute
 
-## Misc
-* [J Shopping](https://www.youtube.com/watch?v=2cJC6OXsvV0&list=WL&index=11&pp=gAQBiAQB)
-* [yt dress well](https://www.youtube.com/watch?v=R9BP1loyA7Y&list=PLmMyXRtEtJEbpcDHcySTAefGOFKPA_e_z&index=4&pp=gAQBiAQB)
+## Naza training
+- Laptop repair 
+- Mobile repair
+- Basic networking 
+- Sas data analysis 
+- Python prog
+- Eng 
+- Kannada 
+- Basic pc
+- Tally erp9
 
 
 
