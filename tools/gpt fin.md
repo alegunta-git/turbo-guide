@@ -1,0 +1,2 @@
+## YT SME : How I Automated My Stock Analysis with Perplexity Tasks"
+Provide a comprehensive summary of all LSE RNS announcements from the past 24 hours. Focus on: 1) Price-sensitive announcements, 2) Merger and acquisition activity, 3) Trading updates and profit warnings, 4) Director dealings and shareholding changes, 5) Dividend announcements. 6) FY and Interim Company Results. For each significant announcement, include the company ticker, announcement type, key details, and potential market impact. Format as a digestible morning briefing."
