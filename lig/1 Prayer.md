@@ -36,6 +36,7 @@
 * [Śloka Learning Course - Ep.1 - YouTube](https://www.youtube.com/watch?si=TPbIq8duXQDiH7Xm&v=ctFYELogz-Y&feature=youtu.be)
 * [Srivani Trust Darshan | KshetraDarshan](https://kshetradarshan.com/tirumala/how-to-book-srivani-trust-darshan/)
 * [Pooja Books | The Hindu Temple of St. Louis](https://www.hindutemplestlouis.org/pooja-books/)
+* Vaastu puja pavan acharya : https://www.youtube.com/watch?v=spnbmFEge0s&list=PLmMyXRtEtJEYp1YAdJBOhD3xgsO17g6t2&index=8&pp=gAQBiAQB8AUB
 
 ## Mantras
 * 40-verse hymn Hanuman Chalisa for strength and courage and give strength to face any problems and obstacles.
