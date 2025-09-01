@@ -1,3 +1,61 @@
+## Links
+**Sanskrit**
+* https://www.learnsanskrit.org/guide/
+* [Quora Vedas how to memorize](https://www.quora.com/Before-the-Vedas-were-written-down-how-were-they-memorised)
+* [How the ancients learnt the Vedas perfectly](https://indianexpress.com/article/parenting/learning/how-ancients-learnt-vedas-perfectly-5743767/)
+* Veda Vyas : Document the Vedas , Palm Leaves , Scriptures : Organized Knowledge
+* Blooms Taxonomy
+  
+**ROOTS read this**
+* [greeklatinroots](https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf)
+* [rootchart](http://www.prefixsuffix.com/rootchart.php)
+
+**g drive books**
+* [sm books](https://www.youtube.com/watch?v=AAI6*zq25EE&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=29&pp=gAQBiAQB)
+* [org books gdrive](https://www.youtube.com/watch?v=sBO8jxf4GPM)
+* [IMP book notes](https://www.youtube.com/watch?v=mQzYdYOp9jg&list=WL&index=9&pp=gAQBiAQB)
+* [use yt](https://www.youtube.com/watch?v=tY28a5dmFL4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=20&pp=gAQBiAQB)
+
+
+
+**yt note taking**
+* Notetaking : Mindmap , outline 
+* [billgnotes](https://decidingbetter.com/?p=611)
+* [billg review](https://grokable.com/2003/04/post-billg-review/)
+* [dev notes](https://dev.to/logan/how-i-take-notes-ag1)
+* [meeting notes](https://www.scrumgenius.com/blog/how-to-take-meeting-notes)
+* [notes2](https://www.theopennotebook.com/2011/12/06/taking-good-notes/)
+* [notion](https://nira.com/how-to-use-notion/)
+* https://www.xda-developers.com/i-turned-my-note-taking-overload-to-an-efficient-pkm-system-heres-what-i-learned/
+
+**yt mark book**
+* [ca Notes](https://www.youtube.com/clip/UgkxjwqDLVckvfjw3bjzCVFAtiE4DgAOh2uD)
+* [highlight text book](https://www.youtube.com/watch?v=LsiJ-CNmEJE&pp=ygUTaGlnaGxpZ2h0IHRleHQgYm9vaw%3D%3D)
+* [highlight text hindi](https://www.youtube.com/watch?v=A-wpSMcKZ-o&pp=ygUZaGlnaGxpZ2h0IHRleHQgYm9vayBoaW5kaQ%3D%3D)
+* [yt mark a book](https://www.youtube.com/watch?v=9ect7YFveEs)
+
+**yt reading**
+* [speed reading](http://www.drurywriting.com/keith/SPEED.htm)
+* [Warren Buffett 500p](https://www.cnbc.com/2018/03/27/warren-buffetts-key-tip-for-success-read-500-pages-a-day.html)
+* [how to read more](https://www.samuelthomasdavies.com/how-to-read-more/)
+* [eff reading](https://jamesclear.com/reading-comprehension-strategies)
+* [track reading](https://bookriot.com/track-reading-ultimate-reading-spreadsheet/)
+* [yt read ncert](https://www.youtube.com/watch?v=vRQdwf3mzBE&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=4&pp=gAQBiAQB)
+* [yt read book mortimer](https://www.youtube.com/playlist?list=PLzPY0u8zL8HdMsiKDs8ABWSycYc_hGhUv)
+* [tips read & remember](https://www.youtube.com/watch?v=7axLldOp6n8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=6&pp=gAQBiAQB)
+* [yt rembr read](https://youtube.com/shorts/pmHXXXH5DmI?si=FXQkobBD_rQaPVew)
+* [A System for Reading](https://www.youtube.com/watch?v=-T57bBtEymo)
+
+
+Study Skills
+* [How To Study and Mind Power Techniques](https://youtu.be/IR9Vp_TGsH4?si=jNc-Fhtmb_iALOhF)
+* yt pl chet : https://www.youtube.com/@ChetChat101/playlists
+* [LBCC Study skills](https://www.youtube.com/watch?v=QLjip0wygAI)
+* [yt docs hindi typing](https://www.youtube.com/watch?v=lWr9FlZwwWQ&list=WL&index=17)
+* [How To Get FREE KINDLE BOOKS On AMAZON Worth Reading - YouTube](https://www.youtube.com/watch?v=IAYxk9n7aIA&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=12)
+* [How to buy cheap BOOKS in India?📚[Best websites to buy books online💻] Wisewithgrace✨ - YouTube](https://www.youtube.com/watch?v=XcoTM9WKltg&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=17)
+* [Top 5 Websites for FREE Engineering Books | Pi | - YouTube](https://www.youtube.com/watch?v=B9hzzfmqhPo&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=16)
+
 ## School
 **Study skills**
 * Organize Study Environment Manage Time – Home and College
@@ -10,7 +68,6 @@
 * "site:edu production possibilities curve exam"
 * Web Sites Online edu : Toppr. Meritnation smart gurukul , Byju
 
-
 **CBSE Exam Prep**
 * Board Syllabus (CBSE/State) , Timings : Single Shift 8:00 am to 2:30 pm, 9:30 am to 3:30 pm
 * School (Pvt/Govt) , Classes , school dress uniform , lesson plan , Home Wrk , Class wrk , Exams , Attendance , Sports 
@@ -22,17 +79,6 @@
 * Squares from 1 to 30, Cubes from 1 to 20,
 * Fractions and their Decimal Notations,
 * Powers of 2, 3 and 5 till 7th power,
-
-**Sanskrit**
-* https://www.learnsanskrit.org/guide/
-* [Quora Vedas how to memorize](https://www.quora.com/Before-the-Vedas-were-written-down-how-were-they-memorised)
-* [How the ancients learnt the Vedas perfectly](https://indianexpress.com/article/parenting/learning/how-ancients-learnt-vedas-perfectly-5743767/)
-* Veda Vyas : Document the Vedas , Palm Leaves , Scriptures : Organized Knowledge
-* Blooms Taxonomy
-  
-**ROOTS read this**
-* [greeklatinroots](https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf)
-* [rootchart](http://www.prefixsuffix.com/rootchart.php)
 
 **cbse**
 * [gcse paper](https://www.youtube.com/watch?v=PJqsL_uaSko&list=WL&index=4&pp=gAQBiAQB)
