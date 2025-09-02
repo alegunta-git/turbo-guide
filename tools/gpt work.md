@@ -34,7 +34,7 @@ This generates a tailored briefing for upcoming meetings using past email chains
 | Prep recurring meetings    | Review [select email] and prep me for the next meeting in [series], based on past manager and team discussions. [1]                                       |
 
 
-
+## Gpt general work
 work
 * "What challenges is [Company] facing right now?"
 * "Provide a comprehensive competitive analysis of the top five cloud computing providers, including their market share, key offerings, recent innovations, customer satisfaction levels, and growth strategies."
@@ -55,5 +55,21 @@ study
 * How can I become frontend developer 
 * Give me a study plan to learn JavaScript for front end development with resources and timeline
 
-lig
+others
 * ”List the steps to start a vegetable garden in a bulleted format, including tips for beginners
+* I want to travel from Bangalore to Darjeeling. I know I have to take a flight to Kolkata. And from there take train and a cab to Darjeeling. Complete the itinerary for me
+* if i have to create a ppt on the topic climate chnage, could you suggest some catchy titles for my ppt?
+* Create a slide deck of 14 slides about climate change'
+* Design a slide featuring a timeline of important historical events in climate change movement Utilize a horizontal layout and add brief descriptions to each event to provide context.
+* Create one-liners for the ice cream parlour to target the elderly people in the town on Women's day?
+* I am a business owner and I need to send an email to my customers informing them about the upcoming 25% discount on all my products. Can you generate a template for me?
+* Suggest a few ideas for creating reels on Instagram for my clothing brand.
+* Can you provide me a script for creating an Instagram reel on 'Styling Tips?
+* Summarize the sentiment of the above mentioned comments.
+* Suggest 5 FAQs related to custom orders and special sizes, as that's one of the specialties of my clothing store.
+* Suggest a few strategies to improve the customer service at my clothing store.
+
+
+
+
+
