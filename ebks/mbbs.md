@@ -60,6 +60,7 @@ Health tips
 * [Yoga Poses](https://www.yogajournal.com/pose-finder/pose-finder/)
 * [Exercise Table](https://www.usc.edu.au/media/1000574/Exercises-for-Computer-Users-and-Office-Workers.pdf)
 * hexyfit trg : https://www.youtube.com/watch?v=YdyFWwsI4SU&list=WL&index=5&pp=gAQBiAQB
+* Late dinners, 1 on 10’: https://share.google/jMCaoODQ3aRsUCmnp
 
 Medicine Terminology 
 * prescription ovw hindi : https://youtu.be/aJKIFlOLV2c?si=Fgm8AjIAm62DRZLM
