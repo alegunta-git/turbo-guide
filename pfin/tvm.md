@@ -1,3 +1,13 @@
+## TVM
+* [excel tvm](https://www.youtube.com/watch?v=TDpuYH7d7Nc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=5&pp=gAQBiAQB)
+* [CAGR](https://www.youtube.com/shorts/hc2AybJZtbk)
+* [vaddi lekkalu](https://www.youtube.com/watch?v=QC7HZUxoSy4&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=1&pp=gAQBiAQB)
+* [TVM CFP Rahul A](https://www.youtube.com/watch?v=XxJcfe5uppY&list=PLaszgMtgc9pnzmIQWYSEqPU6tU2fMnltp)
+
+## NISM
+* [NISM Cert](https://www.youtube.com/playlist?list=PLHZhh8OWIA9S1GvYPCSuZTDuVo6ycPC-j)
+* calc money needs lic a : https://www.youtube.com/watch?v=5l4hbI9wpOI&list=WL&index=3&pp=gAQBiAQB
+
 ## Fin fx
 * [Fin Formulas index](https://financeformulas.net/index.html)
 * [10 options](https://weinvestsmart.com/top-10-best-investment-options-in-india/)
