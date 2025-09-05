@@ -12,6 +12,37 @@
 * [Caching](https://dzone.com/articles/introducing-amp-assimilating-caching-quick-read-fo)
 * [Scaler Articles](https://www.scaler.com/topics/articles/)
 
+## Scalability
+**Google whitepapers**
+* [amazon whitepapers](https://aws.amazon.com/whitepapers/)
+* [G Search Arch](https://www.spyfu.com/blog/how-do-search-engines-work/)
+* [G Mapreduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+* [G BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) 
+* [G ProtocolBuffers](https://spline.de/talks/protobuf.pdf) 
+* [G sawzall](https://static.googleusercontent.com/media/research.google.com/en//archive/sawzall-sciprog.pdf)
+
+**Facebook whitepapers**
+* [FB Thrift](https://www.ijedr.org/papers/IJEDR2102030.pdf)
+* [FB Hive](https://web.cse.ohio-state.edu/~zhang.574/Hive-ICDE10.pdf)
+* [FB Tao](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
+
+**Philip blogs**
+* [philip Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
+* web publishing : https://philip.greenspun.com/panda/
+* https://philip.greenspun.com/humor/graduate-student-emotion-check-list.text
+* https://philip.greenspun.com/sql/
+* https://philip.greenspun.com/materialism/money
+* Software Abstractions MIT Press Daniel Jackson , Quora : Webnode , Livenode
+
+**Scalability blogs**
+* Scalability : Sys Design , SRE , High Scalability 
+* [High Scalability](http://highscalability.com/all-time-favorites/)
+* [Twitter engg blog](https://blog.twitter.com/engineering/en_us)
+* [webapps](https://www.youtube.com/watch?v=_higfXfhjdo&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=8&pp=gAQBiAQB)
+* [scalability](https://www.youtube.com/watch?v=EWS_CIxttVw&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=12&pp=gAQBiAQB)
+* [so arch](https://www.youtube.com/watch?v=TWaLeC-kmyU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=7&pp=gAQBiAQB)
+* [yt scaler sysdesign](https://www.youtube.com/watch?v=P_eh1b6vE-4&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=12&pp=gAQBiAQB)
+
 ## OOAD
 * Design an ATM 
 * Design Blackjack and a Deck of Cards 
