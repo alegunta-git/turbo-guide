@@ -2,6 +2,24 @@
 - **Emergency Fund - Term insurance - tax savings - Short/Med term goals - long term/retirement - post retirement** 
 - **last year annual cash inflows ( 1 pt ) , cash outflows( 2 pt) , roi investment ( 3 pts)** 
 
+**CFP book notes**
+* A picture is worth 1000 words , Similarly, your financial journey can be managed effectively with a single piece of paper.
+* A fundamental tenet of this book is simple: every day, when you wake up, your primary goal should be to increase your assets and net worth-with clear intent and in a measurable way.
+* **Watch the pennies , and the dollars will take care of themselves**
+* Joe's tenacity in squeezing every penny out of everything-both on the expense side and the revenue side- while steadily increasing his net worth.
+* What Joe practiced daily was the belief that daily actions determine your level of success. Everything else, he felt, was nonsense. Financial planning, he'd say, is first about what you do today , not about fancy planning for tomorrow , he became passionate about getting anywhere from 1$ to 10000$ under his control daily , weekly and monthly , this will NOT be easy , (mission to secure daily bread and pray to God constantly)
+* Financial planning , of course is about more than just money , First you must simplify and plan daily , weekly , monthly and yearly.
+Brick by brick , conserve dollars , and earn dollars. once you start doing this , things change.
+* **The Daily Discipline of Saving Wealth** is built not in giant leaps but through daily habits. Saving every day-whether it's $1, $10, or $100-is an act of self-discipline and belief in your future. Over time, these small efforts compound, leading to significant results.
+* Clarity on Financial Goals : The first step in changing your financial mindset is understanding why you want to improve your financial
+situation. This "why" becomes the backbone of your One-Page Plan. (a) What do you want your financial life to look like
+in 5, 10, or 20 years? (b) What are your top priorities: paying off debt, buying a home, saving for retirement, or starting a business?
+* If the goal is to save $50,000 in five years, that breaks down to $833 per month.
+* If you want to pay off $10,000 in debt, create a monthly payment plan that fits into your budget.
+* Track Progress and Adjust : The key to keeping your financial mindset strong is tracking progress. A one-page financial plan should include space to monitor your milestones. Regularly review how much you've saved, how much debt you've paid off, and whether you are staying within your budget. Seeing tangible progress builds confidence and reinforces the belief that change is possible.
+
+
+
 **P Finance**
 | E Fund | Insurance        | Debt  |Equity                 | others      | Plan            |
 |--------|------------------|-------|-----------------------|-------------|-----------------|
