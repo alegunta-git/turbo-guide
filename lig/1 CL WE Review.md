@@ -51,3 +51,18 @@
 - uid 
 - 101 vendor 
 - Contacts list
+
+
+## Information
+**CRF**
+* Career :  Skillset , Interview Prep , Jobs
+* R : Pujas , Traveling (Hols)
+* Finance : Income Expense , Asset Liability , Investment 
+* Home : EPC , PCB 
+* Health : Walk , BLSD 
+* Task : Tracker , Tickler
+
+**Tasks**
+* Tasks : G Keep , notes
+* P Finance : Todos , Reading list , online calc , bill pmt 
+* Reading : Reading List , Take online notes , Revision 
