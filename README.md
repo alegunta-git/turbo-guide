@@ -10,12 +10,20 @@
 * [G translate](https://translate.google.co.in/?sl=auto&tl=kn&text=hello%20world&op=translate)
 * https://www.google.co.in/maps ( G Maps : travel , buildings , floor plans)
 
-
 ## Amazon
 * https://www.amazon.in/
 * https://www.amazon.com/s?k=pixel&ref=nb_sb_noss
 * https://www.flipkart.com/books-store
 * https://shopping.google.com/?pli=1)
+
+## Syllabus PYQ
+* [Toppers Answers](http://www.visionias.in/resources/toppers_answers.php)
+* [upsc syllabus](https://vajiramandravi.com/upsc-syllabus/)
+* https://www.upscprep.com/plans/
+* [yt 1yr plan](https://www.youtube.com/watch?v=5ks1UHwXrK8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=8&pp=gAQBiAQB)
+* [Prev Year qs](https://upsc.gov.in/examinations/previous-question-papers)
+
+
 
 
 ## Book Search
