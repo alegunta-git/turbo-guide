@@ -22,7 +22,10 @@
 * https://www.upscprep.com/plans/
 * [yt 1yr plan](https://www.youtube.com/watch?v=5ks1UHwXrK8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=8&pp=gAQBiAQB)
 * [Prev Year qs](https://upsc.gov.in/examinations/previous-question-papers)
-
+* [vision ias current affairs](https://www.visionias.in/resources/current_affairs.php?c=ca)
+* [drishti summary of reports](https://www.drishtiias.com/summary-of-important-reports)
+* [byju imp reports](https://byjus.com/free-ias-prep/international-organization-reports/)
+* [byju gist of yojana](https://byjus.com/free-ias-prep/gist-of-yojana/)
 
 
 
