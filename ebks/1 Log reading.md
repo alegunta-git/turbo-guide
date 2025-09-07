@@ -7,6 +7,8 @@
 | Machine Learning for Absolute Beginners by Oliver Theobald          | 30  |     |
 | Programming Collective Intelligence                                 | 30  |     |
 | The Hundred-Page Machine Learning Book by Andriy Burkov             |     | 4   |
+| Machine Learning for Dummies by John Paul Mueller and Luca Massaron |     | 6   |
+
 
 ## Dev Interview
 | Book                  | feb | apr   | sep | Oct |
