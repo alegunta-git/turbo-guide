@@ -6,6 +6,7 @@ ai tools
 gemini
 * Claude chrome : https://youtu.be/mCj4kx_P2Ak?si=rM9myKbFqi1olg7k
 * ask google ai : https://youtu.be/sxUBThVQLjU?si=mQUzSJvJ5M9QeEo8
+* image to table : https://www.youtube.com/watch?v=I7QUi8Kyqo8&list=WL&index=2&pp=gAQBiAQB
 
 perplexity 
 * perplexity tasks for stock mkt news snippet : https://youtu.be/EK-CsG8gKA8?si=P63Er3CEEek9Ttek
