@@ -1,17 +1,17 @@
 ## Core Subjects
-* **Machine Learning**
-* AI and NLP
-* **Data Structures and Algorithms**
-* **Algorithms Design** 
-* **Data Mining**
-* **DWBI** ,
-* **DBMS** ,
-* OOAD ,  
+
+* ,  
 * Discrete Math
 * Statistics ,
 * Probability , 
 * **Operating Systems(unix Internals)**
 *  Networking
+
+| **Machine Learning** | **Data Structures and Algorithms** | **Data Mining** |
+|----------------------|------------------------------------|-----------------|
+| AI and NLP           | **Algorithms Design**              |  **DWBI**       |
+|                      | OOAD                               | **DBMS**        |
+
 
 ## Reading List
 
