@@ -10,12 +10,12 @@
 * Traversing a Binary Tree , Searching a Binary Search Tree
 * Using a Heap or Priority Queue to keep track of max/min elements
 * Using Hash Table for quick lookups
-- Divide and Conquer
-- Greedy Algorithms (Knap sack algorithm, Huffman Coding, Job sequencing with deadlines) 
-- optimal merge patterns , Spanning trees, Prims algorithm, Kruskals Algorithm, Dijkastra Algorithm
-- Dynamic Programming (Matrix chain Multiplication, 0/1 Knapsack, Bellman ford Algorithm)
-- All pairs shortest path, Travelling sales man problem, Longest Common sub sequence, Subset Sum)
-- Complexity Classes
+* Divide and Conquer
+* Greedy Algorithms (Knap sack algorithm, Huffman Coding, Job sequencing with deadlines) 
+* optimal merge patterns , Spanning trees, Prims algorithm, Kruskals Algorithm, Dijkastra Algorithm
+* Dynamic Programming (Matrix chain Multiplication, 0/1 Knapsack, Bellman ford Algorithm)
+* All pairs shortest path, Travelling sales man problem, Longest Common sub sequence, Subset Sum)
+* Complexity Classes
 
 ## Data Structures
 * Bit Manipulation
