@@ -1,6 +1,7 @@
 ## basics
 * [yt grocery list](https://www.youtube.com/watch?v=9bCkz-P8mLA&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=1&pp=gAQBiAQB)
 * https://veenasvegnation.com/recipe/how-to-cook-south-indian-meals-in-just-under-35-minutes/
+* cook : https://www.youtube.com/watch?v=KWe8J2VV5WQ&list=LL&index=21&pp=gAQBiAQB0gcJCbIJAYcqIYzv 
 
 ## Breakfast
 * [upma](https://www.tarladalal.com/upma--quick-upma-recipe-breakfast-upma-38658r)
