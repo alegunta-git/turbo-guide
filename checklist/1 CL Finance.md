@@ -35,4 +35,7 @@
 * Assets : real estate , cash  , Gold
 * Equity : mutual funds , balanced funds ,  stocks
 * Liabilities : home loan , auto loan , personal loan , education loan ,  credit card
-* Insurance portfolio  (A) Life insurance : Term plan , traditional plan , ULIP (B)Health Insurance : Employers , Own  (C )Critical illness accidental disability
+* Insurance portfolio
+  * Life insurance : Term plan , traditional plan , ULIP
+  * Health Insurance : Employers , Own  
+  * Critical illness accidental disability
