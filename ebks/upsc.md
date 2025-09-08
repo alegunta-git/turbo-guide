@@ -9,7 +9,46 @@
 * [byju imp reports](https://byjus.com/free-ias-prep/international-organization-reports/)
 * [byju gist of yojana](https://byjus.com/free-ias-prep/gist-of-yojana/)
 
+**upsc prep**
+* [use gdocs for CA](https://www.youtube.com/watch?v=QZUoyk9AMcM&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=1&pp=gAQBiAQB0gcJCYQJAYcqIYzv)
+* [org notes gdocs*](https://www.youtube.com/watch?v=gKLY4c1hZv4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=28&pp=gAQBiAQB)
+* [Notes micro themes](https://youtu.be/ffyruloCiqk?si=k_zRsazW45Syw3mO)
+* [art of reading upsc](https://youtu.be/aammPSrYIZM?si=rK4yyi_ctOPEElKU)
+* [yt upsc exam tip](https://www.youtube.com/watch?v=IZAQaEZXUho)
+* [upsc prep tip](https://www.youtube.com/clip/UgkxfHnEjZYblfevnKVZzBfResZQyZ9mlYii)
+* [upsc ans tip](https://www.youtube.com/clip/Ugkx4aL2vYmwiGHJElZexPt6V6ZyEKB9IujY)
+* [yt Niveditha](https://www.youtube.com/@nivedithashetty_upsc/videos)
+* [yt LBSNAA trg](https://youtu.be/3SiRw-rEGIE?si=I7m2HxZTyVEysyN4)
 
+## UPSC prep 
+* Know Syllabus(80%) : Memorize syllabus
+* PYQs : Refer to 5 years Prev Year  Qs (topic wise) , Keep it as near as possible
+* Study Aids :  Weekly Time table(topics/week)
+* Regular review : 1-1-1 (Read 1 newspaper , 1 credible textbook and 1 online resource) 
+* FOMO Dont pile up books , DONT be Information Collector 
+* Reading newspaper ( must , helpful) , CA : follow news , read n/p no tv and audio
+* Correlate syllabus w np reading ,
+* Newspaper clipping – 6 files ( Categories) : TH NP cutouts gs 1 2 3 4 topics ,
+* Take notes topic wise rather than date wise
+* Make brief notes for Key news items  , Focus / Editorials / View Points
+* Note taking : Diagrams , mind maps , Flow charts , Tables , Maps reading
+
+**SOP reading**
+* NCERT 3 round reading ,  90days challenge 
+* Core books Read 1 Standard book 10 times rather than 10 books only 1 time
+* Rdg 1 : should be casual , Rdg 2 : Analyse pyq papers , Rdg 3 : highlight key section , note making
+* Toppers Answers : Review Toppers Ans scripts , Refer to Master Ans writing
+
+**Books List**
+* NCERT 6-12 : Art and Culture , History , Polity , Geography , Economics ,
+* Core Books ( Polity-Lakshmikanth , IR - Pavneet , Eco - Sanjiv Verma)
+* Geography : Oxford Atlas ( Map Reading)
+* History : Timelines
+* Economy : vikaspedia , arthapedia
+* Reports : ARC Reports , Eco Survey
+* Constitution of India 
+* Essay Writing : Essays Disha 151 (Prewriting / Refine / Revise)
+* DAR : SWOT analysis 
 
 
 ## Books
