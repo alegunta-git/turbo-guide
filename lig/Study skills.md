@@ -135,4 +135,5 @@ Origins
 * [40 apps college students](https://collegeinfogeek.com/best-apps-for-college-students/)
 * [⁠Life Skills That Are Not Taught In School](https://www.cheggindia.com/web-stories/life-skills-that-are-not-taught-in-school/)
 
-
+## book publishing 
+* https://whitefalconpublishing.com/process.html
