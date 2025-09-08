@@ -1,3 +1,29 @@
+Note
+* **Approach** : Daily 1 hr rdg ,2-3x revision , books - gd/offline , yt videos backup info
+* https://github.com/alegunta-git/turbo-guide/blob/master/ebks/books%20cse.md
+* https://leetcode.com/studyplan/top-interview-150/
+
+## Kindle
+* cook book
+* perplexity
+* dhirendra
+
+## Machine Learning
+| Book                                                                | Sep |
+|---------------------------------------------------------------------|-----|
+| Machine Learning in Action Peter Harrington 2012                    |     |
+| Tom Mitchell Machine Learning McGraw Hill                           |     |
+| Machine Learning System Design Interview Alex 2023Xu                |     |
+
+
+## Dev Interview
+| Book                 | sep | Oct |
+|----------------------|-----|-----|
+| Elements of Prog Int |     |     |
+| Coding Int Patterns  |     |     |
+
+
+
 ## Machine Learning
 
 | Book                                                                | Aug | Sep |
