@@ -1,4 +1,11 @@
 # Reading PFinance
+
+**Reading Levels**
+* Level 1 : xls Formulas Vedic math
+* Level 2 : fin modeling , CFP , TVM problems , Regression 
+* Level 3 : Read Balance Sheet 
+* Level 5 : Real Estate rule of thumb MF / real est / Pick stocks (Stock Pickup ( P/E , PB , div yield % ))
+  
 ## What to Read
 * Review CFP Syllabus
 * Excel Functions ( Finance Imp) , TVM Word Pbm set , Rule of thumb , CFP Fx , 
