@@ -1,3 +1,15 @@
+
+## MS Outlook
+* outlook : templates , boiler plate writeup , checklists ,
+* Use canned responses in gmail
+* [How To Create Email Templates in Outlook | My Templates & Quick Parts - YouTube](https://www.youtube.com/watch?v=RSlfhjbIoK8)
+
+## MS Project
+* [ms prj tutorial](https://www.youtube.com/watch?v=BYR_S6ktoFc)
+* py projects : https://www.youtube.com/watch?v=8ext9G7xspg&list=WL&index=25&pp=gAQBiAQB
+
+
+
 ## MS windows
 Win 11
 - **Win 11 : text extractor from images**
