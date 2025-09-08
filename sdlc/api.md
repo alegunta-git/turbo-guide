@@ -1,3 +1,16 @@
+## Documentation
+* [doc learn apis ratthwerwriting](https://idratherbewriting.com/learnapidoc/docapis_introtoapis.html)
+* [API Ship docs](https://www.aftership.com/docs/tracking/quickstart/api-quick-start)
+* [Parse API](https://docs.parseplatform.org/rest/guide/)
+* [Stripe API](https://stripe.com/docs/api/customers)
+* [Dropbox API](https://www.dropbox.com/developers/documentation/http/documentation)
+* [Twitter API](https://developer.twitter.com/en/docs/twitter-api/api-reference-index)
+* https://tech-docs.io/docs/fax-services
+* [python docs](https://docs.python.org/3/tutorial/index.html)
+* https://www.globalsqa.com/top-20-open-source-python-libraries/
+* http://www.catb.org/esr/writings/taoup/html/
+
+
 ## API
 
 **API Topics**
