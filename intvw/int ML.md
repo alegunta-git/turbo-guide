@@ -92,6 +92,7 @@ Model based
 * https://seanprashad.com/leetcode-patterns/
 * https://www.windowfunctions.com/
 * https://github.com/alirezadir/Production-Level-Deep-Learning
+* https://towardsdatascience.com/the-end-to-end-data-scientists-prompt-playbook/
 
 ## Yt links 
 * Design an ML Recommendation Engine : https://youtu.be/FoSCaue3lcg?si=2meFDK-XYDMge-aI
