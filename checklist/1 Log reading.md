@@ -12,7 +12,6 @@ Note
 | Book                                                                | Sep |
 |---------------------------------------------------------------------|-----|
 | Machine Learning in Action Peter Harrington 2012                    |     |
-| Tom Mitchell Machine Learning McGraw Hill                           |     |
 | Machine Learning System Design Interview Alex 2023Xu                |     |
 
 
@@ -34,7 +33,7 @@ Note
 | Programming Collective Intelligence                                 | 30  |     |
 | The Hundred-Page Machine Learning Book by Andriy Burkov             |     | 4   |
 | Machine Learning for Dummies by John Paul Mueller and Luca Massaron |     | 6   |
-
+| Tom Mitchell Machine Learning McGraw Hill                           |     |9    |
 
 ## Dev Interview
 | Book                  | feb | apr   | sep | Oct |
