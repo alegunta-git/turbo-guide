@@ -35,10 +35,7 @@ Credit card usage has exploded in particular. Over the last 13 years, spending o
 * Src of Income : Savings bank interest , FD rd  nsc , ins policies ,
 * Dividends , st capital gains , lt capital gains , gold funds 
 * Cleartax ITR Filing
-* [How to file ITR online? | ITR Filing tutorial for salaried employees AY 2024-25 - YouTube](https://www.youtube.com/watch?v=ShWu6vniMgQ&t=1s)
-* [Income Tax Portal, Government of India Login Page](https://eportal.incometax.gov.in/iec/foservices/#/login)
-* [Form26AS](https://cleartax.in/s/view-form-26as-tax-credit-statement)
-* [verify etax](https://cleartax.in/s/income-tax-e-verification-evc)
+
 
 ## Insurance
 **Insurance**
