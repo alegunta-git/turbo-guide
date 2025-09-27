@@ -2,25 +2,6 @@ blogs
 * [Stevey Blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 * bbg recommendation for tech intvw : https://youtu.be/wAMc7NyL4tQ?si=K6VsrZQLDKWbDQKw
 
-
-## Int prep Handbook
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university#the-daily-plan/)
-* [Tech Interview handbook](https://github.com/yangshun/tech-interview-handbook/)
-* [FE Interview handbook](https://www.frontendinterviewhandbook.com/)
-* [PDM Handbook](https://www.rocketblocks.me/guide/pm/product-management-primer.php)
-
-## yt ml
-* Design an ML Recommendation Engine : https://youtu.be/FoSCaue3lcg?si=2meFDK-XYDMge-aI
-* https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/
-* https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/
-* amz intvw : https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV
-* stat quest : https://www.youtube.com/user/joshstarmer
-* https://www.educative.io/courses/grokking-the-system-design-interview
-* https://seanprashad.com/leetcode-patterns/
-* https://www.windowfunctions.com/
-* https://github.com/alirezadir/Production-Level-Deep-Learning
-* https://towardsdatascience.com/the-end-to-end-data-scientists-prompt-playbook/
-
 ## DSA Cheatsheet
 * https://www.bigocheatsheet.com/
 * https://algs4.cs.princeton.edu/cheatsheet/
@@ -29,6 +10,17 @@ blogs
 * 10 algo : https://hbfs.wordpress.com/2008/12/23/the-10-classes-of-algorithms-every-programmer-must-know-about/
 * https://cheatography.com/
 
+## YT DSA
+* [big o](https://www.youtube.com/watch?v=x2CRZaN2xgM&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=10&pp=gAQBiAQB)
+* yt coding interview cheatsheet : https://youtu.be/3l8FY_L0_ic?si=_DJP-Kr_7Wcei60B
+* [yt algo sylbs](https://www.youtube.com/watch?v=BchPukWb0CU&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=3&pp=gAQBiAQB)
+* [yt dsa sheet](https://www.youtube.com/watch?v=Az3kEDm5b_k&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=4&pp=gAQBiAQB)
+* [master dsa](https://www.youtube.com/watch?v=F-ao3Q6I2Fc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=36&pp=gAQBiAQB)
+* [djistrika algo](https://www.youtube.com/watch?v=EFg3u_E6eHU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=43&pp=gAQBiAQB)
+* DSA - mycoding school : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC
+* LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
+* DSA : https://www.youtube.com/watch?v=CBYHwZcbD-s&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
+* dsa nan s : https://www.youtube.com/watch?v=QD7m7NMCfrY&pp=ygURbmFuY3kgc29sYW5raSBkc2E%3D
 
 ## geeks for geeks
 * https://www.geeksforgeeks.org/10-most-important-data-structures-for-coding-interviews/
@@ -53,18 +45,35 @@ blogs
 * [ltc strategy](https://www.youtube.com/watch?v=l0FvnARfGKg&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=33&pp=gAQBiAQB)
 * 5 artiles coding : https://youtu.be/Bq48TgQfHBU?si=qwTxLeufbkFWXoI_
 
-## YT DSA
-* [big o](https://www.youtube.com/watch?v=x2CRZaN2xgM&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=10&pp=gAQBiAQB)
-* yt coding interview cheatsheet : https://youtu.be/3l8FY_L0_ic?si=_DJP-Kr_7Wcei60B
-* [yt algo sylbs](https://www.youtube.com/watch?v=BchPukWb0CU&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=3&pp=gAQBiAQB)
-* [yt dsa sheet](https://www.youtube.com/watch?v=Az3kEDm5b_k&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=4&pp=gAQBiAQB)
-* [master dsa](https://www.youtube.com/watch?v=F-ao3Q6I2Fc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=36&pp=gAQBiAQB)
-* [djistrika algo](https://www.youtube.com/watch?v=EFg3u_E6eHU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=43&pp=gAQBiAQB)
-* DSA - mycoding school : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC
-* LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
-* DSA : https://www.youtube.com/watch?v=CBYHwZcbD-s&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
-* dsa nan s : https://www.youtube.com/watch?v=QD7m7NMCfrY&pp=ygURbmFuY3kgc29sYW5raSBkc2E%3D
 
+**Courses**
+* [G Intvw](https://www.educative.io/blog/google-coding-interview)
+* [Courses](https://docs.google.com/document/d/1PeK69h4H82rwKjhactiE_sAIorCcZgXgXTY7k-nXpnE/edit#heading=h.p3wx5d6ii3r8)
+* [zhia course design](https://docs.google.com/document/d/1PeK69h4H82rwKjhactiE_sAIorCcZgXgXTY7k-nXpnE/edit#heading=h.90hg31r85qlt)
+* [DSA Course](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)
+* https://docs.google.com/document/d/1PUDQ_LD95iYp8YLDB1yeiUvs7LWlgca-5e9zQ8I1cE8/edit
+* prep : https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1
+* https://dev.to/javinpaul/top-10-free-books-and-courses-to-learn-data-structure-and-algorithms-in-2019-30gl
+* https://www.businessinsider.in/tech/news/a-self-taught-engineer-at-google-shares-the-8-best-google-programming-courses-you-can-access-for-free/amp_articleshow/113632216.cms
+
+
+## Int prep Handbook
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university#the-daily-plan/)
+* [Tech Interview handbook](https://github.com/yangshun/tech-interview-handbook/)
+* [FE Interview handbook](https://www.frontendinterviewhandbook.com/)
+* [PDM Handbook](https://www.rocketblocks.me/guide/pm/product-management-primer.php)
+
+## yt ml
+* Design an ML Recommendation Engine : https://youtu.be/FoSCaue3lcg?si=2meFDK-XYDMge-aI
+* https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/
+* https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/
+* amz intvw : https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV
+* stat quest : https://www.youtube.com/user/joshstarmer
+* https://www.educative.io/courses/grokking-the-system-design-interview
+* https://seanprashad.com/leetcode-patterns/
+* https://www.windowfunctions.com/
+* https://github.com/alirezadir/Production-Level-Deep-Learning
+* https://towardsdatascience.com/the-end-to-end-data-scientists-prompt-playbook/
 
 ## Job Search
 dev int
