@@ -19,6 +19,7 @@
 * Books : (a) P Fin IN , (b)  P Fin US (c) Masters : Warren Buffett , Charlie Munger , Peter Lynch ,  Dr Alexander
 * Blogs : Uma S , Dhirendra
 
+
 ## Blogs
 * Fincal
 * Uma s articles
