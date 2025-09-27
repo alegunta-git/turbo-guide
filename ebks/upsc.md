@@ -1,15 +1,4 @@
-## Syllabus PYQ
-* [Toppers Answers](http://www.visionias.in/resources/toppers_answers.php)
-* [upsc syllabus](https://vajiramandravi.com/upsc-syllabus/)
-* https://www.upscprep.com/plans/
-* [yt 1yr plan](https://www.youtube.com/watch?v=5ks1UHwXrK8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=8&pp=gAQBiAQB)
-* [Prev Year qs](https://upsc.gov.in/examinations/previous-question-papers)
-* [vision ias current affairs](https://www.visionias.in/resources/current_affairs.php?c=ca)
-* [drishti summary of reports](https://www.drishtiias.com/summary-of-important-reports)
-* [byju imp reports](https://byjus.com/free-ias-prep/international-organization-reports/)
-* [byju gist of yojana](https://byjus.com/free-ias-prep/gist-of-yojana/)
-
-**upsc prep**
+## upsc prep
 * [use gdocs for CA](https://www.youtube.com/watch?v=QZUoyk9AMcM&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=1&pp=gAQBiAQB0gcJCYQJAYcqIYzv)
 * [org notes gdocs*](https://www.youtube.com/watch?v=gKLY4c1hZv4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=28&pp=gAQBiAQB)
 * [Notes micro themes](https://youtu.be/ffyruloCiqk?si=k_zRsazW45Syw3mO)
@@ -20,37 +9,17 @@
 * [yt Niveditha](https://www.youtube.com/@nivedithashetty_upsc/videos)
 * [yt LBSNAA trg](https://youtu.be/3SiRw-rEGIE?si=I7m2HxZTyVEysyN4)
 
-## UPSC prep 
-* Know Syllabus(80%) : Memorize syllabus
-* PYQs : Refer to 5 years Prev Year  Qs (topic wise) , Keep it as near as possible
-* Study Aids :  Weekly Time table(topics/week)
-* Regular review : 1-1-1 (Read 1 newspaper , 1 credible textbook and 1 online resource) 
-* FOMO Dont pile up books , DONT be Information Collector 
-* Reading newspaper ( must , helpful) , CA : follow news , read n/p no tv and audio
-* Correlate syllabus w np reading ,
-* Newspaper clipping – 6 files ( Categories) : TH NP cutouts gs 1 2 3 4 topics ,
-* Take notes topic wise rather than date wise
-* Make brief notes for Key news items  , Focus / Editorials / View Points
-* Note taking : Diagrams , mind maps , Flow charts , Tables , Maps reading
-
-**SOP reading**
-* NCERT 3 round reading ,  90days challenge 
-* Core books Read 1 Standard book 10 times rather than 10 books only 1 time
-* Rdg 1 : should be casual , Rdg 2 : Analyse pyq papers , Rdg 3 : highlight key section , note making
-* Toppers Answers : Review Toppers Ans scripts , Refer to Master Ans writing
-
-**Books List**
-* NCERT 6-12 : Art and Culture , History , Polity , Geography , Economics ,
-* Core Books ( Polity-Lakshmikanth , IR - Pavneet , Eco - Sanjiv Verma)
-* Geography : Oxford Atlas ( Map Reading)
-* History : Timelines
-* Economy : vikaspedia , arthapedia
-* Reports : ARC Reports , Eco Survey
-* Constitution of India 
-* Essay Writing : Essays Disha 151 (Prewriting / Refine / Revise)
-* DAR : SWOT analysis 
-
-
+## Syllabus PYQ
+* [Toppers Answers](http://www.visionias.in/resources/toppers_answers.php)
+* [upsc syllabus](https://vajiramandravi.com/upsc-syllabus/)
+* https://www.upscprep.com/plans/
+* [yt 1yr plan](https://www.youtube.com/watch?v=5ks1UHwXrK8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=8&pp=gAQBiAQB)
+* [Prev Year qs](https://upsc.gov.in/examinations/previous-question-papers)
+* [vision ias current affairs](https://www.visionias.in/resources/current_affairs.php?c=ca)
+* [drishti summary of reports](https://www.drishtiias.com/summary-of-important-reports)
+* [byju imp reports](https://byjus.com/free-ias-prep/international-organization-reports/)
+* [byju gist of yojana](https://byjus.com/free-ias-prep/gist-of-yojana/)
+  
 ## Books
 * [git upsc](https://github.com/utsingh/upsc)
 * [clear ias books](https://www.clearias.com/ias-books/)
@@ -59,8 +28,6 @@
 * [upsc med science](https://www.jagranjosh.com/articles/amp/upsc-medical-science-books-1705066081-1)
 * [unacademy upsc cse](https://unacademy.com/goal/upsc-civil-services-examination-ias-preparation/KSCGY#about-exam)
 * [unacademy ncert](https://unacademy.com/content/ncert-books/#:~:text=NCERT%20Books%20are%20vital%20to,download%20absolutely%20free%20of%20cost!)
-
-
 
 ## Toppers Notes
 * [upsc topper notes onedrive](https://onedrive.live.com/redir?resid=5904275E260F976F%212444&authkey=%21AH6GYBjFnERgT_Y&page=View&wd=target%28Laxmikanth.one%7Cdcef7156-2405-4084-8729-6f0a20a2faa6%2FLaxmikanth%20Syllabus%7C8583b152-2ead-4ac5-a77e-b18aa4d9b08c%2F%29&wdorigin=NavigationUrl)
@@ -115,7 +82,37 @@ sci and tech
 * [yt sci & tech](https://www.youtube.com/watch?v=B-z8dVzbCXc&list=WL&index=3&pp=gAQBiAQB)
 * [yt Disaster Mgmt](https://youtu.be/r5Xk6OIoxwo?si=nwK9tgfvNLVm0V5J)
 
-# Prep Tips
+
+## UPSC prep 
+* Know Syllabus(80%) : Memorize syllabus
+* PYQs : Refer to 5 years Prev Year  Qs (topic wise) , Keep it as near as possible
+* Study Aids :  Weekly Time table(topics/week)
+* Regular review : 1-1-1 (Read 1 newspaper , 1 credible textbook and 1 online resource) 
+* FOMO Dont pile up books , DONT be Information Collector 
+* Reading newspaper ( must , helpful) , CA : follow news , read n/p no tv and audio
+* Correlate syllabus w np reading ,
+* Newspaper clipping – 6 files ( Categories) : TH NP cutouts gs 1 2 3 4 topics ,
+* Take notes topic wise rather than date wise
+* Make brief notes for Key news items  , Focus / Editorials / View Points
+* Note taking : Diagrams , mind maps , Flow charts , Tables , Maps reading
+
+**SOP reading**
+* NCERT 3 round reading ,  90days challenge 
+* Core books Read 1 Standard book 10 times rather than 10 books only 1 time
+* Rdg 1 : should be casual , Rdg 2 : Analyse pyq papers , Rdg 3 : highlight key section , note making
+* Toppers Answers : Review Toppers Ans scripts , Refer to Master Ans writing
+
+**Books List**
+* NCERT 6-12 : Art and Culture , History , Polity , Geography , Economics ,
+* Core Books ( Polity-Lakshmikanth , IR - Pavneet , Eco - Sanjiv Verma)
+* Geography : Oxford Atlas ( Map Reading)
+* History : Timelines
+* Economy : vikaspedia , arthapedia
+* Reports : ARC Reports , Eco Survey
+* Constitution of India 
+* Essay Writing : Essays Disha 151 (Prewriting / Refine / Revise)
+* DAR : SWOT analysis 
+
 ## IAS Officers
 * TN Seshan : Bought Reforms in Indian Election Commission and SOP for elections
 * Saurabh Gaur : edu(cloud based tech ans scripts evaluation , engage Byju for 8-10 class ) 
@@ -186,31 +183,6 @@ sci and tech
 **Key People**
 - Arthur Cotton ( Goadavari Dam)
 - Brown ( Dictionary)
-
-## Mains Exam 
-
-| Paper | Subject                           | Remarks                                                                                                                                                              |
-|-------|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| GS1   | Indian  History, Art  and Culture | Old NCERTS thorough reading Hx Art and Culture                                                                                                                       |
-|       | World  History                    | New NCERT: Themes in History , PYQ                                                                                                                                   |
-|       | Geography                         | NCERT 6 to 12  , Emphasize on Map Work, through Map                                                                                                                  |
-|       |                                   |                                                                                                                                                                      |
-| GS2   | Polity                            | NCERT 11 to 12                                                                                                                                                       |
-|       |                                   | Emphasis on National News from Administrative perspective                                                                                                            |
-|       |                                   | Follow up on Supreme Court Judgements  and Constitutional Amendments                                                                                                 |
-|       | Governance                        | Ongoing government schemes and policies (Google and PIB)                                                                                                             |
-|       |                                   | Current Affairs (The Hindu/Indian Express newspaper)                                                                                                                 |
-|       |                                   |                                                                                                                                                                      |
-| GS3   | Economy                           | Indian Economic Survey (past two years )                                                                                                                             |
-|       |                                   | Budget and its analysis                                                                                                                                              |
-|       | Ecology and Environment           | Follow current affairs, Inter Conventions, COPS                                                                                                                      |
-|       |                                   | National developments                                                                                                                                                |
-|       | Science and tech                  | PYQs Trend , Study of latest technological in such as blockchain, artificial int CBDC, 5G, etc. and their policy i (Google, newspaper and coaching Government sites  |
-|       | Int Security                      | Gov Sites and Data                                                                                                                                                   |
-|       | Disaster Management               | CA , IGNOU material                                                                                                                                                  |
-|       |                                   |                                                                                                                                                                      |
-| GS4   | Ethics                            | Quotes on imp issues and topics earth , democracy , freedom                                                                                                          |
-|       |                                   | collection of quotes MG , NM , MLKing , PYQ case studies                                                                                                             |
 
 
 
@@ -374,7 +346,30 @@ sci and tech
   - 30. Modus operandi of the central agencies like CBI ED and so on. 
 
 
+## Mains Exam 
 
+| Paper | Subject                           | Remarks                                                                                                                                                              |
+|-------|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| GS1   | Indian  History, Art  and Culture | Old NCERTS thorough reading Hx Art and Culture                                                                                                                       |
+|       | World  History                    | New NCERT: Themes in History , PYQ                                                                                                                                   |
+|       | Geography                         | NCERT 6 to 12  , Emphasize on Map Work, through Map                                                                                                                  |
+|       |                                   |                                                                                                                                                                      |
+| GS2   | Polity                            | NCERT 11 to 12                                                                                                                                                       |
+|       |                                   | Emphasis on National News from Administrative perspective                                                                                                            |
+|       |                                   | Follow up on Supreme Court Judgements  and Constitutional Amendments                                                                                                 |
+|       | Governance                        | Ongoing government schemes and policies (Google and PIB)                                                                                                             |
+|       |                                   | Current Affairs (The Hindu/Indian Express newspaper)                                                                                                                 |
+|       |                                   |                                                                                                                                                                      |
+| GS3   | Economy                           | Indian Economic Survey (past two years )                                                                                                                             |
+|       |                                   | Budget and its analysis                                                                                                                                              |
+|       | Ecology and Environment           | Follow current affairs, Inter Conventions, COPS                                                                                                                      |
+|       |                                   | National developments                                                                                                                                                |
+|       | Science and tech                  | PYQs Trend , Study of latest technological in such as blockchain, artificial int CBDC, 5G, etc. and their policy i (Google, newspaper and coaching Government sites  |
+|       | Int Security                      | Gov Sites and Data                                                                                                                                                   |
+|       | Disaster Management               | CA , IGNOU material                                                                                                                                                  |
+|       |                                   |                                                                                                                                                                      |
+| GS4   | Ethics                            | Quotes on imp issues and topics earth , democracy , freedom                                                                                                          |
+|       |                                   | collection of quotes MG , NM , MLKing , PYQ case studies                                                                                                             |
 
 
 
