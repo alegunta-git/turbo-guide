@@ -52,7 +52,8 @@
 * Documentary ,  Drama ,  Dystopian  ,  Experimental Fantasy 
 * LGBT ,  Legal  ,  Literary  ,  Martial arts 
 * Prison ,  Romance  ,,  Science  ,  Superhero 
-
+* Thriller  ,  nonfiction  , Comedy  ,  Crime Drama  , Dark Fantasy
+  
 **youtube**
 * https://www.androidpolice.com/youtube-settings-instantly-upgraded-viewing-experience/
 * [yt controls](https://www.youtube.com/watch?v=ixlrN1_XvRc&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=21&pp=gAQBiAQB)
