@@ -1,3 +1,24 @@
+## Google Search
+* [yt g adv search](https://youtube.com/watch?v=JciRHpvtgK8&si=5QT2d6Xeqmr3RFS7)
+* [yt gnews](https://www.youtube.com/watch?v=FtSeAwRhPKs&pp=ygUWZ29vZ2xlIGFkdmFuY2VkIHNlYXJjaA%3D%3D)
+* [yt gnews adv](https://youtu.be/FtSeAwRhPKs?si=AKuo_GFeXaXGPivt)
+* [use ggl](https://www.youtube.com/watch?v=bFANqJb7XGo&pp=ygUNZ29vZ2xlIHNlYXJjaA%3D%3D)
+* [g search reunion](https://youtu.be/gHGDN9*oFJE?si=Ddl0Rez84DM5OYNc)
+* [VA 10 google search hacks](https://www.youtube.com/watch?v=Bp1AdmiMHn4)
+* [yt websearch](https://www.youtube.com/watch?v=WtuAZHY1Pqo&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=12&pp=gAQBiAQB)
+* [Google Search Results Page * Overview * YouTube](https://www.youtube.com/watch?v=6WXz1UyS5Uc&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=10)
+* [art of googling](https://www.youtube.com/watch?v=bNbPtThW2fM&list=WL&index=2&pp=gAQBiAQB)
+* g search tips student : https://www.youtube.com/watch?v=dxa0VBa8vqc&list=LL&index=2&pp=gAQBiAQB
+* [gdorks](https://exposingtheinvisible.org/en/guides/google-dorking/)
+
+## Seo
+* [101 blog titles](https://seo.co/blog-post-title-ideas/)
+* [10000 search oprs](https://www.optimizesmart.com/10000-search-engine-queries-for-your-link-building-campaign/)
+* [popular keywords](https://www.wordstream.com/popular-keywords)
+
+
+
+
 g dork
 * Machine learning file type: pdf
 * Machine learning site : Wikipedia 
