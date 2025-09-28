@@ -1,4 +1,13 @@
-## YT SME
+
+**dev**
+* DSA : https://www.youtube.com/watch?v=wDgQL8sOgjM&t=418s
+* self learn topic : https://www.youtube.com/watch?v=d-xOE_wgIoo&list=WL&index=4&pp=gAQBiAQB
+* top 10 it skills : https://www.youtube.com/watch?v=VaxBq1Xg3pE&list=WL&index=4&pp=gAQBiAQB
+* dsa roadmap : https://www.youtube.com/watch?v=jMpojvi504I&list=WL&index=8&pp=gAQBiAQB
+* g dev int : https://www.youtube.com/watch?v=we7ba0slWrc&list=WL&index=3&pp=gAQBiAQB
+* cto mindset : https://www.youtube.com/watch?v=MWzdHlLUsZs&list=WL&index=5&pp=gAQBiAQB
+
+
 **Tiago Forte**
 * PARA : https://youtu.be/T6Mfl1OywM8?si=75aksgC*Y37bl2l2
 * [BASB](https://www.youtube.com/watch?v=SjZSy8s2VEE&list=WL&index=3&pp=gAQBiAQB)
@@ -20,8 +29,6 @@
 * [wunderlist use](https://www.youtube.com/watch?v=TGz67AMG9a8&list=WL&index=1&pp=gAQBiAQB)
 
 
-**dsa ms engr**
-* DSA : https://www.youtube.com/watch?v=wDgQL8sOgjM&t=418s
 
 **sahil and sarra**
 * learn web gpt : https://youtu.be/FGbeQ4*Kj8Q?si=JvYomuLx6lwfcmcE
@@ -31,3 +38,12 @@
 * 500 leetcode : https://www.youtube.com/shorts/sq_LYYAQT9Q
 * sysdesign : https://www.youtube.com/shorts/0JSg44zuUTw
 * yt ideas : https://www.youtube.com/watch?v=RGDQaJgvZJk&list=WL&index=17&pp=gAQBiAQB
+
+
+## Misc
+* https://en.wikipedia.org/wiki/List_of_software_development_philosophies
+* https://timesofindia.indiatimes.com/technology/tech-tips/15-free-chatgpt-prompts-that-make-homework-more-fun-and-learning-focused-for-kids/articleshow/123878857.cms
+* https://www.xda-developers.com/free-browser-based-markdown-editor-replaced-windows-notepad/
+* https://www.livemint.com/technology/gadgets/10-best-tablets-for-productivity-for-students-with-the-latest-features-and-more-top-picks-with-modern-design-and-featur-11758184579382.html
+*  https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-48-hour-deadline-send-summary-of-what-youve-accomplished/articleshow/123971516.cms#:~:text=According%20to%20CNN,staff%20Tuesday%20afternoon
+* https://www.financialexpress.com/business/industry-lifetime-achievement-awardee-shyam-srinivasan-happily-dissatisfied-is-the-mantra-3985989/
