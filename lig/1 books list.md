@@ -1,3 +1,45 @@
+## 2025 Reading
+* **Approach** : Daily 1 hr rdg ,2-3x revision , books - gd/offline , yt videos backup info
+
+### p Finance
+* NISM 1 , may 1-3
+* NISM 2  , may	4-6
+
+### PM Interview
+* 101 pm problem, Apr 10
+* Dev mgr qs , Apr 11
+* pm 300 qs,, Apr 25
+
+### Dev Interview
+* DSA Hubbard  ,  Feb 2-6                  
+* String algo Narasimha  , Apr  9               
+* Crack Code int ,  Apr 10-19
+* 150 leet code
+
+### Alex X 
+* System Design 1 , Dec 2023
+* System Design 2 , Feb 2024
+
+### Machine Learning
+* The Master Algorithm: Pedro Domingos 2015 , Aug 16       
+* MACHINE LEARNING(R17A0534).pdf  , Aug  30       
+* Machine Learning for Absolute Beginners by Oliver Theobald  , Aug 30       
+* Programming Collective Intelligence , Aug 30       
+* The Hundred-Page Machine Learning Book by Andriy Burkov ,Sep 04
+* Machine Learning for Dummies by John Paul Mueller and Luca Massaron , Sep 06  
+* Tom Mitchell Machine Learning McGraw Hill, Sep 09 
+
+### Consultant
+* Minto Pyramid , Apr	1-2
+* xls Winston , Apr 6-7
+
+### UPSC Prep
+* Master Ans writing	, Feb 1-5
+* upsc interview prep	, Feb 6-8
+* committee report 	, Feb 3-4
+* pyqs	, Feb4-7
+
+  
 ## R18 Reading
 
 ### SDLC
