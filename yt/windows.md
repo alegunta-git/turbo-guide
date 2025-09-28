@@ -1,3 +1,9 @@
+## Win search
+* win 10 search : https://www.youtube.com/watch?v=CBFiFkyBufo&list=LL&index=1&pp=gAQBiAQB0gcJCbIJAYcqIYzv
+* search files : https://www.youtube.com/watch?v=E37h8iyipl8&list=WL&index=5&pp=gAQBiAQB
+* ms teams cmd : https://www.youtube.com/watch?v=Fz7b17XHY5s&list=WL&index=11&pp=gAQBiAQB
+* copilot tips :  https://www.youtube.com/watch?v=MuocazjjZmc&list=WL&index=10&pp=gAQBiAQB
+
 
 ## MS Outlook
 * outlook : templates , boiler plate writeup , checklists ,
