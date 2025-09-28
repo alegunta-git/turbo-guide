@@ -1,3 +1,17 @@
+## Zerodha
+* [zerodha varsity](https://zerodha.com/varsity/)
+* https://zerodha.com/varsity/modules/
+* https://zerodha.com/varsity/module/personalfinance/
+* [Fin Formulas index](https://financeformulas.net/index.html)
+
+## pfin Masters
+* [Charlie Munger Quotes](https://tradingqna.com/t/charlie-mungers-100-quotes/139556)
+* [Warren Buffett Letters](https://www.berkshirehathaway.com/letters/letters.html)
+* [Amazon Letters](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx)
+* Essays of WB
+* Come into trading room
+
+
 ## Banks
 * [sbi retail](https://retail.onlinesbi.sbi/npersonal/rinb_videos.html)
 * [sb ac](https://www.youtube.com/watch?v=wpwwvk8tq9c&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=16&pp=gAQBiAQB)
