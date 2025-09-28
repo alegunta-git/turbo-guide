@@ -47,6 +47,7 @@
 * Prison ,  Romance  ,,  Science  ,  Superhero 
 
 **youtube**
+* https://www.androidpolice.com/youtube-settings-instantly-upgraded-viewing-experience/
 * [yt controls](https://www.youtube.com/watch?v=ixlrN1_XvRc&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=21&pp=gAQBiAQB)
 * [29 Shortcuts for Youtube Player](https://shortcutworld.com/Youtube-Player/win/Youtube-Player_Shortcuts)
 * [trg guide](https://www.slideshare.net/George406752/youtube-training-guidepdf)
