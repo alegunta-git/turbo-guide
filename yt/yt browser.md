@@ -1,3 +1,10 @@
+## Browser
+* Browser basics : https://youtu.be/FxirRVJWUTs?si=Du_mphenwjEtgDeM
+* [Read Webpages](https://www.youtube.com/watch?v=Iln9oG8Rsig&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=6)
+* [copy and paste content webpage](https://www.youtube.com/watch?v=eit7LZfWmGU)
+
+
+
 **Youtube menu**
 - YT ads - Use brave browser
 - Explore menu (Gaming, News, Music, Movies, Fashion & Beauty, Learning, Sports, Podcasts, and Shopping)
