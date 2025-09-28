@@ -110,3 +110,19 @@ The AI’s suggestions were simple but effective
 One task prompted her to comb through finance apps and bank accounts, where she discovered over $10,000 ( ₹8.5 lakh) in unclaimed money, including in a dormant brokerage account. On another day, she created a pantry-only meal plan, reducing her monthly grocery bill by nearly ₹50,000.
 
 Allan now plans to launch a second 30-day challenge to eliminate the rest. “It wasn’t some big financial hack,” she said. “It was the act of facing it every day, of tracking it, talking about it, looking at it. I stopped being afraid of my numbers.”
+
+## Satya nadella gpt 5 commands
+India Today https://share.google/qzUp4eHNy1UvE1Dce
+Satya Nadella recently shared five specific GPT-5 prompts that he uses daily within Microsoft 365 Copilot to improve workflow productivity, meeting preparation, and project tracking
+These prompts enable executives to gain deep, contextual insights and automate complex information synthesis across their workflow
+
+
+## Summary Table
+
+| Purpose                    | Prompt Example                                                                                                                                               |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Predict key meeting topics | Based on my prior interactions with [/person], give me five things likely top of mind for our next meeting. [1]                                          |
+| Draft project updates      | Draft a project update based on emails, chats, and all meetings in [/series]: KPIs vs. targets, wins/losses, risks, competitive moves, tough Q&As. [1]    |
+| Assess launch readiness    | Are we on track for the [Product] launch in November? Check engineering progress, pilot results, risks. Give me a probability. [1]                        |
+| Analyze time allocation    | Review my calendar and email from the last month and create five to seven buckets for projects I spend most time on, with % and short descriptions. [1]   |
+| Prep recurring meetings    | Review [select email] and prep me for the next meeting in [series], based on past manager and team discussions. [1]                                       |
