@@ -2,11 +2,15 @@ ai tools
 * AI Utils : Remove.bg , 12ft.io 
 * Otter.ai(transcribe) , Hemingwayapp.com ( editor) , QuillBot.com Paraphrase , Overleaf : Cv prep
 * [best ai tools](https://youtu.be/eFy8tepEByw?si=U13WBIEPfgUUyNdy)
-
+* ai tools lit review : https://www.youtube.com/watch?v=0dJj3XpTey0&list=WL&index=6&pp=gAQBiAQB
+* ai browser : https://www.youtube.com/shorts/RJjQLbzPQQ0
+* ai tools cmp : https://www.youtube.com/shorts/QyiSsApvyc4
+  
 gemini
 * Claude chrome : https://youtu.be/mCj4kx_P2Ak?si=rM9myKbFqi1olg7k
 * ask google ai : https://youtu.be/sxUBThVQLjU?si=mQUzSJvJ5M9QeEo8
 * image to table : https://www.youtube.com/watch?v=I7QUi8Kyqo8&list=WL&index=2&pp=gAQBiAQB
+* resume gemini : https://www.youtube.com/watch?v=KIWdgg_0TlI&list=WL&index=11&t=120s&pp=gAQBiAQB
 
 perplexity 
 * perplexity tasks for stock mkt news snippet : https://youtu.be/EK-CsG8gKA8?si=P63Er3CEEek9Ttek
@@ -27,7 +31,9 @@ use gpt
 * how gpt works : https://www.youtube.com/watch?v=WAmStcjN4xI&list=LL&index=24&pp=gAQBiAQB
 * gpt demo 2024 gl : https://www.youtube.com/watch?v=_3vCzIDNxEU&list=WL&index=2&t=15896s&pp=gAQBiAQB
 * gpt demo 2025 : https://www.youtube.com/watch?v=mnULGqkVONI&list=WL&index=3&pp=gAQBiAQB
-
+* 10 gpt hacks : https://www.youtube.com/watch?v=-fopYsgFdzc&list=WL&index=10&pp=gAQBiAQB
+* gpt useful : https://www.youtube.com/watch?v=zIWqTJu9HaA&list=WL&index=12&pp=gAQBiAQB
+  
 finance
 * [cgpt fin analysis](https://www.youtube.com/watch?v=szYnd9qzzIk&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=45&pp=gAQBiAQB)
 * [cgpt save money](https://www.youtube.com/watch?v=tDnW0riCvKU&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=16&pp=gAQBiAQB)
