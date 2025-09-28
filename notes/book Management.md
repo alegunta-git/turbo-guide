@@ -58,6 +58,10 @@
 **Steve Jobs’ ‘strong message’ to engineers that remained Apple's guiding doctrine**
 "Apple founder Steve Jobs once told the company engineers that the people who make real breakthroughs are not just thinkers, but also doers. In the early 1990s, Jobs addressed Apple engineers where he said “The doers are the major thinkers”, further citing Leonrado Da Vinci. He added “Did Leonardo have a guy off to the side thinking five years out what he would paint? Of course not. Leonardo was the artist, but he also mixed all his own paints.”"
 
+**Jensen Huang**
+"Nvidia CEO Jensen Huang recently opened up about his personal use of artificial intelligence (AI) tools, saying he switches between platforms depending on the tasks. Speaking at an interview in London recently, Huang said that among Elon Musk’s Grok, OpenAI’s ChatGPT, Perplexity and Google’s Gemini, his favorite “depends on what I’m doing”. Explaining further, the Nvidia CEO said “For something more technical I will use Gemini. If I’m doing something where it’s a bit more artistic, I prefer Grok. If it’s very fast information access I prefer Perplexity—it does a really good job of presenting research to me. And for near everyday use I enjoy using ChatGPT”."
+
+
 **N Narayana Murthy**
 I observed how in a western country even the socialists understood that wealth has first to be created before it can be distributed; 
 that there could only be a few leaders to create wealth. And that it’s the job of the government to create an environment
