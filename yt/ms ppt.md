@@ -1,3 +1,8 @@
+### MS PPT
+- minto pyramid , Story telling , 
+- Consulting : Mckinsey deck , ghost deck , pitch/ibank deck layout , 
+- ppt tips , Diagrams smart art , bar pie waterfall gantt ,Charts (Waterfall , gantt)
+
 ## MS PPT 
 
  **YT PPT**
