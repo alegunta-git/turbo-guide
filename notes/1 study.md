@@ -39,7 +39,8 @@ Origins
 * https://mystudycart.com/best-books-for-iit-jee-preparation
 * https://www.jagranjosh.com/articles/jee-advanced-physics-formula-sheet-pdf-1747221995-1
 * https://www.vidyalankar.org/iitjee/recommended-books
-* 
+* https://www.susanrigetti.com/physics
+  
 **IIT Book – Som Paul**
 * 6m – Maths , Daily 40 problems , Vedic maths , Brilliant Tutorials
 * English : Every Day write 4page essay , get it reviewed by Mom
