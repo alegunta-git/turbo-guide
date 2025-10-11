@@ -1,3 +1,7 @@
+## cbse school
+* https://ncjindalps.com/
+
+
 ## How to
 - How to Cook  
 - How to Manage Money  
@@ -41,6 +45,7 @@
 * [Car Left and right](https://www.youtube.com/watch?v=pm-XV0JkYU4&list=WL&index=3&pp=gAQBiAQB)
 * yt shorts : https://youtube.com/shorts/z_su4cimtWo?si=NBPpLolOAmCw1YsV
 * https://www.team-bhp.com/news/why-i-prefer-bangalore-metro-over-my-own-ev-daily-office-commute
+* zed driving :  https://www.youtube.com/watch?v=-1qX1l4opuA&list=WL&index=1&pp=gAQBiAQB
 
 ## Naza training
 - Laptop repair 
