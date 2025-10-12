@@ -36,6 +36,7 @@
 * [Writing Templates for Google Docs (Pack of 3) — Abbie Emmons](https://abbieemmonsauthor.com/store/writing*templates*for*google*docs*pack*of*3)
 * [Write book summary](https://copywritingcourse.com/how*to*write*a*book*summary/)
 * copy text from image : https://youtu.be/WOYkAVwm3u8?si=nZAgRUusSjLMXRp-
+* https://gdoc.io/checklist-templates/new-hire-checklist-free-google-docs-template/
 
 ### G Slide
 * [g slide](https://www.youtube.com/watch?v=b_CsDAhdtpo&list=WL&index=6&pp=gAQBiAQB)
