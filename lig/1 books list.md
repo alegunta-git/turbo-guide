@@ -1,96 +1,10 @@
-## 2025 Reading
-* **Approach** : Daily 1 hr rdg ,2-3x revision , books - gd/offline , yt videos backup info
-
-### p Finance
-* NISM 1 , may 1-3
-* NISM 2  , may	4-6
-
-### PM Interview
-* 101 pm problem, Apr 10
-* Dev mgr qs , Apr 11
-* pm 300 qs,, Apr 25
-
 ### Dev Interview
 * DSA Hubbard  ,  Feb 2-6                  
 * String algo Narasimha  , Apr  9               
 * Crack Code int ,  Apr 10-19
-* 150 leet code
-
-### Alex X 
 * System Design 1 , Dec 2023
 * System Design 2 , Feb 2024
-
-### Machine Learning
-* The Master Algorithm: Pedro Domingos 2015 , Aug 16       
-* MACHINE LEARNING(R17A0534).pdf  , Aug  30       
-* Machine Learning for Absolute Beginners by Oliver Theobald  , Aug 30       
-* Programming Collective Intelligence , Aug 30       
-* The Hundred-Page Machine Learning Book by Andriy Burkov ,Sep 04
-* Machine Learning for Dummies by John Paul Mueller and Luca Massaron , Sep 06  
-* Tom Mitchell Machine Learning McGraw Hill, Sep 09 
-
-### Consultant
-* Minto Pyramid , Apr	1-2
-* xls Winston , Apr 6-7
-
-### UPSC Prep
-* Master Ans writing	, Feb 1-5
-* upsc interview prep	, Feb 6-8
-* committee report 	, Feb 3-4
-* pyqs	, Feb4-7
-
-  
-## R18 Reading
-
-### SDLC
-| Area   | Topic                                                       |
-|--------|-------------------------------------------------------------|
-| PM     |  Anti patterns , WSR templates , prj finance                |
-| Reqs   | Req Patterns , User Story , use case                        |
-| Design | FE (Web)  , BE (Database)   , API Spec , mobile ios/Android |
-| Coding | DSA  , System Design , OOAD , DP                            |
-| QA     | Test Automation . test Scenarios                            |
-| SCM    | Devops                                                      |
-
-### Wishlist
-* **LIG** : Cooking , Driving 2w 4w , Device O&M , EPC
-* **Consultant** : Mck Deck , Issue Tree 
-* **PM**: WBS , Finance Modeling 
-* PDM : Roadmap
-* Study Skills 
-* Speed reading ,
-* Writing , APA Format ,English Grammar 
-* Note Taking(Cornell,mindmap)
-* Tools
-* gpt : chatgpt , perplexity
-* Search : g search 
-* MS office : Excel : Formulas , fin modeling 
-* MS PPT : tips , shortcuts 
-* MS Project WBS , planview
-
-### R18 Topics
-* R2 PDM Tech : HTML CSS , HTTP , JSON , API , SQL queries ,
-* R2 PDM Tech : Python ,Python code snippets  , batch prog cmd , Notepad++ , Chromedev
-* R3 PDM handson : User Persona , User Stories , User Journey , Product spec , Roadmap examples , wireframes
-* R4 BSA 
-  * Core : BABOK , RML Patterns , Tell Stories , YT BSA ,  Use Case alistair , User Stories  m goat , Test Cases
-  * R4 Tech Domain : Front End , Back end database ,API , Mobile IOS Android
-  * IT Service domain : CMS PHP , Cloud AWS , ecomm magento
-  * IT Product Domain : IR , Search , NLP , Machine Learning
-* R4 PM
-  * Core : WBS , Project Schedule , Estimation , prcl , Risk monitoring , Project Financials , 
-  * Quality tools Run Charts , Case studies
-  * PM Tools :  MS Project , Planview , JIRA basics , JIRA Admin , JIRA JQL
-  * PM Qs :  Glassdoor Qs PM , 300 qs
-  * IT Cert : Agile CSM , Agile CSPO , Agile SAFE , PMP Exam  , PMBOK , Rita PMP
-* R5 G Search : G Search operator , chatgpt , perplexity ai
-* R5 Excel : xls fin fix , xls fin modeling
-* R5 Consultant : Top 10 diagrams ,  Issue tree , Minto Pyramid , mckinsey deck , mckinsey way
-* R6 Devops : CICD , Github , Jenkins
-* R7 Dev Interview : DSA ,  Grok OOAD , high scalability blogs , Sys Design 1 , Sys Design 2
-* R7 PDM Interview : Decode Lin , Crack PDM Gayle , Product Design , Guesstimation
-* R7 Case Int : 26 Case I Fx , Case math , case wharton , Case in point
-* R7 Design : UX Examples, IA examples , DB Models, Design Interface, UI Patterns, Web Design, API Design, Mobile Patterns
+* 150 leet code
 
 
 ## PFinance
@@ -244,14 +158,6 @@
 * Index Card
 * The Millionaire Fastlane by MJ DeMarco
 * Millionaire next door
-
-## CSE Core Subjects
-| **Machine Learning** | **Data Structures and Algorithms**    | **Data Mining** |
-|----------------------|---------------------------------------|-----------------|
-| AI and NLP           | **Algorithms Design**                 | **DWBI**        |
-| Statistics           | OOAD                                  | **DBMS**        |
-| Probability          | **Operating Systems(unix Internals)** |                 |
-| Discrete Math        | Networking                            |                 |
 
 
 ## Dev Interview
