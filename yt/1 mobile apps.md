@@ -1,5 +1,3 @@
-* https://gdoc.io/checklist-templates/new-hire-checklist-free-google-docs-template/
-
 ## Samsung Apps
 * Contacts , Phone , Messages , Calendar , Calculator
 * File Explorer 
