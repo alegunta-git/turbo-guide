@@ -1,12 +1,3 @@
-### Dev Interview
-* DSA Hubbard  ,  Feb 2-6                  
-* String algo Narasimha  , Apr  9               
-* Crack Code int ,  Apr 10-19
-* System Design 1 , Dec 2023
-* System Design 2 , Feb 2024
-* 150 leet code
-
-
 ## PFinance
 **Reading Levels**
 * Level 1 : xls Formulas Vedic math
