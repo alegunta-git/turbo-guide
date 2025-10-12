@@ -1,14 +1,3 @@
-## upsc prep
-* [use gdocs for CA](https://www.youtube.com/watch?v=QZUoyk9AMcM&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=1&pp=gAQBiAQB0gcJCYQJAYcqIYzv)
-* [org notes gdocs*](https://www.youtube.com/watch?v=gKLY4c1hZv4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=28&pp=gAQBiAQB)
-* [Notes micro themes](https://youtu.be/ffyruloCiqk?si=k_zRsazW45Syw3mO)
-* [art of reading upsc](https://youtu.be/aammPSrYIZM?si=rK4yyi_ctOPEElKU)
-* [yt upsc exam tip](https://www.youtube.com/watch?v=IZAQaEZXUho)
-* [upsc prep tip](https://www.youtube.com/clip/UgkxfHnEjZYblfevnKVZzBfResZQyZ9mlYii)
-* [upsc ans tip](https://www.youtube.com/clip/Ugkx4aL2vYmwiGHJElZexPt6V6ZyEKB9IujY)
-* [yt Niveditha](https://www.youtube.com/@nivedithashetty_upsc/videos)
-* [yt LBSNAA trg](https://youtu.be/3SiRw-rEGIE?si=I7m2HxZTyVEysyN4)
-
 ## Syllabus PYQ
 * [Toppers Answers](http://www.visionias.in/resources/toppers_answers.php)
 * [upsc syllabus](https://vajiramandravi.com/upsc-syllabus/)
@@ -44,44 +33,6 @@
 * https://anubhokar.wordpress.com/2018/06/06/sociology-strategy-anu-kumari/
 * [Toppers notes](https://www.insightsonindia.com/2020/08/14/toppers-notes-e-notes-of-rushikesh-reddy-rank-95-cse-2020/)
 * [Sociology notes](https://handwrittennotes.in/2020/08/17/kshitij-tyagi-sociology-notes-pdf/
-
-## YT links
-Mrunal
-* [yt mrunal eco](https://www.youtube.com/@TheMrunalPatel/playlists)
-* [yt mrunal geo](https://www.youtube.com/watch?v=SMPO60DOTKQ&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=3&pp=gAQBiAQB)
-
-Polity
-* [mind map polity](https://www.youtube.com/clip/UgkxgVnuzqgszPMJaUsuClhRyTFJwWHuTC8A)
-* [yt mm polity](https://youtu.be/XPsg5HJBjNU?si=QlFVnGczRGc1mO2x)
-* [yt polity](https://www.youtube.com/playlist?list=PLyJOCsfjaYTx5KtDcTR3fODRdxrnLaqIC)
-
-geography
-* [yt Geo Amit Sengupta](https://www.youtube.com/@amitsengupta01/playlists) Read Class 11 Phy Geo
-* [yt pl geo](https://www.youtube.com/clip/UgkxFjAVtgVMKepIWUYEMZgeKJjRElYCHSHB)
-* [yt rivers](https://www.youtube.com/watch?v=B-M6-sjXBCw&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy)
-* [yt mapping](https://www.youtube.com/watch?v=buUtYhRrG-M)
-
-Reference
-* [yt reports and indices](https://youtu.be/RHcf2tDe1As?si=oZKC5HU91nL9f46i)
-* [yt studyq iq courses](https://www.youtube.com/@studyiqofficial/courses)
-* [yt main src](https://youtu.be/tkuvdHodmEA?si=euwL9LGumL0p5VaB)
-* [tw insights ias](https://twitter.com/Insights_ias?t=CvtraKnDg7U3Xu4upDNvcw&s=08)
-
-art and culture
-* [yt art and culture](https://www.youtube.com/watch?v=VxG4MgN7P7k&list=WL&index=5&pp=gAQBiAQB)
-* [yt indian a&c](https://www.youtube.com/playlist?list=PLpuxPG4TUOR70G1tUjk4ibxuP4js8BQlj)
-
-history
-* British Mughal empire : https://www.youtube.com/watch?v=4-f21r6KvJQ
-
-Int Relations
-* [yt IR1](https://www.youtube.com/watch?v=buUtYhRrG-M&list=WL&index=4&pp=gAQBiAQB)
-* [yt IR2](https://www.youtube.com/watch?v=29NuyPR8KbY&list=WL&index=6&pp=gAQBiAQB)
-
-sci and tech
-* [yt sci & tech](https://www.youtube.com/watch?v=B-z8dVzbCXc&list=WL&index=3&pp=gAQBiAQB)
-* [yt Disaster Mgmt](https://youtu.be/r5Xk6OIoxwo?si=nwK9tgfvNLVm0V5J)
-
 
 ## List of Ministries
 * https://moef.gov.in/union-government-ministries-department
