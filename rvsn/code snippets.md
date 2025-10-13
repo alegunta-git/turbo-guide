@@ -1,12 +1,13 @@
-## Code snippets
-
+`
 # TOC , - [Writing](#Writing) , - [Reading](#Reading)
+`
 
-## notepad md file headings 
+`notepad md file headings 
 "# H1 (title) , ## H2 (subtitle) , ### H3 (heading) , #### H4 (section) ,##### H5 (subsection)"
-
+`
 
 ## html code for table 
+`
 https://www.sibsagarcollege.in/jee-mains-result-2025/
 <figure class="wp-block-table"><table class="has-fixed-layout">
 <tbody><tr><td>Organization</td><td>National Testing Agency (NTA)</td></tr>
@@ -20,3 +21,4 @@ https://www.sibsagarcollege.in/jee-mains-result-2025/
 
 html code :  https://entdata.co.in/NTT_ADM_2024_2025/homresult.html
 <td width="184" height="45" align="center" bgcolor="#FFFFCC"><font size="2"><a href="N01_G_merged.pdf">A.S.K </a><br></font></td>
+`
