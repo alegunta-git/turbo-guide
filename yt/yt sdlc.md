@@ -181,6 +181,20 @@ Topics
 * [ML slides](http://www.cs.cmu.edu/~tom/mlbook-chapter-slides.html)
 * [ML bookclub](https://www.youtube.com/live/spFsPbDw7Lg?si=XMlQYE-OUvLcpIcz)
 
+
+## yt ml
+* Design an ML Recommendation Engine : https://youtu.be/FoSCaue3lcg?si=2meFDK-XYDMge-aI
+* https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/
+* https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/
+* amz intvw : https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV
+* stat quest : https://www.youtube.com/user/joshstarmer
+* https://www.educative.io/courses/grokking-the-system-design-interview
+* https://seanprashad.com/leetcode-patterns/
+* https://www.windowfunctions.com/
+* https://github.com/alirezadir/Production-Level-Deep-Learning
+* https://towardsdatascience.com/the-end-to-end-data-scientists-prompt-playbook/
+
+
 **Data Science**
 * [Data Mining](https://www-users.cse.umn.edu/~kumar001/dmbook/firsted.php#item4)
 * [T5 Data sci](https://www.coursejoiner.com/uncategorized/top-5-free-data-science-courses/)
