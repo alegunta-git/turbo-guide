@@ -59,17 +59,7 @@
 * [Answer Tech Qs](https://www.dice.com/career-advice/answer-technical-interview-question)
 
 
-## yt ml
-* Design an ML Recommendation Engine : https://youtu.be/FoSCaue3lcg?si=2meFDK-XYDMge-aI
-* https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/
-* https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/
-* amz intvw : https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV
-* stat quest : https://www.youtube.com/user/joshstarmer
-* https://www.educative.io/courses/grokking-the-system-design-interview
-* https://seanprashad.com/leetcode-patterns/
-* https://www.windowfunctions.com/
-* https://github.com/alirezadir/Production-Level-Deep-Learning
-* https://towardsdatascience.com/the-end-to-end-data-scientists-prompt-playbook/
+
 
 
 
