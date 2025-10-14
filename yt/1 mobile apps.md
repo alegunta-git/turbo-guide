@@ -17,6 +17,16 @@
 * [pay bill herb](https://youtu.be/mRwOUuMKdjI?si=-4347Kol5rXCmGCu)
 * https://profitbooks.net/27-best-free-software-tools-for-small-businesses/
 
+
+**amazon**
+* search kadhai : https://youtu.be/v64HLjkz1UI?si=3OnAZRn4aTLD-FQJ
+* prd categories : https://www.youtube.com/watch?v=kNB6kGjmypw&list=LL&index=11&pp=gAQBiAQB
+* buy prd : https://www.youtube.com/watch?v=37P87hQDxpk&list=LL&index=12&pp=gAQBiAQB
+* search phone : https://www.youtube.com/watch?v=EErbeN7IaaQ&list=LL&index=13&pp=gAQBiAQB
+* search prd : https://www.youtube.com/watch?v=CLQDroDf4sY&list=LL&index=14&pp=gAQBiAQB
+   
+
+
 ## Q and A Portals
 * [A Quick Intro to Wolfram](https://www.youtube.com/watch?v=iYUGqX-qO_8&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=16)
 * [yt wikipedia](https://www.youtube.com/watch?v=mslALFQMT_0&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=29&pp=gAQBiAQB)
