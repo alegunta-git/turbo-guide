@@ -63,6 +63,9 @@ Naza training
 *  Kannada 
 *  Basic pc
 *  Tally erp9
+
+links
+* https://sctvesd.wb.gov.in/files/academic/viii_stc/new/Junior%20Mobile%20and%20Smartphone%20Repairing%20Person_MSPRA.pdf?utm_source=perplexity
 *  GL Tally Ovw : https://youtu.be/nySwxjRMXZU?si=-O_stDFffAhqnI8C
 
 
