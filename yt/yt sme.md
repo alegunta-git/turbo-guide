@@ -95,5 +95,6 @@ SWerikcodes
 * gate prep : https://www.youtube.com/watch?v=azLOpSfZf7o&list=LL&index=1&pp=gAQBiAQB
 * must share prj resume : https://www.youtube.com/watch?v=d_whQErvg0E&list=LL&index=14&pp=gAQBiAQB
 
-
+cbse school
+* https://ncjindalps.com/
 
