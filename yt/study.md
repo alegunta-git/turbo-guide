@@ -8,11 +8,18 @@
 * [upsc ans tip](https://www.youtube.com/clip/Ugkx4aL2vYmwiGHJElZexPt6V6ZyEKB9IujY)
 * [yt Niveditha](https://www.youtube.com/@nivedithashetty_upsc/videos)
 * [yt LBSNAA trg](https://youtu.be/3SiRw-rEGIE?si=I7m2HxZTyVEysyN4)
+* topper note : https://www.youtube.com/watch?v=5QHx9Q09p5s&list=LL&index=9&pp=gAQBiAQB
+* vikas sir gpt idea : https://youtu.be/KSGv4cIQ3F0?si=L_AIFKO5gmhaGqGz
+* ie upsc ans : https://www.youtube.com/watch?v=1VyWO9r-UZM&list=LL&index=1&pp=gAQBiAQB
+* motivation : https://youtu.be/Z-ouseEhXTU?si=KzcjSYfTZVsk682W
+* np notes IMP : https://www.youtube.com/watch?v=hkjFX5hlGyk&list=LL&index=13&pp=gAQBiAQB
+* np notes 2 : https://www.youtube.com/watch?v=RTss_CYX_wU&list=LL&index=12&pp=gAQBiAQB
 
 
 
 How to read
 * **take notes** :https://www.youtube.com/watch?v=mQzYdYOp9jg&list=LL&index=8&pp=gAQBiAQB
+* 80 20 rule studies : https://youtu.be/FrRUiJ22R7A?si=IY64nF-yzSgYUFHo
 * rem what you read : https://www.youtube.com/watch?v=pmHXXXH5DmI&list=LL&index=9&pp=gAQBiAQB
 * read book week : https://www.youtube.com/watch?v=spjOfOLm9UE&list=LL&index=7&pp=gAQBiAQB
 * annotation : https://www.youtube.com/watch?v=-fSKNwQ5s4E&list=LL&index=12&pp=gAQBiAQB
