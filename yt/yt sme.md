@@ -1,9 +1,9 @@
-## Apple things
+**Apple things**
 * [culture code things](https://culturedcode.com/things/features/)
 * https://culturedcode.com/things/features/
 * [Apple Things](https://www.youtube.com/watch?v=2R6o5t0VK_A&list=WL&index=3&pp=gAQBiAQB)
 
-## PKM
+**PKM**
 * [common place book](https://ryanholiday.net/how*and*why*to*keep*a*commonplace*book/)
 * https://www.thegoodtrade.com/features/what*is*a*commonplace*book/
 * [Automate Every Aspect Of Your Life](https://www.youtube.com/watch?v=LEycQh8a*_0&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=3)
@@ -76,7 +76,6 @@
 * [wunderlist use](https://www.youtube.com/watch?v=TGz67AMG9a8&list=WL&index=1&pp=gAQBiAQB)
 
 
-
 **sahil and sarra**
 * learn web gpt : https://youtu.be/FGbeQ4*Kj8Q?si=JvYomuLx6lwfcmcE
 * kb shortcuts : https://www.youtube.com/shorts/2Zg0pzOSVr0
@@ -85,5 +84,16 @@
 * 500 leetcode : https://www.youtube.com/shorts/sq_LYYAQT9Q
 * sysdesign : https://www.youtube.com/shorts/0JSg44zuUTw
 * yt ideas : https://www.youtube.com/watch?v=RGDQaJgvZJk&list=WL&index=17&pp=gAQBiAQB
+
+
+SWerikcodes
+* githup repo : https://www.youtube.com/watch?v=d0scFBpBpB4&list=LL&index=21&pp=gAQBiAQB
+* leetcode beginner : https://www.youtube.com/watch?v=vNbPqVnIgr4&list=LL&index=2&pp=gAQBiAQB
+* coding skills : https://www.youtube.com/watch?v=IzHxMA3SS34&list=LL&index=17&pp=gAQBiAQB
+* dsa : https://youtu.be/rj3lXPwcaeY?si=-oc5_Qhb_E7VLl4W
+* be coding : https://youtu.be/RlC5Fx_09hM?si=5TqDjbZbDrPjwwZd
+* gate prep : https://www.youtube.com/watch?v=azLOpSfZf7o&list=LL&index=1&pp=gAQBiAQB
+* must share prj resume : https://www.youtube.com/watch?v=d_whQErvg0E&list=LL&index=14&pp=gAQBiAQB
+
 
 
