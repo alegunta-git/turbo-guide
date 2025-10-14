@@ -63,6 +63,7 @@ Naza training
 *  Kannada 
 *  Basic pc
 *  Tally erp9
+*  GL Tally Ovw : https://youtu.be/nySwxjRMXZU?si=-O_stDFffAhqnI8C
 
 
 
