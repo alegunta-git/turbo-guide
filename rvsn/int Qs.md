@@ -6,7 +6,7 @@
 * https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/blob/main/System%20Design/GenAI%20System%20Design%20Interview.md
 * https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/blob/main/System%20Design/ML%20System%20Design%20Interview.md
 * https://github.com/junfanz1/Software-Engineer-Coding-Interviews/tree/main?tab=readme-ov-file
-
+* Data science howto : https://youtu.be/ms1n039WShY?si=b8JJ5ZtPH7NhkVRo
 
 ## syllabus
 * [iitg cse syllabus format](https://www.iitgoa.ac.in/~sreejithav/20Aug/cs220.html#time-and-plac)
