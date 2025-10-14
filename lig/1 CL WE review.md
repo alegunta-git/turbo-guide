@@ -8,11 +8,12 @@
 
 **Daily Reading**
 - [ ] Revision
-- [ ] Tech Book
-- [ ] Hindu Np editorials , editorial analysis
-- [ ] yt hindu analysis
-- [ ] Press release 
-
+- [ ] Read Tech and Other topics as per reading plan 
+- [ ] Review Daily Press release PIB
+- [ ] Review Amazon Press Release weekly
+- [ ] Read Hindu Np editorials , 
+- [ ] watch yt hindu analysis ,
+- [ ] read web editorial analysis
 
 ## Weekly
 **Finance Tasks**
@@ -28,35 +29,7 @@
 - [ ] (B) Review top 10 spend areas 
 - [ ] (C) A/L Update 
 
-**List of Trackers**
-- Income Expense xls 
-- Investment 1p
-- Reading Log
-- EPC Log
-- Doc Visit Log
-- Travel Log
-- List of Projects /SDMB 
-- List of ideas
-- Monthly Tasks
-- Tasks home
-- Tasks office
-- Ofc OKR , leave plans
-- uid 
-- 101 vendor 
-- Contacts list
 
-**CRF**
-* Career :  Skillset , Interview Prep , Jobs
-* R : Pujas , Traveling (Hols)
-* Finance : Income Expense , Asset Liability , Investment 
-* Home : EPC , PCB 
-* Health : Walk , BLSD 
-* Task : Tracker , Tickler
-
-**Tasks**
-* Tasks : G Keep , notes
-* P Finance : Todos , Reading list , online calc , bill pmt 
-* Reading : Reading List , Take online notes , Revision 
 
 
 
