@@ -122,3 +122,6 @@
 * Wint wealth PL : https://www.youtube.com/@WintWealthYT/playlists
 * ankur w : https://www.youtube.com/watch?v=j5FFBAgP8Vo&list=WL&index=18&pp=gAQBiAQB
 * inv plan : https://www.youtube.com/watch?v=4S55rt-Qx8c&list=WL&index=13&pp=gAQBiAQB
+* fin plan kamra : https://www.youtube.com/watch?v=Dn5tpWXLp-w&list=WL&index=10&pp=gAQBiAQB
+* chandoo inc src : https://www.youtube.com/watch?v=LhR8WZiPEZI&list=WL&index=9&pp=gAQBiAQB
+* ind trader : https://www.youtube.com/watch?v=yBusipDZhp4&list=WL&index=8&pp=gAQBiAQB
