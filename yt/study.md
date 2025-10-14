@@ -14,6 +14,9 @@
 * motivation : https://youtu.be/Z-ouseEhXTU?si=KzcjSYfTZVsk682W
 * np notes IMP : https://www.youtube.com/watch?v=hkjFX5hlGyk&list=LL&index=13&pp=gAQBiAQB
 * np notes 2 : https://www.youtube.com/watch?v=RTss_CYX_wU&list=LL&index=12&pp=gAQBiAQB
+* ai tools : https://youtu.be/3tNad6Rci_0?si=xlWhVDlDKaGgqdkd
+* dont buy 2 many books : https://youtu.be/vu3qjk8rhJg?si=fIqdx20spYGFvj9A
+* upsc booklist : https://www.youtube.com/watch?v=W2hTep2vZJY&list=WL&index=11&pp=gAQBiAQB
 
 
 
