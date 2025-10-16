@@ -8,6 +8,13 @@
 * [NISM Cert](https://www.youtube.com/playlist?list=PLHZhh8OWIA9S1GvYPCSuZTDuVo6ycPC-j)
 * calc money needs lic a : https://www.youtube.com/watch?v=5l4hbI9wpOI&list=WL&index=3&pp=gAQBiAQB
 
+
+## Jago Investor
+* calc : https://www.jagoinvestor.com/2010/06/introducing-jagoinvestor-financial-calculators.html
+* fill datasheet : https://www.youtube.com/watch?v=IEoNEx0EH9M&list=WL&index=5&t=3s
+* Wealth Club Budget Sheet : https://www.youtube.com/watch?v=dQHyj5NOCYo&list=WL&index=4
+
+
  ## Fin fx
 * [10 options](https://weinvestsmart.com/top-10-best-investment-options-in-india/)
 * [Thumb rules](https://www.icicidirect.com/investonomics/articles/the-thumb-rules-of-investing)
