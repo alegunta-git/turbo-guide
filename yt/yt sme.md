@@ -95,6 +95,15 @@ SWerikcodes
 * gate prep : https://www.youtube.com/watch?v=azLOpSfZf7o&list=LL&index=1&pp=gAQBiAQB
 * must share prj resume : https://www.youtube.com/watch?v=d_whQErvg0E&list=LL&index=14&pp=gAQBiAQB
 
+
+anu sharma
+* you dont need 2 know leetcode : https://youtu.be/6MNfwOp3FT8?si=Wy0Zd1jU6cKzl0GX
+* graph theory: https://youtu.be/oXcCAAEDte0?si=6Iz35jgsX90pWepo
+
+sdet qa
+* jira ovw : https://youtu.be/GnG6RPSRLCs?si=drz1y261iS6UZmzJ
+* us healthcare dmn : https://youtu.be/OQ2ywwm0268?si=gwe_TSe6VYmM_MWO
+
 cbse school
 * https://ncjindalps.com/
 
