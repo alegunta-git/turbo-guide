@@ -74,6 +74,7 @@
 * ebay : https://youtube.com/playlist?list=PL5lapnpDz9dRo1*qEvSSo7gp3p4Qhi_8L&si=ClqOy0nAaSKZNC_N
 * [yt sagar pl](https://www.youtube.com/@Sagarclips/playlists)
 * [wunderlist use](https://www.youtube.com/watch?v=TGz67AMG9a8&list=WL&index=1&pp=gAQBiAQB)
+* sale tag : https://www.youtube.com/shorts/mEDr0IabJSk
 
 
 **sahil and sarra**
@@ -99,11 +100,14 @@ SWerikcodes
 anu sharma
 * you dont need 2 know leetcode : https://youtu.be/6MNfwOp3FT8?si=Wy0Zd1jU6cKzl0GX
 * graph theory: https://youtu.be/oXcCAAEDte0?si=6Iz35jgsX90pWepo
+* free ml res : https://www.youtube.com/shorts/0x3is-FOvZo
 
 sdet qa
 * jira ovw : https://youtu.be/GnG6RPSRLCs?si=drz1y261iS6UZmzJ
 * us healthcare dmn : https://youtu.be/OQ2ywwm0268?si=gwe_TSe6VYmM_MWO
+* test automation : https://www.youtube.com/shorts/QuKV67n4YS4
 
 cbse school
 * https://ncjindalps.com/
+* read bible : https://www.youtube.com/shorts/slug30iDtsM
 
