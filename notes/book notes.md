@@ -72,6 +72,10 @@ notes
 - Dont over engineer , Reduce operational burden 
 
 
+
+
+
+
 ## Consultant Rule of thumb
 * 80/20 Data , 2 by 2 Matrix ,
 * Zipfs Law (1/x) , Power Curve , Long Tail ,
@@ -151,6 +155,46 @@ Maths
 
 
 ## Self Help 
+**THE PRODUCTIVITY MINDSET**
+- Fear, perfectionism, and a lack of drive are the main causes of procrastination.
+- “If you want to change the world, start off by making your bed.” - William H. McRaven
+- Plan your day the night before!
+- Importance of exercise and nutrition
+- Lack of motivation or purpose
+- YOUR BRAIN CAN LEARN ANYTHING QUICKLY IF YOU PRACTISE IT DAILY.
+- STOP DELAYING, START DOING
+- Slice it down
+- Time blocking
+- SLICE YOUR BIG TASK INTO SMALL CHUNKS.
+- “Lack of clarity is the number-one time-waster. Always be asking, ‘What am I trying to do? How am I trying to do it?’”
+- You can create your personal Kanban board and add task cards, namely a to-do list, review, status, progress, and completed.
+- End-of-day review
+- Productivity journaling is nothing but a system where you maintain a notebook or journal to stay accountable for your progress.
+- You can use it to write down your plans, track your goals, and effectively manage your time.
+- QUALITY VS. QUANTITY
+- The illusion of busyness
+- LIFE BECOMES EASIER WHEN WE KEEP THINGS SIMPLE AND DON’T OVERCOMPLICATE THEM.
+- How meditation changed my life
+- THE ART OF DOING NOTHING
+- THE PERSON WHO FOLLOWS SIMPLICITY IS THE ONE WHO LIVES IN HARMONY WITH EVERYONE.
+- here’s how I spend my day: I start my day by slowing down—no rushing, no cramming tasks into every minute.
+- For me, I choose only a few things that truly matter to me that day, and let the rest fall away without guilt.
+- Resist the urge to chase more, instead trust that whatever you need will come naturally.
+- Making a clear to-do list
+- Having a focused to-do list helps you stay accountable for everything you do. It allows you to track all your tasks.
+- It’s important to arrange your tasks according to their priority, and have a clear to-do list.
+- Don’t overthink, act now!
+- Collect meaningful memories
+- Create personal productivity methods Or that planning just three important tasks each day feels more natural than managing a long to-do list.
+- IF YOU WANT TO START SOMETHING, DON’T OVERANALYSE, DO IT AS SOON AS YOU FEEL RIGHT.
+- Your actions today impact your future
+- Focus on creating value first; profit will follow
+- It’s okay if you haven’t figured out everything yet
+- Find happiness in simple things
+- Learn to detach from things
+
+
+
 **Self-Discipline: How to Develop Spartan Discipline, Unbreakable Mental Toughness, and Relentless Willpower** 
 - Spartan Minimalism , “Luxury dilutes hunger.”— Robin Sharma
 - “Our life is frittered away by detail. Simplify, simplify.”— Henry David Thoreau “Simplicity is the ultimate sophistication.”— Leonardo da Vinci
