@@ -2,6 +2,24 @@
 * Bhagvad Gita
 * Basic Sanskrit 
 
+## UPSC books 2024
+| book name                   | src                  | status    | date       | comments |
+|-----------------------------|----------------------|-----------|------------|----------|
+| GS1 Art and Heritage        | yt pl(2)             | done      | 1/29, 1/30 |          |
+| GS1 History                 | NA                   | NA        |            |          |
+| GS1 Geo India               | M Hussain bk         | TBD       |            |          |
+| GS1 Geo world               | mrunal yt pl         | Scheduled | 2/2, 2/3   |          |
+| GS2 Const, Govnce           | NA                   | NA        |            |          |
+| GS2 Polity                  | yt pl                | TBD       |            |          |
+| GS2 International relations | yt pl                | done      | 01/02      |          |
+| GS3 Economy                 | murnal yt pl         | TBD       | 2/3, 2/4   |          |
+| GS3 Science and Tech        | yt pl(Siddharth sir) | done      | 01/02      |          |
+| GS3 Internal security       | yt pl                |           |            |          |
+| GS3 Disaster Management     | yt pl                |           |            |          |
+| GS3 Environment             | book                 | TBD       |            |          |
+| GS4 Ethics moral thinkers   | NA                   | NA        |            |          |
+
+
 ## OKR Reading 
 **Machine Learning**
 | Book                                                                | Date    |
