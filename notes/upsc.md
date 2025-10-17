@@ -8,7 +8,11 @@
 * [drishti summary of reports](https://www.drishtiias.com/summary-of-important-reports)
 * [byju imp reports](https://byjus.com/free-ias-prep/international-organization-reports/)
 * [byju gist of yojana](https://byjus.com/free-ias-prep/gist-of-yojana/)
-  
+* [economics mind map](https://igcseaid.com/mind-maps/economics-0455/)
+* [vikaspedia](https://vikaspedia.in/InDG)
+* [arthapedia](http://www.arthapedia.in/index.php/Category:Concepts)
+* [asia maps](https://www.infoplease.com/atlas/asia)
+
 ## Books
 * [git upsc](https://github.com/utsingh/upsc)
 * [clear ias books](https://www.clearias.com/ias-books/)
@@ -17,6 +21,7 @@
 * [upsc med science](https://www.jagranjosh.com/articles/amp/upsc-medical-science-books-1705066081-1)
 * [unacademy upsc cse](https://unacademy.com/goal/upsc-civil-services-examination-ias-preparation/KSCGY#about-exam)
 * [unacademy ncert](https://unacademy.com/content/ncert-books/#:~:text=NCERT%20Books%20are%20vital%20to,download%20absolutely%20free%20of%20cost!)
+
 
 ## Toppers Notes
 * [upsc topper notes onedrive](https://onedrive.live.com/redir?resid=5904275E260F976F%212444&authkey=%21AH6GYBjFnERgT_Y&page=View&wd=target%28Laxmikanth.one%7Cdcef7156-2405-4084-8729-6f0a20a2faa6%2FLaxmikanth%20Syllabus%7C8583b152-2ead-4ac5-a77e-b18aa4d9b08c%2F%29&wdorigin=NavigationUrl)
@@ -33,124 +38,6 @@
 * https://anubhokar.wordpress.com/2018/06/06/sociology-strategy-anu-kumari/
 * [Toppers notes](https://www.insightsonindia.com/2020/08/14/toppers-notes-e-notes-of-rushikesh-reddy-rank-95-cse-2020/)
 * [Sociology notes](https://handwrittennotes.in/2020/08/17/kshitij-tyagi-sociology-notes-pdf/
-
-## List of Ministries
-* https://moef.gov.in/union-government-ministries-department
-- Ministry of Agriculture and Farmers Welfare
-  - Department of Agriculture, Cooperation and Farmers Welfare
-  - Department of Agricultural Research and Education (DARE)
-- Ministry of AYUSH
-- Ministry of Chemicals and Fertilizers
-  - Department of Chemicals and Petrochemicals
-  - Department of Fertilizers
-  - Department of Pharmaceuticals
-- Ministry of Civil Aviation
-- Ministry of Coal
-- Ministry of Commerce and Industry
-  - Department for Promotion of Industry and Internal Trade
-  - Department of Commerce
-- Ministry of Communications
-  - Department of Posts
-  - Department of Telecommunications (DOT)
-- Ministry of Consumer Affairs, Food and Public Distribution
-  - Department of Consumer Affairs
-  - Department of Food and Public Distribution
-- Ministry of Corporate Affairs
-- Ministry of Culture
-- Ministry of Defence
-  - Department of Defence Production
-  - Department of Defence Research Development
-  - Department of Ex-Servicemen Welfare
-- Ministry of Development of North Eastern Region
-- Ministry of Earth Sciences
-  - India Meteorological Department (IMD)
-- Ministry of Education
-  - Department of Higher Education
-  - Department of School Education and Literacy
-- Ministry of Electronics and Information Technology
-- Ministry of Environment, Forest and Climate Change
-- Ministry of External Affairs
-- Ministry of Finances
-  - Department of Economic Affairs
-  - Department of Expenditure
-  - Department of Financial Services
-  - Department of Investment and Public Asset Management
-  - Department of Revenue
-- Ministry of Fisheries, Animal Husbandry and Dairying
-  - Department of Animal Husbandry and Dairying
-  - Department of Fisheries
-- Ministry of Food Processing Industries
-- Ministry of Health and Family Welfare
-  - Department of Health and Family Welfare
-  - Department of Health Research, Ministry of Health Family Welfare
-- Ministry of Heavy Industries and Public Enterprises
-  - Department of Heavy Industry
-  - Department of Public Enterprises
-- Ministry of Home Affairs
-- Ministry of Housing and Urban Affairs
-- Ministry of Information and Broadcasting
-- Ministry of Jal Shakti
-  - Department of Drinking Water and Sanitation
-  - Department of Water Resources, River Development and Ganga Rejuvenation
-- Ministry of Labour and Employment
-- Ministry of Law and Justice
-  - Department of Justice
-  - Department of Legal Affairs
-  - Legislative Department
-- Ministry of Micro, Small and Medium Enterprises
-- Ministry of Mines
-- Ministry of Minority Affairs
-- Ministry of New and Renewable Energy
-- Ministry of Panchayati Raj
-- Ministry of Parliamentary Affairs
-- Ministry of Personnel, Public Grievances and Pensions
-  - Department of Administrative Reforms and Public Grievances (DARPG)
-  - Department of Pension & Pensioner's Welfare
-  - Department of Personnel and Training
-- Ministry of Petroleum and Natural Gas
-- Ministry of Power
-- Ministry of Railways
-- Ministry of Road Transport and Highways
-- Ministry of Rural Development
-- Ministry of Rural Development
-  - Department of Land Resources (DLR)
-  - Department of Rural Development (DRD)
-- Ministry of Science and Technology
-  - Department of Biotechnology (DBT), Government of India
-  - Department of Science and Technology (DST)
-  - Department of Scientific and Industrial Research (DSIR)
-- Ministry of Shipping
-- Ministry of Skill Development and Entrepreneurship
-- Ministry of Social Justice and Empowerment
-  - Department of Social Justice and Empowerment
-  - Department of Empowerment of Persons with Disabilities
-- Ministry of Statistics and Programme Implementation
-- Ministry of Steel
-- Ministry of Textiles
-- Ministry of Tourism
-- Ministry of Tribal Affairs
-- Ministry of Women and Child Development
-- Ministry of Youth Affairs and Sports
-- Ministry of Youth Affairs and Sports
-  - Department of Sports
-  - Department of Youth Affairs
-
-
-## Policies
-* NEP National Education Policy 2020 : https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf 
-* The Telecommunications Act, 2023, 
-* Telecom Cybersecurity Rules, 2024,
-* [ministries of india](https://www.ibef.org/economy/directory/ministries-and-departments-in-india)
-* [ARC reports*](https://darpg.gov.in/arc-reports)
-* [Economic survey*](https://www.visionias.in/resources/all_programs.php?c=economic_survey) 
-* [Constitution of India*](https://legislative.gov.in/constitution-of-india/)
-* [Polity - PRS](https://prsindia.org/)
-* [law commission of india](https://lawcommissionofindia.nic.in/)
-* https://www.livelaw.in/
-* [economics mind map](https://igcseaid.com/mind-maps/economics-0455/)
-* [vikaspedia](https://vikaspedia.in/InDG)
-* [arthapedia](http://www.arthapedia.in/index.php/Category:Concepts)
-* [asia maps](https://www.infoplease.com/atlas/asia)
 
 
 
