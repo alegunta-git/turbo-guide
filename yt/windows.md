@@ -1,5 +1,7 @@
 onenote
 * https://www.xda-developers.com/onenote-vs-bear-the-clash-of-note-taking-titans/
+* make video smaller : https://www.digitalcitizen.life/make-video-smaller-windows-10/
+* navigate web pages : https://www.youtube.com/watch?v=neQTWdPVxh0&list=WL&index=5
 
 
 ## MS Outlook
@@ -121,6 +123,10 @@ Win 11
 * [30 mac tips](https://www.youtube.com/watch?v=1qknuwb0LGM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=7&pp=gAQBiAQB)
 * [200 Mac Tips And Tricks - YouTube](https://www.youtube.com/watch?v=cnfBR8mugfE&list=WL&index=11)
 * [30 Mac / macOS Getting Started Tips! Do you know them all? - YouTube](https://www.youtube.com/watch?v=1qknuwb0LGM&list=WL&index=12)
+* 12 IMP Tips : https://www.youtube.com/watch?v=DDJ74Uu5iMU&list=WL&index=6
+* merge pdfs : https://www.youtube.com/watch?v=tNfqa4cuPJQ&list=WL&index=13
+* make pdf : https://www.macworld.com/article/2416429/how-to-make-a-pdf-on-mac.html
+
 
 
 
