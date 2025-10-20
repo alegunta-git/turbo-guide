@@ -1,3 +1,14 @@
+## Tools
+| Daily             | Weekend               | Need basis        |
+|-------------------|-----------------------|-------------------|
+| BLSD timings      | What to Read List     | gcal reminder     |
+| Sleep wakeup      | Investment Tracker 1p | check gmail       |
+| Exercise          | I E xls               | Bill pmt reminder |
+| Task List         | A L xls               | Skills List       |
+| Daily Expense xls |                       | EPC Log           |
+| Reading Log       |                       | Travel Log        |
+|                   |                       | Doc Vst Log       |
+
 ## Daily 
 
 **Puja**
