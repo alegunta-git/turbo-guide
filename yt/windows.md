@@ -1,3 +1,7 @@
+onenote
+* https://www.xda-developers.com/onenote-vs-bear-the-clash-of-note-taking-titans/
+
+
 ## MS Outlook
 * outlook : templates , boiler plate writeup , checklists ,
 * Use canned responses in gmail
