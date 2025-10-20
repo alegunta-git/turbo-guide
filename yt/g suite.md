@@ -1,5 +1,6 @@
 ai
 * https://www.youtube.com/@digginetblog
+* wunderlist yt
 
 
 ### G Lens
@@ -32,6 +33,7 @@ ai
 * [Simple org system Google Keep & Calendar](https://www.youtube.com/watch?v=64n-9s5GZPM&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=25)
 * [How to grab image text with Google Keep - YouTube](https://www.youtube.com/watch?v=fDav0_SJ588&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=3)
 * [Google Keep: Upgrade Your To-Do List! - YouTube](https://www.youtube.com/watch?v=PKMSbBymA70&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=2)
+* image to text : https://www.youtube.com/watch?v=Sg2dDI5JBTA
 
 ### G Docs
 * [gdocs android](https://youtu.be/xV3PahIZmNs?si=pD7978Vlb*KkUxxv)
