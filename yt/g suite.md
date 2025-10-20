@@ -165,6 +165,7 @@ ai
 * CSIS 103 Module1 Web Browser Basics : https://youtu.be/fa8ECrUp9nk?si=wtaeKfkVcRmRpRtB
 * [Notepad Tutorial - Lesson 9 - Search with Bing - YouTube](https://www.youtube.com/watch?v=CjYpiEY1IwU)
 * [Samsung Internet Browser](https://www.youtube.com/watch?v=LyEyLPhsEf0&pp=ygUhc2Ftc3VuZyBpbnRlcm5ldCBicm93c2VyIHR1dG9yaWFs)
+* hihglight sc : https://www.youtube.com/watch?v=SgA5O_RnE9Q
 
 **Firefox**
 * [firefox features](https://www.youtube.com/watch?v=HlHwB7KOTOc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=17&pp=gAQBiAQB)
