@@ -1,3 +1,7 @@
+ai
+* https://www.youtube.com/@digginetblog
+
+
 ### G Lens
 * Copy text , try phone numbers , dates , addresses 
 * Search similar products , try clothing and furniture 
@@ -37,6 +41,7 @@
 * [Write book summary](https://copywritingcourse.com/how*to*write*a*book*summary/)
 * copy text from image : https://youtu.be/WOYkAVwm3u8?si=nZAgRUusSjLMXRp-
 * https://gdoc.io/checklist-templates/new-hire-checklist-free-google-docs-template/
+* use gdocs : https://www.youtube.com/watch?v=vIsOMSyouUw
 
 ### G Slide
 * [g slide](https://www.youtube.com/watch?v=b_CsDAhdtpo&list=WL&index=6&pp=gAQBiAQB)
