@@ -1,3 +1,18 @@
+## Zerodha
+* [zerodha varsity](https://zerodha.com/varsity/)
+* https://zerodha.com/varsity/modules/
+* https://zerodha.com/varsity/module/personalfinance/
+* [Fin Formulas index](https://financeformulas.net/index.html)
+
+## pfin Masters
+* [Charlie Munger Quotes](https://tradingqna.com/t/charlie-mungers-100-quotes/139556)
+* [Warren Buffett Letters](https://www.berkshirehathaway.com/letters/letters.html)
+* [Amazon Letters](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx)
+* Essays of WB
+* Come into trading room
+* https://www.cse.iitb.ac.in/~soumen/ 
+
+
 **TVM Calculator**
 * https://investmentjunctions.com/index.php/tools/financial-tools?cmdAction=loadPlanYourSIP
 * https://www.icicidirect.com/calculators
