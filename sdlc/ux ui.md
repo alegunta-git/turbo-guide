@@ -15,7 +15,7 @@
 * [UI codecademy](https://www.codecademy.com/resources/docs/uiux/button)
 * https://getbootstrap.com/docs/4.0/components/buttons/
 
-  ## UX
+## UX
 * UX Case Study : https://dribbble.com/shots/20950832-UX-Case-Study
 * [Case study behance Furniture app](https://www.behance.net/gallery/132194189/Furniture-App-UIUX-Case-Study)
 * [UX KB](https://uxk* tw notebook : https://youtu.be/rpCt3YATueA?si=p4Fryj1ThGjSnoxa
