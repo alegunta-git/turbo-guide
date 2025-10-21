@@ -30,3 +30,15 @@
 * [Create an attractive article in Microsoft Word 2010 - YouTube](https://www.youtube.com/watch?v=Pouh8iOmsmY&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=7)
 * [MS Word Skills - Document Formatting Skills & Hacks - YouTube](https://www.youtube.com/watch?v=Ss2lPz7m0GY&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=26)
 * [5 neat tips for formatting Microsoft Word tables - Part 1 - YouTube](https://www.youtube.com/watch?v=3VI7GIDaBvY&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=4)
+
+
+
+**tips**
+* [How to Combine Multiple Word File to Single One - YouTube](https://www.youtube.com/watch?v=TWVW3tZR0l0&list=WL&index=30)
+* [How to merge two or more word documents into one document - YouTube](https://www.youtube.com/watch?v=Yzl9GKhZLSI&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=6)
+* [How to Combine Multiple Word Documents into One Document | Merge Word Documents - YouTube](https://www.youtube.com/watch?v=SnKE3SR7dYs&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=18)
+* [How to Create 'Frequently Asked Questions' Documents using Microsoft Word Custom Styles - YouTube](https://www.youtube.com/watch?v=5PGb12t8_vo&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=3)
+* [Affordance Comparison: Microsoft OneNote and Google Keep - YouTube](https://www.youtube.com/watch?v=D3MM1kjyCx0)
+* [Five useful MS Word tricks (MS word tips #1) - YouTube](https://www.youtube.com/watch?v=KJ2_2_xiIic&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=10)
+* [Learn Hidden Microsoft Word Tricks to Become 4x Faster At Work! - YouTube](https://www.youtube.com/watch?v=Pf_VWc34IyE&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=28)
+* merge word docs : https://www.youtube.com/watch?v=V3TBE-JWXTU&list=WL&index=14&pp=gAQBiAQB
