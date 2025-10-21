@@ -1,3 +1,8 @@
+onenote
+* https://www.xda-developers.com/onenote-vs-bear-the-clash-of-note-taking-titans/
+* make video smaller : https://www.digitalcitizen.life/make-video-smaller-windows-10/
+* navigate web pages : https://www.youtube.com/watch?v=neQTWdPVxh0&list=WL&index=5
+  
 **File Explorer**  
 File : open new window , open shell , help , search options  
 Home : Pin quick access , copy , paste , cut , copy path , past sc , move to , copy to , delete , rename , new folder/item  
