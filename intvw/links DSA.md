@@ -36,14 +36,19 @@
 * [yt dsa sheet](https://www.youtube.com/watch?v=Az3kEDm5b_k&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=4&pp=gAQBiAQB)
 * [master dsa](https://www.youtube.com/watch?v=F-ao3Q6I2Fc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=36&pp=gAQBiAQB)
 * DSA - mycoding school : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC
-* LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
-* DSA : https://www.youtube.com/watch?v=CBYHwZcbD-s&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
+* * DSA : https://www.youtube.com/watch?v=CBYHwZcbD-s&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
 * dsa nan s : https://www.youtube.com/watch?v=QD7m7NMCfrY&pp=ygURbmFuY3kgc29sYW5raSBkc2E%3D
 * [yt NPTEL narendra garg](https://youtu.be/zWg7U0OEAoE?si=Co_42DXjZOcOxMS)
 * bbg recommendation for tech intvw : https://youtu.be/wAMc7NyL4tQ?si=K6VsrZQLDKWbDQKw
+* solve dsa O(n) : https://www.youtube.com/watch?v=6j8uLDZMXUg&list=WL&index=13&pp=gAQBiAQB
+* solve dp : https://youtu.be/uUjFL0C-vY0?si=SdRSh1mzDn39Y7Wg
+* DSA : https://www.youtube.com/watch?v=wDgQL8sOgjM&t=418s
+* dsa roadmap : https://www.youtube.com/watch?v=jMpojvi504I&list=WL&index=8&pp=gAQBiAQB
+
 
   
 ## leetcode
+* LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
 * [14 patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 * [20 coding patterns](https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3)
 * [Top Leetcode Ptrns](https://dev.to/arslan_ah/top-leetcode-patterns-for-faang-coding-interviews-1on4)
@@ -60,7 +65,17 @@
 **Algorithms**
 * [djistrika algo](https://www.youtube.com/watch?v=EFg3u_E6eHU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=43&pp=gAQBiAQB)
 * add others tbd 
+* a* algo distance calc : https://www.youtube.com/watch?v=3tzVK2ixHEg&list=WL&index=4&pp=gAQBiAQB
 
+
+## dev Tips
+* Use Other People's Code on GitHub in 15 Min  : https://youtu.be/CT1zTWyZX5w?si=8j9pEu-E2SstcfRU
+* self learn topic : https://www.youtube.com/watch?v=d-xOE_wgIoo&list=WL&index=4&pp=gAQBiAQB
+* top 10 it skills : https://www.youtube.com/watch?v=VaxBq1Xg3pE&list=WL&index=4&pp=gAQBiAQB
+* 10 github repo : https://www.youtube.com/watch?v=a1ehrFHAX7g&list=WL&index=4&pp=gAQBiAQB
+* g dev int : https://www.youtube.com/watch?v=we7ba0slWrc&list=WL&index=3&pp=gAQBiAQB
+* cto mindset : https://www.youtube.com/watch?v=MWzdHlLUsZs&list=WL&index=5&pp=gAQBiAQB
+* Best way to Find Jobs on Linkedin  : https://youtube.com/shorts/zZ19ogVIT04?si=18CSvhgGZrBAOqdy
 
 
 
