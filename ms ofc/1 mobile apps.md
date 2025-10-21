@@ -1,6 +1,7 @@
 ## Android
 * android 101 : https://www.youtube.com/playlist?list=PLPRhQEDGqsFC4NL3DiYpPVnDKP9o1dnTw
 * https://www.thesuccessmanual.in/chapter/android-for-seniors-basics-examples-specific-scenarios
+* smartphone trg : https://youtu.be/pWAjtuRU1-o?si=vXROu7JHDoCfNh4r
 
 
 ## Mobile Provider
