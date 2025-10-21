@@ -1,3 +1,26 @@
+## Web design
+* [web style guide](https://webstyleguide.com/wsg3/index.html)
+* [web design guidelines](https://designsystem.digital.gov/)
+* [Wireframes](https://webdesign.tutsplus.com/a-beginners-guide-to-wireframing--webdesign-7399a)
+* https://www.sitesaga.com/types-of-websites/
+* [9 types websites](https://99designs.com/blog/web-digital/types-of-websites/)
+* [Local Navigation](https://www.nngroup.com/articles/local-navigation/)
+* [25 pages ecomm](https://www.barrelny.com/posts/25-must-have-pages-for-your-ecommerce-website)
+* [29 features](https://www.searchenginejournal.com/ecommerce-guide/must-have-website-features/) 
+  
+## html cs
+* https://htmlcheatsheet.com/
+* https://htmlcheatsheet.com/css/
+* https://htmlcheatsheet.com/js/
+* https://schoolsofweb.com/category/html-for-beginners/
+* [yt html css](https://www.youtube.com/watch?v=QMnv3QrjZoU&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=2&pp=gAQBiAQB)
+* [yt css derek](https://www.youtube.com/watch?v=I-rTKuEhrCM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=3&pp=gAQBiAQB)
+* [yt js derek](https://www.youtube.com/watch?v=fju9ii8YsGs&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=4&pp=gAQBiAQB)
+* [yt xpath locator](https://www.youtube.com/watch?v=9tnHnQ1-DY4&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=39&pp=gAQBiAQB)
+
+
+
+
 ## Web Design
 
 **Web Design**
