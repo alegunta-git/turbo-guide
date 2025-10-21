@@ -76,6 +76,7 @@
 * g dev int : https://www.youtube.com/watch?v=we7ba0slWrc&list=WL&index=3&pp=gAQBiAQB
 * cto mindset : https://www.youtube.com/watch?v=MWzdHlLUsZs&list=WL&index=5&pp=gAQBiAQB
 * Best way to Find Jobs on Linkedin  : https://youtube.com/shorts/zZ19ogVIT04?si=18CSvhgGZrBAOqdy
+* 1hr dsa and sd : https://www.youtube.com/watch?v=iIbli89koK8&list=WL&index=10&t=467s&pp=gAQBiAQB
 
 
 
