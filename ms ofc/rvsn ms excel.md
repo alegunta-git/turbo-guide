@@ -1,3 +1,43 @@
+**MS Excel topics**  
+Formulas , Chart , Dashboard , Statistics , Finance Modeling  
+Basics  
+moving around ctrl , shift and arrow keys , toggling relative and absolute reference , editing multiple worksheet  
+Conditional Formatting  row level , formula , vl , Custom Formatting (error blank cell value duplciate icon sets )  
+sort and filter , fill down , fill right  , paste special , autofilter , group , ungroup   
+max min countblank , hide and unhide cols and rows , freeze panes , sum max min past   
+Time saver tricks , SC range naviagtion , show formula , remove duplicates , grouping , gridlines , horizontal sorting ,   
+find and replace wildcard ? and , $ lock cell ref , flash fill , sparklines ,GO TO Spl data cleaning , ctrl enter , fill blank   
+Formulas  
+Data cleaning : left , right , mid , value , search , substitute , upper lower proper trim len , MS word find and replace digits and letters   
+Logical AND OR Not IF AND OR ,IFERROR ,ISnumber is text iserror   
+Dates edate , eomonth , text() , text to cols , date cleaning date day month year   
+Lookup , HLookup , VLookup is error , col func , match func , w/ true param  , get vl from left side array tbl   
+VL , VL w TRUE (Slabs) , VL vs IF , VL w MATCH 2d , index and 2 match rev lookup , SUMIFS criteria text number date , COUNTIFS   
+Index and match , Indirect ,  Choose  , Offset dynamic data list , dependent drown list   
+Advanced  
+pivot tables , Named ranges , Find and replace tips , slicer , dashboard , data validation drop down , sub total   
+adv pivot table grp options( yearly, qtrly,date wise,no slab wise), % option ( % of total/col/row ) ,sum avg count slicer ,100s of report   
+Data Forms ,  External Data , text to columns , MIS report  
+Split windows freeze panes , protecting cells , sheets  
+What if analysis  goal seek , data tables , scenarios , solver addin , scenarios , auditing features  
+Macros Selection techniques , looping , worksheets , file object   
+fin modeling offset choose indirect sumproduct small large round form controls , cell protection  
+locate sample code snippets from google (macros) index of links , split worksheet , convert nos to words , merge workbooks , extract file name 
+
+Finance Modelling  
+Cell ref ($) , index() with 2 match , vl with true , indirect w/ cell   
+SC , if and or not iferror , edate eomonth ,   
+form buttons , gridlines . grouping , data validation   
+Income stmt , bal sheet cash flow , ratio analysis ,   
+debt to service coverage , int coverage ,   
+profitability , turnover , terminal value ,   
+npv irr , cost of finance , revenue and cost drivers , operating income and costs   
+amortization and depreciation schedule ,   
+debt schedules repayment ,   
+working capital schedule   
+equity debt drawdown fast modeling std
+
+
 ## MS Excel
 **xls topics**
 | Category | Examples                                                                                  |
