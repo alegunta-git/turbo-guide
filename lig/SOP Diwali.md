@@ -1,4 +1,4 @@
-**T-1 Naraka Chaturdasi **
+**T-1 Naraka Chaturdasi**
 Clean 
 Gods Place
 Tables , TV area , main door ,
