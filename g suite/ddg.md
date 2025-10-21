@@ -64,3 +64,33 @@
 * [DuckDuckGo Tips Hindi - YouTube](https://www.youtube.com/watch?v=fORncLOJY3A&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=21)
 * [DuckDuckGo Instant Answer IT Tools](https://www.youtube.com/watch?v=Sk1NCCMxvys&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=15)
 
+
+## **Custom Search Engine**
+- \[Help:Searching from a web browser \- Wikipedia\](https://www.blogger.com/blog/post/edit/1882019388501619639/5977878803530405618)
+- \[How can I make Chrome search Wikipedia for X when I type 'wp X' into the location bar? \- Quora\](https://www.blogger.com/blog/post/edit/1882019388501619639/5977878803530405618)
+- g adv site :  https://www.theverge.com/ this exact word or phrase : iphone 15
+- intitle:index.of?pdf  java complete reference
+- Google https://www.google.com/search?q=%s
+- Google Images — https://www.google.com/search?site=imghp\&tbm=isch\&q=%s
+- Google News — https://www.google.com/search?q=%s\&tbm=nws
+- Google Dictionary — https://www.google.com/search?q=define+%s
+- Google Search Limited to Past Year \-\[ https://www.google.com/search?hl=en\&tbo=1\&tbs=qdr:y\&q=%s\]
+- Bing — http://www.bing.com/search?setmkt=en-US\&q=%s
+- https://www.amazon.com/s?k=pixel\&ref=nb\_sb\_noss
+- YouTube — http://www.youtube.com/results?search\_query=%s
+- Wikipedia — https://www.google.com/search?q=site:en.wikipedia.org+%s
+- Reddit — https://www.reddit.com/search?q=%s
+- Facebook — https://www.facebook.com/search/top/?q=%s
+- Twitter — https://twitter.com/search?q=%s\&vertical=default\&f=tweets
+- Twitter \-http://twitter.com/search?q=%s
+- Pinterest — http://www.pinterest.com/search/pins/?q=%s
+- \[http://www.linkedin.com/commonSearch?type=people\&keywords=%s\&search=Search\](http://www.linkedin.com/commonSearch?type=people\&keywords=%25s\&search=Search)
+- \[http://www.flickr.com/search/?q=%s\&l=cc\&ct=0\&mt=all\&adv=1\](http://www.flickr.com/search/?q=%25s\&l=cc\&ct=0\&mt=all\&adv=1)
+- \[http://giphy.com/search/%s\](http://giphy.com/search/%25s)
+- https://www.amazon.com/s?k=pixel\&ref=nb\_sb\_noss
+- https://www.amazon.com/s/url=field-keywords=%s
+- Goodreads  	http://www.goodreads.com/search?q=%s
+- Stack Overflow  	https://www.google.co.in/search?q=site:stackoverflow.com+ %s
+- Github 		https://github.com/search?q=%s\&ref
+- Quora			http://www.quora.com/search?q=%s
+
