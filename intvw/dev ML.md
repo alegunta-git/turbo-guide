@@ -23,3 +23,45 @@
 - Chapter 9 Text-to-Image Generaan
 - Chapter 10 Personalized Headshot Generation
 - Chapter 11 Text-to-Video Generation
+
+## Machine Learning Algorithms
+
+### Supervised  Learning ( Data with label)
+Classification (email spam detection , speech recognition , Sentiment analysis)
+1. Logistic Regression
+2. Naive Bayes Classifier
+3. K Nearest Neighbors
+4. Support Vector Machines
+
+Regression ( stock market prediction , rainfall prediction)
+1. Linear Regression
+2. Ridge Regression
+3. Ordinary Least squares regression
+4. Stepwise Regression
+
+### Unsupervised Learning ( Data Without Label )
+Clustering ( id fake news , document analysis)
+1. k-means
+2. K-median
+3. Hierarchical clustering
+4. Expectation Maximization
+
+Association Analysis ( market basket analysis)
+1. APRIORI
+2. eclat
+3. FP growth 
+
+Dimensionality Reduction ( Anlaysis of written text , DNA data)
+1. Feature Extraction ( Principal Component Analysis)
+2. Feature Selection ( Wrapper , Filetr , Embedded method)
+
+### Reinforcement Learning (State and Action)
+Model Free
+1. Q Learning
+2. Hybrid
+3. Policy Optimization
+
+Model based
+1. Learn the model
+2. Given the model 
+
