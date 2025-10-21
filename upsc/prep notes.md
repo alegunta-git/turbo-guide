@@ -1,4 +1,3 @@
-
 ## UPSC prep 
 * Know Syllabus(80%) : Memorize syllabus
 * PYQs : Refer to 5 years Prev Year  Qs (topic wise) , Keep it as near as possible
