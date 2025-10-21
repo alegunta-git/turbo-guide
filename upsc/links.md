@@ -2,6 +2,32 @@ Ans scripts
 * [Toppers Answers](http://www.visionias.in/resources/toppers_answers.php)
 * [Prev Year qs](https://upsc.gov.in/examinations/previous-question-papers)
 
+upsc exam prep
+* women reservation bill prs india
+* padma award winners 2025 
+* geography previous years upsc prelims questions topic wise 
+* gst upsc  gst wiki 
+* upsc prelims history topic wise questions
+* financial intelligence unit upsc
+* upsc previous years toppers answer booklet download
+* upsc monthly current affairs pdf
+* pt 365
+* upsc mains gs2 ngo
+* child marriage amendment bill 2021 prs india
+* recent government policies
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## goi links
 * [ministries of india](https://www.ibef.org/economy/directory/ministries-and-departments-in-india)
 * [ARC reports*](https://darpg.gov.in/arc-reports)
