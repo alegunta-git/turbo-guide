@@ -1,3 +1,79 @@
+
+
+## Google
+* https://www.google.com/advanced_search (iphone 15 Site: https://www.theverge.com )
+* https://www.google.co.in/maps ( G Maps : travel , buildings , floor plans)
+* [G books](https://books.google.com/)
+* [G Scholar](https://scholar.google.com/)
+* [G translate](https://translate.google.co.in/?sl=auto&tl=kn&text=hello%20world&op=translate)
+* G Shopping : https://shopping.google.com/?pli=1
+
+
+## Utils
+* https://mail.rediff.com/cgi-bin/login.cgi
+* hpgas
+* https://www.tataplay.com/
+* https://www.bescom.co.in/bescom/main/quick-payment
+* https://www.bbmp.gov.in/home
+* https://bbmptax.karnataka.gov.in/
+
+
+
+## Travel 
+* https://www.google.com/travel/flights?gl=IN&hl=en
+* https://www.irctc.co.in/nget/train-search
+* https://ksrtc.in/
+* https://www.redbus.in/
+* https://www.uber.com/in/en/
+* https://www.rapido.bike/Home
+* https://www.makemytrip.com/
+* https://www.goindigo.in/flights?linkNav=Flight%7CBook%7CBook
+
+
+## Social NW
+* https://x.com/?lang=en
+* facebook
+* https://in.pinterest.com/
+* https://www.instagram.com/accounts/login/?hl=en
+* https://www.reddit.com/
+
+## QA Sites
+* https://en.wikipedia.org/wiki/Main_Page
+* [wolfram alpha](https://www.wolframalpha.com/)
+* https://www.quora.com/login
+* https://wordpress.com/log-in/
+* https://www.slideshare.net/
+* https://medium.com/
+* https://stackoverflow.com/questions
+
+
+## JS
+* [it jobs](https://www.itjobswatch.co.uk/)
+* [naukri](https://www.naukri.com/)
+* [linkedin](https://www.linkedin.com/login)
+* indeed
+* monster
+* iimjobs
+* shine
+* https://www.glassdoor.co.in/index.htm
+
+
+## Streaming
+* https://www.netflix.com/in/
+* https://www.primevideo.com/offers/nonprimehomepage/ref=dv_web_force_root
+* https://www.hotstar.com/in/home?ref=%2Fin
+* https://music.youtube.com/
+* https://open.spotify.com/
+
+## Apps
+* paytm
+* urbanclap
+* mg
+* bigbasket
+* swiggy
+* bbdaily
+
+
 ## Android
 * android 101 : https://www.youtube.com/playlist?list=PLPRhQEDGqsFC4NL3DiYpPVnDKP9o1dnTw
 * https://www.thesuccessmanual.in/chapter/android-for-seniors-basics-examples-specific-scenarios
