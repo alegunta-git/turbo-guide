@@ -54,11 +54,14 @@ Why studying at MIT gives you an unbeatable edge in the job market - Times of In
 
 “India doesn’t lack talent,” he concluded. “Its efforts are misplaced.”"
 
+**Oct 21 AWS outage**
+"The global cloud market is dominated by three companies. AWS holds the largest share (roughly 30 per cent), followed by Microsoft Azure (20 per cent) and Google Cloud Platform (13 per cent).
+
+All three service providers have had recent outages, significantly impacting digital service platforms. In 2024, an issue with third-party software severely impacted Microsoft Azure, causing extensive operational failures for businesses globally. Google Cloud Platform also experienced a major outage this year due to an internal misconfiguration"
 
 
 np links 
 * https://www.telegraphindia.com/india/iits-iims-and-universities-struggle-to-tackle-rising-student-use-of-generative-ai-tools-prnt/cid/2128628
-* https://www.xda-developers.com/notebooklm-feature-to-turn-hours-of-youtube-lectures-into-searchable-study-guide/
 * https://en.wikipedia.org/wiki/List_of_software_development_philosophies
 * https://timesofindia.indiatimes.com/technology/tech-tips/15-free-chatgpt-prompts-that-make-homework-more-fun-and-learning-focused-for-kids/articleshow/123878857.cms
 * https://www.xda-developers.com/free-browser-based-markdown-editor-replaced-windows-notepad/
@@ -66,3 +69,8 @@ np links
 *  https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-48-hour-deadline-send-summary-of-what-youve-accomplished/articleshow/123971516.cms#:~:text=According%20to%20CNN,staff%20Tuesday%20afternoon
 * https://www.financialexpress.com/business/industry-lifetime-achievement-awardee-shyam-srinivasan-happily-dissatisfied-is-the-mantra-3985989/
 - https://www.gsmarena.com/top_10_trending_phones_of_week_42-news-69970.php
+
+
+xda
+* https://www.xda-developers.com/notebooklm-feature-to-turn-hours-of-youtube-lectures-into-searchable-study-guide/
+* https://www.xda-developers.com/open-source-tools-for-students-to-save-money-and-time/
