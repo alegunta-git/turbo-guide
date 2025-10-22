@@ -1,16 +1,18 @@
-## Webseries
-* amz : Family Man
-* amz panchayat
+**Wishlist**
+* amz Family Man TBD
 * nf iit series
-* sony undekhi : https://www.youtube.com/watch?v=H61jG5QJrg8&list=WL&index=15&pp=gAQBiAQB
-* sony roct boys
-* sony h mehta
-* NF Dragon : https://youtu.be/dgZiYWKF5hw?si=KmobZgJVZDiISP-T
+* sony undekhi : https://www.youtube.com/watch?v=H61jG5QJrg8&list=WL&index=15&pp=gAQBiAQB 
+
+## Webseries
+* sony stock broker S1
+* sony rocket boys S1
+* amz panchayat S1 S2 
+* amz medical student S1 
 
 ## telugu
-* missama : https://www.youtube.com/watch?v=Dszx6GbRm-4&list=PLmMyXRtEtJEaSf9lmWbAWp-2KxHDTgMRA&index=1&pp=gAQBiAQB
 * padamati sandhya ragam 
-
+* missama : https://www.youtube.com/watch?v=Dszx6GbRm-4&list=PLmMyXRtEtJEaSf9lmWbAWp-2KxHDTgMRA&index=1&pp=gAQBiAQB
+* NF Dragon : https://youtu.be/dgZiYWKF5hw?si=KmobZgJVZDiISP-T
 
 ## Hindi
 * AB movies : Sholay , Deewar 
