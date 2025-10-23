@@ -10,4 +10,4 @@
 * 17 3h sb gd2 bks folder , sb notes
 * 21 8h sb wiki pages code folder . migrate wi to code 
 * 22 2h  sb gd fin , updt wi nt
-* 23  4h sb docs  ofc , co folder , sb pins finance , 
+* 23  4h sb docs  ofc , co folder , sb pins finance , 1 hr pins mv wiki pages
