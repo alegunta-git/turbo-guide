@@ -17,6 +17,14 @@
 | Discrete Math        | Networking                            |                 |
 
 
+**Design**
+* Front End: UI Patterns , Web Design  
+* Mobile : Mobile Patterns (IOS and Android)
+* API Design : API Specification
+* Back End : DB Design , DB Models OLTP , DWBI | Effective Effective SQL Query and Performance Tuning
+* Integration : Cloud  Native Patterns , EAI
+
+
 ## Agile
 * Agile & SAFE glossary
 * Process : Kanban , Lean , LESS ,SAFE  
