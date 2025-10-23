@@ -14,7 +14,15 @@
 - Images : GIMP , IrfanView , Greenshot                                                             
 - ebook Reader : Adobe Reader , Digital edition , Apple Books       
 - Cloud Utils : ilovepdf , iloveimg , Evernote                                                             
-- Chrome extension : Linkclump , AutoCopy , Adblock , Context Menu search , Copy Tables , GetThemAll , ShortKeys                             
+- Chrome extension : Linkclump , AutoCopy , Adblock , Context Menu search , Copy Tables , GetThemAll , ShortKeys
+- Win Utils : Notepad , File explorer , MS Photos  
+- BASB/Note taking apps :github wiki , Evernote , onenote , Notion , obsidian , apple notes, g keep , joplin md       
+- Images : GIMP , IrfanView , Greenshot ,ilovepdf , iloveimg                                            
+- pdf/epub Reader :  Adobe Reader , Apple Books  , Foxit ,Readera , Digital edition                                           
+- Learning :  Notes(google docs) ,ppt(slideshare) , Wordpress , blogger   
+- Recording : Jing , Camtasia , Snagit  
+
+                         
 **Google Apps**
 - G Mail 
 - G Search : SEO Queries
