@@ -10,6 +10,20 @@ g dork
 * Related [jio.com](http://jio.com/)
 * Link [jio.com](http://jio.com/)
 
+
+yt search
+- amazon online grocery shopping
+- Lehenga
+- Clothing
+- Gift boyfriend 
+- Amazon alexa ad
+- Gift card
+- How to order items from amazon
+- How tobtrack delivery on amazon
+- How to call customer care on amazon
+- Mobile phone
+- how to buy phone in amazon
+
 github dorks
 * GitHub Advanced Search Commands (Dorks)
 * Search by Readme, Description, Title : in:readme pandas
