@@ -116,6 +116,7 @@
 * [yt Pinterest](https://www.youtube.com/watch?v=Q_YSFv4jWxY&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=18&pp=gAQBiAQB)
 * [move Pins to another board](https://www.youtube.com/watch?v=L9YMI-8YeYw&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=22)
 * [print pinterest board](https://www.youtube.com/watch?v=o-SspDWtwuU&list=WL&index=7&pp=gAQBiAQB)
+* bulk saver : https://youtu.be/2wMqfqNdi0I?si=piwinRCmWkn7xKZ_
 
 **Twitter**
 * [yt Social nw pl](https://www.youtube.com/@howtechweb/playlists)
