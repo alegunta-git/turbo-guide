@@ -14,7 +14,7 @@ np links
 * https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-48-hour-deadline-send-summary-of-what-youve-accomplished/articleshow/123971516.cms#:~:text=According%20to%20CNN,staff%20Tuesday%20afternoon
 * https://www.financialexpress.com/business/industry-lifetime-achievement-awardee-shyam-srinivasan-happily-dissatisfied-is-the-mantra-3985989/
 * https://www.gsmarena.com/top_10_trending_phones_of_week_42-news-69970.php
-
+* https://www.hindustantimes.com/opinion/indias-growth-pursuit-lessons-to-learn-from-china-s-story-101761411489638.html
 
 
 
