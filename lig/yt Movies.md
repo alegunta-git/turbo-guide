@@ -44,6 +44,9 @@ Hotstart
 * Startup S1
 * Startup S2
 
+yt 
+* p drama sq : https://youtu.be/IrEROM5r2g4?si=4ZPD-UlwYsedzFGs
+
 
 ## Movies Telugu
 * missama : https://www.youtube.com/watch?v=Dszx6GbRm-4&list=PLmMyXRtEtJEaSf9lmWbAWp-2KxHDTgMRA&index=1&pp=gAQBiAQB
