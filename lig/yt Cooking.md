@@ -50,6 +50,7 @@
 * [yt Rice](https://www.youtube.com/watch?v=bP0vOcIarKM&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=2&pp=gAQBiAQB)
 * kundapura saaru : https://youtu.be/gZyhTSdBdEw?si=D-m0uMVdpSBD2tiX
 * [Sambhar](https://www.indianhealthyrecipes.com/andhra-sambar-recipe-how-to-make-south-indian-sambar/)
+* sambhara recipe : https://youtu.be/6poaIzfzw4U?si=UbhZGHEI66O3qY9L
 * Sambar podi recipe : https://youtu.be/ENReE450qJk?si=L0zc-0VY4apk-qRI
 * Sambhar sadhya : https://www.youtube.com/watch?v=R2k-7ftu8bY&list=WL&index=3&pp=gAQBiAQB
 * pappu
@@ -59,7 +60,7 @@
 ## North Indian
 * [roti](https://www.cookwithmanali.com/roti-recipe/)
 * NI daal
-
+* hebbars indian dinner : https://youtu.be/tYjxvVn8Lpc?si=AsjYewa3G2f0EsrV
 
 ## Food vlog
 * [yt nisha m](https://www.youtube.com/watch?v=kRjU6rZ0ni4&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=1&pp=gAQBiAQB)
