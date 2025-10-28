@@ -1,3 +1,7 @@
+**"The mentor’s playbook**
+Speaking recently on The Gstaad Guy Podcast with Gustaf Lundberg Toresson, Schmidt shared that this practice was first encouraged by his mentor, the late Bill Campbell, the legendary “coach” to Silicon Valley’s top leaders. Each weekend, Schmidt carves out time to think, write, and plan the coming week — without distractions, phones, or notifications."
+
+
 **'We have everything but tourists': Bangkok beats India 3:1, analyst calls it a failure - BusinessToday**
 - "Keep top 50 tourist zones spotless
 - Train frontline workers—drivers, guides, shopkeepers
