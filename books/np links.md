@@ -6,6 +6,7 @@ xda
 
 np links 
 * https://timesofindia.indiatimes.com/technology/tech-news/perplexity-ceo-aravind-srinivas-number-one-skill-you-need-as-a-ceo-is-to-learn-to-make-/articleshow/124765224.cms
+* https://timesofindia.indiatimes.com/education/careers/news/turn-off-that-phone-says-ex-google-ceo-3-weekend-habits-he-swears-by-for-success/articleshow/124861716.cms
 * https://www.telegraphindia.com/india/iits-iims-and-universities-struggle-to-tackle-rising-student-use-of-generative-ai-tools-prnt/cid/2128628
 * https://en.wikipedia.org/wiki/List_of_software_development_philosophies
 * https://timesofindia.indiatimes.com/technology/tech-tips/15-free-chatgpt-prompts-that-make-homework-more-fun-and-learning-focused-for-kids/articleshow/123878857.cms
