@@ -16,6 +16,6 @@ np links
 * https://www.financialexpress.com/business/industry-lifetime-achievement-awardee-shyam-srinivasan-happily-dissatisfied-is-the-mantra-3985989/
 * https://www.gsmarena.com/top_10_trending_phones_of_week_42-news-69970.php
 * https://www.hindustantimes.com/opinion/indias-growth-pursuit-lessons-to-learn-from-china-s-story-101761411489638.html
-
+* https://www.indiatoday.in/education-today/how-i-made-it/story/computer-science-exams-india-practical-coding-tests-replace-pen-paper-system-2809624-2025-10-28
 
 
