@@ -79,3 +79,4 @@ yt
 * forex : https://www.youtube.com/watch?v=5RRrQ1ytI5c&list=LL&index=9&pp=gAQBiAQB
 * shameless : https://www.youtube.com/watch?v=ZCgWfZiexrw&list=LL&index=8&pp=gAQBiAQB
 * Other people money
+* Lfie of PI : https://youtu.be/H5WNwPE7nz0?si=DHmzNiEuObc_mDIh
