@@ -19,6 +19,7 @@
 Exercise
 * [Yoga Poses](https://www.yogajournal.com/pose-finder/pose-finder/)
 * [Exercise Table](https://www.usc.edu.au/media/1000574/Exercises-for-Computer-Users-and-Office-Workers.pdf)
+* Squats after meal : https://youtu.be/CBnHcZTnv_s?si=Q1uIr7mc-Ni7h1WR
 
 
 ## blogs
