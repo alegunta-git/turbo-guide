@@ -1,33 +1,3 @@
-## Check out
-**Calendar**
-* Almanac : Update Dates for Pournami , Amavasya , Pradosha
-* [2025 Calendar](https://venkatramacalendar.com/2025-Venkatrama-Calendar.html)
-* [Mausam](https://mausam.imd.gov.in)
-* [Air FM](https://onlineradiofm.in/stations/fm-rainbow)
-
-## gpt
-* notebook llm : https://notebooklm.google.com/
-* [perpleity](https://www.perplexity.ai/?login-source=oneTapHome&login-new=false)
-* [gemini](https://gemini.google.com/app?hl=en-IN)
-* [ms copilot](https://copilot.microsoft.com/)
-* [gpt](https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_APAC_IN_EN_032525&utm_term=chatgpt&utm_content=177344203135&utm_ad=741704613486&utm_match=e&gad_source=1&gad_campaignid=22370388714&gbraid=0AAAAA-IW-UVo4EWfzpLWPKyZkhpDxCi3J&gclid=Cj0KCQjwgKjHBhChARIsAPJR3xfI2Bpxu_FVkuNhb0Hsdp75aQeTd6MktRWSkXg8FNVLIeurUmG2Tn4aAj4VEALw_wcB)
-
-
-## gh 
-* https://table-magic.guntrip.co.uk/
-* https://github.com/alegunta-git/turbo-guide/wiki/_new
-* https://github.com/alegunta-git/turbo-guide/issues
-
-
-## News
-* [G News](https://news.google.com/home?pz=1&cf=q&hl=en-IN&qsid=ZWg_3RpMEE5QNM&gl=IN&ceid=IN:en)
-* [G Finance](https://www.google.com/finance/?hl=en)
-* [The Indian Express](https://indianexpress.com/)
-* https://indianexpress.com/profile/columnist/tavleen-singh/
-* https://economictimes.indiatimes.com/?from=mdr
-* https://www.nytimes.com/
-* https://www.andhrajyothy.com/
-
 ## Tools
 * https://www.ilovepdf.com/jpg_to_pdf
 * https://textcleaner.net/
