@@ -24,29 +24,6 @@
 - medicine
 - 2w ride
 
-## SOP Reading
-2025 reading Approach
-1. Daily 2 hr rdg ,2-3x revision
-1. books gd/offline 
-1. refer to gi and yt videos backup info
-
-**Daily Reading**
-- Read Hindu Np editorials , 
-- read web editorial analysis
-- Read Tech and Fin ebooks(reading plan)
-
-**Weekly Reading**
-- Review Amazon Press Release weekly
-- Review Daily Press release PIB
-- watch yt hindu analysis
-
-**w/e Reading**
-- TH sunday np 
-- eenadu booklet 
-- etw magazine
-- Setup Reading List
-
-
 ## WEEK END
 
 **w/e GTD review**
