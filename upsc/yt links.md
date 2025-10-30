@@ -1,21 +1,3 @@
-Ans scripts
-* [Toppers Answers](http://www.visionias.in/resources/toppers_answers.php)
-* [Prev Year qs](https://upsc.gov.in/examinations/previous-question-papers)
-
-upsc exam prep
-* women reservation bill prs india
-* padma award winners 2025 
-* geography previous years upsc prelims questions topic wise 
-* gst upsc  gst wiki 
-* upsc prelims history topic wise questions
-* financial intelligence unit upsc
-* upsc previous years toppers answer booklet download
-* upsc monthly current affairs pdf
-* pt 365
-* upsc mains gs2 ngo
-* child marriage amendment bill 2021 prs india
-* recent government policies
-
 
 ## upsc prep
 * [use gdocs for CA](https://www.youtube.com/watch?v=QZUoyk9AMcM&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=1&pp=gAQBiAQB0gcJCYQJAYcqIYzv)
@@ -36,8 +18,24 @@ upsc exam prep
 * ai tools : https://youtu.be/3tNad6Rci_0?si=xlWhVDlDKaGgqdkd
 * dont buy 2 many books : https://youtu.be/vu3qjk8rhJg?si=fIqdx20spYGFvj9A
 * upsc booklist : https://www.youtube.com/watch?v=W2hTep2vZJY&list=WL&index=11&pp=gAQBiAQB
-
-
+* The Art and Science of Newspaper Reading for UPSC CSE https://youtu.be/6_A4bwDlqjE?si=mJ2MmOstdYZ5pHSg
+* Read & Remember ANCIENT + MEDIEVAL + ART & CULTURE  https://youtu.be/L7Vqn-CGeWU?si=cBn_TKDaEG_nB3i_
+* YouTube వీడియోలతో ప్రిపరేషన్..ఒకే ప్రయత్నంలో ఐదు ప్రభుత్వ ఉద్యోగాలు  https://youtu.be/8d50xYWR46Y?si=d-42u92R7z4qQ3Hd
+* UPSC Preparation కి Use అయ్యే Free Resourses https://youtu.be/5DBty8uS1uw?si=bPHEgSHDoPOCiEIg
+  
+**upsc exam prep g search commands**
+* women reservation bill prs india
+* padma award winners 2025 
+* geography previous years upsc prelims questions topic wise 
+* gst upsc  gst wiki 
+* upsc prelims history topic wise questions
+* financial intelligence unit upsc
+* upsc previous years toppers answer booklet download
+* upsc monthly current affairs pdf
+* pt 365
+* upsc mains gs2 ngo
+* child marriage amendment bill 2021 prs india
+* recent government policies
 
 ## YT links upsc coaching
 Mrunal
