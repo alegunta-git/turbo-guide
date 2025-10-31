@@ -7,7 +7,7 @@
 * Task M: Tracker , Tickler ( Tools : G Keep , notes)
 * Reading : PFin , Tech , Misc (Take online notes , Revision)
 
-## OKR
+## OKR 2025
 C Ofc
 * api co 
 * mobile 
@@ -64,29 +64,4 @@ EPC
 * find good sme - watch yt 
 
 
-## Reading
-Misc
-* Consultant - Done
-* UPSC - R1
-* Study Skills
 
-GPT
-* ML - Done
-* AI tools - WIP
-
-Int
-* Alex Xu System Design - Done
-* Int Dev DSA - R1
-* Int PM - R1
-
-SDLC
-* PM - On hold 
-* BSA - To be done 
-* Design FE BE API Mobile
-* QA Test cases
-* Devops 
-
-P fin
-* P Finance IN  - R1
-* P Finance US  - R1
-* ETW articles  - R1
