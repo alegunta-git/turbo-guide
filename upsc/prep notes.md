@@ -1,33 +1,3 @@
-## UPSC prep 
-* Know Syllabus(80%) : Memorize syllabus
-* PYQs : Refer to 5 years Prev Year  Qs (topic wise) , Keep it as near as possible
-* Study Aids :  Weekly Time table(topics/week)
-* Regular review : 1-1-1 (Read 1 newspaper , 1 credible textbook and 1 online resource) 
-* FOMO Dont pile up books , DONT be Information Collector 
-* Reading newspaper ( must , helpful) , CA : follow news , read n/p no tv and audio
-* Correlate syllabus w np reading ,
-* Newspaper clipping – 6 files ( Categories) : TH NP cutouts gs 1 2 3 4 topics ,
-* Take notes topic wise rather than date wise
-* Make brief notes for Key news items  , Focus / Editorials / View Points
-* Note taking : Diagrams , mind maps , Flow charts , Tables , Maps reading
-
-**SOP reading**
-* NCERT 3 round reading ,  90days challenge 
-* Core books Read 1 Standard book 10 times rather than 10 books only 1 time
-* Rdg 1 : should be casual , Rdg 2 : Analyse pyq papers , Rdg 3 : highlight key section , note making
-* Toppers Answers : Review Toppers Ans scripts , Refer to Master Ans writing
-
-**Books List**
-* NCERT 6-12 : Art and Culture , History , Polity , Geography , Economics ,
-* Core Books ( Polity-Lakshmikanth , IR - Pavneet , Eco - Sanjiv Verma)
-* Geography : Oxford Atlas ( Map Reading)
-* History : Timelines
-* Economy : vikaspedia , arthapedia
-* Reports : ARC Reports , Eco Survey
-* Constitution of India 
-* Essay Writing : Essays Disha 151 (Prewriting / Refine / Revise)
-* DAR : SWOT analysis 
-
 ## IAS Officers
 * TN Seshan : Bought Reforms in Indian Election Commission and SOP for elections
 * Saurabh Gaur : edu(cloud based tech ans scripts evaluation , engage Byju for 8-10 class ) 
@@ -35,23 +5,87 @@
 * Divya Mittal : 9m get water UP Village 
 * Toppers tips : Abhinash mishra , bhavesh mishra (Quora) 
 
+## 2024 Prep work Playbook
+* sabbatical from office 2 weeks Feb
+* Guidance
+  * Read Toppers book get an idea on how to's (71/gamla/Pavneet)
+  * Refer to yt shorts (aspirant) , review manuj jindal key videos
+* Books
+  * Read amz kindle sme bks ,
+  * Buy and Read upsc files
+  * Read core books ( Ploity , Geo , Economy)
+* Winning Formula
+  * _Track reading in  wiki list (daily tracker)_
+  * _Download yt marathon videos , view 1.5x , yt recos,_
 
-**2024 Prep Plan**
-* sabbatical 2wk,
-* Read Toppers bk(71/gamla/Pavneet)
-* Refer to yt shrt(aspirant) ,manuj jindal videos
-* Read amz kindle sme bks , upsc files
-* Read core books , track reading in  wiki list (daily tracker)
-* Download yt marathon videos , view 1.5x , yt recos,
+
+## UPSC prep 
+* Syllabus
+  * Know Syllabus(80%)
+  * Memorize syllabus
+* PYQs
+  * Refer to 5 years Prev Year  Qs (topic wise) , Keep it as near as possible
+* Toppers Answers
+  * Review Toppers Ans scripts , Refer to Master Ans writing
+* Study Aids
+  * Weekly Time table(topics/week)
+  * 1 year plan
+  * List of Textbooks , NCERT books 
+* Books
+  * FOMO Dont pile up books
+  * Be a Disctrict collector , DONT be an Information Collector 
+  * Regular review : 1-1-1 (Read 1 newspaper , 1 credible textbook and 1 online resource) 
+* Newspaper
+  * Reading newspaper ( must , helpful)
+  * Curernt Affairs : follow news
+  * read n/p no tv and audio
+  * Correlate syllabus w np reading ,esp editorials gov schemes , Economy , Env , Sci and Tech
+  * Newspaper clipping – 6 files ( Categories) : TH NP cutouts gs 1 2 3 4 topics ,
+* Note Taking
+  * Take notes topic wise rather than date wise
+  * Make brief notes for Key news items
+  * Focus / Editorials / View Points
+  * Note taking : Diagrams , mind maps , Flow charts , Tables , Maps reading
+
+**SOP Book reading**
+* _NCERT 3 round reading_ ,  90days challenge 
+* _Core books Read 1 Standard book 10 times rather than 10 books only 1 time_
+* Refernce books Reading SOP
+  * Round 1 should be casual
+  * Round 2 Analyse pyq papers
+  * Round 3 highlight key section , note making
+
+**Books List**
+* NCERT 6-12 : Art and Culture , History , Polity , Geography , Economics ,
+* Core Books ( Polity-Lakshmikanth , IR - Pavneet , Eco - Sanjiv Verma)
+* Geography : Oxford Atlas ( Map Reading) , Leo
+* History : Timelines
+* Economy : vikaspedia , arthapedia
+* Reports : ARC Reports , Eco Survey
+* Constitution of India 
+* Essay Writing : Essays Disha 151 (Prewriting / Refine / Revise)
+* DAR : SWOT analysis 
 
 
-## Subjects
-* GS1 : Art and Heritage ,History of India (Ancient, Medieval , modern), World History ,Indian society
-* Geography India , Geography World
-* GS2 : Constitution ,Polity  , Governance ,  Social Justice , International relations
-* GS3 : Indian economy , Disaster Management  , Internal security ,Agriculture & Food  ,
-* Environment & Biodiversity  , Science and Tech, Infrastructure 
-* GS4 : Ethics , Integrity , moral thinkers , Emotional intelligence  , Probity in governance
+## Subjects Mains
+* GS1
+  * Art and Heritage ,History of India (Ancient, Medieval , modern),
+  * World History ,Indian society
+  * Geography India , Geography World
+* GS2
+  * Constitution ,Polity ,
+  * Governance ,  Social Justice
+  * International relations
+* GS3
+  * Indian economy
+  * Disaster Management
+  * Internal security
+  * Agriculture & Food  ,
+  * Environment & Biodiversity
+  * Science and Tech, Infrastructure 
+* GS4
+  * Ethics , Integrity
+  * moral thinkers , Emotional intelligence  , Probity in governance
 
 
 **GS1**
