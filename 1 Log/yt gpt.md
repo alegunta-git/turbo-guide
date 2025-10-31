@@ -9,6 +9,8 @@ Tools
 * use llm : https://www.youtube.com/watch?v=w-urtJiCKhw&list=WL&index=8&pp=gAQBiAQB
 * llm and perplexity : https://www.youtube.com/watch?v=tiM8Bk_pOdg&list=WL&index=9&pp=gAQBiAQB
 * summarize files : https://www.youtube.com/watch?v=mVykl3Pz368&list=WL&index=10&pp=gAQBiAQB
+* research tool : https://share.google/UsLEDIOKtqksCiWTL
+* programming : https://www.xda-developers.com/ways-i-use-notebooklm-for-programming/
 
 ## copilot
 * How to chat with Microsoft Copilot https://youtu.be/Xg5UY-o3HbU?si=FwRS1LNR_3M5z-AM
