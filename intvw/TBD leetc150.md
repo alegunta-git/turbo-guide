@@ -1,3 +1,13 @@
+
+Todos
+* check if we can borrow code samples from net or llm for 150 qs
+* ask is to revise not to get depressed for poor coding capabilities
+* correlate ask in q with the data set constraints and feasible solution
+
+gh links
+* https://github.com/ChunhThanhDe/Leetcode-Top-Interview
+
+
 # Array / String
 ## merge sorted array
 ```python
