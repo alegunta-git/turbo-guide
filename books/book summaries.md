@@ -4,11 +4,6 @@ Self help
 * https://www.samuelthomasdavies.com/book-summaries/business/eat-that-frog/
 
 
-Writing
-* https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf
-* [APA format](https://www.easybib.com/guides/citation-guides/apa-format/)
-* Writing paradigms : https://www.lupinworks.com/roche/pages/paradigms.php
-
 Agile Coach Notes
 * https://srinathramakrishnan.wordpress.com/
 * [Devops handbook*](https://srinathramakrishnan.files.wordpress.com/2017/02/the-devops-handbook-e28093-summary.pdf)
@@ -19,6 +14,16 @@ SDLC
 * [eff engr2](https://notes.webutvikling.org/the-effective-engineer/)
 * [Phoenix Project](https://danlebrero.com/2020/02/05/the-unicorn-project-summary/#ch-6)
 
+
+## Poems 
+* Robert Frost
+* Matthew 7:7 
+  * "Ask and it will be given to you; seek and you will find; 
+  * knock and the door will be opened to you.For everyone who asks."
+* Recourse to Shakespeare to emphasize that tomorrow belongs to the people who prepare for it today
+  * There is a tide in the affaris of men , which , taken at the flood , leads on to fortune 
+  * Omitted , all the voyage of their life is bound in shallows and in miseries
+  * On such a full sea ae we now afloat , And we must take the current when it serves , or Lose our ventures
 
 
 **Org G Era**: 
