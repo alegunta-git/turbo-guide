@@ -1,3 +1,87 @@
+**MS windows**
+- **Win 11 : text extractor from images**
+- Windows 11 : Use tabs feature , Snipit 11 ,  quick readact ,screen recorder
+- logical naming scheme (files)
+- run prompt lifehacker \*.doc , mac spotlight
+- Learn shortcut keys Win 10 cmd , Explorer , Paint , xls , PPT , Chrome , gcal , gdrive
+- Win: use F4 address bar , multiple desktops ( Ctrl Windows D )
+- windows breadcrumb address bar, arrows to navigate sub folders ,
+- %Windir% , %homepath% , %appdata% , %programfiles% , taskmgr ,
+- win : learn cmd names -> win R | Work : quick logger script vbs 
+- Automation : VBA , VB script , batch , selenium , unix shell
+
+
+**Notepad**  
+File : New , New Window , Open..., Save , Page Setup.., Print... , Exit  
+Edit : Undo , Cut Copy Paste Delete , Search with Bing , Find..  
+Edit : Find Next , Find Previous , Replace.. , Go To.., Select All , Time/Date  
+Format : Word Wrap , Font  
+View : Zoom , Zoom In , Zoom Out , Restore Zoom , Status Bar  
+Help : View Help , Send Feedback , About
+
+
+**File Explorer**  
+File : open new window , open shell , help , search options  
+Home : Pin quick access , copy , paste , cut , copy path , past sc , move to , copy to , delete , rename , new folder/item  
+Home : open w/ , edit , history , select all , select none , invert selection  
+Share : share , email , zip , print , fax , adv security  
+view : navigation/preview/deails pane , layout (details) , sort by , grp by , add col , checkboxes , file name extn , hidden items , options
+
+
+**MS Paint**  
+File : New , open , save , save as , print (page setup , preview), from scanner ,  
+send in email , set as bg , properties  
+Home : Paste , paste from , Cut copy , crop , resize , rotate ( left , right , 180 , flip v ,flip h)  
+Home: select ( rectangular sel , free form sel , select all , invert sel , delete, transparent selection)  
+Home : Tools ( pencil , fill color , text (opaque/transparent), eraser , color picker , magnifier  
+Home : brushes , shapes , outline(no fill/solid /crayon/marker/oil/pencil/watercolor)  
+Home : fill , size , color 1 , color 2 , colors , edit colors , edit w/ paint 3d  
+View : zoom in , zoom out , 100% , rulers , gridlines , status bar , full screen ,thumbnail
+
+**MS Photo**  
+Edit Image , Rotate , Flip , Delete , File info , Start Slideshow ,  
+Create video clipchamp, Resize image , print , Copy  
+Full screen , zoom to size , Crop , Adjustment (Light , color) , Spot fix , Auto enhance ,
+
+
+**Adobe reader**  
+File : Open., Reopen Pdfs , Create PDF , Combine Files , Insert Pages , Save As , Convert to Word , Save as Text  
+Compress File , Password Protect , Request e-sign , Share File , Close File , Properties , Print, Exit Application  
+Edit : Undo,Redo , Cut , Copy , Paste , Delete , Select All , Deselect All , Copy File to Clipboard , Take a Snapshot  
+Edit a PDF , Add Text , Delete Pages , Rotate Pages , Redact Text and Images  
+Find , Advanced Search , Check Spelling , Protection , Accessibility , Preferences (Ctrl K)  
+View : Rotate View , Page Navigation(First , Next , last , Previous , Goto)  
+Previous View , Next View , Page Display , Zoom , Tools , Display Theme , Display size  
+Read Mode , Full Screen Mode , Read out loud  
+Sign : Fill and Sign ,Request E-signatures , Managed All Agreements  
+Window : New Window , Cascade Tile , Minimize All Windows  
+Help : Tutorials , About , Plug-ins , Manage Account , Sign In , Repair Installation , Check for Updates
+
+
+**Tableau Reprorts**  
+Before : Check Manually , Excel Updates , Business count errors  
+After : OneClick , Show user the graphs , Update results , Different Filter
+
+
+**ms word topics**  
+Word Object Model :  Application Document Selection Range Bookmark  
+Basics  
+Customize , QAT , Ribbon ,Compatibility checker , View mode , Print preview  
+Format text and para Bullets , Indents , Multi Level List  , Sorting , tab stops , para alignment , para indent , Case upper and lower ,line & para spacing , borders & shading , styles A , find and replace formats , Clear All Formatting , 3 column format , Highlighting Tips  
+Select , Copy and Paste Text in word document word , para , page , Navigating and Selecting text , move insert copy text , clipboard , undo redo repeat , page section breaks , multiple docs and apps   
+Table breaking across the pages (\*turn off properties) , Table distribute rows and columns  , Table autofit to contents ,Text to table   
+Text flow control selection and col breaks , Insert Object , text from file , Symbols captions , hyperlinks ,  
+custom graphics add text boxes , draw shapes , adv shapes a b , word art , Fill shape , outline , color , Formatting   
+pictures crop and resize image , adjust image settings , text wrapping , screen capture   
+Advanced  
+Arrange All , Windows , Reading Pane , Outline view , Split Windows , TOC , citation , cover page , table of figures ,Navigation Pane move text  
+page appearance page break , Delete page break , modify doc & layout , page border color , watermark  , header footer , Borders Page and Table  
+Prepare Newsletter , Brochure , Forms ,  Merge multiple documents , Styles(APA , Chicago) , spelling grammar , readability stats , word count   
+Word  random text : \=rand(1) , \=rand(10,10) , lorem(p,l) p paragraphs , l \# of lines   
+Templates text replacement , create templates , quick parts blocks , auto text , Macros ,TOC Indexes  
+Adv Find and replace , go to , navigation pane , Text , Digits , Regex, Remove digits ms word:Find what box type (\[0-9\]) More \>\> Wilds Cards
+
+
 **MS Onenote topics**  
 Notebooks , Sections , Section group , merge section ,  Notes , renaming  , move/copy page   
 Quick launch bar , Tabs , Search bar , delete pages/notes , syncing a/c  
