@@ -5,6 +5,11 @@ Tools
 * claude
 * comet browser
 
+markdown to pdf
+* pdf to md https://youtu.be/h8TK4g4ugtc?si=MTivic4W0vrQv1Ld
+* w python https://youtu.be/8mN16cORwkc?si=4kcej0-pdiJuunsF
+
+
 ## notebook llm
 * use llm : https://www.youtube.com/watch?v=w-urtJiCKhw&list=WL&index=8&pp=gAQBiAQB
 * llm and perplexity : https://www.youtube.com/watch?v=tiM8Bk_pOdg&list=WL&index=9&pp=gAQBiAQB
