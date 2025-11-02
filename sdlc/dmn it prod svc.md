@@ -49,3 +49,21 @@
 * [GSearch](https://static.googleusercontent.com/media/www.google.com/en//support/enterprise/static/gsa/docs/admin/current/gsa_doc_set/xml_reference/xml_reference.pdf)
 
 
+## IT Service Domain
+* BFSI(Banking/Financial Svc,Insurance)
+* Fintech 
+* Healthcare 
+* Telecom
+* Manufacturing
+* FMCG , Supply Chain , Retail 
+* Travel 
+* Entertainment , media
+* Automotive , Energy , Oil and Gas
+* Education 
+* Consumer Govt
+
+## CRO Healthcare
+* CDM Training : https://www.youtube.com/watch?v=4iDTcjlisSI&list=WL&index=4&pp=gAQBiAQB
+* medical coding tut : https://www.youtube.com/watch?v=D9STdvwJVQY&list=WL&index=5&pp=gAQBiAQB
+
+
