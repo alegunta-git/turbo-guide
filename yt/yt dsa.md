@@ -12,3 +12,7 @@
 - Week 10: DP,
 - Week 11: Trees,
 - Week 12: Graphs(Types , BFS, DFS, DIJKSTRAS, Union-Find,TOPOLOGICAL SORT)
+
+
+## Gate 
+* links prep https://youtu.be/QnTzQKDQ4SI?si=dM-2QPJiNsuReX58
