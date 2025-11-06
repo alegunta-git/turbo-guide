@@ -1,3 +1,30 @@
+
+## working backwards , 6p
+* https://www.allthingsdistributed.com/2006/11/working_backwards.html
+* [Adrian C blog](http://perfcap.blogspot.com/2012/03/ops-devops-and-noops-at-netflix.html)
+* https://fibery.io/blog/product-management/amazon-6-pager/
+* PRFAQ : https://youtu.be/5ZQVeno3daw?si=HcPYTl1vcpEvkWTZ
+* wb : https://youtu.be/aFdpBqmDpzM?si=SmKw-zN7c0FXhYO6
+
+## AMZ whitepapers
+* Amazon Whitepapers : https://aws.amazon.com/whitepapers/
+* [Amazon Help bill payment](https://www.amazon.in/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GXT32ZG3PV7UZCFA)
+* [AWS Faq](https://aws.amazon.com/faqs/?nc1=f_dr)
+* [yelp support topics](https://biz.yelp.com/support-center)
+
+## python
+* https://docs.python.org/3/tutorial/index.html
+* [unix commands](https://www.stationx.net/unix-commands-cheat-sheet/)
+* [Regex](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
+
+## Agile
+* https://www.scrum.org/
+* https://www.scrumalliance.org/
+* https://online.stanford.edu/
+* https://www.oracle.com/in/
+* https://www.citehr.com/
+
+
 ## yt ui
 * [yt ui design buttons](https://www.youtube.com/watch?v=tJNR_7W_5RM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=5&pp=gAQBiAQB)
 * [yt website navigation](https://www.youtube.com/watch?v=r8m2wM7eXeU&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=4&pp=gAQBiAQB)
