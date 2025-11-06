@@ -155,3 +155,4 @@ tips
 * [Download edx courses to your computer - YouTube](https://www.youtube.com/watch?v=AvAS835JiTI)
 * [How to download YouTube playlist videos | Technology Gatherings - YouTube](https://www.youtube.com/watch?v=OsuRpP55QyI)
 * [Download YouTube Videos with youtube-dl](https://davidwalsh.name/download-youtube-videos)
+* I stopped chasing the algorithm and started enjoying YouTube again https://www.androidpolice.com/stop-chasing-the-youtube-algorithm/
