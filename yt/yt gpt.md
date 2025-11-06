@@ -21,6 +21,8 @@ markdown to pdf
 * How to chat with Microsoft Copilot https://youtu.be/Xg5UY-o3HbU?si=FwRS1LNR_3M5z-AM
 * How to create a great Microsoft Copilot prompt  https://youtu.be/9b0LOSjq39w?si=BZkJSuzgbzsdwuJh
 * copilot : https://www.youtube.com/playlist?list=PL_dhPga7ruudNJa_Tzx_7go8b24dGjqEJ
+* copilot tips :  https://www.youtube.com/watch?v=MuocazjjZmc&list=WL&index=10&pp=gAQBiAQB
+
 
 ## mcp
 * https://www.infoworld.com/article/4063670/model-context-protocol-mcp-certification-when-will-it-arrive-and-what-will-it-mean.html
