@@ -61,3 +61,34 @@ IMP
 * prep : https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1
 * https://dev.to/javinpaul/top-10-free-books-and-courses-to-learn-data-structure-and-algorithms-in-2019-30gl
 * https://www.businessinsider.in/tech/news/a-self-taught-engineer-at-google-shares-the-8-best-google-programming-courses-you-can-access-for-free/amp_articleshow/113632216.cms
+
+## DSA Cheatsheet
+* https://www.bigocheatsheet.com/
+* https://algs4.cs.princeton.edu/cheatsheet/
+* https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd
+* 10 algo : https://hbfs.wordpress.com/2008/12/23/the-10-classes-of-algorithms-every-programmer-must-know-about/
+* https://cheatography.com/
+* https://www.crackingthecodinginterview.com/resources.html
+* https://fpcastle.com/2021/10/03/coding-interviews.html
+* https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms
+* [Top10Algo](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+* [Stevey Blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+* [Google Java](https://google.github.io/styleguide/javaguide.html)
+* [Google Test](https://testing.googleblog.com/search/label/TotT)
+* [Google dev SG](https://developers.google.com/style)
+
+## geeks for geeks
+* https://leetcode.com/studyplan/top-interview-150/
+* https://www.geeksforgeeks.org/10-most-important-data-structures-for-coding-interviews/
+* https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+* https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/
+* https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
+* https://www.geeksforgeeks.org/top-50-searching-coding-problems-for-interviews/
+* https://www.google.com/amp/s/www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/amp/
+* https://www.techiedelight.com/top-100-liked-data-structures-and-algorithm-problems/
+* https://en.wikipedia.org/wiki/List_of_data_structures
+* [Interview prep](https://hackernoon.com/how-not-to-succeed-in-your-45-minute-coding-interview-2eebd46bd6ec)
+* [Reddit links](https://www.reddit.com/r/e/comments/2lzc4h/big_collection_of_interview_preparation_links/?rdt=58725)
+* [Answer Tech Qs](https://www.dice.com/career-advice/answer-technical-interview-question)
+* [must do qs](https://www.codingninjas.com/studio/library/must-do-coding-interview-questions-for-product-based-companies)
+
