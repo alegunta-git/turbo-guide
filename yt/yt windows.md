@@ -113,6 +113,7 @@ tips
 *  [PDF highlights extractor](https://www.pdfgear.com/pdf* editor* reader/extract* highlighted* text* from* pdf.htm)
 *  [Extract Highlight Text](http://eric* blue.com/2010/12/17/learning* faster* automatically* extract* highlighted* text* from* pdf* documents/)
 *  [change color](https://stackoverflow.com/questions/35628200/how* do* i* change* the* highlighter* color* in* adobe* acrobat* reader* dc* permanently)- Use sumatra pdf for lt weight tool read pdf
+*  How to Extract Text Playlist https://youtube.com/playlist?list=PLmut-6B2zPJS3JR9ODqimDNi07AeyudzD&si=uyobKPpojzvrtz_r
 
 
 **Tips windows**
