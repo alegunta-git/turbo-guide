@@ -1,4 +1,17 @@
+## Poems 
+* Robert Frost
+* Matthew 7:7 
+  * "Ask and it will be given to you; seek and you will find; 
+  * knock and the door will be opened to you.For everyone who asks."
+* Recourse to Shakespeare to emphasize that tomorrow belongs to the people who prepare for it today
+  * There is a tide in the affaris of men , which , taken at the flood , leads on to fortune 
+  * Omitted , all the voyage of their life is bound in shallows and in miseries
+  * On such a full sea ae we now afloat , And we must take the current when it serves , or Lose our ventures
+
+
 ## IMP 
+* OPM , OPK , OPE 
+* Newton :"If I have seen further, it is by standing on the shoulders of giants."
 * **Apple : Simplify , simplify , simplify** 
 * **PEEP(Place for everything , everything has its own place) -> Don’t search things twice**
 * **thinking vs action mode ( list 20 doable tasks , action verbs : Call Bob re q2 sales ) , habits chain calendar**
@@ -11,8 +24,6 @@
 * **Use QAT toolbar in xls word and ppt ( 20% of ops done 80% of time)**
 * **Search : Ctrl K(Browser), windows cmd glass , Blog 101 titles(Search content)**
 * **Use macros(xls) , Templates(word) , canned responses(outlook) , Onenote(Ideas and Revision note)**
-* OPM , OPK , OPE 
-* Newton :"If I have seen further, it is by standing on the shoulders of giants."
 * IMP Productivity tip **Learn and Use ddg bangs**-> Customize for chrome(Custome search engines) (!gi image)
 * Customize good approaches , **write SOP for working soution**
 * Give me a lever long enough and a fulcrum on which to place it, and I shall move the world._
