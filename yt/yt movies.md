@@ -20,3 +20,9 @@
 * shameless : https://www.youtube.com/watch?v=ZCgWfZiexrw&list=LL&index=8&pp=gAQBiAQB
 * Other people money
 * Lfie of PI : https://youtu.be/H5WNwPE7nz0?si=DHmzNiEuObc_mDIh
+
+Dragon movie
+- nice theme , loose the race and how to stage comeback msg
+- good to have supportive fathers , no matter what 
+- 48 subj 35 theory ( refer pyq , start imp q) 13 practical ,attend pass
+
