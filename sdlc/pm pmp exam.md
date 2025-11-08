@@ -1,7 +1,4 @@
 ## PMP Concept
-
-[https://www.pmlearningsolutions.com/blog/announcement-ppm-launching-pmp-concept-learning-series](https://www.pmlearningsolutions.com/blog/announcement-ppm-launching-pmp-concept-learning-series)
-
 1. The Project Management Plan  
 2. Stakeholder Knowledge Area  
 3. Schedule Knowledge Area  
