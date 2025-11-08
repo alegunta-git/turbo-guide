@@ -47,7 +47,7 @@ others
 * https://www.quora.com/I-am-a-Non-Kannadiga-living-in-Bangalore-I-want-to-learn-Kannada-Which-are-the-best-language-learning-web-sites-available-to-learn-it
 * https://timesofindia.indiatimes.com/technology/tech-news/after-reducing-her-amazon-stake-by-12-6-billion-jeff-bezos-ex-wife-mackenzie-scott-makes-one-of-the-largest-donations-to/articleshow/125086903.cms
 * https://www.greaterkashmir.com/kashmir/the-house-of-books-teacher-turns-commercial-building-into-hi-tech-library-to-revive-reading-culture/
-
+* https://timesofindia.indiatimes.com/life-style/books/quote-of-the-day-by-marie-curie-nothing-in-life-is-to-be-feared-it-is-only-to-be-understood-now-is-the-time-to-understand-more-so-that-we-may/articleshow/125163770.cms
 
 
 ## np snippets
