@@ -16,6 +16,35 @@
 | Probability          | **Operating Systems(unix Internals)** |                 |
 | Discrete Math        | Networking                            |                 |
 
+## IT Architecture
+| Tech             | Notes                                                                       |
+|------------------|-----------------------------------------------------------------------------|
+| Front-End tech   | HTML5 , CSS/CSS3 , Jquery , Javascript , NodeJS                             |
+| Prog Lang        | Javascript , Java , PHP , Python , Rust   |
+| Prog Lang        | Ruby , C C++ Haskell/Erlang, Scala   |
+| Java Frameworks  | Spring , Struts , Hibernate                                                 |
+| Web Frameworks   | React LAMP , MERN , Angular JS |
+| Web Frameworks   | Ruby on Rails  , Django , D3/Express , Bootstrap  |
+| Microservices    | Spring Bot                                                                  |
+| API              | REST API ,  Integration(FB,Twitter, G Maps)                                 |
+|                  | Docs(Parse ,Stripe, Spotify ,Paypal) ,                                      |
+| Mobile           | IOS , Android                                                               |
+| WebServer        | Apache , IIS ,  Tomcat , Nginx                                              |
+| Messaging        | AMPQ , Kafka                                                                |
+| Caching          | Redis , memcache                                                            |
+| Database         | MySQL , Oracle , SQL Lite postgres , MS SQL server                          |
+| Database NOSQL   | mongodb , Cassandra                                                         |
+| Search           | Elastic Search , Solr , Lucene , ELK , Splunk                               |
+| Cloud            | AWS , Azure , Google Cloud ,  Heroku                                        |
+| Devops           | Docker , Kubernetes , Chef , Puppet , Ansible                               |
+| Networking       | HTTPS , TCPIP                                                               |
+| Operating System | Windows , macOS ,  Unix , Linux                                             |
+| CRM              | Salesforce , open CRM                                                       |
+| eCommerce        | Magento                                                                     |
+| Big Data         | Hadoop , Map Reduce , HDFS ,  Spark , Splunk , Storm                        |
+|                  | Scoop , HBase , Hive Kafka , Tableau ,Redshift                              |
+|IMP White Papers  | MapReduce , ProtocolBuffers ,  BigTable , Thrift , Hadoop ,REST API         |
+
 
 **Design**
 * Front End: UI Patterns , Web Design  
@@ -55,16 +84,6 @@
 * Cybersecurity
 
 
-
-
-
-
-
-
-
-
-
-
 **Top Tech**
 * Adv Tech :Big Data  , Machine Learning  NLP Computer Vision
 * Top Skills-1 :UI , UX , Full Stack  Network , Security , Mobile
@@ -91,84 +110,6 @@
 * Mainframe : Mainframe , AS400
 * Web Apps : MS Web RDBMS DWBI
 * Enterprise Apps : ERP , CRM , EAI
-
-
-**IT Certifications**
-* PM  : **PMP** , PMBOK
-* Agile :  Agile (CSM , CSPO ) , SAFE                 
-* Business Analyst : **CBAP** , BABOK                                          
-* QA : ISTB                                             
-* Design/Architect :  TOGAF                                            
-* Devops :  DASA                                             
-* AWS  :  AWS Cloud Practitioner , **AWS Solution Architect**  
-* GCP/Azure :  GCP Data Engineer , Cloud Architect 
-* Azure Exam              
-* JIRA : JIRA Admin                                       
-* Dev  : Oracle  SQL , oracle  Java , MS MCSD , Salesforce Trail             
-* Security : CRISC , CISSP , CISM , CISA                      
-* Networking : CompTIA , ITIL , CEH , Cisco
-
-## IT Architecture
-| Tech             | Notes                                                                       |
-|------------------|-----------------------------------------------------------------------------|
-| Front-End tech   | HTML5 , CSS/CSS3 , Jquery , Javascript , NodeJS                             |
-| Prog Lang        | Javascript , Java , PHP , Python , Rust   |
-| Prog Lang        | Ruby , C C++ Haskell/Erlang, Scala   |
-| Java Frameworks  | Spring , Struts , Hibernate                                                 |
-| Web Frameworks   | React LAMP , MERN , Angular JS |
-| Web Frameworks   | Ruby on Rails  , Django , D3/Express , Bootstrap  |
-| Microservices    | Spring Bot                                                                  |
-| API              | REST API ,  Integration(FB,Twitter, G Maps)                                 |
-|                  | Docs(Parse ,Stripe, Spotify ,Paypal) ,                                      |
-| Mobile           | IOS , Android                                                               |
-| WebServer        | Apache , IIS ,  Tomcat , Nginx                                              |
-| Messaging        | AMPQ , Kafka                                                                |
-| Caching          | Redis , memcache                                                            |
-| Database         | MySQL , Oracle , SQL Lite postgres , MS SQL server                          |
-| Database NOSQL   | mongodb , Cassandra                                                         |
-| Search           | Elastic Search , Solr , Lucene , ELK , Splunk                               |
-| Cloud            | AWS , Azure , Google Cloud ,  Heroku                                        |
-| Devops           | Docker , Kubernetes , Chef , Puppet , Ansible                               |
-| Networking       | HTTPS , TCPIP                                                               |
-| Operating System | Windows , macOS ,  Unix , Linux                                             |
-| CRM              | Salesforce , open CRM                                                       |
-| eCommerce        | Magento                                                                     |
-| Big Data         | Hadoop , Map Reduce , HDFS ,  Spark , Splunk , Storm                        |
-|                  | Scoop , HBase , Hive Kafka , Tableau ,Redshift                              |
-|IMP White Papers  | MapReduce , ProtocolBuffers ,  BigTable , Thrift , Hadoop ,REST API         |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## IT Roles and Competencies
 **Business Knowledge**
@@ -232,3 +173,103 @@
 - Configuration Management 
 - Code Management
 - Release Management
+
+
+## PDM Tech
+
+**PDM Tools**
+* Roadmap , Issue tracking  , Note Book - To Do List
+* Internal Communication,  Knowledge Sharing  , Feedback
+
+**PDM Tech Skills**
+* NP++(Text editor)
+* Chromedev 
+* HTML CSS
+* HTTP 
+* JSON 
+* REST API and API Design
+* SQL
+* Python code snippets
+* e-comm tools
+* G Analytics
+* (*.mm) on GitHub here : https://github.com/shaileshbhat/PM-Mind-Maps , use Freemind2, open source mind map SW
+
+**PDM Hands on Skills**
+* Amazon Press Release 
+* Amazon FAQ 
+* Product Roadmap (gi) 
+* Product Specification (samples)
+* 6p narrative
+* UI Patterns 
+* DB models
+* IA diagram 
+* UX notes 
+* User Persona  
+* User Journey
+
+
+**PDM Int Prep** 
+- AMZ behavioral 
+- Core : Lin , gayle 
+- Product : Product Design Qs , Estimation Qs
+- Case Math : Mental Math , Case Frameworks , Case I/w notes (V Cheng ,Case in point ) 
+- Tech : DSA revision , Sys design , SRE , High scalability
+- Cheat sheet : PDM ivw , Agile , JIRA ,JQL , API sample doc
+
+**Product Design Interview Q’s** 
+- Designing a Kiosk Interface 
+- A Self-Publishing Platform for Amazon 
+- A Dashboard for freelancers 
+- Improving Primary Health care 
+- Improving the ATM experience 
+
+**How to solve a product design exercise , Answer structure - The framework** 
+- Step 1: Understand your goal (Why) 
+- Step 2: Define the audience (Who) 
+- Step 3: Understand the customer's context and needs (When and Where) 
+- Step 4: List ideas (What) 
+- Step 5: Prioritize and choose an idea 
+- Step 6: Solve 
+- Step 7: Measure success (How) 
+- Validating your solution 
+- How much time should you spend on each step? 
+- How to present your solution 
+
+
+
+**PDM Agile**
+* UI Patterns ( Web , Mobile , UI Style guide , Material Design)
+* Product Backlog -> Epics , Features -> User Stories , Acceptance Criteria
+* Personas , Empathy Maps , Wireframes , Story Boards , MVP , Prototype ,  Usability Tests / Sketch Low and HiFi 
+
+**Finance modeling**
+* Budgeting , Pricing  and Financial Models
+* Income Statement , Balance Sheet , Cash flow , Annual Report
+* Business Model (Design , Canvas)  ,  Market research 
+* Key Metrics for Growth and Traffic
+
+**Practical Skills for PDM**
+* Time Management , Prioritization xls , Asking Q's
+* Platform Know-How , Powerpoint , Keynote , Good Deck Templates - Mck BCG
+* Budgeting , Pricing Models
+* Financial Contracts ( Read Balance Sheet , Cashflow) , key metrics ( net margin , ebidta )
+* Product Canvas - User activities , Features , Impact , Stories
+* Product Brochure , Product Vision , Elevator Pitch
+* Newspaper Ad , A/B Testing , Features ( MVP , Kano , Moscow) , Feature tracking
+* svn/github , HTMLCSS JS , Excel , SQL - Data
+* Adobe Photoshop , Illustrator
+* Usability study , UI Wireframes , seo
+* Web scraping, R IDE syntax commands 
+
+**What is valued at Leading S**
+* Understand business, technology, and customers , Mini-CEO mentality
+* Don’t Waffle , Select Messages Clearly – Top 3 items outline
+* Communication : Ability to frame discussions for execs , engineers , Rehearse before speech
+* Email & Blog (clear , active & succinct notes, elements of style)
+* Willingness to take on unspecified product assignment
+* High tolerance for lots of meetings 
+* Concise email writing , Good external presenter , 
+* Start-up experience , Rapid learning capabilities , Self-directed
+
+
+
