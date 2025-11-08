@@ -7,6 +7,9 @@ Add other cert details
 * Agile CSPO
 * Agile SAFE
 
+
+
+
 ## AWS
 * https://dev.to/aws-builders/how-i-passed-both-aws-professional-exams-in-6-months-tips-on-how-you-can-too-32em
 
