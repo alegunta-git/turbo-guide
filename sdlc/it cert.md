@@ -1,13 +1,22 @@
 Add other cert details
 
 ## IT Cert 
-* PMP Exam
-* PMBOK , Rita PMP
-* Agile CSM
-* Agile CSPO
-* Agile SAFE
-
-
+| Role             | Exams                                             |
+|------------------|---------------------------------------------------|
+| PM               | **PMP**(PMBOK) , PMI ACP ,Rita PMP                |
+| Agile            | Agile (CSM,CSPO),SAFE                             |
+| Business Analyst | **CBAP**(BABOK)                                   |
+| QA               | ISTB                                              |
+| Design/Architect | TOGAF                                             |
+| Devops           | DASA                                              |
+| AWS              | AWS Cloud Practitioner,**AWS Solution Architect** |
+| GCP/Azure        | GCP Data Engineer, Cloud Architect                |
+| MS               | Azure Exam , MCSD                                 |
+| JIRA             | JIRA Admin                                        |
+| Dev Custom       | Oracle SQL , Oracle DBA , OCP Java                |
+| Dev EPR          | Salesforce Trail                                  |
+| Security         | CRISC,CISSP, CISM , CISA                          |
+| Networking       | CompTIA, ITIL , CEH , Cisco                       |
 
 
 ## AWS
