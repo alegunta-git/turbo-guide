@@ -93,3 +93,107 @@
 * child education 
 * Child wedding 
 * retirement 
+
+
+## Banking
+**Banking**
+* KYC , Nomination  , Banking Account(self,family) , Netbanking/Telebanking 
+* Loans ( Car , Home , 2w ,Educational , Personal , Loan against shares , Gold , working capital , agri)
+* Investment : FD (Interest Rate , Tax Deduction , Form 15G/H), MF , RD , SIP , Gold bar , Demat , pension plan , child plan , ULIP 
+* Insurance : Med ins , vehicle ins ,travel ins , gen ins , term plan
+* other svc : Credit Report , Debt repayment CC , Debit card , Forex Card , Letter of credit , Online bill payment
+
+**Loans**
+* House : 2-3x Annual income , 20 lakh salary , home loan 40-60l 
+* Car Loan : value < 50% ann income , 20/4/10 - down payment of 20% , tenure 4 years , emi not higher than 10% income 
+* Personal loan 16% , 3l amt - 2 y - 14689 emi 
+* Auto loan 12% , 8l - 5y - 17795 ,
+* home loan 7% - 50l - 20y - 38764 , CC 36% 
+
+**"Retail Loan Growth (CAGR) Pre-pandemic (FY09–19) vs Post-pandemic (FY19–24):**
+Credit Cards: 12.1% → 21.0% , Personal Loans: 15.1% → 18.2% , Vehicle Loans: 16.5% → 14.8% , Housing Loans: 19.0% → 15.5%
+Credit card usage has exploded in particular. Over the last 13 years, spending on credit cards has surged 13x—from ₹1.2 lakh crore to ₹15.6 lakh crore. The number of cards in circulation also grew over 5x—from 2 crore to 10.8 crore."
+
+**Loan Details**
+| Loan             | Criteria                  | Rate   | Duration               |
+|------------------|---------------------------|--------|------------------------|
+| Personal Loan    | Age 21-60 , 25000 /month  | 12-18% | 40l , 12-60 months     |
+| Educational Loan | Age 16-35                 | 9-12%  | 50l , 15yr 180 EMIs    |
+| Auto Loan        | Age 21-60 , 3l /yr salary | 9-14%  | 25l , 12-60 months     |
+| Home Loan        | Age 21-65 , 10000 pm      | 7-9%   | 20-30 yr , 240-360 EMI |
+
+
+
+## Insurance
+**Insurance**
+* 10X life insurance rule , 10 time annual income
+* 2015 insurance , 1 cr term plan 12000,
+* 5l family floater 8000, 20l cover personalaccident  cover 4000 ( Ann premium 24000)
+
+
+## Tax
+* Tax Planning = ELSS + NPS + PPF | Post Office Investment = FD + SCSS 
+* old and new tax regime
+* Tax Adjusted returns TR = NR * (1-tax rate), NR: nominal return , = 10 - 10 * 30% = 10 - 10 * 0.3 = 7
+* Tax Investment Sec 80C 150000 - 130000 ELSS , 10000 term ins , 10000 ppf 
+* Tax filing ( 2000 , 4000 , 7000) : salary / pension / interest / rent / capital gains / foreign assets
+* Src of Income : Savings bank interest , FD rd  nsc , ins policies ,
+* Dividends , st capital gains , lt capital gains , gold funds 
+* Cleartax ITR Filing
+
+## Stocks
+* Invest in Stock : 100 -  Current Age of = % in Equity , @30 - 70% , @60- 40%
+* Stocks investment for 3-5 yrs , 8-12 stocks ,prune p/f
+* hold no less than 10 stocks and no more than 30 stocks ,
+* more stocks - txn and monitoring costs will increase , track co action(dividend)
+* diversify atlest 4 diff sectors with no single sector 40% pf value , no single stock 20% of pf value 
+* do not overexpose small cap cos , 50% in top 200 cos (equity mf)
+
+**How Warren Buffett selects stocks:**
+* Debt/Equity < 0.5
+* Current Ratio > 1.5 \&\& < 2.5
+* Price/Book < 1.5
+* ROE > 8% consistent/increasing
+* over last 10 yrs
+* ROA > 6%
+* Stable Book Value growth
+* Stable EPS growth
+* Stable Dividend growth
+* Moat
+* Interest coverage ratio > 5X
+* Created by @investmentbookl
+
+
+
+**Need to take risk**
+| Fin Goal (Rate %)   | 8 | 9  | 10.5 | 12 | 13.5 | 15  |
+|---------------------|---|----|------|----|------|-----|
+| Equity Allocaiton % | 0 | 20 | 40   | 60 | 80   | 100 |
+
+**Tolerable loss and equity exposure**
+| Max Tolerable loss % | 5  | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 50  |
+|----------------------|----|----|----|----|----|----|----|----|-----|
+| Max equity exposure  | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |
+
+**Asset Allocation**
+* Asset Classes : Equity , Debt , Cash , Gold 
+* Equity  60% ( Stocks , MF) , Debt , 30% , ( PPF , FD) ,  Gold , 5% (ETF) , Liquid Cash , 5% (Cash,Bank)
+* Asset allocation
+  * Conservative ( equity - 5% , debt - 90% , gold - 5%) 
+  * Moderate( eq 30% , debt 60% , gold 10%) 
+  * Aggressive( e 75 , dbt 10 , g 15)
+
+**asset allocation model**
+|         | Accumulation | Distribution |
+|---------|--------------|--------------|
+| Old Age | 70:30        | 50:50        |
+| Young   | 80:20        | 60:40        |
+
+
+
+
+
+
+
+
+
