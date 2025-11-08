@@ -3,14 +3,6 @@ C JS
 * mock i on yt 
 * update cv , li 
 
-ofc work
-* api carry over , done 
-* mobile , done
-* q2 cx , calc - done 
-* q3 cx , done
-* q3 calc , wip 
-* q4 calc , wip
-
 Finance
 * Fin List down fin tasks 
 * clean up trackers 
