@@ -255,21 +255,20 @@ Here is a comprehensive list of standard textbooks recommended for MBBS (Bachelo
 - Wheater’s Functional Histology (for Histology)
 
 This list covers all foundational and clinical disciplines for MBBS and is regularly updated as per changing medical council and university guidelines. For best results, students often supplement these with exam guides, practical manuals, and reference books as recommended by their institutions.[^3][^4][^6][^1]
-
-- [^1]: https://saraswationline.com/mbbs-book-list/
-- [^2]: https://www.pw.live/neet-pg/exams/important-books-of-mbbs
-- [^3]: https://www.doctutorials.com/mbbs-curriculum/mbbs-1st-year-books-list
-- [^4]: https://www.scribd.com/document/505478777/MBBS-BOOK-LIST
-- [^5]: https://www.aiims.edu/aiims/academic/aiims-syllabus/Syllabus - MBBS.pdf
-- [^6]: https://geckomed.ai/resources/medicine-book-mbbs/
-- [^7]: https://www.reddit.com/r/indianmedschool/comments/mxrwyx/best_medicine_theory_and_practical_textbook_for/
-- [^8]: https://parasredkart.com/app/category/mbbs-books
-- [^9]: https://www.diginerve.com/blogs/best-books-for-mbbs-4th-year/
-- [^10]: https://en.wikipedia.org/wiki/List_of_medical_textbooks
-- [^11]: https://prithvibooks.com/product-category/1-jan-april-book-list/hims-hassan-book-list/
-- [^12]: https://www.youtube.com/watch?v=GHtZ6J2I37o
-- [^13]: https://medioks.com
-- [^14]: https://www.aibh.in/blog/mci-recommended-list--the-best-books-for-mbbs-first-year
+- https://saraswationline.com/mbbs-book-list/
+- https://www.pw.live/neet-pg/exams/important-books-of-mbbs
+- https://www.doctutorials.com/mbbs-curriculum/mbbs-1st-year-books-list
+- https://www.scribd.com/document/505478777/MBBS-BOOK-LIST
+- https://www.aiims.edu/aiims/academic/aiims-syllabus/Syllabus - MBBS.pdf
+- https://geckomed.ai/resources/medicine-book-mbbs/
+- https://www.reddit.com/r/indianmedschool/comments/mxrwyx/best_medicine_theory_and_practical_textbook_for/
+- https://parasredkart.com/app/category/mbbs-books
+- https://www.diginerve.com/blogs/best-books-for-mbbs-4th-year/
+- https://en.wikipedia.org/wiki/List_of_medical_textbooks
+- https://prithvibooks.com/product-category/1-jan-april-book-list/hims-hassan-book-list/
+- https://www.youtube.com/watch?v=GHtZ6J2I37o
+- https://medioks.com
+- https://www.aibh.in/blog/mci-recommended-list--the-best-books-for-mbbs-first-year
 
 Here is a Markdown table summarizing MBBS core subjects and their essential textbooks, phase- and semester-wise:[10][11][12][13]
 
@@ -296,7 +295,6 @@ Here is a Markdown table summarizing MBBS core subjects and their essential text
 |                        | Anesthesiology                       | Aitkenhead’s Textbook of Anaesthesia                                                                    |
 
 This table presents a clear reference for each MBBS semester’s core subjects and the corresponding essential textbooks used widely in Indian medical colleges.[11][12][13][10]
-
 - [1](https://guides.library.nymc.edu/AMA11/tables)
 - [2](https://wwwnc.cdc.gov/eid/page/tables)
 - [3](https://www.youtube.com/watch?v=axjUhtr6Sz8)
