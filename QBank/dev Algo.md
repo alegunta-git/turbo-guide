@@ -91,6 +91,23 @@ Got it—you want to nail DSA by focusing on the 20 % of concepts that deliver
 Finish each day with a one‑sentence summary of the pattern you learned. That repetition is the “20 % effort” that yields the “80 % payoff.”
 
 
+## Whitepapers
+Google
+* PageRank
+* Bigtable
+* GFS Google File System
+* MapReduce
+
+Amazon
+* Amazon recommendations
+* Collaborative filtering
+
+LLM
+* Attention is all you need
+* Agentic workflows 
+* MCP
+
+
 ## Leetcode Patterns
 * 0/1 Knapsack (DP)
 * Backtracking ,  
