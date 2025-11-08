@@ -37,6 +37,8 @@ YT
 * go ad free , id the topics to learn , add pl , watch them , if reqd loop video , ask gemini to summarize video 
 * filter for view count , channel , pl 
 
+NP++
+* https://youtu.be/PzjPu5F9K9Y?si=CgcLvtmlfMmh-bTk
 
 
 key
