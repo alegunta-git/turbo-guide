@@ -36,8 +36,8 @@
 
 ## SME
 * Ashley S : "Preparation is half the battle" , How to color the ms word , good docs , crisp presentation to client , Dont overwhelm them
-* AP : Mon to fri - work for salary , w/e what you learn will upgrade your career , consider ourselves lucky to get IT (alt skill set) 
-
+* AP : Mon to fri - work for salary , w/e what you learn will upgrade your career , consider ourselves lucky to get IT (alt skill set)
+* AP : writes code , be aware of algo , design frameworks (USA devs) not copy paste coding 
 
 ## Quotes
 * Measure Twice Cut once
