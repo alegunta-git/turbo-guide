@@ -3,6 +3,19 @@ Plans
 * [yt 1yr plan](https://www.youtube.com/watch?v=5ks1UHwXrK8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=8&pp=gAQBiAQB)
 * https://www.upscprep.com/plans/
 
+## goi links
+* https://moef.gov.in/union-government-ministries-department
+* https://en.wikipedia.org/wiki/List_of_ministries_and_departments_of_the_Government_of_India
+* https://en.wikipedia.org/wiki/List_of_central_agencies_in_India
+* [ministries of india](https://www.ibef.org/economy/directory/ministries-and-departments-in-india)
+* [ARC reports*](https://darpg.gov.in/arc-reports)
+* [Economic survey*](https://www.visionias.in/resources/all_programs.php?c=economic_survey) 
+* [Constitution of India*](https://legislative.gov.in/constitution-of-india/)
+* [Polity - PRS](https://prsindia.org/)
+* [law commission of india](https://lawcommissionofindia.nic.in/)
+* https://www.livelaw.in/
+
+
 ## yt core links prep
 * [use gdocs for CA](https://www.youtube.com/watch?v=QZUoyk9AMcM&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=1&pp=gAQBiAQB0gcJCYQJAYcqIYzv)
 * [org notes gdocs*](https://www.youtube.com/watch?v=gKLY4c1hZv4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=28&pp=gAQBiAQB)
@@ -26,6 +39,18 @@ Plans
 * Read & Remember ANCIENT + MEDIEVAL + ART & CULTURE  https://youtu.be/L7Vqn-CGeWU?si=cBn_TKDaEG_nB3i_
 * YouTube వీడియోలతో ప్రిపరేషన్..ఒకే ప్రయత్నంలో ఐదు ప్రభుత్వ ఉద్యోగాలు  https://youtu.be/8d50xYWR46Y?si=d-42u92R7z4qQ3Hd
 * UPSC Preparation కి Use అయ్యే Free Resourses https://youtu.be/5DBty8uS1uw?si=bPHEgSHDoPOCiEIg
+
+Current Affairs
+* [vision ias current affairs](https://www.visionias.in/resources/current_affairs.php?c=ca)
+* [drishti summary of reports](https://www.drishtiias.com/summary-of-important-reports)
+* [byju imp reports](https://byjus.com/free-ias-prep/international-organization-reports/)
+* [byju gist of yojana](https://byjus.com/free-ias-prep/gist-of-yojana/)
+
+Study Aids
+* [economics mind map](https://igcseaid.com/mind-maps/economics-0455/)
+* [vikaspedia](https://vikaspedia.in/InDG)
+* [arthapedia](http://www.arthapedia.in/index.php/Category:Concepts)
+* [asia maps](https://www.infoplease.com/atlas/asia)
 
 ## Books
 * [git upsc](https://github.com/utsingh/upsc)
