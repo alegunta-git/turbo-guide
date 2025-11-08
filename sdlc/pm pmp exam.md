@@ -1,6 +1,4 @@
-
-
-## PMP Concepts {#pmp-concepts}
+## PMP Concept
 
 [https://www.pmlearningsolutions.com/blog/announcement-ppm-launching-pmp-concept-learning-series](https://www.pmlearningsolutions.com/blog/announcement-ppm-launching-pmp-concept-learning-series)
 
