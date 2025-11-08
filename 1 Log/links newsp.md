@@ -120,3 +120,9 @@ All three service providers have had recent outages, significantly impacting dig
 
 "India has developed one of the most comprehensive digital public finance platforms in the world. The Unified Payments Interface (UPI), Account Aggregator (AA), Unified Lending Interface (ULI), and Open Network for Digital Commerce (ONDC) have driven large-scale financial inclusion, says Thomas Krogh Jensen, CEO, Copenhagen Fintech, a hub for fintech representatives across the Nordic region. “This scale is hyper interesting for Nordic fintech companies,” Jensen said in an interview with The Indian Express."
 "India has developed one of the most comprehensive digital public finance platforms in the world. The Unified Payments Interface (UPI), Account Aggregator (AA), Unified Lending Interface (ULI), and Open Network for Digital Commerce (ONDC) have driven large-scale financial inclusion, says Thomas Krogh Jensen, CEO, Copenhagen Fintech, a hub for fintech representatives across the Nordic region. “This scale is hyper interesting for Nordic fintech companies,” Jensen said in an interview with The Indian Express."
+
+
+## Movies Ups and Downs
+"Talking to SCREEN, Mona recalled meeting Aamir and director Advait Chandan on the movie’s release day at Aamir’s home. She was emotional and admitted, “I was crying, of course; I always begin to weep in such moments. And it’s for the good only, as it loosens up the heart and cleanses your mind of all the worries.” During this time, Aamir reminded her, “This is what the movie business is about; you get just one Friday to prove yourself.” She felt the pressure of that statement deeply, explaining, “I was really like, this is not done. That one Friday is the only day when people decide whether it’s good or bad; that’s so much pressure for anyone to take.” Reflecting on this, she expressed her preference for OTT platforms now, saying, “That’s why I enjoy OTT now; people can watch your stuff whenever you want.”"
+
+
