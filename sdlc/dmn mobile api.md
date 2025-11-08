@@ -12,27 +12,6 @@
 * [api pagination](https://www.youtube.com/watch?v=14K_a2kKTxU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=9&pp=gAQBiAQB)
 
 
-**API Documentation**
-* HTTP : https://www.cheat-sheets.org/saved-copy/http-response-codes-1.pdf
-* https://owasp.org/www-project-api-security/
-* https://developer.mozilla.org/en-US/docs/Web/HTTP
-* https://www.javatpoint.com/http-request
-* https://rapidapi.com/blog/api-glossary/
-* https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
-* [doc learn apis ratthwerwriting](https://idratherbewriting.com/learnapidoc/docapis_introtoapis.html)
-* [API Ship docs](https://www.aftership.com/docs/tracking/quickstart/api-quick-start)
-* [Parse API](https://docs.parseplatform.org/rest/guide/)
-* [Stripe API](https://stripe.com/docs/api/customers)
-* [Dropbox API](https://www.dropbox.com/developers/documentation/http/documentation)
-* [Twitter API](https://developer.twitter.com/en/docs/twitter-api/api-reference-index)
-* https://tech-docs.io/docs/fax-services
-* [python docs](https://docs.python.org/3/tutorial/index.html)
-* https://www.globalsqa.com/top-20-open-source-python-libraries/
-* http://www.catb.org/esr/writings/taoup/html/
-
-
-
-
 ## API
 **API Topics**
 1. API Directory , API Catalog , API Collaboration , API Governance ,API Analytics 
