@@ -17,22 +17,6 @@
 * Design Facebook - a social network
 
 
-## Whitepapers
-Google
-* PageRank
-* Bigtable
-* GFS Google File System
-* MapReduce
-
-Amazon
-* Amazon recommendations
-* Collaborative filtering
-
-LLM
-* Attention is all you need
-* Agentic workflows 
-* MCP
-
 ## Qs System Design
 **Steps on Tackling a System Design Interview**
 * Ask as many questions as possible to get a clear understanding of the requirements.
