@@ -1,8 +1,4 @@
-## book summaries
-Self help
-* https://thomasjfrank.com/productivity/books/the-para-method-by-tiago-forte-summary-and-book-notes/
-* https://www.samuelthomasdavies.com/book-summaries/business/eat-that-frog/
-
+add links for the data mining ml etc 
 
 Agile Coach Notes
 * https://srinathramakrishnan.wordpress.com/
