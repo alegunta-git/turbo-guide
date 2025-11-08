@@ -33,6 +33,12 @@
 * "Send a one page summary of what you've accomplished in the past four weeks and what you intend to accomplish in the next four weeks. This is due by noon on Thursday,"
 * DSA : divide and conquer pbm space , MVP , scale what works , dynamic programming , binary search log n , merge sort pivot
 
+
+## SME
+* Ashley S : "Preparation is half the battle" , How to color the ms word , good docs , crisp presentation to client , Dont overwhelm them
+* AP : Mon to fri - work for salary , w/e what you learn will upgrade your career , consider ourselves lucky to get IT (alt skill set) 
+
+
 ## Quotes
 * Measure Twice Cut once
 * Repetition does not spoil prayer
