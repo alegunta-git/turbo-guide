@@ -1,28 +1,19 @@
+**yt api**
+* [How to Design Good API](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32713.pdf)
+* [REST API tutorial](https://www.restapitutorial.com/)
+* [rest api sudoku](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
+* [yt http course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=1&pp=gAQBiAQB)
+* [yt json](https://www.youtube.com/watch?v=iiADhChRriM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=5&pp=gAQBiAQB)
+* [yt api design](https://www.youtube.com/watch?v=hEj61QV0wdg&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=1&pp=gAQBiAQB)
+* [yt api documentation](https://www.youtube.com/watch?v=NawxzLB4aro&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=2&pp=gAQBiAQB)
+* [yt postman beginner](https://www.youtube.com/playlist?list=PLhW3qG5bs-L9P22XSnRe4suiWL4acXG-g)
+* [upi](https://www.youtube.com/watch?v=iI2NaN_QVTI&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=11&pp=gAQBiAQB)
+* [api pagination](https://www.youtube.com/watch?v=14K_a2kKTxU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=9&pp=gAQBiAQB)
 
-## working backwards , 6p
-* https://www.allthingsdistributed.com/2006/11/working_backwards.html
-* [Adrian C blog](http://perfcap.blogspot.com/2012/03/ops-devops-and-noops-at-netflix.html)
-* https://fibery.io/blog/product-management/amazon-6-pager/
-* PRFAQ : https://youtu.be/5ZQVeno3daw?si=HcPYTl1vcpEvkWTZ
-* wb : https://youtu.be/aFdpBqmDpzM?si=SmKw-zN7c0FXhYO6
 
-## AMZ whitepapers
-* Amazon Whitepapers : https://aws.amazon.com/whitepapers/
-* [Amazon Help bill payment](https://www.amazon.in/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GXT32ZG3PV7UZCFA)
-* [AWS Faq](https://aws.amazon.com/faqs/?nc1=f_dr)
-* [yelp support topics](https://biz.yelp.com/support-center)
-
-## python
-* https://docs.python.org/3/tutorial/index.html
-* [unix commands](https://www.stationx.net/unix-commands-cheat-sheet/)
-* [Regex](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
-
-## Agile
-* https://www.scrum.org/
-* https://www.scrumalliance.org/
-* https://online.stanford.edu/
-* https://www.oracle.com/in/
-* https://www.citehr.com/
+**yt Mobile**
+* [yt apps appstore](https://www.youtube.com/watch?v=Ormjb-BX1sw&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=1&pp=gAQBiAQB)
+* [release mobile apps](https://www.youtube.com/watch?v=RIX4ufelA58&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=13&pp=gAQBiAQB)
 
 
 ## yt ui
