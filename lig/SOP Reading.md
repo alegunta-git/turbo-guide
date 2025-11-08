@@ -98,8 +98,13 @@ Writing links
 * Writing paradigms : https://www.lupinworks.com/roche/pages/paradigms.php
 * elos https://daoyuan14.github.io/elos.pdf
 
+## School , Study Skills
+**CBSE Exam Prep**
+* School (Pvt/Govt) , Timings : Single Shift 8:00 am to 2:30 pm, 9:30 am to 3:30 pm
+* Board Syllabus (CBSE/State) ,Classes , school dress uniform 
+* lesson plan , Home Wrk , Class wrk , Exams , Attendance , Sports 
+* Make concept Maps > Freq Revision > Mug Formulae > Colored Notes /Sticky > Do Mock Exams ( Time limit)
 
-## Study Skills
 
 **Study skills Tips**
 * Organize Study Environment Manage Time – Home and College
@@ -133,19 +138,19 @@ Writing links
 * underline/circle/margin notes/highlight , transfer keynotes to front of book when finished ,
 * re-read dog-eared pages , draw mind map
 
-## School
-**CBSE Exam Prep**
-* School (Pvt/Govt) , Timings : Single Shift 8:00 am to 2:30 pm, 9:30 am to 3:30 pm
-* Board Syllabus (CBSE/State) ,Classes , school dress uniform 
-* lesson plan , Home Wrk , Class wrk , Exams , Attendance , Sports 
-* Make concept Maps > Freq Revision > Mug Formulae > Colored Notes /Sticky > Do Mock Exams ( Time limit)
-
 **Maths Tips**
 * **Golden Book - notebook imp points - revision on weekends**
 * Tables till 20, Factorials till 10, Square roots till 10,
 * Squares from 1 to 30, Cubes from 1 to 20,
 * Fractions and their Decimal Notations,
 * Powers of 2, 3 and 5 till 7th power,
+
+**Studying an NCERT textbook effectively is all about active engagement:**
+1. *Skim the chapter first* – glance at headings, bold terms, and the summary to get the big picture.
+2. *Read with a purpose* – underline key points, write short margin notes, and try to explain each concept in your own words.
+3. *Solve the exercises* – do every “Check Your Understanding” and end‑of‑chapter question; it reinforces recall and highlights gaps.
+4. *Make quick flashcards* – turn definitions, dates, or formulas into bite‑size cards for quick review.
+5. *Teach it back* – explain the topic to a friend or record yourself; teaching reveals what you still need to clarify.
 
 ## College
 
