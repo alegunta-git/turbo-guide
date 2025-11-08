@@ -97,6 +97,7 @@ chet chat
 * kindle hl to word : https://www.youtube.com/watch?v=C2FcorU_VHk&list=WL&index=3&pp=gAQBiAQB
 * save kindle hl : https://www.youtube.com/watch?v=S9MrgLNBeJk&list=WL&index=2&pp=gAQBiAQB
 * [notes kindle](https://www.youtube.com/watch?v=XzsFvetijH4&list=WL&index=15)
+* https://www.makeuseof.com/kindle-tips-for-everyone/
 
 
 free ebooks
