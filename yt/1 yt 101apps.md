@@ -1,3 +1,15 @@
+**Apple things**
+* [culture code things](https://culturedcode.com/things/features/)
+* https://culturedcode.com/things/features/
+* [Apple Things](https://www.youtube.com/watch?v=2R6o5t0VK_A&list=WL&index=3&pp=gAQBiAQB)
+
+**PKM**
+* [common place book](https://ryanholiday.net/how*and*why*to*keep*a*commonplace*book/)
+* https://www.thegoodtrade.com/features/what*is*a*commonplace*book/
+* [Automate Every Aspect Of Your Life](https://www.youtube.com/watch?v=LEycQh8a*_0&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=3)
+* [30 Things bored](https://www.thegeekstuff.com/2010/03/30*things*to*do*when*you*are*bored*and*have*a*computer/)
+* [80 20 examples](https://www.thelangelfirm.com/debt*collection*defense*blog/2018/august/100*examples*of*the*80*20*rule/)
+
 Browser
 * Browser basics : https://youtu.be/FxirRVJWUTs?si=Du_mphenwjEtgDeM
 * get started firefox : https://youtu.be/HlHwB7KOTOc?si=NLv91yMwpX7TDoOo
@@ -70,17 +82,8 @@ G Search adv
 * [Google Hacking - Hidden Google Tricks - YouTube](https://www.youtube.com/watch?v=Ft5gND96EBk&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=16)
 * [Google Search Like a Hacker YouTube](https://www.youtube.com/watch?v=z8_qz938wFU&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=24)
 
-**Apple things**
-* [culture code things](https://culturedcode.com/things/features/)
-* https://culturedcode.com/things/features/
-* [Apple Things](https://www.youtube.com/watch?v=2R6o5t0VK_A&list=WL&index=3&pp=gAQBiAQB)
-
-**PKM**
-* [common place book](https://ryanholiday.net/how*and*why*to*keep*a*commonplace*book/)
-* https://www.thegoodtrade.com/features/what*is*a*commonplace*book/
-* [Automate Every Aspect Of Your Life](https://www.youtube.com/watch?v=LEycQh8a*_0&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=3)
-* [30 Things bored](https://www.thegeekstuff.com/2010/03/30*things*to*do*when*you*are*bored*and*have*a*computer/)
-* [80 20 examples](https://www.thelangelfirm.com/debt*collection*defense*blog/2018/august/100*examples*of*the*80*20*rule/)
+g suite
+* use gdocs and keep : https://youtu.be/xbvDyFV2UAI?si=ZGmmbqRdKhzEeinc
 
 
 **Evernote**
