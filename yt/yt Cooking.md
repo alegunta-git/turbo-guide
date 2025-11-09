@@ -1,18 +1,3 @@
-
-## blog
-* https://en.wikipedia.org/wiki/Indian_cuisine
-* https://en.wikipedia.org/wiki/List_of_Indian_dishes
-* https://en.wikipedia.org/wiki/List_of_snack_foods_from_the_Indian_subcontinent
-* https://en.wikipedia.org/wiki/List_of_Indian_soups_and_stews
-* https://en.wikipedia.org/wiki/Indian_bread
-* https://en.wikipedia.org/wiki/Lists_of_prepared_foods
-* https://en.wikipedia.org/wiki/List_of_Indian_drinks
-* https://en.wikipedia.org/wiki/List_of_Indian_pickles
-* https://en.wikipedia.org/wiki/List_of_Indian_sweets_and_desserts
-* https://en.wikipedia.org/wiki/Lists_of_food_and_beverage_topics
-* https://en.wikipedia.org/wiki/Lists_of_foods
-* https://veenasvegnation.com/recipe/how-to-cook-south-indian-meals-in-just-under-35-minutes/
-
 ## Basics
 * curd
 * tea
@@ -47,6 +32,7 @@
 
 
 ## South Indian
+* lemon rice https://youtube.com/shorts/4rO6n0IKl-A?si=JbU9BDSAau1cqfb_
 * [yt Rice](https://www.youtube.com/watch?v=bP0vOcIarKM&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=2&pp=gAQBiAQB)
 * kundapura saaru : https://youtu.be/gZyhTSdBdEw?si=D-m0uMVdpSBD2tiX
 * [Sambhar](https://www.indianhealthyrecipes.com/andhra-sambar-recipe-how-to-make-south-indian-sambar/)
@@ -75,3 +61,20 @@
 * cook : https://www.youtube.com/watch?v=KWe8J2VV5WQ&list=LL&index=21&pp=gAQBiAQB0gcJCbIJAYcqIYzv
 * smart meal 30min : https://youtu.be/ifdfOeIVT9c?si=IdYRMdnh3xDu5zZg
 * Spring roll : https://www.youtube.com/watch?v=NMN4zbtqO2s&list=PLmMyXRtEtJEY19cDQXEqkzps-4qabq5z_&index=5&pp=gAQBiAQB
+
+
+## blog
+* https://en.wikipedia.org/wiki/Indian_cuisine
+* https://en.wikipedia.org/wiki/List_of_Indian_dishes
+* https://en.wikipedia.org/wiki/List_of_snack_foods_from_the_Indian_subcontinent
+* https://en.wikipedia.org/wiki/List_of_Indian_soups_and_stews
+* https://en.wikipedia.org/wiki/Indian_bread
+* https://en.wikipedia.org/wiki/Lists_of_prepared_foods
+* https://en.wikipedia.org/wiki/List_of_Indian_drinks
+* https://en.wikipedia.org/wiki/List_of_Indian_pickles
+* https://en.wikipedia.org/wiki/List_of_Indian_sweets_and_desserts
+* https://en.wikipedia.org/wiki/Lists_of_food_and_beverage_topics
+* https://en.wikipedia.org/wiki/Lists_of_foods
+* https://veenasvegnation.com/recipe/how-to-cook-south-indian-meals-in-just-under-35-minutes/
+
+
