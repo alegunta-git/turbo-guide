@@ -1,4 +1,14 @@
 ## Guidelines
+## CRF
+* Career : Skillset , Interview Prep , List Projects
+* R : Pujas , Traveling (Hols)
+* Finance : bill pmt  , IE AL , online calc , **List of Tasks**
+* Home imp : EPC , PCB 
+* Health : Walk , BLSD 
+* Task M: Tracker , Tickler ( Tools : G Keep , notes)
+* Reading : PFin , Tech , Misc (Take online notes , Revision)
+
+
 **Task Management**
 - Ensure task list are updated a 1d before 
 - Have a weekly plan in g keep 
