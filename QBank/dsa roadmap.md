@@ -1,3 +1,49 @@
+Meta AI : Top 5 themes asked for following role based interviews
+*Project Manager*
+- *Stakeholder communication* – keeping clients and team aligned  
+- *Risk & issue management* – identifying, prioritizing, and resolving obstacles  
+- *Planning & prioritization* – balancing scope, schedule, and resources  
+- *Leadership & motivation* – inspiring the team and handling under‑performance  
+- *Budget & timeline control* – tracking spend and meeting deadlines  
+
+*Business Analyst*
+- Requirement elicitation & documentation
+- Data analysis & modelling
+- Process improvement & workflow design
+- Stakeholder alignment & change management
+- Solution validation & testing
+
+*Architect*
+- System design & scalability  
+- Trade‑off analysis & decision making  
+- Technology selection & integration  
+- Performance & security considerations  
+- Communicating architecture to stakeholders  
+
+
+*Developer*
+- Core programming & algorithm skills   
+- Code quality & review practices  
+- Debugging & problem‑solving  
+- Collaboration with cross‑functional teams  
+- Continuous learning & technology adoption  
+
+
+*Tester*
+- Test planning & strategy
+- Defect lifecycle management
+- Automated testing tools & frameworks
+- Requirement understanding & validation
+- Quality metrics & continuous improvement
+
+*DevOps*
+- CI/CD pipeline design & automation  
+- Infrastructure as Code (IaC) & configuration management  
+- Monitoring, logging & observability  
+- Collaboration between dev, ops, and security  
+- Culture of continuous improvement & learning  
+
+
 
 ## Awesome! Let’s build a **coding interview study plan** tailored to help you succeed—whether you're aiming for FAANG, startups, or product-based companies in India like Flipkart or Razorpay.
 
