@@ -1,3 +1,14 @@
+## Pain Points
+
+GTD
+- Not updating trackers 
+- Same old story - investment no trackers < less than 30 min per week to review docs
+- Since 2024 , Too much time on the wiki scrub and gd - why dont we find a structure
+
+Reading
+- Not learning lig skills - no wbs for topics to read 
+
+
 
 ## PRJ Unstructured Reading
 **Pain Points**
@@ -31,4 +42,7 @@
 * Create Searchable Notes , Take Notes / highlight imp points in Pdf , Combine Knowledge Trees
 * Write short summary (main ideas ,key takeaways)
 * Evernote( Audiobook , kindle hl ebook , clippings , book summaries , print)
+
+
+
 
