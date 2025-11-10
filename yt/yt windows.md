@@ -157,6 +157,8 @@ Markdown
 * https://github.com/lifeparticle/Markdown-Cheatsheet
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 * How to Convert Excel to markdown table online? : https://youtu.be/2h0A_ZXLtrM?si=By07ck7wjPWworsg
+* word to md https://youtu.be/h8TK4g4ugtc?si=GpBDQ94WBwg-9IYZ
+* word to md w/ python https://youtu.be/8mN16cORwkc?si=p3EzOL040HPnfXqM
 
 Chromedev
 * [yt chrome dev](https://youtu.be/oIrDcE4tG5A?si=HHLkLDTgNRZXq2tx)
