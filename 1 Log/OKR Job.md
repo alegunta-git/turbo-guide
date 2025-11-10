@@ -8,4 +8,14 @@ Release 2025 ( Release dates ?)
 
 
 Ideas
-* update ideas and tasks to be done 
+* update ideas and tasks to be done
+
+## Reading topics
+* Form processor docs
+* Prcl PR SME review comments TB GD SP
+* Prcl Test cases	
+* Prcl user guide	
+* Prcl videos	
+* Conx videos	
+* Conx user guide
+
