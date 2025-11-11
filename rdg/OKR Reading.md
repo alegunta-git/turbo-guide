@@ -1,3 +1,9 @@
+## To learn
+* **Consultant** : Mck Deck , Issue Tree 
+* **PM**: WBS , Finance Modeling 
+* PDM : Roadmap
+
+
 ## Reading Themes
 Basics	
 * Study Skills
