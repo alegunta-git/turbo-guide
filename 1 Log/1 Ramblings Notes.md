@@ -1,5 +1,15 @@
 ## Pain Points
 
+**Monday W/o roadmap** 
+- No Plan for the week :  what to do next , where is the Prioritized list of tasks
+- no visible dashboard ,  
+- Not using to-do list / MIT tasks , 
+- *DRIFTING* and reactive wrt task implementation 
+
+
+
+
+
 GTD
 - Not updating trackers 
 - Same old story - investment no trackers < less than 30 min per week to review docs
@@ -7,6 +17,32 @@ GTD
 
 Reading
 - Not learning lig skills - no wbs for topics to read 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
