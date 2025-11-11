@@ -40,6 +40,7 @@ Plans
 * YouTube వీడియోలతో ప్రిపరేషన్..ఒకే ప్రయత్నంలో ఐదు ప్రభుత్వ ఉద్యోగాలు  https://youtu.be/8d50xYWR46Y?si=d-42u92R7z4qQ3Hd
 * UPSC Preparation కి Use అయ్యే Free Resourses https://youtu.be/5DBty8uS1uw?si=bPHEgSHDoPOCiEIg
 * when to quit upsc https://youtu.be/HLUQMHKUfbw?si=UQuNO8PkF66BJ1cs
+* this is how your sal is calc https://youtube.com/shorts/0kC83mR73Pg?si=E84CK_Xv-K6dqt-b
 
 Current Affairs
 * [vision ias current affairs](https://www.visionias.in/resources/current_affairs.php?c=ca)
