@@ -99,7 +99,11 @@ Reading
 - etw magazine
 - Setup Reading List
 
-
+**upsc prep exam mistakes**
+- relied on class notes rather than ncert
+- was not studying deeply , need concepts ( coaching will not provide)
+- Not Revising ( not able to retain info) 
+- impact 5 yrs , only study , min socializing , gain weight , books , thoughts , missed lig opportunities
 
 
 
