@@ -24,3 +24,6 @@
   - Tell Gotram , Purpose , Guru Pranam
   - Ask panditji mantram / ashirvaad ,
 
+Change Jandhyam
+* m1 https://youtu.be/jF6KZg5vXO0?si=BctJVAnZN8xFVko1
+* m2 https://youtu.be/Rnch0JUbyX0?si=88-s18F7bPXlOXn5
