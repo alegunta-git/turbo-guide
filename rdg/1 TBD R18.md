@@ -1,41 +1,44 @@
-add the 2 versions 
-reforamt this stuff
-## R18 Topics
-| **R2 PDM Tech**    |                       |                         |
-|--------------------|-----------------------|-------------------------|
-| HTTP               | Python                | Notepad++               |
-| JSON               | Py code snippets      | Chromedev               |
-| API                | batch prog cmd        | HTML/CSS                |
-|                    |                       | SQL queries             |
-|                    |                       |                         |
-| **R2 PDM Handson** |                       |                         |
-| User Persona       | Product spec          |                         |
-| User Stories       | Roadmap examples      |                         |
-| User Journey       | Wireframes            |                         |
-|                    |                       |                         |
-| **R4 BSA**         |                       |                         |
-| BABOK              | Tell Stories          | Test Cases              |
-| YT BSA             | Use Case alistair     |                         |
-| RML Patterns       | User Story m goat     |                         |
-|                    |                       |                         |
+## R18 Version 1 
+* Daily 1 hr rdg ,2-3x revision , books - gd/offline , yt videos backup info
+  
+| R1 UPSC                             | R2 PDM tech                | R3 pdm handson    |
+|-------------------------------------|----------------------------|-------------------|
+| The Hindu editorial*                | Html/web design            | Amz whitepapers   |
+| PIB press release*                  | Api design/JSON            | amz press release |
+| Economy mind maps                   | Json                       |                   |
+| ARC reports                         | Sql                        |                   |
+|                                     | Np++                       |                   |
+
+| **R4 PM**                           | **R4 BSA**                 |                   |
+|-------------------------------------|----------------------------|-------------------|
+| Prcl WBS/Estimation                 | Yt bsa                     |                   |
+| PMBOK                               | Tell stories               |                   |
+| Rita PMP book                       | RML Patterns (MS press)    |                   |
+| Glassdoor Scrum                     | User Stories mountain goat |                   |
+| Glassdoor PM Qs , 300 qs daily rvsn | Use case book (Alistair)   |                   |
+
 | **R4 Tech Domain** | **IT Service domain** | **IT Product Domain**   |
+|--------------------|-----------------------|-------------------------|
 | Front End          | CMS PHP               | IR                      |
 | Back end database  | Cloud AWS             | Search                  |
 | API                | ecomm magento         | NLP                     |
 | Mobile IOS Android |                       | Machine Learning        |
-|                    |                       |                         |
-| **R5 G Search**    | **R5 Excel**          | R5 Consultant           |
-| G Search operator  | xls fin fix ,         | Top 10 diagrams         |
-| chatgpt            | xls fin modeling      | Issue Tree              |
-| perplexity ai      |                       | Minto Pyramid           |
-|                    |                       | mckinsey deck / mck way |
 
-| R6 Devops | R7 Design          |                  |
-|-----------|--------------------|------------------|
-| CICD      | UX and IA Examples | Design Interface |
-| Github    | DB Models          | Mobile Patterns  |
-| Jenkins   | API Design         | UI Patterns      |
-|           | Mobile Patterns    | Web Design       |
+
+| **R5 search**                       | **R6 Devops**              |                   |
+|-------------------------------------|----------------------------|-------------------|
+| G search operator                   | CICD                       |                   |
+| Mck deck                            | Github                     |                   |
+| Minto pyramid /Mck way              | Jenkins                    |                   |
+| Xls fin modeling / xls fx           |                            |                   |
+
+
+| R7 Design        |                 |
+|------------------|-----------------|
+| Design interface | UI Patterns     |
+| Db models        | web patterns    |
+| API Design       | mobile patterns |
+| IA examples      |                 |
 
 
 | R7 Dev Interview | R7 PDM Interview  | R7 Case Int   |
@@ -45,10 +48,24 @@ reforamt this stuff
 | Sys Design 1     | Product Design    | case wharton  |
 | Sys Design 2     | Guesstimation     | Case in point |
 
+| R8 P Fin        | R8 P Fin adv    |
+|-----------------|-----------------|
+| xls/online calc | Etw mf          |
+| p fin india     | Etw qs          |
+| NISM IA1        | yt case studies |
+| NISM IA2        |                 |
 
-R4 PM
-* Core : WBS , Project Schedule , Project Financials , 
-* Estimation , prcl , Risk monitoring , 
+
+## Others
+* BSA : Test Cases
+* PDM Handson : User Personas ,  User Journey , Product spec , Roadmap examples , Wireframes
+* PDM Tech : HTTP , Python , py code snippets , batch prog , win and unix cmd , Chromedev , SQL queries
+* G Search : chatgpt , perplexity ai
+* Mck : Top 10 diagrams , Issue Tree
+
+     
+## R18 Version 1 
+**R4 PM**
+* Concepts : WBS , Project Schedule , Project Financials , Estimation , Risk monitoring ,
 * Quality tools Run Charts , Case studies
 * PM Tools :  MS Project , Planview , JIRA basics , JIRA Admin , JIRA JQL
-* PM Qs :  Glassdoor Qs PM , 300 qs
