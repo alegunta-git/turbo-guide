@@ -16,6 +16,16 @@
 | Security         | CRISC,CISSP, CISM , CISA                          |
 | Networking       | CompTIA, ITIL , CEH , Cisco                       |
 
+## Roadmap
+* [Ref passit](https://passit.bg/en/certification-roadmaps/)
+* [Dev Roadmap](https://roadmap.sh/)
+* [System Design Roadmap](https://whimsical.com/system-design-roadmap-31C9vnRRATGW5Q95Krdciu)
+* [EP128: The Ultimate Software Architect Knowledge Map](https://blog.bytebytego.com/p/ep128-the-ultimate-software-architect)
+* [yt hld lld roadmap](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=5&pp=gAQBiAQB)
+* fe roadmap : https://www.youtube.com/watch?v=lH1bGIEHboI&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=35&pp=gAQBiAQB
+* api roadmap : https://www.youtube.com/watch?v=hltLrjabkiY&list=WL&index=3&pp=gAQBiAQB
+* web roadmap : https://www.youtube.com/watch?v=afgAMTln7s0&list=WL&index=5&pp=gAQBiAQB
+
 
 ## AWS
 * https://dev.to/aws-builders/how-i-passed-both-aws-professional-exams-in-6-months-tips-on-how-you-can-too-32em
