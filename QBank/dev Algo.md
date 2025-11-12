@@ -233,13 +233,7 @@ LLM
 
 
 **Programmer Sites**
-- Quora , 
-- Reddit programming , 
-- Stack Overflow , 
-- StackExchange 
 - Kaggle , 
-- Leetcode , 
-- GitHub , 
 - Bit bucket
 - Medium , Hackernews , ProductHunt , DigitalOcean
 - Udemy , MIT open courseware , 
@@ -255,9 +249,10 @@ LLM
 
 **Devsites**
 * **Github.com (issues,readmes,docs,wikis)**
-* Interview Prep : **Leetcode , geeks for geeks , hackerrank.com**
-* QA : Stack Overflow  ,StackExchange ( code queries)
-* QA : Quora , Reddit 
+* Interview Prep
+* **Leetcode , geeks for geeks , hackerrank.com**
+* QA
+* **Stack Overflow  ,StackExchange ( code queries) , Quora , Reddit Programming** 
 * Job Search : Glassdoor  ,Linkedin  ,Indeed , www.angel.co , www.startupweekend.org
 * Latest News : hackernews (timepass) , Twitter  , Telegram  , Medium (writeups , dev stories)
 * News aggregation (Google reader, StumbleUpon, or Feedburner)
