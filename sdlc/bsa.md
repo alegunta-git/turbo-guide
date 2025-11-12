@@ -43,19 +43,6 @@
 * pradeepa : https://www.youtube.com/watch?v=LktbfHdEm-U&list=WL&index=3&pp=gAQBiAQB
 
 
-## IT Service Domain
-* BFSI(Banking/Financial Svc,Insurance)
-* Fintech 
-* Healthcare 
-* Telecom
-* Manufacturing
-* FMCG , Supply Chain , Retail 
-* Travel 
-* Entertainment , media
-* Automotive , Energy , Oil and Gas
-* Education 
-* Consumer Govt
-
 ## Payroll processing system features
 A comprehensive payroll processing system typically includes the following features:
 
