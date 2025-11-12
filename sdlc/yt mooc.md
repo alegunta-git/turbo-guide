@@ -1,3 +1,11 @@
+## tutorials
+* https://www.udemy.com/
+* [udemy popular topics](https://www.udemy.com/featured-topics/)
+* http://www.w3schools.com/
+* https://www.tutorialspoint.com/
+
+
+
 ## cse 
 * iitb courses : https://portal.iitb.ac.in/asc/Courses
 
