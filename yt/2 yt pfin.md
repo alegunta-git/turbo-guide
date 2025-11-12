@@ -1,3 +1,23 @@
+## yt pfin
+* yt case study pl : https://www.youtube.com/watch?v=7btOH6s7VRs&list=PLnOWbCQBwDS_uLoJue7ryJn3PvoIke5iZ
+* yt sme : https://www.youtube.com/@rohitwarman/videos
+
+
+## pfin Masters
+* [Charlie Munger Quotes](https://tradingqna.com/t/charlie-mungers-100-quotes/139556)
+* https://www.safalniveshak.com/wp-content/uploads/2012/08/Lesson-on-Elementary-Worldly-Wisdom-Charlie-Munger.pdf
+* [Warren Buffett Letters](https://www.berkshirehathaway.com/letters/letters.html)
+* [Amazon Letters](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx)
+* Essays of WB
+* Come into trading room
+
+## Zerodha
+* [zerodha varsity](https://zerodha.com/varsity/)
+* https://zerodha.com/varsity/modules/
+* https://zerodha.com/varsity/module/personalfinance/
+* [Fin Formulas index](https://financeformulas.net/index.html)
+
+
 ## TVM
 * [excel tvm](https://www.youtube.com/watch?v=TDpuYH7d7Nc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=5&pp=gAQBiAQB)
 * [CAGR](https://www.youtube.com/shorts/hc2AybJZtbk)
