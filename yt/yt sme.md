@@ -121,7 +121,8 @@ ads
 * [Fixed price](http://anurajsoni.blogspot.com/2013/02/engagement-models-in-it-services.html)
 * [Delivery Manager](https://itsadeliverything.com/delivery-manager-a-new-role-for-an-agile-world)
 
-
+**work**
+* work culture infosys https://youtu.be/o5a-AuibJ4k?si=A4iWqfiwXbEa84Oh
 
 
 
