@@ -6,6 +6,7 @@
 * [meal planning](https://www.youtube.com/watch?v=-fQ6mn-ABPQ&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=42&pp=gAQBiAQB)
 * [yt master checklist](https://youtu.be/lZIlwne9O8Y?si=iYf8jt9QJU_8jiAB)
 * [yt notion prj plan](https://www.youtube.com/watch?v=1bQFXC_isKU&list=WL&index=6)
+* 3 mistakes people make when organizing and storing important documents https://youtube.com/shorts/DMP6jYRFiLg?si=7SH7YqrEtVa9ky-W
 
 
 **bujo**
