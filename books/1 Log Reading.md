@@ -34,3 +34,5 @@ Nov
 * 06 data warehousing
 * 07 data mining 3
 * 08 yt med coding 11h
+* 11 Yt g suite
+* 12 wing losers game , pavneet , 
