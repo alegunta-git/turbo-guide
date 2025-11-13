@@ -67,6 +67,8 @@ g suite
 * copy text from image : https://youtu.be/WOYkAVwm3u8?si=nZAgRUusSjLMXRp-
 * https://gdoc.io/checklist-templates/new-hire-checklist-free-google-docs-template/
 * use gdocs : https://www.youtube.com/watch?v=vIsOMSyouUw
+* Google Docs Pageless and Markdown Code Blocks Demo https://youtu.be/pVrVsfmnwnc?si=bMCh2VV0Ej4IBtB7
+* Google Docs Beginner Tutorial https://youtu.be/RzNVGQYOmFk?si=t3dIYySZGe5eLJs3
 
 ### G Slide
 * [g slide](https://www.youtube.com/watch?v=b_CsDAhdtpo&list=WL&index=6&pp=gAQBiAQB)
