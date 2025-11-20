@@ -35,4 +35,7 @@ Nov
 * 07 data mining 3
 * 08 yt med coding 11h
 * 11 Yt g suite
-* 12 wing losers game , pavneet , 
+* 12 wing losers game , pavneet
+* 15 univ principles of design
+* 17 systemeology , e myth series bk , poor us m joseph
+* 18 upsc aspirant bible qr 
