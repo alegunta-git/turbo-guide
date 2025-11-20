@@ -57,6 +57,7 @@ g suite
 * [How to grab image text with Google Keep - YouTube](https://www.youtube.com/watch?v=fDav0_SJ588&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=3)
 * [Google Keep: Upgrade Your To-Do List! - YouTube](https://www.youtube.com/watch?v=PKMSbBymA70&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=2)
 * image to text : https://www.youtube.com/watch?v=Sg2dDI5JBTA
+* https://www.makeuseof.com/google-keep-hidden-features-make-work-easier/
 
 ### G Docs
 * [gdocs android](https://youtu.be/xV3PahIZmNs?si=pD7978Vlb*KkUxxv)
