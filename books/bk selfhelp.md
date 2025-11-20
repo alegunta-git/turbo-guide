@@ -26,6 +26,20 @@ Self help
 * Group tasks with similar contexts together. 
 * Integrate work with life instead of trying to balance the two.
 
+
+**Tips for gmail**
+- Set up rules so that your e-mail can sort itself
+- Archive all of your e-mails so that you can focus
+- Color code your e-mail, for visual cues to priority
+- Use a reminder tool so that important e-mail chains resurface
+- Convert e-mail into tasks, so that nothing slips through the cracks
+- Track e-mail, so you can see when/where it gets read
+- Create e-mail templates so that you can rapidly send common messages
+- Unsubscribe from excess newsletters frequently
+- Limit your e-mails to five sentences or less
+- Use a social plug-in so that you can see the faces and facts behind your e-mails
+
+
 **THE PRODUCTIVITY MINDSET**
 - Fear, perfectionism, and a lack of drive are the main causes of procrastination.
 - “If you want to change the world, start off by making your bed.” - William H. McRaven
