@@ -1,3 +1,34 @@
+Edge 
+* screen shot
+* collections
+* integration w/ copilot
+* hl yellow pdf docs 
+
+Firefox
+* default search eng , add site keyword , 
+* F9 for clean reading , 
+* right click screenshot easy way
+* ff : search bar 
+* Cust search engine (dict , maps, g img amazon , wiki , yt , thes , twtr , yelp)
+  
+Chrome
+* Chrome : Click + for new tab , cross to close tab
+* Workspace use tabs (do Left Right cmp) 
+* learn and use browser extension
+* Ctrl + k , lifehacker.com
+* Use g adv search 
+* Custom Search engines : amz , dict , gm , gi , lh , thes , t , wi , yt (set this in browser)
+* site:lh.com keyboard shortcuts , site:ms.com win security 
+* filetype ft:xls checkbook , ft:pdf search cheat sheet
+* learn 101 blog titles , id the top 30 content types 
+
+YT 
+* download yt playlist , edx and udemy to view content offline 
+* Organize yt songs and prayer playlist
+* go ad free , id the topics to learn , add pl , watch them , if reqd loop video , ask gemini to summarize video 
+* filter for view count , channel , pl 
+
+
 **MS windows**
 - **Win 11 : text extractor from images**
 - Windows 11 : Use tabs feature , Snipit 11 ,  quick readact ,screen recorder
