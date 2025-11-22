@@ -1,20 +1,17 @@
-Tina huang
-* gpt 30 min : https://youtu.be/jS8g9cnfvTs?si=84wg84KzokXtUmMO
+**iit**
+* Math notes https://drive.google.com/drive/folders/1DxhP6ZpFr9H_2797Tb2pcXiaoz7WdBQh
 
-
-School
-* first week of school : https://www.youtube.com/shorts/5plVNbQbktA
-* sat 80 20 : https://www.youtube.com/shorts/x1GwTkzDi0I
-* https://ncjindalps.com/
-* read bible : https://www.youtube.com/shorts/slug30iDtsM
-
-## yt links
-yt
+## IMP yt videos
 * [use yt](https://www.youtube.com/watch?v=tY28a5dmFL4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=20&pp=gAQBiAQB)
 * yt topics : https://www.youtube.com/watch?v=I673lP_1Rn0&list=LL&index=19&pp=gAQBiAQB
+* memorize vedas https://youtu.be/Gu9lA1z3Z70?si=rjBhivU_0IGvuELc
+* Easily Highlight NCERT in pdf https://youtu.be/1tTnmfBiz1w?si=UEy3ne_2Opy4NNAb
+* gd highlight pdf https://www.youtube.com/shorts/UVrRzXwdMmw
+* convert image to text https://www.youtube.com/shorts/5mMWWQOBlHA
+* Best Free PDF Editor for Android | PDFgear https://youtube.com/shorts/yxswKSXL5ts?si=RCvccwttJKE82RsU
+* street smart vs book smart https://share.google/SzyOkHcdLDVFIjOPG
 
-
-How to read
+## How to read
 * **take notes** :https://www.youtube.com/watch?v=mQzYdYOp9jg&list=LL&index=8&pp=gAQBiAQB
 * 80 20 rule studies : https://youtu.be/FrRUiJ22R7A?si=IY64nF-yzSgYUFHo
 * rem what you read : https://www.youtube.com/watch?v=pmHXXXH5DmI&list=LL&index=9&pp=gAQBiAQB
@@ -43,8 +40,46 @@ How to read
 * [yt rembr read](https://youtube.com/shorts/pmHXXXH5DmI?si=FXQkobBD_rQaPVew)
 * [A System for Reading](https://www.youtube.com/watch?v=-T57bBtEymo)
 
-**iit**
-* Math notes https://drive.google.com/drive/folders/1DxhP6ZpFr9H_2797Tb2pcXiaoz7WdBQh
+
+## yt calc
+* [IMP calc soup](https://www.calculatorsoup.com/calculators/math/basic.php)
+* [hp calc](https://h10032.www1.hp.com/ctg/Manual/c00363319.pdf)
+* [yt calc](https://www.youtube.com/watch?v=X98-TJRMZRk&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=11&pp=gAQBiAQB)
+* yt study math : https://www.youtube.com/watch?v=3RyL_FqbaX0&list=WL&index=6&pp=gAQBiAQB
+* [mbl calc](https://www.youtube.com/watch?v=CTZ9nvIrsrM&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=3&pp=gAQBiAQB)
+* [mbl discount](https://www.youtube.com/watch?v=9_2nOgv6UDY&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=2&pp=gAQBiAQB)
+* [prd discount](https://www.youtube.com/watch?v=VWcDMlRbQbk&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=4&pp=gAQBiAQB)
+
+word roots
+* [greeklatinroots](https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf)
+* [rootchart](http://www.prefixsuffix.com/rootchart.php)
+* https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes
+* https://en.wikipedia.org/wiki/Glossary_of_medicine
+
+## math
+* 125 + 10 , 125 - 10 , 125 * 10 , 125 / 10 
+* 125 + 10% , 125 - 20% , 125 * 15% , 125 / 5% 
+* 2 * 2 * 2 * 2 = ,
+* 2^4 16 ,
+* 4 * sqrt(16) ,
+* log 1000 , ln 10
+
+
+## Case Math
+* [percentage](https://wordpandit.com/percentages-formulas-tricks-and-shortcuts/)
+* [26 Formulas](https://www.hackingthecaseinterview.com/pages/case-interview-formulas)
+* [fast math skills*](https://managementconsulted.com/fast-math/)
+* [Charts](https://www.hackingthecaseinterview.com/pages/case-interview-graphs-charts)
+* [scribd](https://www.slideshare.net/medcentercc/2017-case-interview-workshop-i)
+* [Quant Reading](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/#excel)
+* [FAST Calc](https://www.fastmath.net/ace-the-case/fast-calculation-methods/)
+* [Maths1](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-maths)
+* [Maths2](https://casecoach.com/b/how-to-ace-case-interview-math-free-casecoach-guide/)
+* [Math3](https://classmill.com/brendalouis/management-consulting-test-and-interview-prep/m/O5kv)
+* [case math](https://www.youtube.com/watch?v=ZaVBHRn-ZRQ&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=5&pp=gAQBiAQB)
+* [Guesstimation](https://www.streetofwalls.com/finance-training-courses/consulting-case-study-training/consulting-guesstimate-cases/)
+
+
 
 **Study Skills**
 * [How To Study and Mind Power Techniques](https://youtu.be/IR9Vp_TGsH4?si=jNc-Fhtmb_iALOhF)
@@ -152,3 +187,13 @@ USCI
 * someone asks : https://youtube.com/shorts/R-twy-TaLa0?si=i9dtQMtBOhxAQgfe
 * gowda btech : https://youtu.be/XwpJWKZfQ-c?si=pfzJLKH8zA71DbBg
 * getting started : https://youtu.be/GDlOqJpzYPI?si=ARrUI-e_QUQ5PWwe
+
+
+Tina huang
+* gpt 30 min : https://youtu.be/jS8g9cnfvTs?si=84wg84KzokXtUmMO
+
+School
+* first week of school : https://www.youtube.com/shorts/5plVNbQbktA
+* sat 80 20 : https://www.youtube.com/shorts/x1GwTkzDi0I
+* https://ncjindalps.com/
+* read bible : https://www.youtube.com/shorts/slug30iDtsM
