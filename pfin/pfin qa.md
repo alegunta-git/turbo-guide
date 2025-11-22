@@ -32,6 +32,7 @@ investment
 * https://www.goodreturns.in/personal-finance/investment/want-rs-3-cr-by-60-here-s-the-right-12-year-sip-strategy-for-a-48-year-old-earning-rs-4-lakh-1446951.html
 * https://www.businesstoday.in/personal-finance/investment/story/sips-alone-wont-secure-your-future-says-this-financial-planner-heres-why-goal-based-investing-matters-481190-2025-06-20
 * https://www.businesstoday.in/personal-finance/investment/story/i-have-rs-30-lakh-and-need-rs-30k-rs-35k-monthly-for-6-years-whats-the-safest-income-plan-487067-2025-07-30
+* https://www.financialexpress.com/money/insights/forget-rs-1-crore-why-rs-50-lakh-is-the-only-number-that-matters-for-financial-freedom/4051993/#webview=1
 
 mutual fund
 * https://gurus.rediff.com/question/qdtl/money/which-best-mutual-funds-india-january-2025-long-term-wealth/5192323
