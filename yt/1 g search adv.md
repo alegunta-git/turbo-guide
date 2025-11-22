@@ -28,3 +28,7 @@ windows search
 * ms teams cmd : https://www.youtube.com/watch?v=Fz7b17XHY5s&list=WL&index=11&pp=gAQBiAQB
 * cmd box MS teams : https://youtu.be/Fz7b17XHY5s?si=sbGmUV4p1Dbp-wS_
 * How to Extract Text from a PDF or Image using the New Microsoft Edge https://youtu.be/IKNiW_3QDkY?si=6JrvrEu0Cr8B2Hte
+
+NP++
+* https://youtu.be/PzjPu5F9K9Y?si=CgcLvtmlfMmh-bTk
+
