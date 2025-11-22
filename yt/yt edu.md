@@ -19,11 +19,13 @@
 **UK way**
 * Blooms Taxonomy, taxonomy , Org INFO LATCH , Hierarchy
 
-**Writing links**
+## Writing
+**APA**
 * https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf
 * [APA format](https://www.easybib.com/guides/citation-guides/apa-format/)
 * Writing paradigms : https://www.lupinworks.com/roche/pages/paradigms.php
 * elos https://daoyuan14.github.io/elos.pdf
+
 
 ## How to read
 * **take notes** :https://www.youtube.com/watch?v=mQzYdYOp9jg&list=LL&index=8&pp=gAQBiAQB
@@ -64,11 +66,6 @@
 * [mbl discount](https://www.youtube.com/watch?v=9_2nOgv6UDY&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=2&pp=gAQBiAQB)
 * [prd discount](https://www.youtube.com/watch?v=VWcDMlRbQbk&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=4&pp=gAQBiAQB)
 
-word roots
-* [greeklatinroots](https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf)
-* [rootchart](http://www.prefixsuffix.com/rootchart.php)
-* https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes
-* https://en.wikipedia.org/wiki/Glossary_of_medicine
 
 ## math
 * 125 + 10 , 125 - 10 , 125 * 10 , 125 / 10 
@@ -382,29 +379,6 @@ organized by the steps of the reading process (often referred to as a variation 
 * **Rule 3: Place Related Ideas Together , Order Ideas by Priority , Include Headings , 6 : Consider Using Visuals**
 * What is the point of this sentence, paragraph, or passage?
 * Structure of Paragraph :para 3 parts: topic sentence, supporting sentences, and concluding sentence.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
