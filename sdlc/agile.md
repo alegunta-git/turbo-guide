@@ -37,29 +37,6 @@
 * [yt user stories](https://www.youtube.com/watch?v=ealMOH3DVDo&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=51&pp=gAQBiAQB)
 
 
-## JIRA
-Topics
-* JIRA basics 
-* JIRA JQL 
-* JIRA Admin , Configure workflow
-  
-**JIRA Basics**
-* https://atlassianblog.wpengine.com/wp-content/uploads/2017/01/atlassian_jql-cheat-sheet.pdf
-* [yt define agile jira](https://www.youtube.com/watch?v=Gf8vUQQQNA0&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=47&pp=gAQBiAQB)
-* [yt JIRA pl](https://www.youtube.com/playlist?list=PLAucYnTm2adzZtkgw4-zRXN-1NNjmZWAu)
-* [yt jira dashboard](https://www.youtube.com/watch?v=2f8zV_TQPmM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=50&pp=gAQBiAQB)
-
-**JQL**
-* [JQL](https://support.atlassian.com/jira-software-cloud/docs/jql-functions/)
-* [yt intro jql](https://www.youtube.com/watch?v=BcHKXSiOHqw&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=53&pp=gAQBiAQB)
-* [yt jql elements of query](https://www.youtube.com/watch?v=v0kqoCTzGNI&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=48&pp=gAQBiAQB)
-* [yt jql complex queries](https://www.youtube.com/watch?v=SbLP7PWy-PE&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=49&t=1s&pp=gAQBiAQB)
-* [yt complex queries](https://www.youtube.com/watch?v=Bbvl9PqCePA&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=54&pp=gAQBiAQB)
-
-**JIRA Admin**
-* [yt jira cloud admin](https://www.youtube.com/watch?v=WScAjiGdz48&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=55&pp=gAQBiAQB)
-* [Jira admin dump](https://www.dumpsbase.com/freedumps/jira-administrator-acp-100-dumps-questions-and-answers.html)
-
 ## Devops 
 * [Docker](https://www.slideshare.net/arafkarsh/docker-kubernetes-istio-195286314?qid=74aa72bf-c0a4-4aaa-a5b2-7cc801a2c3b7&v=&b=&from_search=6)
 * [SRE](https://dev.to/thenjdevopsguy/what-do-you-actually-need-to-know-for-sre-and-devops-4g6p)
