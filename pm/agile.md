@@ -1,5 +1,11 @@
-## Agile
+## links
+* https://www.scrum.org/
+* https://www.scrumalliance.org/
+* https://online.stanford.edu/
+* https://www.oracle.com/in/
+* https://www.citehr.com/
 
+## Agile
 **Agile Qs**
 * [Agile Int](https://mindmajix.com/agile-interview-questions)
 * [Agile Int2](https://www.whizlabs.com/blog/agile-scrum-interview-questions/)
