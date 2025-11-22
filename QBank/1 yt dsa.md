@@ -1,15 +1,6 @@
 IMP
 * leetcode input size : https://youtu.be/eB7SMsE6qEc?si=SuSP-duzzs7VBHTS
 
-## Google drive
-* gate qs https://drive.google.com/drive/mobile/folders/18s5Sejd46KxRq_w6XW2VCLNYkrrNq1vY?usp=drive_link&pli=1
-
-
-## Gate 
-* links prep https://youtu.be/QnTzQKDQ4SI?si=dM-2QPJiNsuReX58
-* gate prep : https://www.youtube.com/watch?v=azLOpSfZf7o&list=LL&index=1&pp=gAQBiAQB
-* gate sme https://www.youtube.com/watch?v=9HAxjug36wA&lc=UgxN3B9oXr3vnzxuvqt4AaABAg
-
 
 ## leetcode
 * LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
