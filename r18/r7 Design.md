@@ -11,6 +11,8 @@
 * [UI Patterns](https://ui-patterns.com/patterns)
 * [UI patterns list](https://design.mindsphere.io/patterns/button.html)
 * https://www.patternfly.org/components/accordion
+
+**ui controls**
 * [40 ui elements](https://blog.logrocket.com/ux-design/40-essential-ui-elements/)
 * [ui control guidelines*](https://balsamiq.com/learn/ui-control-guidelines/)
 * [ui controls balasmiq](https://balsamiq.com/learn/courses/intro-to-ui-design/ui-controls/)
@@ -32,11 +34,6 @@ db docs
 * [SQL Server](https://www.sqlservertutorial.net/sql-server-basics/sql-server-select-into/)
 * [Mysql](https://www.mysqltutorial.org/getting-started-with-mysql/)
 
-yt db
-* [yt ora sql](https://www.youtube.com/watch?v=uIsRVBtwXM4)
-* [yt sql](https://www.youtube.com/watch?v=p3qvj9hO_Bo&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=6&pp=gAQBiAQB)
-* [yt sql2](https://www.youtube.com/watch?v=uIsRVBtwXM4&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=7&pp=gAQBiAQB)
-* [yt DB Design PL](https://youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_&si=oRGQtHil9Jhwgkmn)
 
 ## API Design
 **yt api**
@@ -114,3 +111,9 @@ yt db
 * https://blog.algomaster.io/p/30-system-design-concepts
 * https://dev.to/alexr/14-case-studies-master-system-design-in-a-month-2jk2
 * https://dev.to/somadevtoo/top-15-system-design-resources-for-programming-interviews-1m15
+* [Dist sys patterns](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/)
+* [Latency numbers](https://gist.github.com/jboner/2841832)
+* [Back of envelope](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
+* [dt Calc Capacity](https://dev.to/ievolved/how-i-calculate-capacity-for-systems-design-3477)
+* [Caching](https://dzone.com/articles/introducing-amp-assimilating-caching-quick-read-fo)
+* [Scaler Articles](https://www.scaler.com/topics/articles/)
