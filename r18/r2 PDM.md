@@ -12,7 +12,11 @@ html cs
 ## JSON
 
 ## SQL
-
+yt db
+* [yt ora sql](https://www.youtube.com/watch?v=uIsRVBtwXM4)
+* [yt sql](https://www.youtube.com/watch?v=p3qvj9hO_Bo&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=6&pp=gAQBiAQB)
+* [yt sql2](https://www.youtube.com/watch?v=uIsRVBtwXM4&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=7&pp=gAQBiAQB)
+* [yt DB Design PL](https://youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_&si=oRGQtHil9Jhwgkmn)
 
 ## Notepad++
 
