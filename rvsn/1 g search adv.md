@@ -1,4 +1,9 @@
-G Search adv
+## Seo
+* [101 blog titles](https://seo.co/blog-post-title-ideas/)
+* [10000 search oprs](https://www.optimizesmart.com/10000-search-engine-queries-for-your-link-building-campaign/)
+* [popular keywords](https://www.wordstream.com/popular-keywords)
+
+## G Search adv
 * [yt g adv search](https://youtube.com/watch?v=JciRHpvtgK8&si=5QT2d6Xeqmr3RFS7)
 * [use ggl](https://www.youtube.com/watch?v=bFANqJb7XGo&pp=ygUNZ29vZ2xlIHNlYXJjaA%3D%3D)
 * [g search reunion](https://youtu.be/gHGDN9*oFJE?si=Ddl0Rez84DM5OYNc)
@@ -18,7 +23,7 @@ G Search adv
 * use gdocs and keep : https://youtu.be/xbvDyFV2UAI?si=ZGmmbqRdKhzEeinc
 
 
-windows search
+## windows search
 * How To Share Google Keep Notes With Others : https://youtu.be/hFyd_se1Ch0?si=3u2yJEvIrMIKTFGm
 * How To Search Projects in Github : https://youtu.be/Oiam4tNGZh8?si=0j139GgLT-68PBK9
 * win naviagtion : https://www.youtube.com/watch?v=Ot8KYCrX4hI&list=WL&index=8
@@ -29,6 +34,5 @@ windows search
 * cmd box MS teams : https://youtu.be/Fz7b17XHY5s?si=sbGmUV4p1Dbp-wS_
 * How to Extract Text from a PDF or Image using the New Microsoft Edge https://youtu.be/IKNiW_3QDkY?si=6JrvrEu0Cr8B2Hte
 
-NP++
-* https://youtu.be/PzjPu5F9K9Y?si=CgcLvtmlfMmh-bTk
+
 
