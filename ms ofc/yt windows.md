@@ -24,7 +24,6 @@ Key
 * stop chasing more : https://www.youtube.com/shorts/NW5spRks5RM
 * How Lee Kuan Yew Built Singapore  https://youtu.be/aH4cFOB2V5c?si=0QLys3KzfkN3k_zJ
 
-
 Shortcut keys
 * https://ss64.com/nt/
 * [IMP shortcut keys](https://shortcutworld.com/Shortcuts)
@@ -32,52 +31,6 @@ Shortcut keys
 * [xls short cut2](https://www.myonlinetraininghub.com/excel-shortcuts)
 * [xls Shortcuts](https://shortcutworld.com/Excel/win/Microsoft-Excel_Shortcuts)
 
-## MS Outlook
-* outlook : templates , boiler plate writeup , checklists ,
-* Use canned responses in gmail
-* [How To Create Email Templates in Outlook | My Templates & Quick Parts - YouTube](https://www.youtube.com/watch?v=RSlfhjbIoK8)
-
-## MS Project
-* [ms prj tutorial](https://www.youtube.com/watch?v=BYR_S6ktoFc)
-* py projects : https://www.youtube.com/watch?v=8ext9G7xspg&list=WL&index=25&pp=gAQBiAQB
-
-
-## MS Word
-Highlight
-* extract bold text ; https://www.youtube.com/watch?v=lWjK_fMArDM&list=WL&index=27&pp=gAQBiAQB
-* [Export Highlighted Text from Word 2007 document - YouTube](https://www.youtube.com/watch?v=OGJ84O5iWV4&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=29)
-* [Export Highlighted Text from Word 2007 document - YouTube](https://www.youtube.com/watch?v=OGJ84O5iWV4&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=7)
-* [How to Select, Copy and Paste all Highlighted Text in a Word Document - YouTube](https://www.youtube.com/watch?v=uih6JDLVRnY&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=24)
-
-
-Basics
-* [Shortcut key to Delete Many Words at One time in MS Word - YouTube](https://www.youtube.com/watch?v=mi4gsb1wvdI&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=25)
-* [How to Select, Copy and Paste all Highlighted Text in a Word Document - YouTube](https://www.youtube.com/watch?v=uih6JDLVRnY&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=6)
-* [Advanced Find & Replace with wildcards in Microsoft Word - YouTube](https://www.youtube.com/watch?v=xeP9yyg6lF4&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=29)
-* [Text Selection using Shortcut Keys (Ctrl + Shift + Arrow) - YouTube](https://www.youtube.com/watch?v=ove9izWW_W8&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=4)
-* math expert word : https://www.youtube.com/playlist?list=PL0hIrBSf6_4lqjDSiv7M2eB2D0GsdHitr
-* math expert xls : https://www.youtube.com/playlist?list=PL0hIrBSf6_4nJmEhaWPKCOWAZKT0Wz3UE
-* ms word tutorial : https://www.youtube.com/watch?v=GBHUBEOTdcA&list=WL&index=12&pp=gAQBiAQB0gcJCesJAYcqIYzv
-* Word : Document Templates , Styles, S/c keys , Word tips ,
-* pdf to word : https://youtu.be/pgt1mvW6_KU?si=4UKNN4-Zq6tUtBIe
-* [Create an attractive article in Microsoft Word 2010 - YouTube](https://www.youtube.com/watch?v=Pouh8iOmsmY&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=7)
-* [MS Word Skills - Document Formatting Skills & Hacks - YouTube](https://www.youtube.com/watch?v=Ss2lPz7m0GY&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=26)
-* [5 neat tips for formatting Microsoft Word tables - Part 1 - YouTube](https://www.youtube.com/watch?v=3VI7GIDaBvY&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=4)
-
-Tables
-* 5 tables problems : https://www.youtube.com/watch?v=we2ZMWPriYw
-* time table word : https://www.youtube.com/watch?v=THm-HpSnn9M&pp=0gcJCRgCSCBzzxdG
-* [How to copy and paste table retaining the style and format in word 2016 - YouTube](https://www.youtube.com/watch?v=YL_XDKCGK0o&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=8)
-
-tips
-* [How to Combine Multiple Word File to Single One - YouTube](https://www.youtube.com/watch?v=TWVW3tZR0l0&list=WL&index=30)
-* [How to merge two or more word documents into one document - YouTube](https://www.youtube.com/watch?v=Yzl9GKhZLSI&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=6)
-* [How to Combine Multiple Word Documents into One Document | Merge Word Documents - YouTube](https://www.youtube.com/watch?v=SnKE3SR7dYs&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=18)
-* [How to Create 'Frequently Asked Questions' Documents using Microsoft Word Custom Styles - YouTube](https://www.youtube.com/watch?v=5PGb12t8_vo&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=3)
-* [Affordance Comparison: Microsoft OneNote and Google Keep - YouTube](https://www.youtube.com/watch?v=D3MM1kjyCx0)
-* [Five useful MS Word tricks (MS word tips #1) - YouTube](https://www.youtube.com/watch?v=KJ2_2_xiIic&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=10)
-* [Learn Hidden Microsoft Word Tricks to Become 4x Faster At Work! - YouTube](https://www.youtube.com/watch?v=Pf_VWc34IyE&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=28)
-* merge word docs : https://www.youtube.com/watch?v=V3TBE-JWXTU&list=WL&index=14&pp=gAQBiAQB
 
 
 ## MS Windows
@@ -151,93 +104,3 @@ tips
 * [Easy way to run favorite app - Add any app to right-click menu in Windows - YouTube](https://www.youtube.com/watch?v=NLtsqm_BPak&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=14)
 * [RPA](https://www.youtube.com/watch?edufilter=NULL&v=MBl-3Yb30FA)
 * [10 FREE PROGRAMS](https://www.youtube.com/watch?v=ODO5iqNkXts&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=21)
-
-## Devtools
-Markdown
-* https://github.com/lifeparticle/Markdown-Cheatsheet
-* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-* How to Convert Excel to markdown table online? : https://youtu.be/2h0A_ZXLtrM?si=By07ck7wjPWworsg
-* word to md https://youtu.be/h8TK4g4ugtc?si=GpBDQ94WBwg-9IYZ
-* word to md w/ python https://youtu.be/8mN16cORwkc?si=p3EzOL040HPnfXqM
-
-Chromedev
-* [yt chrome dev](https://youtu.be/oIrDcE4tG5A?si=HHLkLDTgNRZXq2tx)
-* [yt chrome dev tools](https://www.youtube.com/watch?v=wcFnnxfA70g&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=3&pp=gAQBiAQB)
-* [chrome browser](https://developer.chrome.com/blog/inside-browser-part1/#at_the_core_of_the_computer_are_the_cpu_and_gpu)
-* [Chrome Dev Tools](https://techbrij.com/chrome-developer-tools-inspect-json-path-query)
-* [Chromedev](https://blittle.github.io/chrome-dev-tools/sources/editing-content.html)
-
-postman
-* https://learning.postman.com/docs/introduction/overview/
-* https://www.postman.com/api-platform/
-* [postman api](https://www.youtube.com/watch?v=CLG0ha_a0q8)
-
-Github
-* [github wiki are repos](https://www.youtube.com/watch?v=U18COUDlzu8&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=24&pp=gAQBiAQB)
-* github wiki : https://youtu.be/U18COUDlzu8?si=Lr1l*H7GyQs4gpEv&t=14
-* [how to sell](https://www.youtube.com/watch?v=_1HEIe7sU0I&list=WL&index=8&pp=gAQBiAQB)
-* https://tylerthetech.com/github-search-tips/
-* https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts
-* download file : https://www.youtube.com/watch?v=BlEWmTzc8ws&list=WL&index=7&pp=gAQBiAQB
-* download : https://www.youtube.com/watch?v=GHUKKFEIQX4&list=WL&index=4&pp=gAQBiAQB
-* readme for github : https://youtu.be/HKdhiOp2uVA?si=7q2H4Q_C69k733mX
-* gh search : https://www.youtube.com/watch?v=qBTmygWBvIA
-* gh issue : https://www.youtube.com/shorts/SSza2dRsBok
-* org star repo as lists : https://www.youtube.com/shorts/8oTmaEa2y0c
-* add topic names : https://www.youtube.com/shorts/G5lXZLoetYA
-* gh repo as docs  https://www.youtube.com/shorts/HtyF4cBrfs8
-* slash commands : https://www.youtube.com/shorts/MF2GK3nWSMM
-* gh tables : https://www.youtube.com/shorts/2qUx0Ignn38
-* add folder : https://www.youtube.com/watch?v=4wo4csHfabw&list=WL&index=4&pp=gAQBiAQB
-* git data:https://www.youtube.com/watch?v=kAUS7YIi7Fk&list=WL&index=4&pp=gAQBiAQB
-* add gif to repo : https://www.youtube.com/watch?v=EF6fqnnl3Uk&list=WL&index=9&pp=gAQBiAQB
-* git tutorial:https://www.youtube.com/watch?v=LbanWJyLMnA&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=30&pp=gAQBiAQB
-* git cert : https://youtube.com/playlist?list=PLBfufR7vyJJ4uRXqarjPKqxYq4_Pexj1V&si=1DwDxsoGRNLEAcM1
- 
-
-Notepad++
-* [Add Firefox in Notepad++ ](https://www.youtube.com/watch?v=neUPiV2DiA8)
-* [yt np bookmark](https://youtu.be/g3sOIqs1Ifw?si=i5dv8yN89IYqR0hH)
-* [yt np space removal](https://youtu.be/y3rNhoHQCQU?si=ZLDeGf8_mwsjdD71)
-* [Macros text manipulation](https://www.youtube.com/watch?v=Dgmhb8k1whs)
-* [Notepad++ Macros](https://www.youtube.com/watch?v=3FNmecjZ86w)
-* [find and replace in files](https://www.youtube.com/watch?v=rC-HRRPxhbo&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=12)
-* [view two documents side by side](https://www.youtube.com/watch?v=9Ztvzkf9Hzg&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=17)
-* [Replace new lines with a comma delimiter](https://stackoverflow.com/questions/15740853/replace-new-lines-with-a-comma-delimiter-with-notepad)
-* [Text Selection using Ctrl Shift](https://www.youtube.com/watch?v=ove9izWW_W8&list=PLmMyXRtEtJEYEbVO5Freg35Xl6HzMm63z&index=35)
-* [How to Autocomplete Brackets](https://www.youtube.com/watch?v=cwbkl75itX8&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=16)
-* [Create HTML Ordered List](https://www.youtube.com/watch?v=lYB_1wYuxTA&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=18)
-* https://stackoverflow.com/questions/15740853/replace-new-lines-with-a-comma-delimiter-with-notepad
-* [Tips and Tricks in Notepad++ - Perficient Blogs](https://blogs.perficient.com/2016/01/21/tips-and-tricks-in-notepad/)
-* [select the entire line in Np++](https://superuser.com/questions/947296/is-there-a-keyboard-shortcut-to-select-the-entire-current-line-in-notepad)
-* [extract only text data from HTML pages - Quora](https://www.quora.com/How-can-I-extract-only-text-data-from-HTML-pages)
-* [Notepad++ Macros Example | Cathrine Wilhelmsen](https://www.cathrinewilhelmsen.net/notepad-macros-example/)
-* https://www.cathrinewilhelmsen.net/notepad-macros-example/
-* https://blogs.perficient.com/2016/01/21/tips-and-tricks-in-notepad/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
