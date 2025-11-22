@@ -96,7 +96,17 @@
 * https://pondicherrytourism.co.in/places-to-visit-in-pondicherry
 
 ## YT India 
-* [Hampi](https://www.youtube.com/watch?v=75DfBrSe_CI&list=PLmMyXRtEtJEYAvlKVsRygD-t-CwJ9plvE&index=2&pp=gAQBiAQB)
-* [YT Udaipur](https://www.youtube.com/watch?v=L2sMbBtOpA4)
+North
 * [Red Fort](https://www.youtube.com/watch?v=B_Jz3x5LcHw&list=PLmMyXRtEtJEYAvlKVsRygD-t-CwJ9plvE&index=1&pp=gAQBiAQB)
+* [YT Udaipur](https://www.youtube.com/watch?v=L2sMbBtOpA4)
+* Haridwar to Badrinath : https://youtu.be/GG3el2JO-5o?si=zEsoImryp1tSbkbO
+  
+South
+* [Hampi](https://www.youtube.com/watch?v=75DfBrSe_CI&list=PLmMyXRtEtJEYAvlKVsRygD-t-CwJ9plvE&index=2&pp=gAQBiAQB)
+* Landmarks in Basavanagudi : https://youtu.be/B1oqWZMttGc?si=VSHXTwSTpM0IFzHo
 
+East 
+* TBD
+  
+West
+* TBD
