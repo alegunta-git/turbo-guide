@@ -7,6 +7,10 @@
 | Discrete Math        | Networking                            |                 |
 
 
+## Professors 
+* https://www.cse.iitb.ac.in/~soumen/ 
+
+
 ## gate exam prep
 * Google drive gate qs https://drive.google.com/drive/mobile/folders/18s5Sejd46KxRq_w6XW2VCLNYkrrNq1vY?usp=drive_link&pli=1
 * links prep https://youtu.be/QnTzQKDQ4SI?si=dM-2QPJiNsuReX58
