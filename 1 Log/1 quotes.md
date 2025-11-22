@@ -30,6 +30,7 @@
 * Necessity is the mother of invention 
 * Journey of thousand miles begins with a single step
 * Guardian Knot how to untie
+* We must beware of a certain craze for collecting which sometimes takes possession of those who make notes.... That is a deplorable practice. —A.G. Sertillanges, O.P., The Intellectual Life
 
 ## Tips
 * Start somewhere !!! , Start with what you have 
