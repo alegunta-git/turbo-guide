@@ -7,9 +7,8 @@
 * https://atlassianblog.wpengine.com/wp-content/uploads/2017/01/atlassian_jql-cheat-sheet.pdf
   
 **JIRA Basics**
+* [yt JIRA pl define agile](https://www.youtube.com/playlist?list=PLAucYnTm2adzZtkgw4-zRXN-1NNjmZWAu)
 * [yt define agile jira](https://www.youtube.com/watch?v=Gf8vUQQQNA0&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=47&pp=gAQBiAQB)
-* 
-* [yt JIRA pl](https://www.youtube.com/playlist?list=PLAucYnTm2adzZtkgw4-zRXN-1NNjmZWAu)
 * [yt jira dashboard](https://www.youtube.com/watch?v=2f8zV_TQPmM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=50&pp=gAQBiAQB)
 
 **JQL**
