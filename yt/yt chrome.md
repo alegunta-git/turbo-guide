@@ -1,3 +1,12 @@
+**Browser** IMP Revise this
+* Browser basics : https://youtu.be/FxirRVJWUTs?si=Du_mphenwjEtgDeM
+* get started firefox : https://youtu.be/HlHwB7KOTOc?si=NLv91yMwpX7TDoOo
+* [Read Webpages](https://www.youtube.com/watch?v=Iln9oG8Rsig&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=6)
+* [copy and paste content webpage](https://www.youtube.com/watch?v=eit7LZfWmGU)
+* chrome dev tools : https://youtu.be/oIrDcE4tG5A?si=4Db-3evbIYnqMUAz
+* [yt websearch](https://www.youtube.com/watch?v=WtuAZHY1Pqo&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=12&pp=gAQBiAQB)
+
+
 **Firefox**
 * [firefox features](https://www.youtube.com/watch?v=HlHwB7KOTOc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=17&pp=gAQBiAQB)
 * [Firefox Quick Search ](https://www.youtube.com/watch?v=pmtRBE5iFzY&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=8)
