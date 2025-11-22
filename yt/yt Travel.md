@@ -46,7 +46,6 @@
 * Andaman and Nicobar Islands
 * Lakshadweep
 * Puducherry
-  * https://pondicherrytourism.co.in/places-to-visit-in-pondicherry
 * Chandigarh
 
 ## World Travel
@@ -94,7 +93,7 @@
 * [Kerala](https://www.backpacknxplore.com/flexible-kerala-itinerary)
 * [wiki travel Kerala](https://wikitravel.org/en/Kerala)
 * [Ramappa Temple](https://maverickonthemove.wordpress.com/2016/11/29/ramappa-temple-the-living-example-of-kakatiya-architecture/)
-
+* https://pondicherrytourism.co.in/places-to-visit-in-pondicherry
 
 ## YT India 
 * [Hampi](https://www.youtube.com/watch?v=75DfBrSe_CI&list=PLmMyXRtEtJEYAvlKVsRygD-t-CwJ9plvE&index=2&pp=gAQBiAQB)
