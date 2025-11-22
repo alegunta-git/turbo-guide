@@ -1,6 +1,29 @@
 IMP
 * leetcode input size : https://youtu.be/eB7SMsE6qEc?si=SuSP-duzzs7VBHTS
 
+## Tips
+* Use Other People's Code on GitHub in 15 Min  : https://youtu.be/CT1zTWyZX5w?si=8j9pEu-E2SstcfRU
+* self learn topic : https://www.youtube.com/watch?v=d-xOE_wgIoo&list=WL&index=4&pp=gAQBiAQB
+* top 10 it skills : https://www.youtube.com/watch?v=VaxBq1Xg3pE&list=WL&index=4&pp=gAQBiAQB
+* g dev int : https://www.youtube.com/watch?v=we7ba0slWrc&list=WL&index=3&pp=gAQBiAQB
+* cto mindset : https://www.youtube.com/watch?v=MWzdHlLUsZs&list=WL&index=5&pp=gAQBiAQB
+* Best way to Find Jobs on Linkedin  : https://youtube.com/shorts/zZ19ogVIT04?si=18CSvhgGZrBAOqdy
+* 1hr dsa and sd : https://www.youtube.com/watch?v=iIbli89koK8&list=WL&index=10&t=467s&pp=gAQBiAQB
+
+
+## geeks for geeks
+* https://leetcode.com/studyplan/top-interview-150/
+* https://www.geeksforgeeks.org/10-most-important-data-structures-for-coding-interviews/
+* https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+* https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/
+* https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
+* https://www.geeksforgeeks.org/top-50-searching-coding-problems-for-interviews/
+* https://www.google.com/amp/s/www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/amp/
+* https://www.techiedelight.com/top-100-liked-data-structures-and-algorithm-problems/
+* [Interview prep](https://hackernoon.com/how-not-to-succeed-in-your-45-minute-coding-interview-2eebd46bd6ec)
+* [Reddit links](https://www.reddit.com/r/e/comments/2lzc4h/big_collection_of_interview_preparation_links/?rdt=58725)
+* [Answer Tech Qs](https://www.dice.com/career-advice/answer-technical-interview-question)
+* [must do qs](https://www.codingninjas.com/studio/library/must-do-coding-interview-questions-for-product-based-companies)
 
 ## leetcode
 * LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
@@ -68,18 +91,35 @@ IMP
 * [Google Test](https://testing.googleblog.com/search/label/TotT)
 * [Google dev SG](https://developers.google.com/style)
 
-## geeks for geeks
-* https://leetcode.com/studyplan/top-interview-150/
-* https://www.geeksforgeeks.org/10-most-important-data-structures-for-coding-interviews/
-* https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
-* https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/
-* https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
-* https://www.geeksforgeeks.org/top-50-searching-coding-problems-for-interviews/
-* https://www.google.com/amp/s/www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/amp/
-* https://www.techiedelight.com/top-100-liked-data-structures-and-algorithm-problems/
-* https://en.wikipedia.org/wiki/List_of_data_structures
-* [Interview prep](https://hackernoon.com/how-not-to-succeed-in-your-45-minute-coding-interview-2eebd46bd6ec)
-* [Reddit links](https://www.reddit.com/r/e/comments/2lzc4h/big_collection_of_interview_preparation_links/?rdt=58725)
-* [Answer Tech Qs](https://www.dice.com/career-advice/answer-technical-interview-question)
-* [must do qs](https://www.codingninjas.com/studio/library/must-do-coding-interview-questions-for-product-based-companies)
+
+
+## Dev SME
+anu sharma
+* you dont need 2 know leetcode : https://youtu.be/6MNfwOp3FT8?si=Wy0Zd1jU6cKzl0GX
+
+
+SWerikcodes
+* githup repo : https://www.youtube.com/watch?v=d0scFBpBpB4&list=LL&index=21&pp=gAQBiAQB
+* leetcode beginner : https://www.youtube.com/watch?v=vNbPqVnIgr4&list=LL&index=2&pp=gAQBiAQB
+* coding skills : https://www.youtube.com/watch?v=IzHxMA3SS34&list=LL&index=17&pp=gAQBiAQB
+* dsa : https://youtu.be/rj3lXPwcaeY?si=-oc5_Qhb_E7VLl4W
+* be coding : https://youtu.be/RlC5Fx_09hM?si=5TqDjbZbDrPjwwZd
+* must share prj resume : https://www.youtube.com/watch?v=d_whQErvg0E&list=LL&index=14&pp=gAQBiAQB
+
+sahil and sarra
+* learn web gpt : https://youtu.be/FGbeQ4*Kj8Q?si=JvYomuLx6lwfcmcE
+* kb shortcuts : https://www.youtube.com/shorts/2Zg0pzOSVr0
+* solve 541 leetcode : https://www.youtube.com/shorts/IrWwsfHWl_M
+* learb web deb : https://www.youtube.com/shorts/SMZULGBYOZM
+* 500 leetcode : https://www.youtube.com/shorts/sq_LYYAQT9Q
+* sysdesign : https://www.youtube.com/shorts/0JSg44zuUTw
+* yt ideas : https://www.youtube.com/watch?v=RGDQaJgvZJk&list=WL&index=17&pp=gAQBiAQB
+* master algo : https://youtu.be/62rJuSsNmGQ?si=aID2bHIl1BRfWB9d
+* 10 github repo : https://www.youtube.com/watch?v=a1ehrFHAX7g&list=WL&index=4&pp=gAQBiAQB
+
+sdet qa
+* jira ovw : https://youtu.be/GnG6RPSRLCs?si=drz1y261iS6UZmzJ
+* test automation : https://www.youtube.com/shorts/QuKV67n4YS4
+* us healthcare dmn : https://youtu.be/OQ2ywwm0268?si=gwe_TSe6VYmM_MWO
+
 
