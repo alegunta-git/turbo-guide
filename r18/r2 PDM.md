@@ -1,3 +1,16 @@
+## Topics
+
+**R2 pdm tech**
+* HTML
+* JSON
+* SQL
+* Notepad++
+
+**R2 pdm handson**
+* amz press release
+* amz whitepapers
+
+
 ## HTML
 html cs
 * https://htmlcheatsheet.com/
