@@ -5,6 +5,7 @@
 
 Plans
 * [upsc syllabus](https://vajiramandravi.com/upsc-syllabus/)
+* https://anujjindal.in/upsc-syllabus-for-ias-exam/
 * [yt 1yr plan](https://www.youtube.com/watch?v=5ks1UHwXrK8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=8&pp=gAQBiAQB)
 * https://www.upscprep.com/plans/
 
