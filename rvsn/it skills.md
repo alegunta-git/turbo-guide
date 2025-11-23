@@ -40,13 +40,58 @@
 |IMP White Papers  | MapReduce , ProtocolBuffers ,  BigTable , Thrift , Hadoop ,REST API         |
 
 
-**Design**
-* Front End: UI Patterns , Web Design  
-* Mobile : Mobile Patterns (IOS and Android)
-* API Design : API Specification
-* Back End : DB Design , DB Models OLTP , DWBI | Effective Effective SQL Query and Performance Tuning
-* Integration : Cloud  Native Patterns , EAI
+## SDLC Role skills
 
+## PM Role
+- Experience
+  - Tech stack worked upon (MS.net , Java , Digital , Cloud)
+  - Responsibilities , Project Delivery , Challenges faced
+  - Project Budget size , Team size
+- Budgets
+  - SLT Funds Approval , HeadCount , Projects for Current Year
+  - Finance (Capex and Opex ) , NPV , IRR , 
+  - Project Charter , Business Case , Objectives 
+  - Proposal phase : RFP , SOW 
+- Project management
+  - Cost , Budget (Planned , actual)
+  - Scope - Change Request process , Unplanned work / rework ( WIP : Ready - doing - done) 
+  - Estimations , Schedule ,  Project Plans , WBS , Design , Fixed scope prj
+  - Usage of tools JIRA,Planview , MS project ,Excel , Onenote 
+  - Quality (Defects , Reduce bug count )
+- Risk management
+  - Risks , Issues  
+  - Evaluate the Requirements scope , check for completeness , define User stories
+  - How to address Top 5 delivery risks
+  - How to handle the Delivery Risk
+- Governance/Communication
+  - Steering committee - Presentation and How to drive it
+  - Status report for msr wsr , Weekly Status Report , Dashboard 
+  - Know the Metrics and Numbers inside out
+- Stakeholder management
+  - Positive and Negative Stakeholders , Sponsor
+  - Expectation Management
+- People management
+  - Work allocation , Team Management ,Team (Form Storm Norm , allocation and release)
+  - conflict resolution , handle multiple priorities
+  - How did you Grow the team & Getting work done through others
+  - People : Skills , competency , Training , onboarding
+- Agile process
+  - Strong foundation of Agile / Scrum / SAFE Methodologies,
+  - Backlog grooming , Velocity , Sprint Planning
+  - Challenges from SDLC to Agile transition , QA testing
+- Devops
+  - CI and CD - Concepts and Tools : Jenkins and Travis
+  - DevOpsPractices
+  - Test Driven Development(TDD) / Behavioral Driven Development (BDD),
+- Others
+  - Cert : PMP exam , PMBOK , Rita PMP
+  - PMP Exam : Integration , Scope , Schedule , Cost , Quality , HR , comms , Risk , Procurement , Stakeholder 
+  - Quality : Control / Run chart , Flow chart , Pareto , Scatter dia ,statistics formulas
+  - Process : CMM , Six Sigma , QMS/SOP documentation 
+  - Knowledge Management , Release management , Best practices , Agile audit ( Quality and metrics analysis )
+  - System Design / Scalability
+  - Microservices / AWS Cloud /Test Automation (Selenium)
+  - Digital Marketing :  G Analytics , G Adwords , FB , Twitter /YT/Pinterest , CPC 
 
 ## Agile
 * Agile & SAFE glossary
@@ -60,7 +105,57 @@
 * Personas ,Spike , Timeboxing , DoD , DOR ,Dependency , Impediment , Technical Debt  ,TDD , BDD , FDD 
 * Information Radiator : Burndown Chart ,  Scrum Board , Story Points ,Capacity, Velocity 
 
-## Devops
+
+## PM Role at Emid Expectations
+- Monitor and handle the risks internally , before client is aware 
+- Quantify with number the issue list and action taken 
+- Ensure the BDD is followed for Front End and ff documents 
+- Resolution of nfr requirements 
+- As a TPM , be aware of CI CD , TDD and BDD 
+
+## TPM Role Expectations
+- Monitor and handle risks internally , before client team is aware
+- Quantify Issues with numbers/impact , take corrective action(s) and document steps
+- As a TPM , be aware of CI CD , TDD and BDD , ensure the BDD (Front End components) 
+- Resolution of nfr requirements
+- How to address the Delivery Top 5 risks 
+- Know the Metrics and Numbers inside out 
+- How did you Grow the team & Getting work done through others 
+- Challenge faced 
+- Responsibilities 
+- Status report for msr wsr 
+- How to handle the Delivery Risk 
+- People management , Work allocation , 
+- Team Management , conflict resolution , handle multiple priorities 
+- Project management : Schedule and Cost (Budget) , Scope - CR Process , Fixed Bid Project Steering committee - Presentation and How to drive it 
+- Tech stack worked upon (MS.net , Java , Digital , Cloud) 
+- Agile process (Backlog grooming , Velocity , Sprint Planning , Challenges from SDLC to Agile transition , QA testing ) 
+- Release management 
+- Value-Adds : Best practices , Agile audit ( Quality and metrics analysis ) , Knowledge Management
+
+## BSA 
+**BSA skills**
+* Reqs ,Requirements Elicitation/Workshop , Document Reqs 
+* Knowledge of Req patterns , Interfaces , Data modeling
+* Use cases , User Stories , User Guides , Diagrams ,
+* Cert : BABOK
+  
+## Developer
+**Design**
+* Front End: UI Patterns , Web Design  
+* Mobile : Mobile Patterns (IOS and Android)
+* API Design : API Specification
+* Back End : DB Design , DB Models OLTP , DWBI | Effective Effective SQL Query and Performance Tuning
+* Integration : Cloud  Native Patterns , EAI
+
+## QA
+**QA Testing skills**
+* Test Plan , Test Scenarios  ,
+* Test Cases ( Functional/Negative/Regression )
+* Test Automation : Selenium , Playwright 
+* API Testing : SOAP / Postman / DB Testing / Mobile / Security Testing
+
+## Devops /SCM
 * Continuous Integration 
 * Continuous Deployment , Martin Fowler Series
 * Setup and Configure Environment pipeline : Dev -> Test -> Prod 
@@ -77,6 +172,7 @@
 * Scalability
 * Cybersecurity
 
+## IT Skills
 
 **Top Tech**
 * Adv Tech :Big Data  , Machine Learning  NLP Computer Vision
