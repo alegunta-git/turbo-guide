@@ -1,3 +1,12 @@
+## Topics
+* DB Models
+* API Design
+* IA examples
+* Design Interface
+* UI Patterns
+* Web Design
+* Mobile Patterns
+
 ## Design Interface
 **yt ui**
 * [yt ui design buttons](https://www.youtube.com/watch?v=tJNR_7W_5RM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=5&pp=gAQBiAQB)
