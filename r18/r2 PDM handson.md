@@ -1,5 +1,4 @@
 ## Topics
-**R2 pdm handson**
 * amz press release
 * amz whitepapers
 
