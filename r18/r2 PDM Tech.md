@@ -1,5 +1,4 @@
 ## Topics
-**R2 pdm tech**
 * HTML
 * JSON
 * SQL
