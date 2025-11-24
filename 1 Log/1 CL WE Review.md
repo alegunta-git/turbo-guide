@@ -1,42 +1,48 @@
 ## Daily 
-
-**Puja**
-- Listen Suprahabatam
-- AM Puja,  Ghanta Aarti , 
-- 108 Japam
-- Offer Water in Can
-- PM Diya
-
-**Exercise**
-- Breathing 5min
-- Daily Walk 40 min , Post Meals  5 5 
-- Yoga 10 min
-- Ortho Ex 4 sets 10 times
-- Water Bucket (10 min) Salt
+| Puja                  | Exercise                           | Others   |
+|-----------------------|------------------------------------|----------|
+| Listen Suprahabatam   | Breathing 5min                     | medicine |
+| Offer Water in Can    | Daily Walk 40 min , Post Meals 5 5 | 2w ride  |
+| AM Puja, Ghanta Aarti | Yoga 10 min                        |          |
+| 108 Japam             | Ortho Ex 4 sets 10 times           |          |
+| PM Diya               | Water Bucket (10 min) Salt         |          |
 
 **Update Trackers**
-- Diary Notes (BLSD , Sl wa , Exercise)
-- Daily Expense
-- Reading Log
-- Tasks at home , office
-
-**Others** 
-- medicine
-- 2w ride
+- [ ] Diary Notes (Action items , Thoughts)
+- [ ] BLSD , Sleep , wakeup , exercise
+- [ ] Tasks at home , office
+- [ ] Daily Expense xls
+- [ ] Log Reading
+- [ ] List What to Read ( Align w Quarterly Goals)
+- [ ] gcal reminder
+- [ ] check gmail
+- [ ] Bill pmt reminder
+- [ ] List Skills
+- [ ] Log EPC
+- [ ] Log Travel
+- [ ] Log Doc vst
 
 ## WEEK END
-
 **w/e GTD review**
-- Review sensex trends
-- Reconcile Expense
-- Reviews Tasks ( Week) 
-- Review ofc tasks week
-- Update all trackers (gd)
+- [ ] Review sensex trends
+- [ ] Update all trackers (gd)
+- [ ] Reviews Tasks ( Week) 
+- [ ] Review ofc tasks week
 
-**Update Expense xls** 
-- Online, 
-- Cash txn , 
-- PP , Amz , Hpy
+**Reconcile Expense xls**
+- [ ] Online, 
+- [ ] Cash txn , 
+- [ ] PP , Amz 
+- [ ] Hpy 
+- [ ] Milk basket bill
+
+**w/e Reading**
+- [ ] Review PIB imp release
+- [ ] Review TH Editorial analysis yt , mark the key pts NP
+- [ ] Read sunday np 
+- [ ] Read eenadu booklet 
+- [ ] Read etw magazine
+- [ ] Setup Reading List
 
 
 ## MONTHLY
@@ -45,15 +51,19 @@
 - Check OKR for Qtr
 
 **Review month on month spend** 
-1. current month spend areas % 
-2. Review top 10 spend areas 
-3. A/L Update 
-4. Investment areas , % change
+- [ ] current month spend areas % 
+- [ ] Review top 10 spend areas 
+- [ ] Investment areas , % change
+- [ ] Check B Statement
+- [ ] Check S
+- [ ] Update Income Tracker
+- [ ] Review Asset Liability Sheet
+- [ ] Review Finance Goal sheet
+- [ ] Review Investment 1p
+- [ ] Review Income Tax 
 
-Finance Tasks
-- Check B Statement
-- Check S , Income Tax 
-- Update Income Tracker , Asset Liability Sheet
-- Review Finance Goal sheet
-- Review Investment 1p
+
+
+
+
 
