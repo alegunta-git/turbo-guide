@@ -1,9 +1,11 @@
-## github
-links
-* https://leetcode.com/studyplan/top-interview-150/
+## github IMP
 * [gh starred repo](https://github.com/alegunta-git?tab=stars)***
 * [gh OOAD grokking ooad](https://github.com/tssovi/grokking-the-object-oriented-design-interview?tab=readme-ov-file)
-* Runtime algo cheat sheet : https://algo.amonster/problems/pmruntime_summary
+* https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
+* https://github.com/dotproject/dotProject/wiki/Module-Development
+* https://github.com/InterviewReady/system-design-resources?tab=readme-ov-file#location-based-services
+* https://github.com/Ibexoft/awesome-startup-tools-list?tab=readme-ov-file
+
 
 **sysdesign**
 * [gh SD Donne Martin](https://github.com/donnemartin/system-design-primer)
@@ -14,10 +16,18 @@ links
 * https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file
 
 **dsa**
+* Runtime algo cheat sheet : https://algo.amonster/problems/pmruntime_summary
+* https://leetcode.com/studyplan/top-interview-150/
 * https://github.com/tajpouria/algorithms-and-data-structures-cheat-sheet
 * https://github.com/ashishps1
 * All Algorithms implemented in Python https://share.google/VeyF4QzISlaZrPPr4
 * https://github.com/imkgarg/Awesome-Software-Engineering-Interview?tab=readme-ov-file
+
+interview Qs
+* [gh JS int](https://github.com/sudheerj/javascript-interview-questions#what-are-classes-in-es6)
+* [gh Android](https://github.com/amitshekhariitbhu/android-interview-questions#core-android)
+* [gh backend](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions#anti-corruption-layer)
+* https://github.com/ryanoasis/dev-interview-study-guide
 
 api
 * https://github.com/WhiteHouse/api-standards?tab=readme-ov-file
@@ -41,25 +51,16 @@ pdm
 * [gh Open PDM](https://github.com/ProductHired/open-product-management)
 
 
-interview Qs
-* [gh JS int](https://github.com/sudheerj/javascript-interview-questions#what-are-classes-in-es6)
-* [gh Android](https://github.com/amitshekhariitbhu/android-interview-questions#core-android)
-* [gh backend](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions#anti-corruption-layer)
-* https://github.com/ryanoasis/dev-interview-study-guide
-
-
 resources
 * https://github.com/moparisthebest
 * https://roadmap.sh/backend/project-ideas
 * https://github.com/sindresorhus/awesome?tab=readme-ov-file
 * https://github.com/markodenic/web-development-resources
 * https://github.com/dexteryy/spellbook-of-modern-webdev?tab=readme-ov-file#microservices--api-services-nodejs
-* https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 * https://github.com/RishikeshOps/DevOps-Learning-Resources?tab=readme-ov-file
 * https://github.com/nareshbhatia/react-learning-resources?tab=readme-ov-file
 * https://github.com/flyeralarm/onboarding
-* https://github.com/Ibexoft/awesome-startup-tools-list?tab=readme-ov-file
 * https://github.com/apptension/developer-handbook?tab=readme-ov-file#apptension-technical-onboarding-checklist
 * https://github.com/elsewhencode/project-guidelines
 * https://github.com/kettanaito/naming-cheatsheet
-* https://github.com/dotproject/dotProject/wiki/Module-Development
+
