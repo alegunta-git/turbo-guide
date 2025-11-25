@@ -1,7 +1,8 @@
-## Wishlist
-* Gita
+## Hindu Religion
+* Bhagvad Gita
+* Basic Sanskrit
 * 1001 names meaning
-* Prayer Meaning
+* Meaning Daily Prayer Stotrams
 
 ## Study Skills
 * speed reading , 
