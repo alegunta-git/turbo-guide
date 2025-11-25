@@ -24,7 +24,6 @@
 * https://www.bbmp.gov.in/home
 * https://bbmptax.karnataka.gov.in/
 
-
 ## JS
 * [it jobs](https://www.itjobswatch.co.uk/)
 * [naukri](https://www.naukri.com/)
@@ -43,7 +42,7 @@
 * https://music.youtube.com/
 * https://open.spotify.com/
 
-* ## Travel 
+## Travel 
 * https://www.irctc.co.in/nget/train-search
 * https://ksrtc.in/
 * https://www.redbus.in/
