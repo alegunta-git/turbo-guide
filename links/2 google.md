@@ -9,6 +9,7 @@
 * G Shopping : https://shopping.google.com/?pli=1
 * https://www.google.com/advanced_search (iphone 15 Site: https://www.theverge.com )
 * https://images.google.com/
+* https://www.google.com/travel/flights?gl=IN&hl=en
 
 ## Social NW
 * https://x.com/?lang=en
