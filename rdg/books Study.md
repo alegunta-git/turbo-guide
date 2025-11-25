@@ -1,13 +1,10 @@
-## Hindu Religion
-* Bhagvad Gita
-* Basic Sanskrit
-
 ## On writing
 * Goins, Jeff. You are a Writer (so start acting like one) 
 * King, Stephen. On Writing: A Memoir Of The Craft 
 * Zinsser, William. On Writing Well 
 * Strunk, William and E.B. White. The Elements of Style, Fourth Edition
 * Hyatt, Michael. Writing a Winning Non-Fiction Book Proposal
+
 
 ## MBA Textbooks
 * The Elements of Style, Fourth Edition  by William Strunk Jr.
