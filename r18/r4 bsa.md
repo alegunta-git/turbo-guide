@@ -35,6 +35,7 @@
 * [yt BA tutorials for beginners](https://www.youtube.com/playlist?list=PL5nViEmyYI0ZpbH5jjFPvMZVDDPqvd080)
 * [yt bsa domain k tip](https://www.youtube.com/shorts/Jceh6MW1WdQ)
 * pradeepa : https://www.youtube.com/watch?v=LktbfHdEm-U&list=WL&index=3&pp=gAQBiAQB
+* pl pradeepa https://www.youtube.com/playlist?list=PLb3xmJwjBYTt2M0PDoUcUo76F3t3WRLnb
 
 ## BSA blogs
 * [BSA Tools](https://www.softwaretestinghelp.com/business-analysis-tools/)
