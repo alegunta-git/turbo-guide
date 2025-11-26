@@ -42,6 +42,7 @@
 * pappu
 * rasam
 * gongura rice
+* charu : https://youtu.be/GV6-6bOtNYc?si=41F-DiFIff2LIk9U
 
 ## North Indian
 * [roti](https://www.cookwithmanali.com/roti-recipe/)
