@@ -70,6 +70,8 @@ g suite
 * use gdocs : https://www.youtube.com/watch?v=vIsOMSyouUw
 * Google Docs Pageless and Markdown Code Blocks Demo https://youtu.be/pVrVsfmnwnc?si=bMCh2VV0Ej4IBtB7
 * Google Docs Beginner Tutorial https://youtu.be/RzNVGQYOmFk?si=t3dIYySZGe5eLJs3
+* para styling https://youtu.be/RPyQ-LW1X30?si=WCQ3ImoDSoHo5YKF
+* 
 
 ### G Slide
 * [g slide](https://www.youtube.com/watch?v=b_CsDAhdtpo&list=WL&index=6&pp=gAQBiAQB)
