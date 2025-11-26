@@ -4,6 +4,8 @@
 * How to Convert Excel to markdown table online? : https://youtu.be/2h0A_ZXLtrM?si=By07ck7wjPWworsg
 * word to md https://youtu.be/h8TK4g4ugtc?si=GpBDQ94WBwg-9IYZ
 * word to md w/ python https://youtu.be/8mN16cORwkc?si=p3EzOL040HPnfXqM
+* md to pdf https://youtu.be/tp5VYTkBexs?si=3n9fguNCn3ypFI5S
+* 
 
 ## Github
 * [github wiki are repos](https://www.youtube.com/watch?v=U18COUDlzu8&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=24&pp=gAQBiAQB)
