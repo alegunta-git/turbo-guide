@@ -1,7 +1,6 @@
 ## IMP yt videos
 * [use yt](https://www.youtube.com/watch?v=tY28a5dmFL4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=20&pp=gAQBiAQB)
 * yt topics : https://www.youtube.com/watch?v=I673lP_1Rn0&list=LL&index=19&pp=gAQBiAQB
-* memorize vedas https://youtu.be/Gu9lA1z3Z70?si=rjBhivU_0IGvuELc
 * Easily Highlight NCERT in pdf https://youtu.be/1tTnmfBiz1w?si=UEy3ne_2Opy4NNAb
 * gd highlight pdf https://www.youtube.com/shorts/UVrRzXwdMmw
 * convert image to text https://www.youtube.com/shorts/5mMWWQOBlHA
@@ -9,12 +8,15 @@
 * street smart vs book smart https://share.google/SzyOkHcdLDVFIjOPG
 
 ## Vedas , Edu origins
+
 **Indian way**
 * Veda Vyas : Documented the Vedas , Palm Leaves , Scriptures : Organized Knowledge
-* https://www.learnsanskrit.org/guide/
 * [Quora Vedas how to memorize](https://www.quora.com/Before-the-Vedas-were-written-down-how-were-they-memorised)
 * [How the ancients learnt the Vedas perfectly](https://indianexpress.com/article/parenting/learning/how-ancients-learnt-vedas-perfectly-5743767/)
+* memorize vedas https://youtu.be/Gu9lA1z3Z70?si=rjBhivU_0IGvuELc
 
+**Sanskrit**
+* https://www.learnsanskrit.org/guide/
 
 **UK way**
 * Blooms Taxonomy, taxonomy , Org INFO LATCH , Hierarchy
@@ -55,7 +57,7 @@
 * [tips read & remember](https://www.youtube.com/watch?v=7axLldOp6n8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=6&pp=gAQBiAQB)
 * [yt rembr read](https://youtube.com/shorts/pmHXXXH5DmI?si=FXQkobBD_rQaPVew)
 * [A System for Reading](https://www.youtube.com/watch?v=-T57bBtEymo)
-
+* danile pink how to be a better reader IMP https://youtu.be/vhZ6QAYlA_g?si=uP_SmG6LcBWpZDz_
 
 ## yt calc
 * [IMP calc soup](https://www.calculatorsoup.com/calculators/math/basic.php)
@@ -123,6 +125,7 @@ chet chat
 * [notes2](https://www.theopennotebook.com/2011/12/06/taking-good-notes/)
 * [notion](https://nira.com/how-to-use-notion/)
 * https://www.xda-developers.com/i-turned-my-note-taking-overload-to-an-efficient-pkm-system-heres-what-i-learned/
+* imp notes https://youtu.be/8ihDaS_qY7s?si=jHhdcm7R_Qe2q708
 
 
 **cbse**
@@ -144,7 +147,7 @@ chet chat
 * save kindle hl : https://www.youtube.com/watch?v=S9MrgLNBeJk&list=WL&index=2&pp=gAQBiAQB
 * [notes kindle](https://www.youtube.com/watch?v=XzsFvetijH4&list=WL&index=15)
 * https://www.makeuseof.com/kindle-tips-for-everyone/
-
+* kindle to pdf https://youtu.be/Kf0-s1mnPnc?si=tH1S2wruXuY0jjc3
 
 free ebooks
 * [sm books](https://www.youtube.com/watch?v=AAI6*zq25EE&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=29&pp=gAQBiAQB)
