@@ -34,6 +34,7 @@ Plans
 * UPSC Preparation కి Use అయ్యే Free Resourses https://youtu.be/5DBty8uS1uw?si=bPHEgSHDoPOCiEIg
 * when to quit upsc https://youtu.be/HLUQMHKUfbw?si=UQuNO8PkF66BJ1cs
 * this is how your sal is calc https://youtube.com/shorts/0kC83mR73Pg?si=E84CK_Xv-K6dqt-b
+* upsc prep plan https://youtu.be/DyW1XRDf2Ek?si=O_cOUUgSKLPiXQko
 
 Current Affairs
 * [vision ias current affairs](https://www.visionias.in/resources/current_affairs.php?c=ca)
