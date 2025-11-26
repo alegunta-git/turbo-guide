@@ -1,15 +1,11 @@
 ## LIG Skills
-* How to be Organized ,  cope with failure 
-* How to clean a home , Laundry
-* [J Shopping](https://www.youtube.com/watch?v=2cJC6OXsvV0&list=WL&index=11&pp=gAQBiAQB)
-
-## Cooking
 * How to Cook  , Refer to yt cooking for links 
-
-## Tailoring
-* [yt dress well](https://www.youtube.com/watch?v=R9BP1loyA7Y&list=PLmMyXRtEtJEbpcDHcySTAefGOFKPA_e_z&index=4&pp=gAQBiAQB)
-* TAILORING CLASS - BASIC COURSE : https://youtube.com/playlist?list=PLs4myZ6tmF0bNfY5VOOBexJCuq25BhZ8s&si=GYnYqVTbuyPCgC3k
-
+* Driving 4w
+* How to be Organized
+* cope with failure 
+* How to clean a home
+* Laundry
+* [J Shopping](https://www.youtube.com/watch?v=2cJC6OXsvV0&list=WL&index=11&pp=gAQBiAQB)
 
 ## P Finance
 * How to Manage Money  
@@ -26,12 +22,11 @@
 
 
 ## Car Driving
+* https://www.team-bhp.com/news/why-i-prefer-bangalore-metro-over-my-own-ev-daily-office-commute
+* yt shorts : https://youtube.com/shorts/z_su4cimtWo?si=NBPpLolOAmCw1YsV
 * [Hand signals](https://www.youtube.com/watch?v=rx5MfkfSYQQ&list=WL&index=4&pp=gAQBiAQB)
 * [Car Left and right](https://www.youtube.com/watch?v=pm-XV0JkYU4&list=WL&index=3&pp=gAQBiAQB)
-* yt shorts : https://youtube.com/shorts/z_su4cimtWo?si=NBPpLolOAmCw1YsV
-* https://www.team-bhp.com/news/why-i-prefer-bangalore-metro-over-my-own-ev-daily-office-commute
 * zed driving :  https://www.youtube.com/watch?v=-1qX1l4opuA&list=WL&index=1&pp=gAQBiAQB
-
 
 ## House Construction
 * [Blog House construction](https://houseconstructiontips.com/)
@@ -50,11 +45,10 @@
 * Carpenter : https://hometriangle.com/
 
 
-
 ## Naza training
 * Laptop repair 
 * Mobile repair
-* https://sctvesd.wb.gov.in/files/academic/viii_stc/new/Junior%20Mobile%20and%20Smartphone%20Repairing%20Person_MSPRA.pdf?utm_source=perplexity
+  * https://sctvesd.wb.gov.in/files/academic/viii_stc/new/Junior%20Mobile%20and%20Smartphone%20Repairing%20Person_MSPRA.pdf?utm_source=perplexity
 * Basic networking 
 * Sas data analysis 
 * Python prog
@@ -62,4 +56,8 @@
 * Kannada 
 * Basic pc
 * Tally erp9
-*  GL Tally Ovw : https://youtu.be/nySwxjRMXZU?si=-O_stDFffAhqnI8C
+  * GL Tally Ovw : https://youtu.be/nySwxjRMXZU?si=-O_stDFffAhqnI8C
+
+## Tailoring
+* [yt dress well](https://www.youtube.com/watch?v=R9BP1loyA7Y&list=PLmMyXRtEtJEbpcDHcySTAefGOFKPA_e_z&index=4&pp=gAQBiAQB)
+* TAILORING CLASS - BASIC COURSE : https://youtube.com/playlist?list=PLs4myZ6tmF0bNfY5VOOBexJCuq25BhZ8s&si=GYnYqVTbuyPCgC3k
