@@ -1,30 +1,3 @@
-## Backlog 
-Nov
-* EPI 400+pg
-
-Dec
-* Mck Case Book 300p
-
-**ofc Reading topics**
-* PV help docs
-* Prcl Test cases	
-* Prcl user guide	
-* Prcl videos	
-* Conx user guide
-* Conx videos	
-* Form processor docs
-* Prcl PR SME review comments TB GD SP
-
-**Reading Themes**
-* Study Skills
-* g search adv , cmds 
-* AI gpt Tools
-* BSA	
-* QA Test cases	
-* Design FE BE API Mobile	
-* Devops	
-
-
 ## R18 Reading V2 , Mar.2025
 | R1 UPSC             | R2 pdm tech | R2 pdm handson    |
 |---------------------|-------------|-------------------|
@@ -71,13 +44,6 @@ Dec
 
 
 ## R18 Version 1 , 07 Dec 2024
-## UPSC 
-1. NCERT 6-12 class ( Art & culture , History , Polity , Geography , Economics)
-1. Core Books  ( Polity - Lakshmikanth , Economics - S Verma , IR - Pavneet )
-1. Hindu editorials , Amazon PR , Amazon Whitepapers 
-1. Answer scripts ( Topper )
-1. Essay scripts
-1. Optionals ( Geo , Eco , Public Admin , Anthropology , Political science , Sociology)
 
 | LIG         |               |
 |-------------|---------------|
