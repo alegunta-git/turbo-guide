@@ -1,6 +1,3 @@
-Todo
-* add links for the data mining ml etc
-
 ## Book Search cmds
 * book summary good to great
 * amz - amazon services in action - customers also viewed
@@ -22,7 +19,6 @@ Todo
 ## good reads
 * [goodreads](https://www.goodreads.com/)
 * [crossword](https://www.crossword.in/collections/books)
-
 
 
 ## Suggested reading
@@ -48,10 +44,6 @@ Todo
 * https://github.com/baoozuma/Head-First-All-Series-PDF
 * https://github.com/GunterMueller/Books-3
 * https://www.freegurukul.org/blog/vedamulu-pdf/
-
-## CSE
-* [DWBI](https://anuradhasrinivas.wordpress.com/wp-content/uploads/2013/03/data-warehousing-fundamentals-by-paulraj-ponniah.pdf)
-
 
 ## Sites
 * https://theswissbay.ch/pdf/Gentoomen%20Library/
