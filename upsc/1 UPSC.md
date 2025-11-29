@@ -3,6 +3,19 @@
 * PIB Press release
 * ARC Reports
 
+## goi links
+* https://en.wikipedia.org/wiki/List_of_ministries_and_departments_of_the_Government_of_India
+* https://en.wikipedia.org/wiki/List_of_central_agencies_in_India
+* https://moef.gov.in/union-government-ministries-department
+* [ministries of india](https://www.ibef.org/economy/directory/ministries-and-departments-in-india)
+* [ARC reports*](https://darpg.gov.in/arc-reports)
+* [Economic survey*](https://www.visionias.in/resources/all_programs.php?c=economic_survey) 
+* [Constitution of India*](https://legislative.gov.in/constitution-of-india/)
+* [Polity - PRS](https://prsindia.org/)
+* [law commission of india](https://lawcommissionofindia.nic.in/)
+* https://www.livelaw.in/
+
+
 Plans
 * [upsc syllabus](https://vajiramandravi.com/upsc-syllabus/)
 * https://anujjindal.in/upsc-syllabus-for-ias-exam/
