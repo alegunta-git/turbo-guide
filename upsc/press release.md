@@ -18,6 +18,7 @@
 * Biomedical Research Careers : https://www.pib.gov.in/PressReleasePage.aspx?PRID=2176765
 * List of outcomes : https://www.pib.gov.in/PressReleasePage.aspx?PRID=2176707
 * Inclusive work space : https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178389
+* digital protection https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf
 
 ## AMZ 2025
 * https://press.aboutamazon.com/aws/2025/10/aeroporti-di-roma-transforms-passenger-experience-with-ai-virtual-assistant-powered-by-aws-and-storm-reply
