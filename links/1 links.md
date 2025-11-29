@@ -1,6 +1,12 @@
 ## Finance
 * Jagoinvestor Wealth Club Budget Sheet  https://youtu.be/dQHyj5NOCYo?si=je9Lvr4KZiakDnh-
 
+## Check out
+* Almanac : Update Dates for Pournami , Amavasya , Pradosha
+* [2025 Calendar](https://venkatramacalendar.com/2025-Venkatrama-Calendar.html)
+* [Mausam](https://mausam.imd.gov.in)
+
+
 
 ## Tools
 * https://www.ilovepdf.com/jpg_to_pdf
