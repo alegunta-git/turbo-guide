@@ -86,6 +86,29 @@ tips
 * [Productivity Tips for Google Chrome - YouTube](https://www.youtube.com/watch?v=ytT8GU1ywgE&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=18)
 
 
+Edge 
+* screen shot
+* collections
+* integration w/ copilot
+* hl yellow pdf docs 
+
+Firefox
+* default search eng , add site keyword , 
+* F9 for clean reading , 
+* right click screenshot easy way
+* ff : search bar 
+* Cust search engine (dict , maps, g img amazon , wiki , yt , thes , twtr , yelp)
+  
+Chrome
+* Chrome : Click + for new tab , cross to close tab
+* Workspace use tabs (do Left Right cmp) 
+* learn and use browser extension
+* Ctrl + k , lifehacker.com
+* Use g adv search 
+* Custom Search engines : amz , dict , gm , gi , lh , thes , t , wi , yt (set this in browser)
+* site:lh.com keyboard shortcuts , site:ms.com win security 
+* filetype ft:xls checkbook , ft:pdf search cheat sheet
+* learn 101 blog titles , id the top 30 content types 
 
 
 
