@@ -1,3 +1,7 @@
+Notes
+* **Stop DSA reading , low ROI** , Focus on gpt tools , PM , Agile , SDLC , Lig skills
+* Mar.2025 , Daily 1 hr rdg ,2-3x revision , books - gd/offline , yt videos backup info
+
 ## R18 Reading V2 , Mar.2025
 | R1 UPSC             | R2 pdm tech | R2 pdm handson    |
 |---------------------|-------------|-------------------|
