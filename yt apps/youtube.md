@@ -38,6 +38,13 @@
 
 
 ## youtube
+
+YT 
+* download yt playlist , edx and udemy to view content offline 
+* Organize yt songs and prayer playlist
+* go ad free , id the topics to learn , add pl , watch them , if reqd loop video , ask gemini to summarize video 
+* filter for view count , channel , pl
+  
 **Youtube menu**
 - YT ads - Use brave browser
 - Explore menu (Gaming, News, Music, Movies, Fashion & Beauty, Learning, Sports, Podcasts, and Shopping)
