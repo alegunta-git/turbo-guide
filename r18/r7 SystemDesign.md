@@ -41,3 +41,5 @@
 * [Latency numbers](https://gist.github.com/jboner/2841832)
 * [Back of envelope](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
 * [dt Calc Capacity](https://dev.to/ievolved/how-i-calculate-capacity-for-systems-design-3477)
+* [Caching](https://dzone.com/articles/introducing-amp-assimilating-caching-quick-read-fo)
+* [Scaler Articles](https://www.scaler.com/topics/articles/)
