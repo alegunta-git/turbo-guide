@@ -3,13 +3,13 @@
 |------------------|---------------------------------------------------|
 | PM               | **PMP**(PMBOK) , PMI ACP ,Rita PMP                |
 | Agile            | Agile (CSM,CSPO),SAFE                             |
+| AWS              | AWS Cloud Practitioner,**AWS Solution Architect** |
+| GCP/Azure        | GCP Data Engineer, Cloud Architect                |
+| MS               | Azure Exam , MCSD                                 |
 | Business Analyst | **CBAP**(BABOK)                                   |
 | QA               | ISTB                                              |
 | Design/Architect | TOGAF                                             |
 | Devops           | DASA                                              |
-| AWS              | AWS Cloud Practitioner,**AWS Solution Architect** |
-| GCP/Azure        | GCP Data Engineer, Cloud Architect                |
-| MS               | Azure Exam , MCSD                                 |
 | JIRA             | JIRA Admin                                        |
 | Dev Custom       | Oracle SQL , Oracle DBA , OCP Java                |
 | Dev EPR          | Salesforce Trail                                  |
@@ -26,9 +26,6 @@
 * api roadmap : https://www.youtube.com/watch?v=hltLrjabkiY&list=WL&index=3&pp=gAQBiAQB
 * web roadmap : https://www.youtube.com/watch?v=afgAMTln7s0&list=WL&index=5&pp=gAQBiAQB
 
-
-## AWS
-* https://dev.to/aws-builders/how-i-passed-both-aws-professional-exams-in-6-months-tips-on-how-you-can-too-32em
 
 
 ## PMP Exam
@@ -53,3 +50,7 @@
 * https://www.andycleff.com/2021/10/resources-for-product-owners/
 * https://qaiglobalinstitute.com/product/certified-scrum-product-owner-cspo-live-virtual-training-online/
 * https://scrumcrazy.wordpress.com/2018/09/22/scrumcrazy-com-is-moving/
+
+## AWS
+* https://dev.to/aws-builders/how-i-passed-both-aws-professional-exams-in-6-months-tips-on-how-you-can-too-32em
+
