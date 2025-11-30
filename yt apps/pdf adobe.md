@@ -12,8 +12,8 @@ Window : New Window , Cascade Tile , Minimize All Windows
 Help : Tutorials , About , Plug-ins , Manage Account , Sign In , Repair Installation , Check for Updates
 
 **PDF**
-- **Print pdf : select custom range to print pages you like**
-- Use MS edge to highlight text in pdf
+* **Print pdf : select custom range to print pages you like**
+* Use MS edge to highlight text in pdf
 *  [How to Save Individual Pages of a PDF ✂️ | TUTORIAL *  YouTube](https://www.youtube.com/watch?v=Irc_620LcaE&list=WL&index=45)
 *  [How To Convert JPG to PDF in Windows 10 *  Save Image to PDF *  YouTube](https://www.youtube.com/watch?v=8ZQGSVVasuE)
 *  [How to merge multiple imagesinto one PDF file](https://www.youtube.com/watch?v=bBQe7cAkOfw&list=WL&index=7)
@@ -24,3 +24,6 @@ Help : Tutorials , About , Plug-ins , Manage Account , Sign In , Repair Installa
 *  [Extract Highlight Text](http://eric* blue.com/2010/12/17/learning* faster* automatically* extract* highlighted* text* from* pdf* documents/)
 *  [change color](https://stackoverflow.com/questions/35628200/how* do* i* change* the* highlighter* color* in* adobe* acrobat* reader* dc* permanently)- Use sumatra pdf for lt weight tool read pdf
 *  How to Extract Text Playlist https://youtube.com/playlist?list=PLmut-6B2zPJS3JR9ODqimDNi07AeyudzD&si=uyobKPpojzvrtz_r
+
+**Kindle**
+* kindle to pdf calibre https://youtu.be/Ls_TOAkbGiI?si=1pB8mAdZ85TXFmC9
