@@ -1,3 +1,21 @@
+**ms word topics**  
+Word Object Model :  Application Document Selection Range Bookmark  
+Basics  
+Customize , QAT , Ribbon ,Compatibility checker , View mode , Print preview  
+Format text and para Bullets , Indents , Multi Level List  , Sorting , tab stops , para alignment , para indent , Case upper and lower ,line & para spacing , borders & shading , styles A , find and replace formats , Clear All Formatting , 3 column format , Highlighting Tips  
+Select , Copy and Paste Text in word document word , para , page , Navigating and Selecting text , move insert copy text , clipboard , undo redo repeat , page section breaks , multiple docs and apps   
+Table breaking across the pages (\*turn off properties) , Table distribute rows and columns  , Table autofit to contents ,Text to table   
+Text flow control selection and col breaks , Insert Object , text from file , Symbols captions , hyperlinks ,  
+custom graphics add text boxes , draw shapes , adv shapes a b , word art , Fill shape , outline , color , Formatting   
+pictures crop and resize image , adjust image settings , text wrapping , screen capture   
+Advanced  
+Arrange All , Windows , Reading Pane , Outline view , Split Windows , TOC , citation , cover page , table of figures ,Navigation Pane move text  
+page appearance page break , Delete page break , modify doc & layout , page border color , watermark  , header footer , Borders Page and Table  
+Prepare Newsletter , Brochure , Forms ,  Merge multiple documents , Styles(APA , Chicago) , spelling grammar , readability stats , word count   
+Word  random text : \=rand(1) , \=rand(10,10) , lorem(p,l) p paragraphs , l \# of lines   
+Templates text replacement , create templates , quick parts blocks , auto text , Macros ,TOC Indexes  
+Adv Find and replace , go to , navigation pane , Text , Digits , Regex, Remove digits ms word:Find what box type (\[0-9\]) More \>\> Wilds Cards
+
 
 ## MS Word
 Highlight
