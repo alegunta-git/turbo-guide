@@ -10,3 +10,16 @@
 * dictionary , translate doc , voice typing, notification , preference, accessibility
 * Extensions : Add on , app script
 * Help : search menus , help , training , updates , privacy policy , terms of svc , kb sc
+
+G Docs
+* [gdocs android](https://youtu.be/xV3PahIZmNs?si=pD7978Vlb*KkUxxv)
+* tips gdocs : https://www.youtube.com/watch?v=*fd2FLwlnkg
+* [How to Write a Novel in Google DocsIMP](https://www.youtube.com/watch?v=rCG6Gdj_fWE&list=WL&index=2&t=4s)
+* [Writing Templates for Google Docs (Pack of 3) — Abbie Emmons](https://abbieemmonsauthor.com/store/writing*templates*for*google*docs*pack*of*3)
+* [Write book summary](https://copywritingcourse.com/how*to*write*a*book*summary/)
+* copy text from image : https://youtu.be/WOYkAVwm3u8?si=nZAgRUusSjLMXRp-
+* https://gdoc.io/checklist-templates/new-hire-checklist-free-google-docs-template/
+* use gdocs : https://www.youtube.com/watch?v=vIsOMSyouUw
+* Google Docs Pageless and Markdown Code Blocks Demo https://youtu.be/pVrVsfmnwnc?si=bMCh2VV0Ej4IBtB7
+* Google Docs Beginner Tutorial https://youtu.be/RzNVGQYOmFk?si=t3dIYySZGe5eLJs3
+* para styling https://youtu.be/RPyQ-LW1X30?si=WCQ3ImoDSoHo5YKF
