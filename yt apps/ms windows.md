@@ -1,3 +1,37 @@
+
+
+**MS windows**
+- **Win 11 : text extractor from images**
+- Windows 11 : Use tabs feature , Snipit 11 ,  quick readact ,screen recorder
+- logical naming scheme (files)
+- run prompt lifehacker \*.doc , mac spotlight
+- Learn shortcut keys Win 10 cmd , Explorer , Paint , xls , PPT , Chrome , gcal , gdrive
+- Win: use F4 address bar , multiple desktops ( Ctrl Windows D )
+- windows breadcrumb address bar, arrows to navigate sub folders ,
+- %Windir% , %homepath% , %appdata% , %programfiles% , taskmgr ,
+- win : learn cmd names -> win R | Work : quick logger script vbs 
+- Automation : VBA , VB script , batch , selenium , unix shell
+
+**File Explorer**  
+File : open new window , open shell , help , search options  
+Home : Pin quick access , copy , paste , cut , copy path , past sc , move to , copy to , delete , rename , new folder/item  
+Home : open w/ , edit , history , select all , select none , invert selection  
+Share : share , email , zip , print , fax , adv security  
+view : navigation/preview/deails pane , layout (details) , sort by , grp by , add col , checkboxes , file name extn , hidden items , options
+
+**Notepad**  
+File : New , New Window , Open..., Save , Page Setup.., Print... , Exit  
+Edit : Undo , Cut Copy Paste Delete , Search with Bing , Find..  
+Edit : Find Next , Find Previous , Replace.. , Go To.., Select All , Time/Date  
+Format : Word Wrap , Font  
+View : Zoom , Zoom In , Zoom Out , Restore Zoom , Status Bar  
+Help : View Help , Send Feedback , About
+
+**Tableau Reprorts**  
+Before : Check Manually , Excel Updates , Business count errors  
+After : OneClick , Show user the graphs , Update results , Different Filter
+
+
 note taking
 * simplenote app , evernote , rdg (instapaper), joplin
 * evernote webclipper : https://youtu.be/q* iToNm6XH4?si=Y4wSZiLbhvh6zQqq
