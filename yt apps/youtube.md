@@ -37,8 +37,19 @@
 * I stopped chasing the algorithm and started enjoying YouTube again https://www.androidpolice.com/stop-chasing-the-youtube-algorithm/
 
 
-## youtube
+youtube viewers
+* recommendations https://youtu.be/Wn9twYUXw6w?si=WlofLRR26v8MF5pj
+* pinch zoom https://youtu.be/-o81n-heK-A?si=jn_N_iWMewhRRq3l
+* full screen https://youtu.be/xRtHEHfkCck?si=DqeMUWmHVfrD5HZN
+* jump ahead https://youtu.be/oozRsI-EUic?si=VsMGZI-hBiXaeRFf
+* queue https://youtu.be/n8TfNMEcSGY?si=6ymiBEkeA7teJinb
+* ask ai https://youtu.be/WPHtKet27ic?si=h7BWawGLH-i7lBZe
+* ask ai 2 https://youtu.be/aLXFWDhSK2g?si=pXcJvpSGjAwYWnOc
+* precise seeking aunty lea https://youtube.com/shorts/YGgdDzQMJgI?si=uTln248z7FmPz3E_
 
+
+
+## youtube
 YT 
 * download yt playlist , edx and udemy to view content offline 
 * Organize yt songs and prayer playlist
