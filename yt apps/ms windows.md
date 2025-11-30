@@ -85,6 +85,12 @@ Misc
 * make video smaller : https://www.digitalcitizen.life/make-video-smaller-windows-10/
 * navigate web pages : https://www.youtube.com/watch?v=neQTWdPVxh0&list=WL&index=5
 
+g suite
+* use alerts and reminders for future tasks , rtm app , em y/e + *  and next actions , cornell notes / bujo
+* Use gcal(tickler file/reminders)
+* gmail/outlook Master message search , Common Replies (canned response) , quick text , filter low priority msg
+
+
 Key
 * coo adv : https://www.youtube.com/shorts/ORIp9JuFQIo
 * [pbm solving tips](https://www.youtube.com/playlist?list=PL9F789252CC28FB3A)
