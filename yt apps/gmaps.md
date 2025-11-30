@@ -6,3 +6,7 @@
 * scale bar , measure distance , use layers to find places , traffic , terrain , biking
 * indoor maps , air quality , recommendations , show routes , req ride
 * shortcut to freq visited places , train and bus departures
+
+gmap
+* [gmap trick](https://www.youtube.com/watch?v=tlbsKEsYSWU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=22&pp=gAQBiAQB)
+* [Google Maps Tips and Tricks](https://www.youtube.com/watch?v=CU4dBJk97AI&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=3)
