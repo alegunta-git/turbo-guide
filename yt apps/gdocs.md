@@ -24,6 +24,8 @@ tips
 * track reading : https://www.youtube.com/shorts/H3f-HFmU_88
 * copy text from image : https://youtu.be/WOYkAVwm3u8?si=nZAgRUusSjLMXRp-
 * use gdocs : https://www.youtube.com/watch?v=vIsOMSyouUw
+* gemini gdocs https://youtu.be/d8xJZT-dYwM?si=exTzwY2f4eWuQS_M
+* pro https://youtu.be/CySmb7EsxHo?si=KTT_NBJjW3BPcYag
 
 features
 * Google Docs Pageless and Markdown Code Blocks Demo https://youtu.be/pVrVsfmnwnc?si=bMCh2VV0Ej4IBtB7
