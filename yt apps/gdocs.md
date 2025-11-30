@@ -19,6 +19,8 @@
 * https://gdoc.io/checklist-templates/new-hire-checklist-free-google-docs-template/
 
 tips
+* TAB Tips https://youtu.be/B0Rg0RK5RTQ?si=XuHGBmd7VNJM3SPh
+* Custom blocks https://youtu.be/DXiUDHJ5Gsk?si=QFh8DHfG1vM3dtmb
 * tips gdocs : https://www.youtube.com/watch?v=*fd2FLwlnkg
 * qtrly review : https://www.youtube.com/watch?v=Z_8aYbCx7zg&list=WL&index=12&t=55s&pp=gAQBiAQB
 * track reading : https://www.youtube.com/shorts/H3f-HFmU_88
