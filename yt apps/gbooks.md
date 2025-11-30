@@ -1,4 +1,4 @@
-gbooks**
+gbooks
 * [yt G Books](https://www.youtube.com/watch?v=0wy8fbawzsw&list=WL&index=10)
 * [yt g playbooks](https://www.youtube.com/watch?v=W84ZD31GV6I&list=WL&index=3&pp=gAQBiAQB)
 
