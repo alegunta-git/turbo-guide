@@ -5,17 +5,17 @@
 
 
 **ms powerpoint topics**   
-Quick Access Toolbar , Guides , Gridlines and Rulers , Views Normal , Sorter , outline , notes , slide show   
-Formatting Slides , Text , background , para alignment , line spacing , bullets and numbering , format placeholder  
-Align Middle Top Bottom , Distribute Horizontally Vertically  
-Control M \= New Slide , Right Click Layout(pictures , title slide , tables , chart), Photos Layout resize  
-Custom Design Templates slide masters title master , logo , custom bullet points  
-Create Shapes Hold Shift Key ,  Copy with Ctrl Drag , Duplicate Ctrl Shift Drag , Resize Shift and Drag ,St Line Hold Shift Key and drag  
-Shapes : Cropping to Shape , Edit Shape Points , Break the Picture into Shapes   
-Ctrl G Simple Grouping  , Ctrl Shift G Ungroup , Drawing objects , scale and rotate objects autoshapes   
-Smart art diagrams , Format painter , Eyedropper Color Picker  
-Consultant deck : Minto Pyramid Principle  , SCQA (Situation , Complication , Question , Answer) , Mckinsey Deck , BCG Deck , Pitch Book  
-Blank Slide for PPT : hold  \[Shift\] key and click  Insert New Slide icon on your toolbar.
+- Quick Access Toolbar , Guides , Gridlines and Rulers , Views Normal , Sorter , outline , notes , slide show   
+- Formatting Slides , Text , background , para alignment , line spacing , bullets and numbering , format placeholder  
+- Align Middle Top Bottom , Distribute Horizontally Vertically  
+- Control M \= New Slide , Right Click Layout(pictures , title slide , tables , chart), Photos Layout resize  
+- Custom Design Templates slide masters title master , logo , custom bullet points  
+- Create Shapes Hold Shift Key ,  Copy with Ctrl Drag , Duplicate Ctrl Shift Drag , Resize Shift and Drag ,St Line Hold Shift Key and drag  
+- Shapes : Cropping to Shape , Edit Shape Points , Break the Picture into Shapes   
+- Ctrl G Simple Grouping  , Ctrl Shift G Ungroup , Drawing objects , scale and rotate objects autoshapes   
+- Smart art diagrams , Format painter , Eyedropper Color Picker  
+- Consultant deck : Minto Pyramid Principle  , SCQA (Situation , Complication , Question , Answer) , Mckinsey Deck , BCG Deck , Pitch Book  
+- Blank Slide for PPT : hold  \[Shift\] key and click  Insert New Slide icon on your toolbar.
 
 
  **YT PPT**
