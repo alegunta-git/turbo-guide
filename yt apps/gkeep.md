@@ -6,6 +6,7 @@
 
 G Keep
 * [cp content g keep](https://www.youtube.com/watch?v=4hK_y24T8BI&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=2&pp=gAQBiAQB)
+* Create Checklists in Google keep notes app https://youtu.be/WdWnWIwsqys?si=m43qSCiI_zoRT21u
 * gkeep : https://youtu.be/ZPovcDlJ64k?si=LX204fCpHTSRD9CI&t=150
 * **save docs to g keep** : https://www.youtube.com/watch?v=LtBsIohTe5Y&list=WL&index=7&pp=gAQBiAQB
 * [Google Keep 101 - YouTube](https://www.youtube.com/watch?v=r7wV16oWE0g&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=17)
