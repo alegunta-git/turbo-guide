@@ -23,4 +23,10 @@
 ## AMZ 2025
 * https://press.aboutamazon.com/aws/2025/10/aeroporti-di-roma-transforms-passenger-experience-with-ai-virtual-assistant-powered-by-aws-and-storm-reply
 
-
+## Dec 2025
+* Delhi AQI worse , Ind Pollution not farmers issue
+* Cyclone in Chennai , Bglr weather dips
+* Cold wave in plains
+* Gov Install sanchar app
+* USA mediation for RU and UK peace plan 28 pt , negotiations
+* Aus ai guidelines https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf
