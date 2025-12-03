@@ -136,6 +136,7 @@ EMEA
 * afg tvl : https://youtube.com/shorts/ddIbA0_dY5Q?si=Kqp7TUO_I5IShGgU
 * itchy boots : https://www.youtube.com/playlist?list=PL8M9dV_BySaUE-uJADRFRrL6BiVpKC3-e
 * Marek Podlejski https://www.youtube.com/@MarekPodlejski/playlists
+* Ryan on the Road https://youtube.com/@ryan_travel?si=k1CUIyIVDoBT6qis
 
 APAC
 * [Japan vlog](https://www.youtube.com/watch?v=FhDS4oP-HoM&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=6&pp=gAQBiAQB)
