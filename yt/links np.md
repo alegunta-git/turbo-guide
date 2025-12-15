@@ -21,6 +21,7 @@ religion
 - https://www.xda-developers.com/finally-added-notebooklm-to-my-freelance-productivity-stack/
 - https://www.xda-developers.com/this-open-source-pdf-viewer-better-adobe-acrobat-research-papers-textbooks/
 - https://www.xda-developers.com/open-source-pdf-tools-that-replace-adobe-acrobat/
+- https://www.makeuseof.com/tricks-make-google-drive-free-plan-feel-unlimited/
 
 ## tools
 - https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/
