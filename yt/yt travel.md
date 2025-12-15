@@ -41,6 +41,7 @@ Travel prep
   * Landmarks in Basavanagudi : https://youtu.be/B1oqWZMttGc?si=VSHXTwSTpM0IFzHo
   * [Hampi](https://www.youtube.com/watch?v=75DfBrSe_CI&list=PLmMyXRtEtJEYAvlKVsRygD-t-CwJ9plvE&index=2&pp=gAQBiAQB)
   * [2d chikmagalur](https://chikmagalurtourism.org.in/2-days-chikmagalur-top-places-to-visit)
+  * https://mytriphack.com/lepakshi-from-bangalore/
 * Kerala
   * [Kerala](https://www.backpacknxplore.com/flexible-kerala-itinerary)
 * Madhya Pradesh
