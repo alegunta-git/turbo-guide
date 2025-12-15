@@ -1,3 +1,7 @@
+Wishlist
+* "The Pentagon’s Brain: An Uncensored History of DARPA, America’s Top Secret Military Research Agency was a Pulitzer Prize finalist, with Columbia University’s awards committee"
+
+
 ## On writing
 * Goins, Jeff. You are a Writer (so start acting like one) 
 * King, Stephen. On Writing: A Memoir Of The Craft 
