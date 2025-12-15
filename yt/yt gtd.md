@@ -3,6 +3,13 @@
 * https://culturedcode.com/things/features/
 * [Apple Things](https://www.youtube.com/watch?v=2R6o5t0VK_A&list=WL&index=3&pp=gAQBiAQB)
 
+self help
+* coo adv : https://www.youtube.com/shorts/ORIp9JuFQIo
+* [pbm solving tips](https://www.youtube.com/playlist?list=PL9F789252CC28FB3A)
+* master aqueduct : https://www.youtube.com/shorts/xpoxgrlmZvQ
+* stop chasing more : https://www.youtube.com/shorts/NW5spRks5RM
+* How Lee Kuan Yew Built Singapore  https://youtu.be/aH4cFOB2V5c?si=0QLys3KzfkN3k_zJ
+
 **PKM**
 * [common place book](https://ryanholiday.net/how*and*why*to*keep*a*commonplace*book/)
 * https://www.thegoodtrade.com/features/what*is*a*commonplace*book/
