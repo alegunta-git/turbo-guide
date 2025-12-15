@@ -1,3 +1,4 @@
+## 2025
 Aug 
 - Machine learning 
 
@@ -47,7 +48,3 @@ Nov
 
 Dec 
 - 01 tbd
-
-
-Dec 
-01 tbd
