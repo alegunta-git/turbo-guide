@@ -1,3 +1,20 @@
+## Study
+Basic Skills
+* speed reading , 
+* Note Taking(Cornell , mindmap)
+* cbse exam prep 
+
+English
+* English Grammar  
+* Essay Writing ,
+* APA Format
+* elos
+
+Book
+* write a book / ebook / book publishing
+* Copy Editor
+
+
 ## Vedas
 * Veda Vyas : Documented the Vedas , Palm Leaves , Scriptures : Organized Knowledge
 * [Quora Vedas how to memorize](https://www.quora.com/Before-the-Vedas-were-written-down-how-were-they-memorised)
