@@ -30,4 +30,7 @@
 
 **newspaper**
 * https://m.economictimes.com/magazines/panache/stop-overthinking-money-ca-wants-you-to-start-with-4-numbers-that-expose-your-finances-and-will-transform-your-savings/articleshow/125667624.cms
+* https://upstox.com/news/personal-finance/mutual-funds/how-to-find-and-recover-unclaimed-mutual-fund-money-important-fa-qs-explained/article-185886/
+* https://www.moneycontrol.com/news/business/personal-finance/declutter-your-finances-a-year-end-money-detox-guide-13722471.html
+* https://m.economictimes.com/magazines/panache/one-money-skill-to-become-unstoppable-ca-says-learning-it-puts-you-ahead-of-90-of-the-crowd/articleshow/125770561.cms#webview=1
 
