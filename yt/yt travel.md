@@ -132,6 +132,7 @@ others
 N America
 * [USA vlog](https://www.youtube.com/watch?v=ljoO7CSGb8k&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=7&pp=gAQBiAQB)
 * namaste america : https://www.youtube.com/watch?v=mvC7*m8q5hk&list=WL&index=7&pp=gAQBiAQB
+* 50 states 50 days : https://youtube.com/shorts/_ifYMvkWX0s?si=XYDIcDyQGU66t_bL
 
 EMEA
 * afg tvl : https://youtube.com/shorts/ddIbA0_dY5Q?si=Kqp7TUO_I5IShGgU
