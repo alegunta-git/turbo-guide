@@ -140,7 +140,9 @@ Responding to a question does he misses Congress, Mr. Singh said “No, the syst
 * https://www.telegraphindia.com/business/indias-largest-airline-nosedives-where-is-rakesh-gangwal-when-indigo-needs-him-most/cid/2136500#goog_rewarded
 * https://www.reuters.com/world/china/air-india-admits-compliance-culture-needs-overhaul-after-flying-airbus-without-2025-12-10/
 * https://m.economictimes.com/industry/transportation/airlines-/-aviation/four-dgca-inspectors-terminated-after-indigos-meltdown/articleshow/125926628.cms#webview=1
+* https://www.newindianexpress.com/nation/2025/Dec/14/dgca-made-contract-staff-scapegoats-by-blaming-them-for-indigo-fiasco-alleges-aviation-expert
 * https://www.indiatoday.in/trending-news/story/indigo-staff-calm-response-to-bengaluru-man-even-after-facing-angry-passengers-goes-viral-2834257-2025-12-11
+  
 
 **"Dec 09 2025 , IndiGo cuts 400-500 flights to achieve ‘full stabilisation of schedule’**
 Indigo will now operate 1,800-1,900 flights instead of 2,300 flights it used to operate daily
