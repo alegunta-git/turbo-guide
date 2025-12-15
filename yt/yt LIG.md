@@ -40,6 +40,7 @@ How to
 ## House Construction
 * [Blog House construction](https://houseconstructiontips.com/)
 * [House Plan](https://www.homeplansindia.com/stages-of-house-construction-in-india.html)
+* DIY Balcony Makeover https://youtube.com/shorts/X43_laR5juI?si=47yd7tSgqc0OVUuh
 
 ## Electrician
 * [UrbanFix](https://urbanfix.co.in/ac-installation-service-bangalore/)
