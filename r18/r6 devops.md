@@ -1,4 +1,0 @@
-## Topics
-* CICD
-* Github
-* Jenkins
