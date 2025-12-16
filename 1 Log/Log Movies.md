@@ -29,7 +29,9 @@ Nov
 - 29 tc sum of all fears , exterritorial
 
 Dec 
+- 07 bool chook maaf
 - 09 benghazi
+- 13 kaanta 
 - 14 Tamil movie
 
 
