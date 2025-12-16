@@ -23,6 +23,9 @@ Book
 * https://www.learnsanskrit.org/guide/
 * Blooms Taxonomy, taxonomy , Org INFO LATCH , Hierarchy
 
+links
+* read textbook https://www.cuesta.edu/student-support/academic-success/ssc/study-guides/reading-comp/305-read-text.html
+* Digital skills g edu https://edu.exceedlms.com/student/catalog/list?category_ids=11331-applied-digital-skills
 
 
 ## math
