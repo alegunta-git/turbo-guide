@@ -47,5 +47,13 @@ Nov
 - 30 best 9h yt bsa pradeepa vid , rvw sme other videos
 
 Dec 
-- 01 tbd
+- 01 yt bsa , epi
+- 02 sh bk , epi , yt ryan tvl
+- 03 epi 3 , yt ryan tvl , epix hx yt
+- 08 epi 4 ,
+- 09 epi 3
+- 10 epi 4 . yt dev sme gd , yt teams IMP
+- 11 epi 4 , ux nn grp pl
+- 12 epi 1
+- 14 yt hx channels turkey , mongols 
 - 15 webdesign , info anxiety*
