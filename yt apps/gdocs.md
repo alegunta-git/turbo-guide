@@ -31,6 +31,7 @@ tips
 * pro https://youtu.be/CySmb7EsxHo?si=KTT_NBJjW3BPcYag
 
 features
+* gdocs PL https://www.youtube.com/playlist?list=PLU8ezI8GYqs4JKwZ-fpBP-zSoWPL8Sit7 
 * Google Docs Pageless and Markdown Code Blocks Demo https://youtu.be/pVrVsfmnwnc?si=bMCh2VV0Ej4IBtB7
 * Google Docs Beginner Tutorial https://youtu.be/RzNVGQYOmFk?si=t3dIYySZGe5eLJs3
 * para styling https://youtu.be/RPyQ-LW1X30?si=WCQ3ImoDSoHo5YKF
