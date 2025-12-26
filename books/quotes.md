@@ -1,3 +1,36 @@
+## IMP 
+* **Apple : Simplify , simplify , simplify** 
+* OPM , OPK , OPE 
+* **Dont REINVENT WHEEL , Dont boil ocean ( Simplest doable NEXT Step , analyze tradeoffs)**
+* **Dont start AT Level zero *  search internet for ideas (g image search w/ domain words ,frameworks)**
+* **PEEP(Place for everything , everything has its own place) -> Don’t search things twice**
+* **thinking vs action mode ( list 20 doable tasks , action verbs : Call Bob re q2 sales ) , habits chain calendar**
+* **When in Doubt Minimize/Throw out**
+* **Dont Solve A LOT OF of problems *  Aim Top 3 Initiatives**
+* **org life in text files (np++)** prj.txt , todo.txt , sdmb.txt
+* **CG Engineer , notepad txt files to track pwd , mutual fund investment , review progress at work**
+* Onsite DBA Swiss - set 15 min reminder to meet up
+* **use Right click of mouse**
+* **Use QAT toolbar in xls word and ppt ( 20% of ops done 80% of time)**
+* **Search : Ctrl K(Browser), windows cmd glass , Blog 101 titles(Search content)**
+* **Use macros(xls) , Templates(word) , canned responses(outlook) , Onenote(Ideas and Revision note)**
+* IMP Productivity tip **Learn and Use ddg bangs**-> Customize for chrome(Custome search engines) (!gi image)
+* Customize good approaches , **write SOP for working soution**
+* Steal like an Artist - look for patterns ( Steve J) , Know First principles( Elon M )
+* DSA : divide and conquer pbm space , MVP , scale what works , dynamic programming , binary search log n , merge sort pivot
+
+## Tips
+* Start somewhere !!! , Start with what you have 
+* You May Wonder "How much should I give?" The answer is always, "Start where you are. Do what works for you. The teaching will unfold naturally."
+* Knowledge in the Head vs Knowledge in the world
+* Form follows function , Design Thinking , User experience 
+* work smart vs work dumb , Street smart vs Realities , 
+* Simplicity vs complexity , wastage vs efficiency , good enough vs perfection
+* Embrace technology, simplify life , reduce clutter
+*  80 20 tech usage : tools know basic path ,search for hacks and tips , master power user concepts , learn shortcut keys freq used operations
+* Use tv for edu purpose , phone to read blogs 
+
+
 ## Quotes
 * Newton :"If I have seen further, it is by standing on the shoulders of giants."
 * Give me a lever long enough and a fulcrum on which to place it, and I shall move the world._
@@ -5,6 +38,7 @@
 * 'Good artists copy, great artists steal.'
 * "Send a one page summary of what you've accomplished in the past four weeks and what you intend to accomplish in the next four weeks. This is due by noon on Thursday," elon Musk
 * We must beware of a certain craze for collecting which sometimes takes possession of those who make notes.... That is a deplorable practice. —A.G. Sertillanges, O.P., The Intellectual Life
+* "Trade money for time, not time for money. You're going to run out of time first," says Investor & AngelList Founder Naval Ravikant
 
 
 ## Sayings
@@ -27,40 +61,6 @@
   * On such a full sea ae we now afloat , And we must take the current when it serves , or Lose our ventures
 
 
-## IMP 
-* **Apple : Simplify , simplify , simplify** 
-* OPM , OPK , OPE 
-* **Dont REINVENT WHEEL , Dont boil ocean ( Simplest doable NEXT Step , analyze tradeoffs)**
-* **Dont start AT Level zero *  search internet for ideas (g image search w/ domain words ,frameworks)**
-* **PEEP(Place for everything , everything has its own place) -> Don’t search things twice**
-* **thinking vs action mode ( list 20 doable tasks , action verbs : Call Bob re q2 sales ) , habits chain calendar**
-* **When in Doubt Minimize/Throw out**
-* **Dont Solve A LOT OF of problems *  Aim Top 3 Initiatives**
-* **org life in text files (np++)** prj.txt , todo.txt , sdmb.txt
-* **CG Engineer , notepad txt files to track pwd , mutual fund investment , review progress at work**
-* Onsite DBA Swiss - set 15 min reminder to meet up
-* **use Right click of mouse**
-* **Use QAT toolbar in xls word and ppt ( 20% of ops done 80% of time)**
-* **Search : Ctrl K(Browser), windows cmd glass , Blog 101 titles(Search content)**
-* **Use macros(xls) , Templates(word) , canned responses(outlook) , Onenote(Ideas and Revision note)**
-* IMP Productivity tip **Learn and Use ddg bangs**-> Customize for chrome(Custome search engines) (!gi image)
-* Customize good approaches , **write SOP for working soution**
-* Steal like an Artist - look for patterns ( Steve J) , Know First principles( Elon M )
-* DSA : divide and conquer pbm space , MVP , scale what works , dynamic programming , binary search log n , merge sort pivot
-
-
-
-
-## Tips
-* Start somewhere !!! , Start with what you have 
-* You May Wonder "How much should I give?" The answer is always, "Start where you are. Do what works for you. The teaching will unfold naturally."
-* Knowledge in the Head vs Knowledge in the world
-* Form follows function , Design Thinking , User experience 
-* work smart vs work dumb , Street smart vs Realities , 
-* Simplicity vs complexity , wastage vs efficiency , good enough vs perfection
-* Embrace technology, simplify life , reduce clutter
-*  80 20 tech usage : tools know basic path ,search for hacks and tips , master power user concepts , learn shortcut keys freq used operations
-* Use tv for edu purpose , phone to read blogs 
 
 ## Problem Solving
 * [simplest thing](https://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork) That WORKS !!
@@ -86,6 +86,15 @@
 * zipfs rule 
 * [Organize  w/ LATCH](https://parsonsdesign4.wordpress.com/resources/latch-methods-of-norganization/)
 * LATCH == Location/AZ/Time/Category/Hierarchy , (1) Use LATCH principle (2) Organize for Findability (3) Easy Accessibility
+
+
+## Declutter
+"In the words of Francine Jay, “Remember: you are not what you own. Storing all those books doesn’t make you any smarter; it just makes your life more cluttered.”
+
+“The more you have, the more you are occupied. The less you have, the more free you are.”—Mother Teresa
+
+Thus, things lying around messily are reminders of tasks and goals that you haven’t achieved yet. But, these reminders are not effective reminders because your focus is scattered all over the place. When you declutter your space, you are, in effect, prioritizing your goals in your mind as well. This will help you focus much better on each goal, achieving it, and then moving on to the next.
+
 
 ## Work
 * Ashley S : "Preparation is half the battle" , How to color the ms word , good docs , crisp presentation to client , Dont overwhelm them
