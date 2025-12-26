@@ -22,6 +22,10 @@ religion
 - https://www.xda-developers.com/this-open-source-pdf-viewer-better-adobe-acrobat-research-papers-textbooks/
 - https://www.xda-developers.com/open-source-pdf-tools-that-replace-adobe-acrobat/
 - https://www.makeuseof.com/tricks-make-google-drive-free-plan-feel-unlimited/
+- https://www.xda-developers.com/replaced-adobe-acrobat-with-fast-open-source-pdf-reader/
+- https://www.xda-developers.com/stopped-using-smart-note-taking-apps-built-own-with-plain-text-scripts/
+- https://www.xda-developers.com/formats-better-than-pdf-for-storing-documents/
+
 
 ## tools
 - https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/
@@ -41,6 +45,8 @@ religion
 - https://www.livemint.com/technology/gadgets/10-best-tablets-for-productivity-for-students-with-the-latest-features-and-more-top-picks-with-modern-design-and-featur-11758184579382.html
 - https://timesofindia.indiatimes.com/education/news/5-math-problem-solving-strategies-every-student-should-master-by-age-14/photostory/125081439.cms
 - https://www.moneycontrol.com/artificial-intelligence/how-google-reclaimed-the-ai-crown-article-13702328.html
+- https://www.androidpolice.com/started-using-gemini-to-create-notes-in-google-keep/
+- https://www.androidauthority.com/ways-using-ai-for-hobbies-3624877/
 
 
 ## health
@@ -56,6 +62,8 @@ religion
 - https://www.bbc.com/news/articles/c5yplj4j0l5o
 - https://m.economictimes.com/magazines/panache/dogwalker-rs-5000-cook-rs-8000-total-heart-bypass-cost-rs-5-lakh-delhi-cardiologist-shares-the-real-price-of-modern-comfort/articleshow/125215511.cms#amp_tf=From%20%251%24s&aoh=17628483842698&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fm.economictimes.com%2Fmagazines%2Fpanache%2Fdogwalker-rs-5000-cook-rs-8000-total-heart-bypass-cost-rs-5-lakh-delhi-cardiologist-shares-the-real-price-of-modern-comfort%2Farticleshow%2F125215511.cms
 - https://www.business-standard.com/health/how-sitting-too-long-raises-blood-sugar-even-if-you-exercise-daily-125111700526_1.html
+- https://timesofindia.indiatimes.com/city/bengaluru/healthy-cops-happier-force-wellness-drive-brings-visible-change-in-three-months-in-bengaluru/articleshow/126082659.cms#webview=1
+
 
 ## np
 - https://m.economictimes.com/magazines/panache/stop-wasting-rs-40000-on-food-delivery-apps-ca-shares-the-smarter-switch-that-saves-rs-5-6-lakh/articleshow/125649996.cms#webview=1
