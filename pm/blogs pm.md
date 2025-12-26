@@ -40,6 +40,9 @@
 * [DeptPrd Blog](https://www.departmentofproduct.com/blog/)
 * [DeptPrd Metrics PDM](https://www.departmentofproduct.com/blog/metrics-matter-product-managers/)
 * [Scott H Blog](https://www.hanselman.com/blog/a-coder-a-programmer-a-hacker-a-developer-and-a-computer-scientist-walk-into-a-venn-diagram)
+*  PDM no need to code https://youtu.be/FT*Vd4aVz_k?si=*j85f3S410ART4Ve
+*  Assoc pdm https://youtu.be/IvsHferMh4Y?si=YnxEP1kaWPwhEXHe
+
 
 **Manager blogs**
 * [Sincera Metrics](https://www.sincera.in/five-sales-performance-metrics-key-to-successful-business-operations/)
