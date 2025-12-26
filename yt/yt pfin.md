@@ -82,6 +82,8 @@
 * [ppf or nps](https://www.youtube.com/watch?v=60ALIIapZ5g&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=17&pp=gAQBiAQB)
 
 ## Mutual fund
+*  Best mf 2025 https://youtu.be/JCnNr58H1cM?si=Nhe36SqFbe0S5*YF
+*  Must have mf https://youtu.be/kaIVeeIhsq4?si=XkPJ06w1cLBBI1dP
 * setup SWP : https://www.youtube.com/watch?v=oO2mr8bK7mY&list=LL&index=15&pp=gAQBiAQB0gcJCbIJAYcqIYzv
 * sip calc : https://www.youtube.com/watch?v=PzWpBqOp1KU&list=LL&index=14&pp=gAQBiAQB
 * top up sip : https://www.youtube.com/watch?v=-2Q5InnZXCI&list=LL&index=16&pp=gAQBiAQB0gcJCbIJAYcqIYzv
