@@ -52,6 +52,20 @@ The 78-year-old industry pioneer outlined the distinct yet interconnected roles 
 
 https://share.google/ns1uPU8P4VxyesGvT
 
+## Indigo Crisis , Dec 2025
+* https://www.telegraphindia.com/business/indias-largest-airline-nosedives-where-is-rakesh-gangwal-when-indigo-needs-him-most/cid/2136500#goog_rewarded
+* https://www.reuters.com/world/china/air-india-admits-compliance-culture-needs-overhaul-after-flying-airbus-without-2025-12-10/
+* https://m.economictimes.com/industry/transportation/airlines-/-aviation/four-dgca-inspectors-terminated-after-indigos-meltdown/articleshow/125926628.cms#webview=1
+* https://www.newindianexpress.com/nation/2025/Dec/14/dgca-made-contract-staff-scapegoats-by-blaming-them-for-indigo-fiasco-alleges-aviation-expert
+* https://www.indiatoday.in/trending-news/story/indigo-staff-calm-response-to-bengaluru-man-even-after-facing-angry-passengers-goes-viral-2834257-2025-12-11
+  
+IndiGo restores 2,200 flights; CEO says 'worst is behind us' - [Rediff.com](http://rediff.com/) https://www.rediff.com/news/report/indigo-restores-2200-flights-ceo-says-worst-is-behind-us/20251218.htm
+
+**"Dec 09 2025 , IndiGo cuts 400-500 flights to achieve ‘full stabilisation of schedule’**
+Indigo will now operate 1,800-1,900 flights instead of 2,300 flights it used to operate daily
+
+**Government may seek reconstitution of IndiGo’s board over FDTL fallout** 
+"Sources added that given the dependence of the Indian aviation industry on the IndiGo network, which accounts for 65 percent of market share, it is advisable to have more people on the board who can question network design, crew utilisation, rostering, aircraft ground time and regulatory exposure with domain authority, so that operational risk gets board-level visibility rather than remaining buried within the managerial layers.
 
 
 
