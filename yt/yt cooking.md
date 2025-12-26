@@ -50,6 +50,8 @@
 * [roti](https://www.cookwithmanali.com/roti-recipe/)
 * NI daal
 * hebbars indian dinner : https://youtu.be/tYjxvVn8Lpc?si=AsjYewa3G2f0EsrV
+* kurma puri https://youtu.be/oollG-WTpQw?si=Jin1WGwSTba_lCF5
+* saag boondi raita https://youtu.be/dwBj_JRzQTc?si=j9WinZMuuHK55owx
 
 ## Food vlog
 * [yt nisha m](https://www.youtube.com/watch?v=kRjU6rZ0ni4&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=1&pp=gAQBiAQB)
