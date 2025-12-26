@@ -19,6 +19,25 @@
 * Form processor docs
 * Prcl PR SME review comments TB GD SP
 
+
+## Study
+Basic Skills
+* speed reading , 
+* Note Taking(Cornell , mindmap)
+* cbse exam prep 
+
+English
+* English Grammar  
+* Essay Writing ,
+* APA Format
+* elos
+
+Book
+* write a book / ebook / book publishing
+* Copy Editor
+
+
+
 ## Tools 
 **PM tools**
 * PV help docs
