@@ -5,28 +5,11 @@ markdown to pdf
 ## meta ai
 * Meta ai wa https://youtu.be/mEuBrfS3A34?si=DZ3kPpoJUFkOdOrp
 * Copy paste from gpt https://youtu.be/wbHeOOAFHSc?si=FL*ufxZpIQiflELw
+* How To Use Meta AI for Business in 2025 https://www.webfx.com/blog/ai/meta-ai/
+ 
 
-
-## notebook llm
-* use llm : https://www.youtube.com/watch?v=w-urtJiCKhw&list=WL&index=8&pp=gAQBiAQB
-* llm and perplexity : https://www.youtube.com/watch?v=tiM8Bk_pOdg&list=WL&index=9&pp=gAQBiAQB
-* summarize files : https://www.youtube.com/watch?v=mVykl3Pz368&list=WL&index=10&pp=gAQBiAQB
-* research tool : https://share.google/UsLEDIOKtqksCiWTL
-* programming : https://www.xda-developers.com/ways-i-use-notebooklm-for-programming/
-
-## copilot
-* How to chat with Microsoft Copilot https://youtu.be/Xg5UY-o3HbU?si=FwRS1LNR_3M5z-AM
-* How to create a great Microsoft Copilot prompt  https://youtu.be/9b0LOSjq39w?si=BZkJSuzgbzsdwuJh
-* copilot : https://www.youtube.com/playlist?list=PL_dhPga7ruudNJa_Tzx_7go8b24dGjqEJ
-* copilot tips :  https://www.youtube.com/watch?v=MuocazjjZmc&list=WL&index=10&pp=gAQBiAQB
-
-
-## mcp
-* https://www.infoworld.com/article/4063670/model-context-protocol-mcp-certification-when-will-it-arrive-and-what-will-it-mean.html
-* agents mcp : https://youtu.be/OmJAtDFcSZY?si=lFs3inraUVAPuE5O
-* mcp server : https://www.youtube.com/shorts/4nvrdYEvR_k
-* https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/
-* MCP in Practice | Towards Data Science https://towardsdatascience.com/mcp-in-practice/
+Claude
+* Claude chrome : https://youtu.be/mCj4kx_P2Ak?si=rM9myKbFqi1olg7k
 
 
 ## gemini
@@ -34,9 +17,18 @@ markdown to pdf
 * image to table : https://www.youtube.com/watch?v=I7QUi8Kyqo8&list=WL&index=2&pp=gAQBiAQB
 * resume gemini : https://www.youtube.com/watch?v=KIWdgg_0TlI&list=WL&index=11&t=120s&pp=gAQBiAQB
 * ask qs study : https://www.youtube.com/watch?v=P7vhAF9Dr4o&list=WL&index=4&pp=gAQBiAQB
-* Claude chrome : https://youtu.be/mCj4kx_P2Ak?si=rM9myKbFqi1olg7k
 * sonnet : https://www.youtube.com/watch?v=Tdg_lkCMzY0&list=LL&index=1&pp=gAQBiAQB
 * dsa ai hacks : https://youtu.be/dHVq7pK83QE?si=EAMJStMwOH2fkddq
+* 10 Gemini prompts to help you keep your New Year's resolutions https://share.google/E0jwJWxzc3cHRgt
+* https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html
+
+
+## copilot
+* How to chat with Microsoft Copilot https://youtu.be/Xg5UY-o3HbU?si=FwRS1LNR_3M5z-AM
+* How to create a great Microsoft Copilot prompt  https://youtu.be/9b0LOSjq39w?si=BZkJSuzgbzsdwuJh
+* copilot : https://www.youtube.com/playlist?list=PL_dhPga7ruudNJa_Tzx_7go8b24dGjqEJ
+* copilot tips :  https://www.youtube.com/watch?v=MuocazjjZmc&list=WL&index=10&pp=gAQBiAQB
+
 
 ## perplexity 
 * perplexity tasks for stock mkt news snippet : https://youtu.be/EK-CsG8gKA8?si=P63Er3CEEek9Ttek
@@ -75,6 +67,22 @@ markdown to pdf
 * resume : https://www.zdnet.com/article/how-to-use-chatgpt-to-optimize-your-resume/
 * gpt qa : https://www.youtube.com/watch?v=0PqHyqA1PJU&list=WL&index=8
 * quiz q gpt : https://youtube.com/shorts/UVwRFCHAYmk?si=pOik95CaboaZ3UJK
+
+## notebook llm
+* use llm : https://www.youtube.com/watch?v=w-urtJiCKhw&list=WL&index=8&pp=gAQBiAQB
+* llm and perplexity : https://www.youtube.com/watch?v=tiM8Bk_pOdg&list=WL&index=9&pp=gAQBiAQB
+* summarize files : https://www.youtube.com/watch?v=mVykl3Pz368&list=WL&index=10&pp=gAQBiAQB
+* research tool : https://share.google/UsLEDIOKtqksCiWTL
+* programming : https://www.xda-developers.com/ways-i-use-notebooklm-for-programming/
+
+
+## mcp
+* https://www.infoworld.com/article/4063670/model-context-protocol-mcp-certification-when-will-it-arrive-and-what-will-it-mean.html
+* agents mcp : https://youtu.be/OmJAtDFcSZY?si=lFs3inraUVAPuE5O
+* mcp server : https://www.youtube.com/shorts/4nvrdYEvR_k
+* https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/
+* MCP in Practice | Towards Data Science https://towardsdatascience.com/mcp-in-practice/
+
 
 
 ## ai tools
