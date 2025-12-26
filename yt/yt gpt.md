@@ -1,13 +1,10 @@
-Tools
-* chatgpt , open ai docs
-* perplexity , docs 
-* copilot 
-* claude
-* comet browser
-
 markdown to pdf
 * pdf to md https://youtu.be/h8TK4g4ugtc?si=MTivic4W0vrQv1Ld
 * w python https://youtu.be/8mN16cORwkc?si=4kcej0-pdiJuunsF
+
+## meta ai
+* Meta ai wa https://youtu.be/mEuBrfS3A34?si=DZ3kPpoJUFkOdOrp
+* Copy paste from gpt https://youtu.be/wbHeOOAFHSc?si=FL*ufxZpIQiflELw
 
 
 ## notebook llm
@@ -89,5 +86,13 @@ markdown to pdf
 * ai tools cmp : https://www.youtube.com/shorts/QyiSsApvyc4
 * 5 ai : https://www.youtube.com/shorts/BKlXKpTkDqk
 * free ai tools : https://www.youtube.com/shorts/FZml4h4uXJU
+
+Tools
+* chatgpt , open ai docs
+* perplexity , docs 
+* copilot 
+* claude
+* comet browser
+
 * ai tool study : https://youtube.com/shorts/ERfRgG1PoRI?si=IVhIC2N5HCvE5Zyo
 
