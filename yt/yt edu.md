@@ -1,20 +1,3 @@
-## Study
-Basic Skills
-* speed reading , 
-* Note Taking(Cornell , mindmap)
-* cbse exam prep 
-
-English
-* English Grammar  
-* Essay Writing ,
-* APA Format
-* elos
-
-Book
-* write a book / ebook / book publishing
-* Copy Editor
-
-
 ## Vedas
 * Veda Vyas : Documented the Vedas , Palm Leaves , Scriptures : Organized Knowledge
 * [Quora Vedas how to memorize](https://www.quora.com/Before-the-Vedas-were-written-down-how-were-they-memorised)
@@ -23,44 +6,7 @@ Book
 * https://www.learnsanskrit.org/guide/
 * Blooms Taxonomy, taxonomy , Org INFO LATCH , Hierarchy
 
-links
-* read textbook https://www.cuesta.edu/student-support/academic-success/ssc/study-guides/reading-comp/305-read-text.html
-* Digital skills g edu https://edu.exceedlms.com/student/catalog/list?category_ids=11331-applied-digital-skills
-
-
-## math
-* 125 + 10 , 125 - 10 , 125 * 10 , 125 / 10 
-* 125 + 10% , 125 - 20% , 125 * 15% , 125 / 5% 
-* 2 * 2 * 2 * 2 = ,
-* 2^4 16 ,
-* 4 * sqrt(16) ,
-* log 1000 , ln 10
-
-## yt calc
-* [IMP calc soup](https://www.calculatorsoup.com/calculators/math/basic.php)
-* [hp calc](https://h10032.www1.hp.com/ctg/Manual/c00363319.pdf)
-* [yt calc](https://www.youtube.com/watch?v=X98-TJRMZRk&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=11&pp=gAQBiAQB)
-* yt study math : https://www.youtube.com/watch?v=3RyL_FqbaX0&list=WL&index=6&pp=gAQBiAQB
-* [mbl calc](https://www.youtube.com/watch?v=CTZ9nvIrsrM&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=3&pp=gAQBiAQB)
-* [mbl discount](https://www.youtube.com/watch?v=9_2nOgv6UDY&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=2&pp=gAQBiAQB)
-* [prd discount](https://www.youtube.com/watch?v=VWcDMlRbQbk&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=4&pp=gAQBiAQB)
-
-## Case Math
-* [percentage](https://wordpandit.com/percentages-formulas-tricks-and-shortcuts/)
-* [26 Formulas](https://www.hackingthecaseinterview.com/pages/case-interview-formulas)
-* [fast math skills*](https://managementconsulted.com/fast-math/)
-* [Charts](https://www.hackingthecaseinterview.com/pages/case-interview-graphs-charts)
-* [scribd](https://www.slideshare.net/medcentercc/2017-case-interview-workshop-i)
-* [Quant Reading](https://quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/#excel)
-* [FAST Calc](https://www.fastmath.net/ace-the-case/fast-calculation-methods/)
-* [Maths1](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-maths)
-* [Maths2](https://casecoach.com/b/how-to-ace-case-interview-math-free-casecoach-guide/)
-* [Math3](https://classmill.com/brendalouis/management-consulting-test-and-interview-prep/m/O5kv)
-* [case math](https://www.youtube.com/watch?v=ZaVBHRn-ZRQ&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=5&pp=gAQBiAQB)
-* [Guesstimation](https://www.streetofwalls.com/finance-training-courses/consulting-case-study-training/consulting-guesstimate-cases/)
-
-
-## tips
+## yt tips
 * [use yt](https://www.youtube.com/watch?v=tY28a5dmFL4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=20&pp=gAQBiAQB)
 * yt topics : https://www.youtube.com/watch?v=I673lP_1Rn0&list=LL&index=19&pp=gAQBiAQB
 * Easily Highlight NCERT in pdf https://youtu.be/1tTnmfBiz1w?si=UEy3ne_2Opy4NNAb
@@ -71,7 +17,17 @@ links
 * [Export text using free pdf](https://www.youtube.com/watch?v=r46uaho58DM&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=22)
 * learn python w gpt : https://www.youtube.com/watch?v=ChoeKcjlYuI&list=LL&index=43&pp=gAQBiAQB0gcJCbIJAYcqIYzv
 * [yt docs hindi typing](https://www.youtube.com/watch?v=lWr9FlZwwWQ&list=WL&index=17)
-  
+* read textbook https://www.cuesta.edu/student-support/academic-success/ssc/study-guides/reading-comp/305-read-text.html
+* Digital skills g edu https://edu.exceedlms.com/student/catalog/list?category_ids=11331-applied-digital-skills
+*  Trivikram https://youtu.be/5S*N86JOIWQ?si=aoqzI3ZNYJRDlGJC
+*  Weight forgot to put down https://youtu.be/sPxvU5Lj15E?si=2NFRz6qzSqKOUTQn
+*  mother as mentor https://youtu.be/JIALnhsFU5o?si=_avjHB5JR4oKKkI8
+*  How to Search for Brief, Captioned Videos in YouTube  https://youtu.be/ZmGfmIFTmkg?si=lvPYZXtTokOTnu7c
+*  Sneha P https://youtube.com/@snehapatil8592?si=Pb6q8By_5TgXSlXg
+*  Videos for Students https://youtube.com/playlist?list=PL0P2tZadZg*u*0WLb_eNcH2E6OsKJ7eYg&si=rt2vyDJqqNyTsyZ*
+*  4 courses https://youtube.com/shorts/pLQtqOqxu_k?si=5V*C5059oNi0a5Ew
+
+ 
 
 **How to read**
 * **take notes** :https://www.youtube.com/watch?v=mQzYdYOp9jg&list=LL&index=8&pp=gAQBiAQB
