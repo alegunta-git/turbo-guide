@@ -1,3 +1,6 @@
+10 Samurai Life Rules For How To Be Mentally Strong, According to Miyamoto Musashi - New Trader U https://share.google/Ta66vjhISCs7s3RNW
+
+
 **"The mentor’s playbook**
 Speaking recently on The Gstaad Guy Podcast with Gustaf Lundberg Toresson, Schmidt shared that this practice was first encouraged by his mentor, the late Bill Campbell, the legendary “coach” to Silicon Valley’s top leaders. Each weekend, Schmidt carves out time to think, write, and plan the coming week — without distractions, phones, or notifications."
 
@@ -7,12 +10,6 @@ Australian traveller learns a life lesson from English-speaking Indian auto driv
 
 
 "Kaushik pointed out that money created without the right financial discipline and education is rarely sustained. “The first generation earns it. The second enjoys it. The third often forgets how it was built,” he said, highlighting how financial success often weakens as it passes down."
-
-
-10 Samurai Life Rules For How To Be Mentally Strong, According to Miyamoto Musashi - New Trader U
-
-10 Samurai Life Rules For How To Be Mentally Strong, According to Miyamoto Musashi - New Trader U https://share.google/Ta66vjhISCs7s3RNW
-
 
 **'We have everything but tourists': Bangkok beats India 3:1, analyst calls it a failure - BusinessToday**
 - "Keep top 50 tourist zones spotless
@@ -103,49 +100,4 @@ Responding to a question does he misses Congress, Mr. Singh said “No, the syst
 
 "Health is another non-negotiable for him. Patel admits he’s not obsessed with fitness, but he makes sure to exercise at least 20–30 minutes a day. What matters, he says, is consistency, especially when every day in tech looks different from the last. “I’m not in great shape, but I’m not in terrible shape,” he joked, acknowledging that he often has to recalibrate and start again."
 
-## PIB 2025 
-* World Health Day 2025 : https://pib.gov.in/PressReleasePage.aspx?PRID=2119577
-* India’s Fight Against Anemia : https://pib.gov.in/PressReleasePage.aspx?PRID=2122623
-* Trainee ias officer : https://pib.gov.in/PressReleasePage.aspx?PRID=2123043
-* CHGS change of id card  sop : https://pib.gov.in/PressReleasePage.aspx?PRID=2123696
-* India’s Record Cargo Movement on Inland Waterways : https://pib.gov.in/PressReleasePage.aspx?PRID=2124061
-* telecom sector perf : https://pib.gov.in/PressReleasePage.aspx?PRID=2124056
-* Digital gaming : https://pib.gov.in/PressReleasePage.aspx?PRID=2124722
-* gyan post : https://pib.gov.in/PressReleasePage.aspx?PRID=2124967
-* roadmap : https://pib.gov.in/PressReleasePage.aspx?PRID=2124961
-* UIDAI Face authentication pilot NEET :https://pib.gov.in/PressReleasePage.aspx?PRID=2127017
-* “Phulera Ka Panchayati Raj” : https://pib.gov.in/PressReleasePage.aspx?PRID=2126985
-* NCDRC : https://www.pib.gov.in/PressReleasePage.aspx?PRID=2157241
-* https://www.pib.gov.in/PressReleasePage.aspx?PRID=2166787
-* https://ommcomnews.com/odisha-news/odisha-launches-ama-sathi-whatsapp-chatbot-for-seamless-citizen-services/
-* https://www.financialexpress.com/money/after-da-hike-biggest-cghs-rate-revision-in-15-years-for-central-govt-employees-details-here-3998723/
-* using ai : https://www.pib.gov.in/PressReleasePage.aspx?PRID=2176781
-* Biomedical Research Careers : https://www.pib.gov.in/PressReleasePage.aspx?PRID=2176765
-* List of outcomes : https://www.pib.gov.in/PressReleasePage.aspx?PRID=2176707
-* Inclusive work space : https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178389
-* digital protection https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf
 
-## AMZ 2025
-* https://press.aboutamazon.com/aws/2025/10/aeroporti-di-roma-transforms-passenger-experience-with-ai-virtual-assistant-powered-by-aws-and-storm-reply
-
-## Dec 2025
-* Delhi AQI worse , Ind Pollution not farmers issue
-* Cyclone in Chennai , Bglr weather dips
-* Cold wave in plains
-* Gov Install sanchar app
-* USA mediation for RU and UK peace plan 28 pt , negotiations
-* Aus ai guidelines https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf
-
-## Indigo Crisis , Dec 2025
-* https://www.telegraphindia.com/business/indias-largest-airline-nosedives-where-is-rakesh-gangwal-when-indigo-needs-him-most/cid/2136500#goog_rewarded
-* https://www.reuters.com/world/china/air-india-admits-compliance-culture-needs-overhaul-after-flying-airbus-without-2025-12-10/
-* https://m.economictimes.com/industry/transportation/airlines-/-aviation/four-dgca-inspectors-terminated-after-indigos-meltdown/articleshow/125926628.cms#webview=1
-* https://www.newindianexpress.com/nation/2025/Dec/14/dgca-made-contract-staff-scapegoats-by-blaming-them-for-indigo-fiasco-alleges-aviation-expert
-* https://www.indiatoday.in/trending-news/story/indigo-staff-calm-response-to-bengaluru-man-even-after-facing-angry-passengers-goes-viral-2834257-2025-12-11
-  
-
-**"Dec 09 2025 , IndiGo cuts 400-500 flights to achieve ‘full stabilisation of schedule’**
-Indigo will now operate 1,800-1,900 flights instead of 2,300 flights it used to operate daily
-
-**Government may seek reconstitution of IndiGo’s board over FDTL fallout** 
-"Sources added that given the dependence of the Indian aviation industry on the IndiGo network, which accounts for 65 percent of market share, it is advisable to have more people on the board who can question network design, crew utilisation, rostering, aircraft ground time and regulatory exposure with domain authority, so that operational risk gets board-level visibility rather than remaining buried within the managerial layers.
