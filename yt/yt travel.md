@@ -121,6 +121,8 @@ Top 10 travel vloggers IN
 * Mithilesh Backpacker (Mithilesh Yadav) https://www.youtube.com/@MithileshBackpacker/playlists
 * Tanya Khanijow https://www.youtube.com/@TanyaKhanijow/playlists
 * Ankit Bhatia https://www.youtube.com/@AnkitBhatiaFilms/playlists
+* Travel Jo https://www.youtube.com/@TravelwithJo
+* A Tyagi https://www.youtube.com/@Anushka_Tyagi
 
 others
 * Beaches and Biceps  https://youtube.com/@beachesandbicep?si=nHEymIJYwHFrgtQJ
