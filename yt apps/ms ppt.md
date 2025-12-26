@@ -86,6 +86,8 @@ Topics
 * [yt pl DanGaletta](https://www.youtube.com/@DanGalletta/playlists)
 * [yt pl Analyst Academy](https://www.youtube.com/@AnalystAcademy/playlists)
 * [yt pl Strategy U](https://www.youtube.com/@StrategyU/playlists)
+*  Ppt trick https://youtu.be/skcdtoY5Yps?si=E1UsROsJGAkSqROD
+
 
 
 **ppt basics**
