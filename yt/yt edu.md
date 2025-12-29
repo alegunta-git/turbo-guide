@@ -7,6 +7,7 @@
 * Blooms Taxonomy, taxonomy , Org INFO LATCH , Hierarchy
 
 ## yt tips
+* **JNTU Paper Correction and Presentation secrets  https://youtu.be/UGqv61tYZwE?si=RLp1XKNm-4kN5jFq**
 * [use yt](https://www.youtube.com/watch?v=tY28a5dmFL4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=20&pp=gAQBiAQB)
 * yt topics : https://www.youtube.com/watch?v=I673lP_1Rn0&list=LL&index=19&pp=gAQBiAQB
 * Easily Highlight NCERT in pdf https://youtu.be/1tTnmfBiz1w?si=UEy3ne_2Opy4NNAb
@@ -19,13 +20,19 @@
 * [yt docs hindi typing](https://www.youtube.com/watch?v=lWr9FlZwwWQ&list=WL&index=17)
 * read textbook https://www.cuesta.edu/student-support/academic-success/ssc/study-guides/reading-comp/305-read-text.html
 * Digital skills g edu https://edu.exceedlms.com/student/catalog/list?category_ids=11331-applied-digital-skills
-*  Trivikram https://youtu.be/5S*N86JOIWQ?si=aoqzI3ZNYJRDlGJC
-*  Weight forgot to put down https://youtu.be/sPxvU5Lj15E?si=2NFRz6qzSqKOUTQn
-*  mother as mentor https://youtu.be/JIALnhsFU5o?si=_avjHB5JR4oKKkI8
-*  How to Search for Brief, Captioned Videos in YouTube  https://youtu.be/ZmGfmIFTmkg?si=lvPYZXtTokOTnu7c
-*  Sneha P https://youtube.com/@snehapatil8592?si=Pb6q8By_5TgXSlXg
-*  Videos for Students https://youtube.com/playlist?list=PL0P2tZadZg*u*0WLb_eNcH2E6OsKJ7eYg&si=rt2vyDJqqNyTsyZ*
-*  4 courses https://youtube.com/shorts/pLQtqOqxu_k?si=5V*C5059oNi0a5Ew
+* Trivikram https://youtu.be/5S*N86JOIWQ?si=aoqzI3ZNYJRDlGJC
+* Weight forgot to put down https://youtu.be/sPxvU5Lj15E?si=2NFRz6qzSqKOUTQn
+* mother as mentor https://youtu.be/JIALnhsFU5o?si=_avjHB5JR4oKKkI8
+* How to Search for Brief, Captioned Videos in YouTube  https://youtu.be/ZmGfmIFTmkg?si=lvPYZXtTokOTnu7c
+* Sneha P https://youtube.com/@snehapatil8592?si=Pb6q8By_5TgXSlXg
+* Videos for Students https://youtube.com/playlist?list=PL0P2tZadZg*u*0WLb_eNcH2E6OsKJ7eYg&si=rt2vyDJqqNyTsyZ*
+* 4 courses https://youtube.com/shorts/pLQtqOqxu_k?si=5V*C5059oNi0a5Ew
+* Discovery education https://youtu.be/rqMCJ5nTMm0?si=MznfsMMy5UPZovAe
+* 10 tech books https://youtu.be/fjVUOR9fY24?si=WQJxHvXbwkECSw5u
+* Find good books read https://youtu.be/Ib-ktK4uVdE?si=C-vmqDVHX-IwpWLE
+* one year of studying (it was a mistake) https://youtu.be/dk3dQf7yZFI?si=vaPxJGKpZG7J-BsU
+
+
 
  
 
@@ -58,6 +65,8 @@
 * [yt rembr read](https://youtube.com/shorts/pmHXXXH5DmI?si=FXQkobBD_rQaPVew)
 * [A System for Reading](https://www.youtube.com/watch?v=-T57bBtEymo)
 * danile pink how to be a better reader IMP https://youtu.be/vhZ6QAYlA_g?si=uP_SmG6LcBWpZDz_
+* Newspaper reading now a must for students in UP government schools | India News - The Times of India https://share.google/u9HfX6EAoKuaADVvf
+
 
 **yt note taking**
 * Notetaking : Mindmap , outline 
@@ -119,6 +128,8 @@ School
 * [notes kindle](https://www.youtube.com/watch?v=XzsFvetijH4&list=WL&index=15)
 * https://www.makeuseof.com/kindle-tips-for-everyone/
 * kindle to pdf https://youtu.be/Kf0-s1mnPnc?si=tH1S2wruXuY0jjc3
+* https://www.pocket-lint.com/i-only-use-my-kindle-scribe-for-these-things/
+
 
 
 tablet
