@@ -57,3 +57,10 @@ Dec
 - 12 epi 1
 - 14 yt hx channels turkey , mongols 
 - 15 webdesign , info anxiety*
+- Atlas map rdg  vb train
+- Minimalism 
+- Anil swarup 2
+- Vijay a ias
+- Mobile patterns 
+- Yt rapido 
+
