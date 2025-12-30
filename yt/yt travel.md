@@ -42,6 +42,7 @@ Travel prep
   * [Hampi](https://www.youtube.com/watch?v=75DfBrSe_CI&list=PLmMyXRtEtJEYAvlKVsRygD-t-CwJ9plvE&index=2&pp=gAQBiAQB)
   * [2d chikmagalur](https://chikmagalurtourism.org.in/2-days-chikmagalur-top-places-to-visit)
   * https://mytriphack.com/lepakshi-from-bangalore/
+  * karaj vlog lepkashi https://youtu.be/zvmTv279Xnk?si=edddYN5vh-h-TVkZ
 * Kerala
   * [Kerala](https://www.backpacknxplore.com/flexible-kerala-itinerary)
 * Madhya Pradesh
@@ -141,6 +142,8 @@ EMEA
 * itchy boots : https://www.youtube.com/playlist?list=PL8M9dV_BySaUE-uJADRFRrL6BiVpKC3-e
 * Marek Podlejski https://www.youtube.com/@MarekPodlejski/playlists
 * Ryan on the Road https://youtube.com/@ryan_travel?si=k1CUIyIVDoBT6qis
+* Wonders of israel https://youtu.be/J1D4sCcFv_4?si=ZwNalbyR91ityKon
 
 APAC
 * [Japan vlog](https://www.youtube.com/watch?v=FhDS4oP-HoM&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=6&pp=gAQBiAQB)
+* japan keeps clean https://youtu.be/BOGMkgnc2YY?si=1bXwTAtkFTnkl3xc
