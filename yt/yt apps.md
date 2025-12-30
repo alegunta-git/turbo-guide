@@ -2,6 +2,7 @@
 * android 101 : https://www.youtube.com/playlist?list=PLPRhQEDGqsFC4NL3DiYpPVnDKP9o1dnTw
 * https://www.thesuccessmanual.in/chapter/android-for-seniors-basics-examples-specific-scenarios
 * smartphone trg : https://youtu.be/pWAjtuRU1-o?si=vXROu7JHDoCfNh4r
+* Connect mouse phone https://youtu.be/QVOj-eUN1x0?si=XZOxUcYnAhcteuA6
 
 ## Enterprise apps
 * [Goldmine Training](https://www.goldmine.com/training/training_videos_basics.html)
@@ -42,6 +43,7 @@
 * Clock /Timer/Alarm 
 * Camera ,  Gallery ,  Video 
 * VoiceRecorder , Settings
+* pdf labs feature https://youtu.be/NMRAZUtDNjU?si=r0ejDV9GVZqkvrWR
 
 
 
@@ -56,6 +58,8 @@
 * [How To Use Twitter (2022) - YouTube](https://www.youtube.com/watch?v=3-2Xomw92TQ&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=19)
 * [yt twitter](https://www.youtube.com/watch?v=3-2Xomw92TQ&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=17&pp=gAQBiAQB)
 * [Using Twitter](https://help.twitter.com/en/using-twitter)
+* Twitter userguide https://youtube.com/playlist?list=PLc7vt8YmJoYtSKU3sE47gf0NrLxwb1TJz&si=iev7X60FRJ9vLqJD
+
 
 **WhatsApp**
 * [yt Whatsapp](https://www.youtube.com/watch?v=d3VWmsb0ZXA&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=31&pp=gAQBiAQB)
@@ -65,6 +69,13 @@
 * [WA  ui](https://faq.whatsapp.com/1690350561340616/?helpref=hc_global_nav)
 * [All tips and tricks about WhatsApp) - YouTube](https://www.youtube.com/watch?v=d3VWmsb0ZXA&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=3)
 * [yt share PowerPoint Presentation on WA](https://www.youtube.com/watch?v=-1yXbX1u8jY&list=WL&index=26)
+
+
+## Images
+* Organizing and Sharing Digital Images - https://youtu.be/WphtTm3Sk0c?si=P9BC6ccCzeMoLaGx
+
+
+
 
 
 ## Q and A Portals
