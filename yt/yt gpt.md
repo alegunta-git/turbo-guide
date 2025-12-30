@@ -6,10 +6,12 @@ markdown to pdf
 * Meta ai wa https://youtu.be/mEuBrfS3A34?si=DZ3kPpoJUFkOdOrp
 * Copy paste from gpt https://youtu.be/wbHeOOAFHSc?si=FL*ufxZpIQiflELw
 * How To Use Meta AI for Business in 2025 https://www.webfx.com/blog/ai/meta-ai/
+* use meta wa uspc https://www.youtube.com/live/sUyY59WlQjg?si=lZspBol1NOSpLJBt
  
 
 Claude
 * Claude chrome : https://youtu.be/mCj4kx_P2Ak?si=rM9myKbFqi1olg7k
+* claude browser https://youtu.be/rBJnWMD0Pho?si=KPirH-kl-paYuB8C
 
 
 ## gemini
@@ -42,6 +44,7 @@ Claude
 * p pro : https://www.youtube.com/shorts/cXv2KCN7gFI
 
 ## Chatgpt
+* dan martell 23 ways gpt https://youtu.be/7zPQV1BSH_k?si=rhm7-QMvLUoNY2Qz
 * gpt demo 2024 gl : https://www.youtube.com/watch?v=_3vCzIDNxEU&list=WL&index=2&t=15896s&pp=gAQBiAQB
 * gpt demo 2025 : https://www.youtube.com/watch?v=mnULGqkVONI&list=WL&index=3&pp=gAQBiAQB
 * https://quickref.me/chatgpt#research
