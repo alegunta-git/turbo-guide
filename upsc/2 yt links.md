@@ -54,6 +54,7 @@ art and culture
 
 history
 * British Mughal empire : https://www.youtube.com/watch?v=4-f21r6KvJQ
+* ottoman e debt trap https://youtu.be/Ib5Q4Mwt3sc?si=J7ZLNnJpc0h3uNV8
 
 Int Relations
 * [yt IR1](https://www.youtube.com/watch?v=buUtYhRrG-M&list=WL&index=4&pp=gAQBiAQB)
