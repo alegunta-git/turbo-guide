@@ -1,9 +1,15 @@
-Todos : Read TH newspaper , upsc books 
-
-identify the policies , append data to WBS GOM 
+**Todos**
+- Remove the duplicates
+- add min of india links
+- read upsc int book , id the key issues , document 
+- map the  dept and the polciies
 
 ## List of Ministries
- * Ministry of Agriculture and Farmers Welfare
+* https://en.wikipedia.org/wiki/List_of_ministries_and_departments_of_the_Government_of_India
+* https://en.wikipedia.org/wiki/List_of_central_agencies_in_India
+* https://moef.gov.in/union-government-ministries-department
+* [ministries of india](https://www.ibef.org/economy/directory/ministries-and-departments-in-india)
+* Ministry of Agriculture and Farmers Welfare
    * Department of Agriculture, Cooperation and Farmers Welfare
    * Department of Agricultural Research and Education (DARE)
  * Ministry of AYUSH
@@ -79,7 +85,6 @@ identify the policies , append data to WBS GOM
  * Ministry of Railways
  * Ministry of Road Transport and Highways
  * Ministry of Rural Development
- * Ministry of Rural Development
    * Department of Land Resources (DLR)
    * Department of Rural Development (DRD)
  * Ministry of Science and Technology
@@ -97,7 +102,6 @@ identify the policies , append data to WBS GOM
  * Ministry of Tourism
  * Ministry of Tribal Affairs
  * Ministry of Women and Child Development
- * Ministry of Youth Affairs and Sports
  * Ministry of Youth Affairs and Sports
    * Department of Sports
    * Department of Youth Affairs
@@ -149,7 +153,6 @@ identify the policies , append data to WBS GOM
 * Ministry of Railways
 * Ministry of Road Transport and Highways
 * Ministry of Rural Development
-* Ministry of Rural Development
 * Ministry of Science and Technology
 * Ministry of Shipping
 * Ministry of Skill Development and Entrepreneurship
@@ -161,7 +164,14 @@ identify the policies , append data to WBS GOM
 * Ministry of Tribal Affairs
 * Ministry of Women and Child Development
 * Ministry of Youth Affairs and Sports
-* Ministry of Youth Affairs and Sports
+
+## goi links
+* [ARC reports*](https://darpg.gov.in/arc-reports)
+* [Economic survey*](https://www.visionias.in/resources/all_programs.php?c=economic_survey) 
+* [Constitution of India*](https://legislative.gov.in/constitution-of-india/)
+* [Polity - PRS](https://prsindia.org/)
+* [law commission of india](https://lawcommissionofindia.nic.in/)
+* https://www.livelaw.in/
 
 
 
