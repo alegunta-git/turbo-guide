@@ -70,6 +70,8 @@ Claude
 * resume : https://www.zdnet.com/article/how-to-use-chatgpt-to-optimize-your-resume/
 * gpt qa : https://www.youtube.com/watch?v=0PqHyqA1PJU&list=WL&index=8
 * quiz q gpt : https://youtube.com/shorts/UVwRFCHAYmk?si=pOik95CaboaZ3UJK
+* g maps gpt https://youtube.com/shorts/_cvAfo5O8ig?si=6YKawZif_2eEiI9V
+
 
 ## notebook llm
 * use llm : https://www.youtube.com/watch?v=w-urtJiCKhw&list=WL&index=8&pp=gAQBiAQB
