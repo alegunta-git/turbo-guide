@@ -7,6 +7,11 @@ Views , page setup , zoom , window , Table
 Formatting notes (text , styles , tags , email) , insert images , audio/video , send onenote  
 Print , Share , Export (doc/pdf) , Send , Account , insert files , pdf ,screen clip , 
 
+
+links
+* Onenote as pdf https://youtu.be/ZJfomoto6JI?si=2GhX8Ly3zlslRTNt
+
+
 **G Photos**
 * Search by people , places , HDR , default gallery , featured memories
 * Print Store : Photo books , Photo/Canvas prints , pmt info , transfer photos (gd)
@@ -76,8 +81,6 @@ Help : Tutorials , About , Plug-ins , Manage Account , Sign In , Repair Installa
 *  [Extract Highlight Text](http://eric* blue.com/2010/12/17/learning* faster* automatically* extract* highlighted* text* from* pdf* documents/)
 *  [change color](https://stackoverflow.com/questions/35628200/how do* i* change* the* highlighter* color* in* adobe* acrobat* reader* dc* permanently)- Use sumatra pdf for lt weight tool read pdf
 *  How to Extract Text Playlist https://youtube.com/playlist?list=PLmut-6B2zPJS3JR9ODqimDNi07AeyudzD&si=uyobKPpojzvrtz_r
-
-**Kindle**
 * kindle to pdf calibre https://youtu.be/Ls_TOAkbGiI?si=1pB8mAdZ85TXFmC9
 
 
