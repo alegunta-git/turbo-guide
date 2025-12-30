@@ -10,6 +10,7 @@ Print , Share , Export (doc/pdf) , Send , Account , insert files , pdf ,screen c
 
 links
 * Onenote as pdf https://youtu.be/ZJfomoto6JI?si=2GhX8Ly3zlslRTNt
+* intro onenote https://youtu.be/P3gsV_74IlE?si=muK0Mur247yOMg0h
 
 
 **G Photos**
