@@ -204,6 +204,13 @@ g suite
 * gmail/outlook Master message search , Common Replies (canned response) , quick text , filter low priority msg
 
 
+## MS Teams
+* change status https://www.youtube.com/shorts/NZMhy8VICoo
+* share files https://www.youtube.com/shorts/M1yFIxjc3cY
+* loop c demo https://www.youtube.com/shorts/yR5jFWoV7CE
+* rt click https://www.youtube.com/shorts/WYPF8YsEx8I
+
+
 ## Shortcut keys
 * https://ss64.com/nt/
 * [IMP shortcut keys](https://shortcutworld.com/Shortcuts)
