@@ -78,3 +78,68 @@ But then good geography does not necessarily make for good politics. The Europea
 8. Affordability: Haakenson said everything is expensive in the US but in India, everything was manageable.
 9. Family: America - Single-family living; India - multiple generations under one roof"
 
+## Notes
+**Work notes , 2nd Week Dec 2025**
+- No work life balance.
+- No air cover.
+- Calc business mandated dates.
+
+**"The mentor’s playbook**
+Speaking recently on The Gstaad Guy Podcast with Gustaf Lundberg Toresson, Schmidt shared that this practice was first encouraged by his mentor, the late Bill Campbell, the legendary “coach” to Silicon Valley’s top leaders. Each weekend, Schmidt carves out time to think, write, and plan the coming week — without distractions, phones, or notifications."
+
+**Decisions are temporary**
+"But what if ...?" "What happens when ...?" "Don't we need to plan for ...?"  
+Don't make up problems you don't have yet. It's not a problem until it's a real problem. Most of the things you worry about never happen anyway. 
+Besides, the decisions you make today don't need to last forever. It's easy to shoot  down good ideas, interesting policies, or worthwhile experiments by assuming that whatever you decide now needs to work for years on end.
+It's just not so, especially for a small business. If circumstances change, your decisions can change. Decisions are temporary
+
+**Oct 21 AWS outage**
+"The global cloud market is dominated by three companies. AWS holds the largest share (roughly 30 per cent), followed by Microsoft Azure (20 per cent) and Google Cloud Platform (13 per cent).
+
+All three service providers have had recent outages, significantly impacting digital service platforms. In 2024, an issue with third-party software severely impacted Microsoft Azure, causing extensive operational failures for businesses globally. Google Cloud Platform also experienced a major outage this year due to an internal misconfiguration"
+
+
+**Indian-origin Cisco executive works 18 hours, 7 days a week but has ‘two non-negotiable’ work-life balance rules | Trending News - The Indian Express**
+"As reported by Fortune, Patel works every single day of the week. His mornings begin around 6 am, and it is not unusual for him to still be working close to midnight. Even so, he follows one strict rule: no meetings before 9 am, unless they come directly from Cisco CEO Chuck Robbins or the company’s board. Those early hours are reserved for deep work and mapping out priorities.
+
+“Picking the highest quality problems that you want to spend your time solving is 90% of the battle,” he told Fortune. “Because the quality of the problem that you pick to solve is actually directly proportional to the outcome that you’re going to have.”"
+
+"Health is another non-negotiable for him. Patel admits he’s not obsessed with fitness, but he makes sure to exercise at least 20–30 minutes a day. What matters, he says, is consistency, especially when every day in tech looks different from the last. “I’m not in great shape, but I’m not in terrible shape,” he joked, acknowledging that he often has to recalibrate and start again."
+
+**Steve Jobs’ ‘strong message’ to engineers that remained Apple's guiding doctrine**
+"Apple founder Steve Jobs once told the company engineers that the people who make real breakthroughs are not just thinkers, but also doers. In the early 1990s, Jobs addressed Apple engineers where he said “The doers are the major thinkers”, further citing Leonrado Da Vinci. He added “Did Leonardo have a guy off to the side thinking five years out what he would paint? Of course not. Leonardo was the artist, but he also mixed all his own paints.”"
+
+**Jensen Huang**
+"Nvidia CEO Jensen Huang recently opened up about his personal use of artificial intelligence (AI) tools, saying he switches between platforms depending on the tasks. Speaking at an interview in London recently, Huang said that among Elon Musk’s Grok, OpenAI’s ChatGPT, Perplexity and Google’s Gemini, his favorite “depends on what I’m doing”. Explaining further, the Nvidia CEO said “For something more technical I will use Gemini. If I’m doing something where it’s a bit more artistic, I prefer Grok. If it’s very fast information access I prefer Perplexity—it does a really good job of presenting research to me. And for near everyday use I enjoy using ChatGPT”."
+
+
+**N Narayana Murthy**
+I observed how in a western country even the socialists understood that wealth has first to be created before it can be distributed; 
+that there could only be a few leaders to create wealth. And that it’s the job of the government to create an environment
+
+After admitting he uses ChatGPT, Narayana Murthy says management and technology graduates are same for him - India Today 
+
+Different approaches, shared goals in problem-solving
+The 78-year-old industry pioneer outlined the distinct yet interconnected roles each group plays in organisational success. "One asks 'what,' while the other focuses on 'how.' Technical people look at 'how,' and the management graduates look at 'what,'" he clarified, highlighting how both perspectives are essential for comprehensive problem-solving.
+
+https://share.google/ns1uPU8P4VxyesGvT
+
+## Indigo Crisis , Dec 2025
+* https://www.telegraphindia.com/business/indias-largest-airline-nosedives-where-is-rakesh-gangwal-when-indigo-needs-him-most/cid/2136500#goog_rewarded
+* https://www.reuters.com/world/china/air-india-admits-compliance-culture-needs-overhaul-after-flying-airbus-without-2025-12-10/
+* https://m.economictimes.com/industry/transportation/airlines-/-aviation/four-dgca-inspectors-terminated-after-indigos-meltdown/articleshow/125926628.cms#webview=1
+* https://www.newindianexpress.com/nation/2025/Dec/14/dgca-made-contract-staff-scapegoats-by-blaming-them-for-indigo-fiasco-alleges-aviation-expert
+* https://www.indiatoday.in/trending-news/story/indigo-staff-calm-response-to-bengaluru-man-even-after-facing-angry-passengers-goes-viral-2834257-2025-12-11
+  
+IndiGo restores 2,200 flights; CEO says 'worst is behind us' - [Rediff.com](http://rediff.com/) https://www.rediff.com/news/report/indigo-restores-2200-flights-ceo-says-worst-is-behind-us/20251218.htm
+
+**"Dec 09 2025 , IndiGo cuts 400-500 flights to achieve ‘full stabilisation of schedule’**
+Indigo will now operate 1,800-1,900 flights instead of 2,300 flights it used to operate daily
+
+**Government may seek reconstitution of IndiGo’s board over FDTL fallout** 
+"Sources added that given the dependence of the Indian aviation industry on the IndiGo network, which accounts for 65 percent of market share, it is advisable to have more people on the board who can question network design, crew utilisation, rostering, aircraft ground time and regulatory exposure with domain authority, so that operational risk gets board-level visibility rather than remaining buried within the managerial layers.
+
+
+
+
+
