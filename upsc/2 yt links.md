@@ -1,29 +1,16 @@
-## yt core links prep
-* [use gdocs for CA](https://www.youtube.com/watch?v=QZUoyk9AMcM&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=1&pp=gAQBiAQB0gcJCYQJAYcqIYzv)
-* [org notes gdocs*](https://www.youtube.com/watch?v=gKLY4c1hZv4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=28&pp=gAQBiAQB)
-* [Notes micro themes](https://youtu.be/ffyruloCiqk?si=k_zRsazW45Syw3mO)
-* [art of reading upsc](https://youtu.be/aammPSrYIZM?si=rK4yyi_ctOPEElKU)
-* [yt upsc exam tip](https://www.youtube.com/watch?v=IZAQaEZXUho)
-* [upsc prep tip](https://www.youtube.com/clip/UgkxfHnEjZYblfevnKVZzBfResZQyZ9mlYii)
-* [upsc ans tip](https://www.youtube.com/clip/Ugkx4aL2vYmwiGHJElZexPt6V6ZyEKB9IujY)
-* [yt Niveditha](https://www.youtube.com/@nivedithashetty_upsc/videos)
-* [yt LBSNAA trg](https://youtu.be/3SiRw-rEGIE?si=I7m2HxZTyVEysyN4)
-* topper note : https://www.youtube.com/watch?v=5QHx9Q09p5s&list=LL&index=9&pp=gAQBiAQB
-* vikas sir gpt idea : https://youtu.be/KSGv4cIQ3F0?si=L_AIFKO5gmhaGqGz
-* ie upsc ans : https://www.youtube.com/watch?v=1VyWO9r-UZM&list=LL&index=1&pp=gAQBiAQB
-* motivation : https://youtu.be/Z-ouseEhXTU?si=KzcjSYfTZVsk682W
-* np notes IMP : https://www.youtube.com/watch?v=hkjFX5hlGyk&list=LL&index=13&pp=gAQBiAQB
-* np notes 2 : https://www.youtube.com/watch?v=RTss_CYX_wU&list=LL&index=12&pp=gAQBiAQB
-* ai tools : https://youtu.be/3tNad6Rci_0?si=xlWhVDlDKaGgqdkd
-* dont buy 2 many books : https://youtu.be/vu3qjk8rhJg?si=fIqdx20spYGFvj9A
-* upsc booklist : https://www.youtube.com/watch?v=W2hTep2vZJY&list=WL&index=11&pp=gAQBiAQB
-* The Art and Science of Newspaper Reading for UPSC CSE https://youtu.be/6_A4bwDlqjE?si=mJ2MmOstdYZ5pHSg
-* Read & Remember ANCIENT + MEDIEVAL + ART & CULTURE  https://youtu.be/L7Vqn-CGeWU?si=cBn_TKDaEG_nB3i_
-* YouTube వీడియోలతో ప్రిపరేషన్..ఒకే ప్రయత్నంలో ఐదు ప్రభుత్వ ఉద్యోగాలు  https://youtu.be/8d50xYWR46Y?si=d-42u92R7z4qQ3Hd
-* UPSC Preparation కి Use అయ్యే Free Resourses https://youtu.be/5DBty8uS1uw?si=bPHEgSHDoPOCiEIg
-* when to quit upsc https://youtu.be/HLUQMHKUfbw?si=UQuNO8PkF66BJ1cs
-* this is how your sal is calc https://youtube.com/shorts/0kC83mR73Pg?si=E84CK_Xv-K6dqt-b
-* upsc prep plan https://youtu.be/DyW1XRDf2Ek?si=O_cOUUgSKLPiXQko
+## goi links
+* [ARC reports*](https://darpg.gov.in/arc-reports)
+* [Economic survey*](https://www.visionias.in/resources/all_programs.php?c=economic_survey) 
+* [Constitution of India*](https://legislative.gov.in/constitution-of-india/)
+* [Polity - PRS](https://prsindia.org/)
+* [law commission of india](https://lawcommissionofindia.nic.in/)
+* https://www.livelaw.in/
+
+Current Affairs
+* [vision ias current affairs](https://www.visionias.in/resources/current_affairs.php?c=ca)
+* [drishti summary of reports](https://www.drishtiias.com/summary-of-important-reports)
+* [byju imp reports](https://byjus.com/free-ias-prep/international-organization-reports/)
+* [byju gist of yojana](https://byjus.com/free-ias-prep/gist-of-yojana/)
 
 
 ## YT links coaching
@@ -78,12 +65,6 @@ Study Aids
 * [vikaspedia](https://vikaspedia.in/InDG)
 * [arthapedia](http://www.arthapedia.in/index.php/Category:Concepts)
 
-
-Current Affairs
-* [vision ias current affairs](https://www.visionias.in/resources/current_affairs.php?c=ca)
-* [drishti summary of reports](https://www.drishtiias.com/summary-of-important-reports)
-* [byju imp reports](https://byjus.com/free-ias-prep/international-organization-reports/)
-* [byju gist of yojana](https://byjus.com/free-ias-prep/gist-of-yojana/)
 
 ## Books
 * [git upsc](https://github.com/utsingh/upsc)
