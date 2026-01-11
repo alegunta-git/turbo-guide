@@ -1,3 +1,9 @@
+
+## 2026 
+Jan
+- tbd
+
+
 ## 2025
 Aug 
 - Machine learning 
