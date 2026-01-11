@@ -74,4 +74,6 @@
 - https://timesofindia.indiatimes.com/life-style/books/quote-of-the-day-by-marie-curie-nothing-in-life-is-to-be-feared-it-is-only-to-be-understood-now-is-the-time-to-understand-more-so-that-we-may/articleshow/125163770.cms
 - చైనాను చూసి 6నెలలు నిద్రపోలేదు.. అలా ఎందుకంటే https://youtu.be/-18JvfvGXPE?si=MfAmr6mLOt7-kPTs
 - https://indianexpress.com/article/long-reads/not-fast-just-furious-with-bengaluru-traffic-why-indias-it-capital-has-failed-to-move-on-in-over-20-years-10395765/?ref=justnow_article
-
+-  https://indianexpress.com/article/entertainment/bollywood/amitabh-bachchan-called-to-work-in-my-film-worked-double-shifts-suneel-darshan-10403313/#amp_tf=From%20%251%24s&aoh=17651025581544&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Findianexpress.com%2Farticle%2Fentertainment%2Fbollywood%2Famitabh-bachchan-called-to-work-in-my-film-worked-double-shifts-suneel-darshan-10403313%2F
+-  https://www.ndtv.com/offbeat/your-time-has-zero-value-woman-slams-indias-delays-compares-with-japan-9793561
+-  https://timesofindia.indiatimes.com/technology/tech-news/im-one-of-one-of-those-people-who-google-ceo-sundar-pichai-explains-how-he-measures-the-success-of-its-product-launches/articleshow/125716480.cms
