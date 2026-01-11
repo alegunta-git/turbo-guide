@@ -86,5 +86,6 @@ news
 * https://m.economictimes.com/magazines/panache/dont-obsess-over-rs-10-20-crore-goals-but-instead-mobikwik-ceo-a-delhi-iit-graduate-confesses-he-had-less-than-rs-1-crore-in-savings-till-age-40/articleshow/123407284.cms
 * https://www.businesstoday.in/amp/personal-finance/investment/story/rs-70-lakh-per-annum-is-the-new-middle-class-banker-exposes-brutal-truth-of-urban-living-480946-2025-06-19
 * CA slams viral ‘don’t buy a car’ advice, says owning one in Bengaluru would have saved her Rs 2 lakh - The Economic Times
+* https://m.economictimes.com/magazines/panache/ca-says-just-3-decisions-decide-90-of-your-money-life-most-people-miss-all-three-what-are-those/articleshow/126405908.cms#webview=1
 
 
