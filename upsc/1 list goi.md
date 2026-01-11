@@ -1,6 +1,4 @@
 **Todos**
-- Remove the duplicates
-- add min of india links
 - read upsc int book , id the key issues , document 
 - map the  dept and the polciies
 
@@ -165,13 +163,7 @@
 * Ministry of Women and Child Development
 * Ministry of Youth Affairs and Sports
 
-## goi links
-* [ARC reports*](https://darpg.gov.in/arc-reports)
-* [Economic survey*](https://www.visionias.in/resources/all_programs.php?c=economic_survey) 
-* [Constitution of India*](https://legislative.gov.in/constitution-of-india/)
-* [Polity - PRS](https://prsindia.org/)
-* [law commission of india](https://lawcommissionofindia.nic.in/)
-* https://www.livelaw.in/
+
 
 
 
