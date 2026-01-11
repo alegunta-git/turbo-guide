@@ -1,9 +1,3 @@
-## word roots
-* [greeklatinroots](https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf)
-* [rootchart](http://www.prefixsuffix.com/rootchart.php)
-
-
-
 ## Study Skills
 **Golden Book - notebook imp points - revision on weekends**
 * Tables till 20, Factorials till 10, Square roots till 10,
