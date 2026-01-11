@@ -5,6 +5,17 @@
 * https://www.oracle.com/in/
 * https://www.citehr.com/
 
+## Roadmap
+* [Ref passit](https://passit.bg/en/certification-roadmaps/)
+* [Dev Roadmap](https://roadmap.sh/)
+* [System Design Roadmap](https://whimsical.com/system-design-roadmap-31C9vnRRATGW5Q95Krdciu)
+* [EP128: The Ultimate Software Architect Knowledge Map](https://blog.bytebytego.com/p/ep128-the-ultimate-software-architect)
+* [yt hld lld roadmap](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=5&pp=gAQBiAQB)
+* fe roadmap : https://www.youtube.com/watch?v=lH1bGIEHboI&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=35&pp=gAQBiAQB
+* api roadmap : https://www.youtube.com/watch?v=hltLrjabkiY&list=WL&index=3&pp=gAQBiAQB
+* web roadmap : https://www.youtube.com/watch?v=afgAMTln7s0&list=WL&index=5&pp=gAQBiAQB
+
+
 ## Agile
 **Agile Qs**
 * [Agile Int](https://mindmajix.com/agile-interview-questions)
@@ -43,13 +54,6 @@
 * [yt user stories](https://www.youtube.com/watch?v=ealMOH3DVDo&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=51&pp=gAQBiAQB)
 
 
-## Devops 
-* [Docker](https://www.slideshare.net/arafkarsh/docker-kubernetes-istio-195286314?qid=74aa72bf-c0a4-4aaa-a5b2-7cc801a2c3b7&v=&b=&from_search=6)
-* [SRE](https://dev.to/thenjdevopsguy/what-do-you-actually-need-to-know-for-sre-and-devops-4g6p)
-* [Trunk based dev](https://paulhammant.com/2013/04/05/what-is-trunk-based-development/)
-* [Devops trg](https://www.devopsschool.com/courses/)
-* [DevOps with AWS - 81S Session 4 | User Management Explained | @JoinDevOps-siva - YouTube](https://www.youtube.com/watch?v=0p9fALlaaN8&list=WL&index=10&pp=gAQBiAQB)
-
 ## JIRA
 Topics
 * JIRA basics 
@@ -74,3 +78,28 @@ Topics
 **JIRA Admin**
 * [yt jira cloud admin](https://www.youtube.com/watch?v=WScAjiGdz48&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=55&pp=gAQBiAQB)
 * [Jira admin dump](https://www.dumpsbase.com/freedumps/jira-administrator-acp-100-dumps-questions-and-answers.html)
+
+
+## Devops 
+* [Docker](https://www.slideshare.net/arafkarsh/docker-kubernetes-istio-195286314?qid=74aa72bf-c0a4-4aaa-a5b2-7cc801a2c3b7&v=&b=&from_search=6)
+* [SRE](https://dev.to/thenjdevopsguy/what-do-you-actually-need-to-know-for-sre-and-devops-4g6p)
+* [Trunk based dev](https://paulhammant.com/2013/04/05/what-is-trunk-based-development/)
+* [Devops trg](https://www.devopsschool.com/courses/)
+* [DevOps with AWS - 81S Session 4 | User Management Explained | @JoinDevOps-siva - YouTube](https://www.youtube.com/watch?v=0p9fALlaaN8&list=WL&index=10&pp=gAQBiAQB)
+
+## Agile CSM
+* https://umarani.com/how-pass-leading-safe-40-exam)
+* https://scrumtrainingseries.com/
+* https://mlapshin.com/index.php/scrum-quizzes/sm-learning-mode/
+* https://www.scrum.org/pathway/scrum-master/developing-and-delivering-products-professionally/technical-debt
+* [PSM1](https://www.scrum.org/forum/scrum-forum/7198/passes-psm1-938-first-attempt-experience-share-tips)
+
+## CSPO
+* https://www.scrum.org/pathway/product-owner-learning-path
+* https://training-course-material.com/training/Scrum_Product_Owner
+* http://aqqurite.se/material-from-certified-scrum-product-owner-training
+* https://www.scrum.org/forum/scrum-forum/6745/pspo-i-study-materials-help-needed)
+* https://www.andycleff.com/2021/10/resources-for-product-owners/
+* https://qaiglobalinstitute.com/product/certified-scrum-product-owner-cspo-live-virtual-training-online/
+* https://scrumcrazy.wordpress.com/2018/09/22/scrumcrazy-com-is-moving/
+
