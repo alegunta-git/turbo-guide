@@ -1,10 +1,9 @@
-**Wishlist**
-- Swades
-- Missama
-- AB Sholay , Deewar
-- Devanand Movies
-- Broken Arrow
-- Other people money
+## 2026 
+Jan
+- 09 Single S
+- 10 90s middle class
+- 10 Andhra King 
+
 
 ## 2025 Movies
 Sep
@@ -35,21 +34,13 @@ Dec
 - 14 Tamil movie
 
 
-## Movie Review
-Dragon movie
-nice theme , loose the race and how to stage comeback msg
-good to have supportive fathers , no matter what
-48 subj 35 theory ( refer pyq , start imp q) 13 practical ,attend pass
-
-Super 30
-High talent , limited resources , hero unable to visit oxford
-Iit prep money making opp rich ppl , class divide , poor dont have access
-Next time do revision and stage the act 
-Sad part : kids not having food , child labor themes
-Street smart , solve problems - thinking in mind 
-10 second rule for mcq
-Coaching mafia , education is road to heaven 
-
+**Wishlist**
+- Swades
+- Missama
+- AB Sholay , Deewar
+- Devanand Movies
+- Broken Arrow
+- Other people money
 
 ## Webseries
 
@@ -141,3 +132,19 @@ Hindi
 
 English
 - eye of tiger : https://www.youtube.com/watch?v=CiIkBT-HFOA&list=PLmMyXRtEtJEZsGyTgUtkUcbXRl0udM9wL&index=19&pp=gAQBiAQB8AUB
+
+
+## Movie Review
+Dragon movie
+nice theme , loose the race and how to stage comeback msg
+good to have supportive fathers , no matter what
+48 subj 35 theory ( refer pyq , start imp q) 13 practical ,attend pass
+
+Super 30
+High talent , limited resources , hero unable to visit oxford
+Iit prep money making opp rich ppl , class divide , poor dont have access
+Next time do revision and stage the act 
+Sad part : kids not having food , child labor themes
+Street smart , solve problems - thinking in mind 
+10 second rule for mcq
+Coaching mafia , education is road to heaven 
