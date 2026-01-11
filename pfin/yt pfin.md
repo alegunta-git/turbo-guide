@@ -1,0 +1,156 @@
+## yt pfin
+* yt case study pl : https://www.youtube.com/watch?v=7btOH6s7VRs&list=PLnOWbCQBwDS_uLoJue7ryJn3PvoIke5iZ
+* yt sme : https://www.youtube.com/@rohitwarman/videos
+
+
+## pfin Masters
+* [Charlie Munger Quotes](https://tradingqna.com/t/charlie-mungers-100-quotes/139556)
+* https://www.safalniveshak.com/wp-content/uploads/2012/08/Lesson-on-Elementary-Worldly-Wisdom-Charlie-Munger.pdf
+* [Warren Buffett Letters](https://www.berkshirehathaway.com/letters/letters.html)
+* [Amazon Letters](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx)
+* Essays of WB
+* Come into trading room
+
+## Zerodha
+* [zerodha varsity](https://zerodha.com/varsity/)
+* https://zerodha.com/varsity/modules/
+* https://zerodha.com/varsity/module/personalfinance/
+* [Fin Formulas index](https://financeformulas.net/index.html)
+
+
+## TVM
+* [excel tvm](https://www.youtube.com/watch?v=TDpuYH7d7Nc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=5&pp=gAQBiAQB)
+* [CAGR](https://www.youtube.com/shorts/hc2AybJZtbk)
+* [vaddi lekkalu](https://www.youtube.com/watch?v=QC7HZUxoSy4&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=1&pp=gAQBiAQB)
+* [TVM CFP Rahul A](https://www.youtube.com/watch?v=XxJcfe5uppY&list=PLaszgMtgc9pnzmIQWYSEqPU6tU2fMnltp)
+
+## NISM
+* [NISM Cert](https://www.youtube.com/playlist?list=PLHZhh8OWIA9S1GvYPCSuZTDuVo6ycPC-j)
+* calc money needs lic a : https://www.youtube.com/watch?v=5l4hbI9wpOI&list=WL&index=3&pp=gAQBiAQB
+
+
+## Jago Investor
+* calc : https://www.jagoinvestor.com/2010/06/introducing-jagoinvestor-financial-calculators.html
+* fill datasheet : https://www.youtube.com/watch?v=IEoNEx0EH9M&list=WL&index=5&t=3s
+* Wealth Club Budget Sheet : https://www.youtube.com/watch?v=dQHyj5NOCYo&list=WL&index=4
+
+
+ ## Fin fx
+* [10 options](https://weinvestsmart.com/top-10-best-investment-options-in-india/)
+* [Thumb rules](https://www.icicidirect.com/investonomics/articles/the-thumb-rules-of-investing)
+* [15 fin resolutions](https://freefincal.com/15-personal-finance-resolutions-for-2023/)
+* [10 rules](https://www.financialexpress.com/money/10-personal-finance-rules-millennials-should-follow-2468828/)
+* [DCF](https://www.asimplemodel.com/financial-curriculum/financial-modeling/discounted-cash-flow/dcf-model-basics)
+* [11 thumb rules](https://www.youtube.com/watch?v=w3Y0-Keho9Y&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=6&pp=gAQBiAQB)
+* [10 rules investing](https://www.youtube.com/watch?v=rfScEFtcx3s&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=34&pp=gAQBiAQB)
+* [yt finviz](https://www.youtube.com/watch?v=CX_SSefhWsU&list=WL&index=15)
+* [6 fin tools](https://www.youtube.com/watch?v=_ZvK35NlI8Q&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=30&pp=gAQBiAQB)
+* [6 fin rules](https://www.youtube.com/watch?v=RdVyjKRxZfs&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=25&pp=gAQBiAQB)
+
+
+
+## Banks
+* [sbi retail](https://retail.onlinesbi.sbi/npersonal/rinb_videos.html)
+* [sb ac](https://www.youtube.com/watch?v=wpwwvk8tq9c&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=16&pp=gAQBiAQB)
+* Invest Track : https://youtu.be/talrsy-3NZs?si=h-XaD2vWxATxROhB
+* How to use HDFC MFOnline : https://youtu.be/5ZxbJ38SHe0?si=Mmm3U4tX9U_EBeZp
+* SIP Series – Investor Awareness Initiative : https://youtube.com/playlist?list=PL24irhV4I_tdsLHFGmDOjavTVokVlxl4U&si=9wiaZ93g33Re2SnW
+* Sip Beginners : https://youtube.com/playlist?list=PLpRxxGjml2K9EZMDy4knFc8jBahVD3G4F&si=rBjy-Xx546NhjR76
+
+## Tax
+* [How to file ITR online? | ITR Filing tutorial for salaried employees AY 2024-25 - YouTube](https://www.youtube.com/watch?v=ShWu6vniMgQ&t=1s)
+* [Income Tax Portal, Government of India Login Page](https://eportal.incometax.gov.in/iec/foservices/#/login)
+* [Form26AS](https://cleartax.in/s/view-form-26as-tax-credit-statement)
+* [verify etax](https://cleartax.in/s/income-tax-e-verification-evc)
+
+## BBMP
+* [bbmp e-khata](https://youtu.be/uN6RK4Lq_-s?si=wHbXB5Kj1ci0O8dl)
+
+## Pfin Planning
+* **retirement ca vi **: https://youtu.be/8C5Txz7sHgc?si=hWnebF0LunEi0GCW
+* [Fin planning 1](https://www.youtube.com/watch?v=xOhbfd0qANI&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=31&pp=gAQBiAQB)
+* [Fin plng yadnya](https://www.youtube.com/watch?v=Iwul6-o8QKU&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=29&pp=gAQBiAQB)
+* [bbc pfin](https://www.youtube.com/watch?v=qZI_Bp3OKFA&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=12&pp=gAQBiAQB)
+* [retirement planning](https://www.youtube.com/watch?v=J6DqLwrvqUY&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=6&pp=gAQBiAQB)
+* 10 best investing books : https://www.youtube.com/watch?v=ON6H-BmL50g&list=WL&index=4&pp=gAQBiAQB0gcJCd4JAYcqIYzv
+* [master inflation and taxes](https://www.youtube.com/watch?v=SDdFMcC2iUQ&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=21&pp=gAQBiAQB)
+* [invest 1l](https://www.youtube.com/watch?v=Z2l2El31dhg&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=4&pp=gAQBiAQB)
+* [bk to read](https://www.youtube.com/watch?v=AAI6-zq25EE&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=18&pp=gAQBiAQB)
+* [bk fin literacy](https://www.youtube.com/watch?v=S2SoxwCMJGo&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=19&pp=gAQBiAQB)
+
+## PPF
+* [ppf or nps](https://www.youtube.com/watch?v=60ALIIapZ5g&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=17&pp=gAQBiAQB)
+
+## Mutual fund
+*  Best mf 2025 https://youtu.be/JCnNr58H1cM?si=Nhe36SqFbe0S5*YF
+*  Must have mf https://youtu.be/kaIVeeIhsq4?si=XkPJ06w1cLBBI1dP
+* setup SWP : https://www.youtube.com/watch?v=oO2mr8bK7mY&list=LL&index=15&pp=gAQBiAQB0gcJCbIJAYcqIYzv
+* sip calc : https://www.youtube.com/watch?v=PzWpBqOp1KU&list=LL&index=14&pp=gAQBiAQB
+* top up sip : https://www.youtube.com/watch?v=-2Q5InnZXCI&list=LL&index=16&pp=gAQBiAQB0gcJCbIJAYcqIYzv
+* swp mi : https://www.youtube.com/watch?v=m8YzJl5fFLg&list=LL&index=13&pp=gAQBiAQB
+* sip and swp : https://www.youtube.com/watch?v=0hxGgdibm0s&list=LL&index=3&pp=gAQBiAQB0gcJCbIJAYcqIYzv
+* sip and swp2 : https://www.youtube.com/watch?v=xPc5AzyJL_k&list=LL&index=2&pp=gAQBiAQB
+* https://www.youtube.com/watch?v=KzOuFUDCktU&list=LL&index=6&pp=gAQBiAQB
+* 3 per cent : https://www.youtube.com/watch?v=us1YHIXJkac&list=LL&index=4&pp=gAQBiAQB
+* key ratios : https://www.youtube.com/watch?v=T7xnkJ-_IsQ&list=LL&index=17&pp=gAQBiAQB0gcJCbIJAYcqIYzv
+* returns : https://www.youtube.com/watch?v=IDBLZ0vX9zo&list=LL&index=5&pp=gAQBiAQB0gcJCbIJAYcqIYzv
+* retail investor : https://www.youtube.com/watch?v=WLM93m8Ojsw&list=LL&index=10&pp=gAQBiAQB
+* 15000 income : https://www.youtube.com/watch?v=Rh94aHxMdZ0&list=LL&index=11&pp=gAQBiAQB
+* [hdfc mf sip](https://www.youtube.com/watch?v=D_v-mHE7wbY&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=14&pp=gAQBiAQB)
+* [axis mf sip](https://www.youtube.com/watch?v=ask2a4RT17w&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=9&pp=gAQBiAQB)
+* [5 ratio mf](https://www.youtube.com/watch?v=X1rbN1VRaxc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=37&pp=gAQBiAQB)
+* [sip 8 4 3 ](https://www.youtube.com/watch?v=dzzC8i0reUw&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=52&pp=gAQBiAQB)
+* [How to consolidate your mutual funds](https://www.youtube.com/watch?v=nTFOwFmsyA4)
+* [5 mf pf](https://www.youtube.com/watch?v=H0q-JnF1gh4&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=13&pp=gAQBiAQB)
+* [invest lump sum mf*](https://www.youtube.com/watch?v=A01OtTSq3wg&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=3&pp=gAQBiAQB)
+* [best mf long term](https://www.youtube.com/watch?v=sIaHNEAoCiA&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=5&pp=gAQBiAQB)
+* [3 mf sip 15k](https://www.youtube.com/watch?v=KQt7p3GhTdI&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=20&pp=gAQBiAQB)
+* [SWP monthly scheme](https://www.youtube.com/watch?v=Is_kEY9-5MY&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=42&pp=gAQBiAQB)
+* [swp2](https://www.youtube.com/watch?v=mqrjqD5GaWs&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=28&pp=gAQBiAQB)
+* [mf dhirendra](https://www.youtube.com/watch?v=xmQN82hmdAc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=46&pp=gAQBiAQB)
+* [mf screener](https://www.youtube.com/watch?v=Y4NTACsUn6Y&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=12&pp=gAQBiAQB)
+* [mf p/f](https://www.youtube.com/watch?v=_RYyyCcpyaA&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=2&pp=gAQBiAQB)
+* [15 65 20](https://www.youtube.com/watch?v=NEzqHbtGa9U&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=10&pp=gAQBiAQB)
+* [3% mf investor](https://www.youtube.com/watch?v=us1YHIXJkac&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=12&pp=gAQBiAQB)
+* [mf returns thumb rule](https://www.youtube.com/watch?v=oqC7RqUzAl0&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=14&pp=gAQBiAQB)
+* [mf passive income](https://www.youtube.com/watch?v=jqUGHpOK1gA&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=1&pp=gAQBiAQB)
+* pause MF : https://www.youtube.com/watch?v=9Sg6mSq1N-k&list=WL&index=12&pp=gAQBiAQB
+* 4 fumds you need : https://www.youtube.com/watch?v=YOaFWQ-J6fQ&list=WL&index=4&pp=gAQBiAQB
+* read mf fact sheet : https://youtu.be/4sedv6XPjjA?si=AqK-AITdsPNReqnB
+
+
+## Stocks
+* [sec howto](https://www.youtube.com/watch?v=MMtd5BXcNnM&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=5&pp=gAQBiAQB)
+* [barchart](https://www.youtube.com/watch?v=w3MGd4bOVws&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=20&pp=gAQBiAQB)
+* [screener analysis](https://www.youtube.com/watch?v=cB331gXc310&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=1&pp=gAQBiAQB)
+* [ultimate stock market course](https://www.youtube.com/watch?v=Y3kzzE9Elns&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=2&pp=gAQBiAQB)
+* [dividend stock](https://www.youtube.com/watch?v=KKtyQlRXoDQ&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=9&pp=gAQBiAQB)
+
+
+## SME Shankar
+* [hw many mf shankar](https://www.youtube.com/watch?v=ERLNMSxTkVc&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=15&pp=gAQBiAQB)
+* [mf ram prasad](https://www.youtube.com/watch?v=dt60T00CHh4&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=11&pp=gAQBiAQB)
+* [if i had to start over](https://www.youtube.com/watch?v=qj5XkVoOGn4&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=18&pp=gAQBiAQB)
+* create scanner stocks : https://www.youtube.com/watch?v=mJkG4NSSSZc&list=WL&index=26&pp=gAQBiAQB
+* dont need top mf : https://www.youtube.com/watch?v=7ys14R7FMEY&list=WL&index=16&pp=gAQBiAQB
+* b wealthy : https://www.youtube.com/watch?v=BxAQOgTjVD0&list=WL&index=10&pp=gAQBiAQB
+
+
+## SME Stories
+* [G kothari mf master class](https://www.youtube.com/watch?v=qqipukZ25GA&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=19&pp=gAQBiAQB)
+* [wlth creation](https://www.youtube.com/watch?v=vVZl9n7fgg0&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=7&pp=gAQBiAQB)
+* [smart investing](https://www.youtube.com/watch?v=Zbonc-tQZhQ&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=8&pp=gAQBiAQB)
+* [where spend money](https://www.youtube.com/watch?v=Lf7XEqz2HYk&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=10&pp=gAQBiAQB)
+* [4 golden rules](https://www.youtube.com/watch?v=ZVuhdiOcKqw&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=11&pp=gAQBiAQB)
+* [fin free](https://www.youtube.com/watch?v=6i4iKxVcFmQ&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=8&pp=gAQBiAQB)
+* [how to invest](https://www.youtube.com/watch?v=4WN6qVpOLxM&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=9&pp=gAQBiAQB)
+* [investment low sal](https://www.youtube.com/watch?v=eLTgu4YfyFg&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=7&pp=gAQBiAQB)
+* [dhirendra tech usage pfin](https://www.youtube.com/watch?v=yYkI-JVgxYg&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=13&pp=gAQBiAQB)
+* [civil engr](https://www.youtube.com/watch?v=wEvbI-ToHZw&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=14&pp=gAQBiAQB)
+* [1% club](https://www.youtube.com/watch?v=dUYRdW6fYTk&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=22&pp=gAQBiAQB)
+* Wint wealth PL : https://www.youtube.com/@WintWealthYT/playlists
+* ankur w : https://www.youtube.com/watch?v=j5FFBAgP8Vo&list=WL&index=18&pp=gAQBiAQB
+* inv plan : https://www.youtube.com/watch?v=4S55rt-Qx8c&list=WL&index=13&pp=gAQBiAQB
+* fin plan kamra : https://www.youtube.com/watch?v=Dn5tpWXLp-w&list=WL&index=10&pp=gAQBiAQB
+* chandoo inc src : https://www.youtube.com/watch?v=LhR8WZiPEZI&list=WL&index=9&pp=gAQBiAQB
+* ind trader : https://www.youtube.com/watch?v=yBusipDZhp4&list=WL&index=8&pp=gAQBiAQB
