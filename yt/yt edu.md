@@ -12,10 +12,7 @@
 * rem what you read : https://www.youtube.com/watch?v=pmHXXXH5DmI&list=LL&index=9&pp=gAQBiAQB
 * read book week : https://www.youtube.com/watch?v=spjOfOLm9UE&list=LL&index=7&pp=gAQBiAQB
 * annotation : https://www.youtube.com/watch?v=-fSKNwQ5s4E&list=LL&index=12&pp=gAQBiAQB
-* github issues task list : https://www.youtube.com/watch?v=SSza2dRsBok&list=LL&index=18&pp=gAQBiAQB
 * formula sheet : https://www.youtube.com/watch?v=5dd_0VgUvpA&list=LL&index=9&pp=gAQBiAQB
-* gpt digitize notes : https://www.youtube.com/watch?v=5rAh91V7ucM&list=LL&index=32&pp=gAQBiAQB
-* goals b tracy : https://www.youtube.com/watch?v=yLs47OZMvUk&list=LL&index=42&pp=gAQBiAQB
 
 **yt mark book**
 * [ca Notes](https://www.youtube.com/clip/UgkxjwqDLVckvfjw3bjzCVFAtiE4DgAOh2uD)
@@ -51,7 +48,7 @@
 * imp notes https://youtu.be/8ihDaS_qY7s?si=jHhdcm7R_Qe2q708
 
 
-USCI 
+USCI , neet
 * color th : https://www.youtube.com/shorts/rbXBysJ5oaU
 * icd 10 manual : https://www.youtube.com/shorts/zJXbWhrMeAk
 * chill minute : https://www.youtube.com/shorts/56vVPRw0Gsg
@@ -64,26 +61,15 @@ USCI
 * someone asks : https://youtube.com/shorts/R-twy-TaLa0?si=i9dtQMtBOhxAQgfe
 * gowda btech : https://youtu.be/XwpJWKZfQ-c?si=pfzJLKH8zA71DbBg
 * getting started : https://youtu.be/GDlOqJpzYPI?si=ARrUI-e_QUQ5PWwe
-
+* Neet 3 tips https://youtu.be/oJhf_uQvNeo?si=Jy7A268EFa4117AF
+* first week of school : https://www.youtube.com/shorts/5plVNbQbktA
+  
+  
 **chet chat**
 * yt pl chet : https://www.youtube.com/@ChetChat101/playlists
 * paper presentation tips : https://youtu.be/jTVUqDyTQg8?si=oYfWX0Q-LRPqcq95
 * read textbook https://youtu.be/OISsVtHFrEc?si=1SQhyXiUzS_U1iXz
 
-**Study Skills**
-* [How To Study and Mind Power Techniques](https://youtu.be/IR9Vp_TGsH4?si=jNc-Fhtmb_iALOhF)
-* [LBCC Study skills](https://www.youtube.com/watch?v=QLjip0wygAI)
-* Toppers Make only these Notebooks https://youtu.be/R01GjN73HKE?si=QG0GG1dsjivrgS-s
-* ncert ai based lesson plans https://www.youtube.com/live/GMTmzpqHgzc?si=0mCeli2wOg0SqlUZ
-*lucent eng grammar  https://www.youtube.com/shorts/__I-g5Dd758
-* learning tactics : https://www.youtube.com/playlist?list=PLj-gmzTCuJRxStkLBHsriEaxIcMz2wDye
-
-School
-* gpt 30 min : https://youtu.be/jS8g9cnfvTs?si=84wg84KzokXtUmMO
-* first week of school : https://www.youtube.com/shorts/5plVNbQbktA
-* sat 80 20 : https://www.youtube.com/shorts/x1GwTkzDi0I
-* https://ncjindalps.com/
-* read bible : https://www.youtube.com/shorts/slug30iDtsM
 
 **cbse**
 * [gcse paper](https://www.youtube.com/watch?v=PJqsL_uaSko&list=WL&index=4&pp=gAQBiAQB)
@@ -124,8 +110,6 @@ tablet
 * tablet upsc https://www.youtube.com/shorts/g9YQgKaZicc
 * ipad vs samsung https://www.youtube.com/shorts/JZlfAFSw4pI
 
-
-
 ## yt tips
 * **JNTU Paper Correction and Presentation secrets  https://youtu.be/UGqv61tYZwE?si=RLp1XKNm-4kN5jFq**
 * [use yt](https://www.youtube.com/watch?v=tY28a5dmFL4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=20&pp=gAQBiAQB)
@@ -151,3 +135,13 @@ tablet
 * 10 tech books https://youtu.be/fjVUOR9fY24?si=WQJxHvXbwkECSw5u
 * Find good books read https://youtu.be/Ib-ktK4uVdE?si=C-vmqDVHX-IwpWLE
 * one year of studying (it was a mistake) https://youtu.be/dk3dQf7yZFI?si=vaPxJGKpZG7J-BsU
+* github issues task list : https://www.youtube.com/watch?v=SSza2dRsBok&list=LL&index=18&pp=gAQBiAQB
+* gpt digitize notes : https://www.youtube.com/watch?v=5rAh91V7ucM&list=LL&index=32&pp=gAQBiAQB
+* goals b tracy : https://www.youtube.com/watch?v=yLs47OZMvUk&list=LL&index=42&pp=gAQBiAQB
+* [How To Study and Mind Power Techniques](https://youtu.be/IR9Vp_TGsH4?si=jNc-Fhtmb_iALOhF)
+* [LBCC Study skills](https://www.youtube.com/watch?v=QLjip0wygAI)
+* Toppers Make only these Notebooks https://youtu.be/R01GjN73HKE?si=QG0GG1dsjivrgS-s
+* ncert ai based lesson plans https://www.youtube.com/live/GMTmzpqHgzc?si=0mCeli2wOg0SqlUZ
+* lucent eng grammar  https://www.youtube.com/shorts/__I-g5Dd758
+* learning tactics : https://www.youtube.com/playlist?list=PLj-gmzTCuJRxStkLBHsriEaxIcMz2wDye
+* gpt 30 min : https://youtu.be/jS8g9cnfvTs?si=84wg84KzokXtUmMO
