@@ -29,3 +29,8 @@ boolean search
 * [yt Sourcing Ninja](https://www.youtube.com/watch?v=7Dt3WJzGorU&list=PLmMyXRtEtJEaOVBqTSCVWg--SR7Jn3Ea7&index=5)
 * [5 phrases](https://www.theladders.com/career-advice/5-phrases-that-make-you-appear-powerful-in-a-job-interview)
 * [Boolean search](https://resources.workable.com/find-graphic-designer-boolean-search-strings)
+
+
+links
+* jobs linkedin https://www.youtube.com/shorts/zZ19ogVIT04
+* get ivw call https://www.youtube.com/shorts/Br1KaNJSpsM
