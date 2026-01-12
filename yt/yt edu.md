@@ -6,36 +6,6 @@
 * https://www.learnsanskrit.org/guide/
 * Blooms Taxonomy, taxonomy , Org INFO LATCH , Hierarchy
 
-## yt tips
-* **JNTU Paper Correction and Presentation secrets  https://youtu.be/UGqv61tYZwE?si=RLp1XKNm-4kN5jFq**
-* [use yt](https://www.youtube.com/watch?v=tY28a5dmFL4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=20&pp=gAQBiAQB)
-* yt topics : https://www.youtube.com/watch?v=I673lP_1Rn0&list=LL&index=19&pp=gAQBiAQB
-* Easily Highlight NCERT in pdf https://youtu.be/1tTnmfBiz1w?si=UEy3ne_2Opy4NNAb
-* gd highlight pdf https://www.youtube.com/shorts/UVrRzXwdMmw
-* convert image to text https://www.youtube.com/shorts/5mMWWQOBlHA
-* Best Free PDF Editor for Android | PDFgear https://youtube.com/shorts/yxswKSXL5ts?si=RCvccwttJKE82RsU
-* street smart vs book smart https://share.google/SzyOkHcdLDVFIjOPG
-* [Export text using free pdf](https://www.youtube.com/watch?v=r46uaho58DM&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=22)
-* learn python w gpt : https://www.youtube.com/watch?v=ChoeKcjlYuI&list=LL&index=43&pp=gAQBiAQB0gcJCbIJAYcqIYzv
-* [yt docs hindi typing](https://www.youtube.com/watch?v=lWr9FlZwwWQ&list=WL&index=17)
-* read textbook https://www.cuesta.edu/student-support/academic-success/ssc/study-guides/reading-comp/305-read-text.html
-* Digital skills g edu https://edu.exceedlms.com/student/catalog/list?category_ids=11331-applied-digital-skills
-* Trivikram https://youtu.be/5S*N86JOIWQ?si=aoqzI3ZNYJRDlGJC
-* Weight forgot to put down https://youtu.be/sPxvU5Lj15E?si=2NFRz6qzSqKOUTQn
-* mother as mentor https://youtu.be/JIALnhsFU5o?si=_avjHB5JR4oKKkI8
-* How to Search for Brief, Captioned Videos in YouTube  https://youtu.be/ZmGfmIFTmkg?si=lvPYZXtTokOTnu7c
-* Sneha P https://youtube.com/@snehapatil8592?si=Pb6q8By_5TgXSlXg
-* Videos for Students https://youtube.com/playlist?list=PL0P2tZadZg*u*0WLb_eNcH2E6OsKJ7eYg&si=rt2vyDJqqNyTsyZ*
-* 4 courses https://youtube.com/shorts/pLQtqOqxu_k?si=5V*C5059oNi0a5Ew
-* Discovery education https://youtu.be/rqMCJ5nTMm0?si=MznfsMMy5UPZovAe
-* 10 tech books https://youtu.be/fjVUOR9fY24?si=WQJxHvXbwkECSw5u
-* Find good books read https://youtu.be/Ib-ktK4uVdE?si=C-vmqDVHX-IwpWLE
-* one year of studying (it was a mistake) https://youtu.be/dk3dQf7yZFI?si=vaPxJGKpZG7J-BsU
-
-
-
- 
-
 **How to read**
 * **take notes** :https://www.youtube.com/watch?v=mQzYdYOp9jg&list=LL&index=8&pp=gAQBiAQB
 * 80 20 rule studies : https://youtu.be/FrRUiJ22R7A?si=IY64nF-yzSgYUFHo
@@ -79,6 +49,21 @@
 * [notion](https://nira.com/how-to-use-notion/)
 * https://www.xda-developers.com/i-turned-my-note-taking-overload-to-an-efficient-pkm-system-heres-what-i-learned/
 * imp notes https://youtu.be/8ihDaS_qY7s?si=jHhdcm7R_Qe2q708
+
+
+USCI 
+* color th : https://www.youtube.com/shorts/rbXBysJ5oaU
+* icd 10 manual : https://www.youtube.com/shorts/zJXbWhrMeAk
+* chill minute : https://www.youtube.com/shorts/56vVPRw0Gsg
+* yes you can : https://www.youtube.com/shorts/Ln_3DR248M0
+* study own pace : https://www.youtube.com/shorts/61sO1iDjGmw
+* MA course : https://www.youtube.com/shorts/AF6NAebLZPM
+* med coding : https://www.youtube.com/shorts/jbGPTKILtPU
+* study home : https://www.youtube.com/shorts/YHyG8_jZpVw
+* Student study essentials : https://www.youtube.com/shorts/iG7xv7BEtg4
+* someone asks : https://youtube.com/shorts/R-twy-TaLa0?si=i9dtQMtBOhxAQgfe
+* gowda btech : https://youtu.be/XwpJWKZfQ-c?si=pfzJLKH8zA71DbBg
+* getting started : https://youtu.be/GDlOqJpzYPI?si=ARrUI-e_QUQ5PWwe
 
 **chet chat**
 * yt pl chet : https://www.youtube.com/@ChetChat101/playlists
@@ -131,7 +116,6 @@ School
 * https://www.pocket-lint.com/i-only-use-my-kindle-scribe-for-these-things/
 
 
-
 tablet
 * tablet for upsc : https://youtu.be/lhbnOiZiLpc?si=bX04x2Q2oCNPOy6w
 * read ebooks tablet : https://www.youtube.com/watch?v=gRPa*n3MHNA&list=WL&index=22&pp=gAQBiAQB
@@ -140,59 +124,30 @@ tablet
 * tablet upsc https://www.youtube.com/shorts/g9YQgKaZicc
 * ipad vs samsung https://www.youtube.com/shorts/JZlfAFSw4pI
 
-USCI 
-* color th : https://www.youtube.com/shorts/rbXBysJ5oaU
-* icd 10 manual : https://www.youtube.com/shorts/zJXbWhrMeAk
-* chill minute : https://www.youtube.com/shorts/56vVPRw0Gsg
-* yes you can : https://www.youtube.com/shorts/Ln_3DR248M0
-* study own pace : https://www.youtube.com/shorts/61sO1iDjGmw
-* MA course : https://www.youtube.com/shorts/AF6NAebLZPM
-* med coding : https://www.youtube.com/shorts/jbGPTKILtPU
-* study home : https://www.youtube.com/shorts/YHyG8_jZpVw
-* Student study essentials : https://www.youtube.com/shorts/iG7xv7BEtg4
-* someone asks : https://youtube.com/shorts/R-twy-TaLa0?si=i9dtQMtBOhxAQgfe
-* gowda btech : https://youtu.be/XwpJWKZfQ-c?si=pfzJLKH8zA71DbBg
-* getting started : https://youtu.be/GDlOqJpzYPI?si=ARrUI-e_QUQ5PWwe
 
 
-## Writing
-3 Styles
-* APA
-* MP
-* Chicago
-
-## Writing for Business Readers
-* Email Etiquette : BUF Format : Summary First / Details in the Body/ Data Appendix , short , cut to the chase , use headers Q FYI Req
-* Think Like a Busy Reader , Spoiler alert: Everyone skims.
-* Principles of Effective Writing
-  * First Principle: Less Is More , more deters readers , more dilutes information 
-  * Second Principle: Make Reading Easy ( “Federal Plain Language Guidelines”[19]
-  * Tell Readers Why They Should Care
-* THE RULES OF “LESS IS MORE” : Rule 1: Use Fewer Words 2: Include Fewer Ideas Rule 3: Make Fewer Requests
-* THE RULES OF READABLE WRITING : 1: Use Short & Common Words 2:Write Straightforward and Shorter Sentences , 3: Design for Easy Navigation
-* THE RULES OF WELL-DESIGNED WRITING  : Rule 1: Make Key Information Immediately Visible bottom line up front (BLUF) , 2: Separate Distinct Ideas
-* **Rule 3: Place Related Ideas Together , Order Ideas by Priority , Include Headings , 6 : Consider Using Visuals**
-* What is the point of this sentence, paragraph, or passage?
-* Structure of Paragraph :para 3 parts: topic sentence, supporting sentences, and concluding sentence.
-
-## APA
-* https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf
-* [APA format](https://www.easybib.com/guides/citation-guides/apa-format/)
-* Writing paradigms : https://www.lupinworks.com/roche/pages/paradigms.php
-* elos https://daoyuan14.github.io/elos.pdf
-
-yt APA
-* outline : https://www.youtube.com/watch?v=3ifS9c8I*so&list=WL&index=2&pp=gAQBiAQB
-* apa word format : https://www.youtube.com/shorts/HhD9ZI4voEE
-* [MS Word Standard Page Setup for Project, Seminar, Thesis, Assignment - YouTube](https://www.youtube.com/watch?v=XiOzTTXB9kk&list=PLmMyXRtEtJEY9N3G_nEAobi5b2nusbnPg&index=13)
-* gdocs apa format : https://www.youtube.com/watch?v=f7WomKsmeuI&list=WL&index=15&pp=gAQBiAQB
-* ref website ms word : https://youtu.be/nBMQNQt_fU4?si=5ZgYzv4B_95ym-l4
-* adp format : https://youtu.be/decO68mL-tU?si=lXzAYilac1rXTC1j
-* Sort ref lists : https://www.youtube.com/watch?v=5QO1X617aAs&list=LL&index=6&pp=gAQBiAQB
-* format ref pages : https://www.youtube.com/watch?v=HhD9ZI4voEE&list=LL&index=5&pp=gAQBiAQB
-* ref web site : https://www.youtube.com/watch?v=nBMQNQt_fU4&list=LL&index=4&pp=gAQBiAQB
-* insert citation : https://www.youtube.com/watch?v=pWt84f422k0&list=LL&index=1&pp=gAQBiAQB
-* format research paper : https://www.youtube.com/watch?v=kHasvfLzRO8&list=WL&index=5&pp=gAQBiAQB
-* apa format : https://www.youtube.com/watch?v=Wwn-oIuUkxM&list=WL&index=8&pp=gAQBiAQB
-* add ref : https://www.youtube.com/watch?v=7GEjXJcq8eU&list=WL&index=13&pp=gAQBiAQB0gcJCesJAYcqIYzv
-* apa ref2 : https://www.youtube.com/watch?v=VCEbf0YAprg&list=WL&index=16&pp=gAQBiAQB
+## yt tips
+* **JNTU Paper Correction and Presentation secrets  https://youtu.be/UGqv61tYZwE?si=RLp1XKNm-4kN5jFq**
+* [use yt](https://www.youtube.com/watch?v=tY28a5dmFL4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=20&pp=gAQBiAQB)
+* yt topics : https://www.youtube.com/watch?v=I673lP_1Rn0&list=LL&index=19&pp=gAQBiAQB
+* Easily Highlight NCERT in pdf https://youtu.be/1tTnmfBiz1w?si=UEy3ne_2Opy4NNAb
+* gd highlight pdf https://www.youtube.com/shorts/UVrRzXwdMmw
+* convert image to text https://www.youtube.com/shorts/5mMWWQOBlHA
+* Best Free PDF Editor for Android | PDFgear https://youtube.com/shorts/yxswKSXL5ts?si=RCvccwttJKE82RsU
+* street smart vs book smart https://share.google/SzyOkHcdLDVFIjOPG
+* [Export text using free pdf](https://www.youtube.com/watch?v=r46uaho58DM&list=PLmMyXRtEtJEaqQeA_068ga5GVikqkGAR9&index=22)
+* learn python w gpt : https://www.youtube.com/watch?v=ChoeKcjlYuI&list=LL&index=43&pp=gAQBiAQB0gcJCbIJAYcqIYzv
+* [yt docs hindi typing](https://www.youtube.com/watch?v=lWr9FlZwwWQ&list=WL&index=17)
+* read textbook https://www.cuesta.edu/student-support/academic-success/ssc/study-guides/reading-comp/305-read-text.html
+* Digital skills g edu https://edu.exceedlms.com/student/catalog/list?category_ids=11331-applied-digital-skills
+* Trivikram https://youtu.be/5S*N86JOIWQ?si=aoqzI3ZNYJRDlGJC
+* Weight forgot to put down https://youtu.be/sPxvU5Lj15E?si=2NFRz6qzSqKOUTQn
+* mother as mentor https://youtu.be/JIALnhsFU5o?si=_avjHB5JR4oKKkI8
+* How to Search for Brief, Captioned Videos in YouTube  https://youtu.be/ZmGfmIFTmkg?si=lvPYZXtTokOTnu7c
+* Sneha P https://youtube.com/@snehapatil8592?si=Pb6q8By_5TgXSlXg
+* Videos for Students https://youtube.com/playlist?list=PL0P2tZadZg*u*0WLb_eNcH2E6OsKJ7eYg&si=rt2vyDJqqNyTsyZ*
+* 4 courses https://youtube.com/shorts/pLQtqOqxu_k?si=5V*C5059oNi0a5Ew
+* Discovery education https://youtu.be/rqMCJ5nTMm0?si=MznfsMMy5UPZovAe
+* 10 tech books https://youtu.be/fjVUOR9fY24?si=WQJxHvXbwkECSw5u
+* Find good books read https://youtu.be/Ib-ktK4uVdE?si=C-vmqDVHX-IwpWLE
+* one year of studying (it was a mistake) https://youtu.be/dk3dQf7yZFI?si=vaPxJGKpZG7J-BsU
