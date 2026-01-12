@@ -1,3 +1,6 @@
+**AB**
+'Amitabh Bachchan would read Bhagavad Gita every morning, write letters to his parents every night,' reveals Ranjeet as he opens up on the actor's discipline | Hindi Movie News - The Times of India https://share.google/jj3q92qANgWsq0M4r
+
 10 Samurai Life Rules For How To Be Mentally Strong, According to Miyamoto Musashi - New Trader U https://share.google/Ta66vjhISCs7s3RNW
 
 Australian traveller learns a life lesson from English-speaking Indian auto driver: “Life is not for money” | Trending News - The Indian Express
