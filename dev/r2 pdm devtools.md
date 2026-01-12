@@ -44,9 +44,6 @@ yt db
 * [yt sql2](https://www.youtube.com/watch?v=uIsRVBtwXM4&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=7&pp=gAQBiAQB)
 * [yt DB Design PL](https://youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_&si=oRGQtHil9Jhwgkmn)
 
-## Notepad++
-* yt pl : https://youtu.be/PzjPu5F9K9Y?si=CgcLvtmlfMmh-bTk
-
 ## Python
 * [python docs](https://docs.python.org/3/tutorial/index.html)
 * https://docs.python.org/3/tutorial/index.html
@@ -90,6 +87,7 @@ yt db
 * git cert : https://youtube.com/playlist?list=PLBfufR7vyJJ4uRXqarjPKqxYq4_Pexj1V&si=1DwDxsoGRNLEAcM1
  
 ## Notepad++
+* yt pl : https://youtu.be/PzjPu5F9K9Y?si=CgcLvtmlfMmh-bTk
 * [Add Firefox in Notepad++ ](https://www.youtube.com/watch?v=neUPiV2DiA8)
 * [yt np bookmark](https://youtu.be/g3sOIqs1Ifw?si=i5dv8yN89IYqR0hH)
 * [yt np space removal](https://youtu.be/y3rNhoHQCQU?si=ZLDeGf8_mwsjdD71)
