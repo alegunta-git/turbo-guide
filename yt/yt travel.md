@@ -147,3 +147,9 @@ EMEA
 APAC
 * [Japan vlog](https://www.youtube.com/watch?v=FhDS4oP-HoM&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=6&pp=gAQBiAQB)
 * japan keeps clean https://youtu.be/BOGMkgnc2YY?si=1bXwTAtkFTnkl3xc
+
+links
+- India states https://youtu.be/RywRRfNN7iw?si=1JzGZuD_hxcKxdu0
+- Tvl blog https://youtu.be/gbF_MKuGNXo?si=HPkt5MszYB3MEndi
+- Meghalay itinerary https://youtu.be/0SJW03E-N64?si=SnXWnN8zQpI5kXfU
+- Badavangudi bfst https://youtu.be/UjEZFdKz_0s?si=2tJzhOCEilshsfhU
