@@ -3,3 +3,4 @@
 * phulka https://youtu.be/Kf87F0mjKzg?si=EeHBBfvh9ItCanbH
 * brinjal curry https://youtu.be/lXkW-lWfhY8?si=6lY_zqp7S9O7e7Pk
 * kura karam https://youtu.be/vK3jXJgUO1M?si=Us1gkZKjIkNZWCc5
+* paneer masala https://www.youtube.com/shorts/GqbjjFRPgT4
