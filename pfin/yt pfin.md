@@ -154,3 +154,15 @@
 * fin plan kamra : https://www.youtube.com/watch?v=Dn5tpWXLp-w&list=WL&index=10&pp=gAQBiAQB
 * chandoo inc src : https://www.youtube.com/watch?v=LhR8WZiPEZI&list=WL&index=9&pp=gAQBiAQB
 * ind trader : https://www.youtube.com/watch?v=yBusipDZhp4&list=WL&index=8&pp=gAQBiAQB
+
+
+links
+* Ankur w fin adv https://youtu.be/BdBwCjE9U6A?si=aSnVY_-TJ9s2pwVu
+* Suck percentage  https://youtu.be/SbjoJT_ELnk?si=ujxvNHKHyLS_XXV5
+* License raj https://youtu.be/ASdaJffxJog?si=jckTKD45Lu_A3FX1
+* Starbucks ceo exp https://youtu.be/DMyrZ2re-DM?si=oLHhnLvXB4eazluy
+* 3 bhk mumbai https://youtu.be/m73HqEvlT6k?si=HmnchidXkQBwYTNG
+* Arnold s real estates  https://youtu.be/IlM-mbS_gaE?si=RuV-erym8oxp3BNF
+
+
+
