@@ -8,6 +8,7 @@
 
 **How to read**
 * **take notes** :https://www.youtube.com/watch?v=mQzYdYOp9jg&list=LL&index=8&pp=gAQBiAQB
+* **how to read** https://fs.blog/reading/
 * 80 20 rule studies : https://youtu.be/FrRUiJ22R7A?si=IY64nF-yzSgYUFHo
 * rem what you read : https://www.youtube.com/watch?v=pmHXXXH5DmI&list=LL&index=9&pp=gAQBiAQB
 * read book week : https://www.youtube.com/watch?v=spjOfOLm9UE&list=LL&index=7&pp=gAQBiAQB
