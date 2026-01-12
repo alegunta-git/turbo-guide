@@ -1,6 +1,7 @@
 * mit fin s https://www.youtube.com/shorts/pzQxbyURhco
 * int value https://youtu.be/-UaF72YoCD0?si=iKNoVmIgXLCknyst
 * int value pe https://youtu.be/06vYGPTlVX0?si=47JaQ7ONK6O8gCxc
+* mf types https://www.youtube.com/shorts/kaIVeeIhsq4
 
 
 sme
