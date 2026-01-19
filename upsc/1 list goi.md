@@ -1,6 +1,4 @@
-**Todos**
-- read upsc int book , id the key issues , document 
-- map the  dept and the polciies
+* Todos : - read upsc int book , id the key issues , document 
 
 ## List of Ministries
 * https://en.wikipedia.org/wiki/List_of_ministries_and_departments_of_the_Government_of_India
@@ -107,62 +105,13 @@
 
 
 ## Policies
-* Ministry of Agriculture and Farmers Welfare
-* Ministry of AYUSH
-* Ministry of Chemicals and Fertilizers
-* Ministry of Civil Aviation
-* Ministry of Coal
-* Ministry of Commerce and Industry
-* Ministry of Communications
-  * The Telecommunications Act, 2023, 
-  * Telecom Cybersecurity Rules, 2024,
-* Ministry of Consumer Affairs, Food and Public Distribution
-* Ministry of Corporate Affairs
-* Ministry of Culture
-* Ministry of Defence
-* Ministry of Development of North Eastern Region
-* Ministry of Earth Sciences
-* Ministry of Education
-  * NEP National Education Policy 2020 : https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf 
-* Ministry of Electronics and Information Technology
-  * Digital Personal Data Protection (DPDP) Rules, 2025
-* Ministry of Environment, Forest and Climate Change
-* Ministry of External Affairs
-* Ministry of Finances
-* Ministry of Fisheries, Animal Husbandry and Dairying
-* Ministry of Food Processing Industries
-* Ministry of Health and Family Welfare
-* Ministry of Heavy Industries and Public Enterprises
-* Ministry of Home Affairs
-* Ministry of Housing and Urban Affairs
-* Ministry of Information and Broadcasting
-* Ministry of Jal Shakti
-* Ministry of Labour and Employment
-* Ministry of Law and Justice
-* Ministry of Micro, Small and Medium Enterprises
-* Ministry of Mines
-* Ministry of Minority Affairs
-* Ministry of New and Renewable Energy
-* Ministry of Panchayati Raj
-* Ministry of Parliamentary Affairs
-* Ministry of Personnel, Public Grievances and Pensions
-* Ministry of Petroleum and Natural Gas
-* Ministry of Power
-* Ministry of Railways
-* Ministry of Road Transport and Highways
-* Ministry of Rural Development
-* Ministry of Science and Technology
-* Ministry of Shipping
-* Ministry of Skill Development and Entrepreneurship
-* Ministry of Social Justice and Empowerment
-* Ministry of Statistics and Programme Implementation
-* Ministry of Steel
-* Ministry of Textiles
-* Ministry of Tourism
-* Ministry of Tribal Affairs
-* Ministry of Women and Child Development
-* Ministry of Youth Affairs and Sports
+* The Telecommunications Act, 2023, 
+* Telecom Cybersecurity Rules, 2024,
+* NEP National Education Policy 2020 : https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf 
+* Digital Personal Data Protection (DPDP) Rules, 2025
 
+
+## List of Challenges
 
 
 
