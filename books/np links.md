@@ -77,3 +77,4 @@
 -  https://indianexpress.com/article/entertainment/bollywood/amitabh-bachchan-called-to-work-in-my-film-worked-double-shifts-suneel-darshan-10403313/#amp_tf=From%20%251%24s&aoh=17651025581544&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Findianexpress.com%2Farticle%2Fentertainment%2Fbollywood%2Famitabh-bachchan-called-to-work-in-my-film-worked-double-shifts-suneel-darshan-10403313%2F
 -  https://www.ndtv.com/offbeat/your-time-has-zero-value-woman-slams-indias-delays-compares-with-japan-9793561
 -  https://timesofindia.indiatimes.com/technology/tech-news/im-one-of-one-of-those-people-who-google-ceo-sundar-pichai-explains-how-he-measures-the-success-of-its-product-launches/articleshow/125716480.cms
+-  https://www.moneycontrol.com/news/trends/cognizant-techie-in-uk-says-she-doesn-t-miss-india-s-cutthroat-work-culture-focus-is-on-work-life-balance-13777715.html
