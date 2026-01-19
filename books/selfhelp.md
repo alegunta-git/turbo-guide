@@ -35,30 +35,17 @@ How often do we stop living our dreams to live the dreams of other people? Goals
 
 When you focus on simplifying your life and lowering your expectations, you create more space for things that really matter (health, relationships, wealth, a smile, etc.), you increase your margin (the space between your work capacity and load of work) so as not to drown at work, and life, in general, becomes much easier. Even more importantly, by simplifying your life, you can finally make room for happiness. It's always the simple things that change our lives. And these things never happen when you're looking for them. Experience will reveal answers in the rhythm that you want to do. You feel like running, but life is on a ride. That is how things happen. ~ Donald Miller The easiest way to start simplifying and lowering you expect to take two simple starting steps. Identify things that are important to you. Get rid of everything else. ALL!
 
-Live a calmer life - If you have fewer things, a smaller house, fewer cars, fewer possessions, will also have a more peaceful life and fewer worries. Sometimes the least can be more, especially for people who seek to live a life without being attached to things;
+_Live a calmer life_ - If you have fewer things, a smaller house, fewer cars, fewer possessions, will also have a more peaceful life and fewer worries. Sometimes the least can be more, especially for people who seek to live a life without being attached to things;
 
-Less cleaning time - The smaller your home and the simpler the decor, the less time it will take to clean it and the more time you'll have for the things that really matter. Can not you see that as an advantage? There are people living in real mansions with everything and anything else inside. My question is simple: do you take half of it?
+_Less cleaning time_ - The smaller your home and the simpler the decor, the less time it will take to clean it and the more time you'll have for the things that really matter. Can not you see that as an advantage? There are people living in real mansions with everything and anything else inside. My question is simple: do you take half of it?
 
-More freedom - If you can get more out of things and possessions, you will end up giving value to other things in your life and will pro- vide you with more freedom from all that holds the present society. Did not you like having more chances to do this or that? If you live a simpler life you will probably succeed;
+_More freedom_ - If you can get more out of things and possessions, you will end up giving value to other things in your life and will pro- vide you with more freedom from all that holds the present society. Did not you like having more chances to do this or that? If you live a simpler life you will probably succeed;
 
-Good for the environment - The less you consume, the less garbage you will make and the more it will preserve the environment. Today's society is too consumeristic, and this is reflected in trash and debris that gradually wreak havoc on our planet;
+_Good for the environment_ - The less you consume, the less garbage you will make and the more it will preserve the environment. Today's society is too consumeristic, and this is reflected in trash and debris that gradually wreak havoc on our planet;
 
-Becomes more productive - Whether you want or not our posses- sions consume immense of our time. It's our cell phone, and it's that new television, it's the whirlpool, everything, and everything. If you have fewer things to divert your attention you will become a much more productive person in your day to day life;
+_Becomes more productive_ - Whether you want or not our possessions consume immense of our time. It's our cell phone, and it's that new television, it's the whirlpool, everything, and everything. If you have fewer things to divert your attention you will become a much more productive person in your day to day life;
 
-Spending money on other things - Money can be spent on lots of things and not necessarily on homes, cars or electronic devices. you can stay away from long-term loans, you'll also be able to lay your head on the cushion;
-
-
-
-
-
-
-
-
-
-
-
-
-
+_Spending money on other things_ - Money can be spent on lots of things and not necessarily on homes, cars or electronic devices. you can stay away from long-term loans, you'll also be able to lay your head on the cushion;
 
 
 **Tips for gmail**
