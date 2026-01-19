@@ -142,6 +142,13 @@ Indigo will now operate 1,800-1,900 flights instead of 2,300 flights it used to 
 **Government may seek reconstitution of IndiGo’s board over FDTL fallout** 
 "Sources added that given the dependence of the Indian aviation industry on the IndiGo network, which accounts for 65 percent of market share, it is advisable to have more people on the board who can question network design, crew utilisation, rostering, aircraft ground time and regulatory exposure with domain authority, so that operational risk gets board-level visibility rather than remaining buried within the managerial layers.
 
+**When I signed up to make deliveries on Zomato, Blinkit and Swiggy for a day | Long Reads News - The Indian Express**
+"For three days last week, I signed up as a delivery worker, navigating Delhi’s traffic and the architecture of India’s gig economy. My experience of working for a day each across Zomato, Blinkit and Swiggy platforms laid bare a grim reality: India’s convenience economy runs on the backs of delivery workers, and the costs – financial, physical, psychological – are theirs alone to carry.
+
+The numbers were stark. Across three days, I rode 105 km on a TVS 125 cc scooter to complete more than 20 deliveries and clocked over 15 hours of work. Total earnings: Rs 782. After fuel costs of Rs 250, I was left with Rs 532, or roughly Rs 34 per hour — well below minimum wage standards in most formal sectors — without accounting for vehicle maintenance, phone bills, or the physical toll of spending hours navigating Delhi’s roads, waiting for orders and lugging heavy loads up buildings."
+
+With a low base pay (around Rs 35-Rs 55 per order, depending on distance), algorithmic systems that nudge delivery workers to accept more orders and cover longer distances, rising fuel costs, no social security benefits and a largely faceless management, the growth of India’s quick-delivery economy — which is expected to employ over 23 million by 2030 — has come at the cost of increasingly precarious worker earnings.
+
 
 
 
