@@ -261,5 +261,20 @@ Maths
 * "Simon’s theory of clumps and lumps : Why do cities organize themselves like this?  But one idea that Herbert Simon came up with nearly a half-century ago, which may well be right, is that whatever size cities start out, they will then attract to themselves a similar proportion of any subsequent increase in population. Each existing city is a ‘clump’ of whatever size. When population increases, it does so in ‘lumps,’ not just through the excess of new births over deaths, but through lumps of new arrivals (by immigration in the case of the US; in many other countries by people drifting from the countryside). But each new lump will tend to attach itself to a clump in proportion to the existing size of the lump. Simon explains this by the availability of employment, and by the observed fact that most entrepreneurs (who provide the employment) stay near where they started."
 
 
+**10 Ways to Stand Out at Work** 
+* https://canro91.github.io/2025/02/26/StandOutAtWork/#:~:text=But%20you%20don%27t,would%20be%2010. 
+2. Deliver your work on time. Not early, and definitely not late.
+3. Document and automate your work. Don't become a bottleneck. Don't become a hero either.
+4. Ask for the context behind your tasks. Always ask why. Why this? And why now?
+5. Get interested in the business side of your work. Understand how your work is helping the company make money.
+6. Speak up in meetings. Ask questions and give suggestions.
+7. Volunteer for the work nobody else wants to do. Make sure you can do it, or figure out how.
+8. Give away ideas to improve the company, the product, or the work around you. Make sure you can make one of them a reality.
+9. Be reachable during working hours, especially when working from home.
+10. Be easy to work with. A.k.a don't be an ass*.
+11. Make your boss look good in front of their bosses.
+12. Make sure every task you get is solved. Either because you solve it or follow up with the right team or person to solve it.
+
+
 
 
