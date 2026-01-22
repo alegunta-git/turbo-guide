@@ -64,3 +64,12 @@
 * SW Design https://third-bit.com/sdxpy/
 * DP guidelines https://youtube.com/playlist?list=PLJOFJ3Ok_idseIQ0D1Eq3TO1ipAmn00eL&si=JPFV1fyrdejajorw
 * AOSA v2 https://aosabook.org/en/v2/distsys.html
+
+
+## docs
+- Frontend mentor
+- Projectlearn.io
+- Quickref.me
+- Devdocs.io
+- Overapi.com
+- Roadmap.sh
