@@ -19,6 +19,9 @@
 * Settings : Accessibility , System , Reset and Clean-up , WebStore , Extensions
 * Guest profile , password Manager , Dev tools
 
+Opera
+* https://help.opera.com/en/latest/
+
 
 **Firefox**
 * [firefox features](https://www.youtube.com/watch?v=HlHwB7KOTOc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=17&pp=gAQBiAQB)
