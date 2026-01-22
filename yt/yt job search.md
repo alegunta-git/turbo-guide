@@ -4,6 +4,7 @@ dev int
 * [tips from recruiter*](https://www.youtube.com/watch?v=nw0m3-N9G5Y&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=1&pp=gAQBiAQB)
 * [yt g mock i](https://www.youtube.com/watch?v=S1DvEdR0iUo&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=13&pp=gAQBiAQB)
 * [yt g staff engr](https://www.youtube.com/watch?v=OeWLeEiqMhQ)
+* 10 GitHub Repositories to Ace Any Tech Interview https://share.google/uG5Bjpt99anlGVm99
 
 resume
 * https://github.com/VGraupera/manager-resources
