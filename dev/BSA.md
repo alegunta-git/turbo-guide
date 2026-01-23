@@ -1,19 +1,4 @@
-# R4 BSA
-## QA
-**yt QA**
-* basic tech : https://www.youtube.com/playlist?list=PLsjUcU8CQXGEf4fn5o5GYdhnhPCLpdIJ1
-* useful tools : https://www.youtube.com/playlist?list=PLsjUcU8CQXGGmdZ2n0qeYzrfgElvdXxHz
-
-**Test cases**
-* [180 sample test case](https://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applications/)
-* [onecore Test case Archives](https://onecore.net/archives)
-* [artoftesting ecomm](https://artoftesting.com/ecommerce)
-* [ecomm2](https://www.softwaretestinghelp.com/ecommerce-testing/)
-* API test TBD
-* https://katalon.com/resources-center/blog/test-cases-for-ecommerce-website
-
-
-## BSA
+## BSA notes
 **BSA topics**
 * yt bsa
 * tell stories
@@ -22,7 +7,6 @@
 * user stories m goat
 * use case alistair
 
-## BSA notes
 **BSA Qs**
 - Explain SOW , BRD , JAD , Prototyping /Traceability/Change Management 
 - Change Req , Handle CR , Process modeling 
@@ -36,7 +20,6 @@
 * Data : Business Data , Data Flow , Data Dictionary , State Table , State Diagram  , Report table
 
 **22 Visual models BSA**
-* [22 BSA Visual Models](https://www.bridging-the-gap.com/22-visual-models-used-by-business-analysts/)
 * Activity Diagram , Business Domain Model , Scope Model 
 * Data Flow , Data model ,Use Case , UI Wireframe
 * Stakeholder Map , SWOT Analysis 
@@ -49,6 +32,7 @@
 
 
 ## BSA blogs
+* [22 BSA Visual Models](https://www.bridging-the-gap.com/22-visual-models-used-by-business-analysts/)
 * [BSA Tools](https://www.softwaretestinghelp.com/business-analysis-tools/)
 * [BSA docs](https://thebusinessanalystjobdescription.com/documents-created-by-a-business-analyst/)
 * [blog aotstudios](https://aoteastudios.com/blog/)
@@ -64,16 +48,23 @@
 * pl pradeepa https://www.youtube.com/playlist?list=PLb3xmJwjBYTt2M0PDoUcUo76F3t3WRLnb
 * BSA resume review https://youtu.be/_39IPJGapdQ?si=hjpe6InIumbsDbuj
 
-## Glossary
-* [pm glossary](https://www.smartsheet.com/complete-glossary-project-management-terminology)
-* [Agile glossary](https://www.aha.io/roadmapping/guide/agile/agile-glossary)
-* [SAFE glossary](https://scaledagileframework.com/glossary/)
-* Testing glossary : https://www.lambdatest.com/learning-hub/glossary
-* [api glossary](https://rapidapi.com/blog/api-glossary/)
-* [logistics](https://www.inboundlogistics.com/logistics-glossary/)
+## IT Service Domain
+* BFSI(Banking/Financial Svc,Insurance)
+* Fintech 
+* Healthcare 
+* Telecom
+* Manufacturing
+* FMCG , Supply Chain , Retail 
+* Travel 
+* Entertainment , media
+* Automotive , Energy , Oil and Gas
+* Education 
+* Consumer Govt
 
+## yt Healthcare
+* CDM Training : https://www.youtube.com/watch?v=4iDTcjlisSI&list=WL&index=4&pp=gAQBiAQB
+* medical coding tut : https://www.youtube.com/watch?v=D9STdvwJVQY&list=WL&index=5&pp=gAQBiAQB
 
-# r4 domain
 ## IT Product Domain
 * AWS
 * Generative AI
@@ -116,8 +107,6 @@
 * twitter kirk borne bks : https://x.com/KirkDBorne/status/1980137343223734280
 * dsa books sr das : https://srdas.github.io/Papers/DSA_Book.pdf
 
-
-
 **Data Science**
 * [Data Mining](https://www-users.cse.umn.edu/~kumar001/dmbook/firsted.php#item4)
 * [T5 Data sci](https://www.coursejoiner.com/uncategorized/top-5-free-data-science-courses/)
@@ -130,19 +119,4 @@
 * [GSearch](https://static.googleusercontent.com/media/www.google.com/en//support/enterprise/static/gsa/docs/admin/current/gsa_doc_set/xml_reference/xml_reference.pdf)
 
 
-## IT Service Domain
-* BFSI(Banking/Financial Svc,Insurance)
-* Fintech 
-* Healthcare 
-* Telecom
-* Manufacturing
-* FMCG , Supply Chain , Retail 
-* Travel 
-* Entertainment , media
-* Automotive , Energy , Oil and Gas
-* Education 
-* Consumer Govt
 
-## yt Healthcare
-* CDM Training : https://www.youtube.com/watch?v=4iDTcjlisSI&list=WL&index=4&pp=gAQBiAQB
-* medical coding tut : https://www.youtube.com/watch?v=D9STdvwJVQY&list=WL&index=5&pp=gAQBiAQB
