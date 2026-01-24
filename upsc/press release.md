@@ -1,4 +1,8 @@
-## PIB 2025 
+PIB 2026
+* CERT https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217537&reg=3&lang=1
+* ODOP https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217539&reg=3&lang=1
+
+PIB 2025 
 * World Health Day 2025 : https://pib.gov.in/PressReleasePage.aspx?PRID=2119577
 * India’s Fight Against Anemia : https://pib.gov.in/PressReleasePage.aspx?PRID=2122623
 * Trainee ias officer : https://pib.gov.in/PressReleasePage.aspx?PRID=2123043
@@ -21,7 +25,8 @@
 * digital protection https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf
 * https://thebetterindia.com/civil-service/best-of-2025-ias-ifs-civil-service-officers-people-first-governance-education-sustainability-india-10947650
 
-## AMZ 2025
+
+AMZ 2025
 * https://press.aboutamazon.com/aws/2025/10/aeroporti-di-roma-transforms-passenger-experience-with-ai-virtual-assistant-powered-by-aws-and-storm-reply
 * Aus ai guidelines https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf
 
