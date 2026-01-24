@@ -109,7 +109,7 @@
 * Telecom Cybersecurity Rules, 2024,
 * NEP National Education Policy 2020 : https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf 
 * Digital Personal Data Protection (DPDP) Rules, 2025
-
+* Wild Life (Protection) Act, 1972
 
 ## List of Challenges
 
