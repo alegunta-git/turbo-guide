@@ -20,6 +20,7 @@
 - https://www.xda-developers.com/replaced-adobe-acrobat-with-fast-open-source-pdf-reader/
 - https://www.xda-developers.com/stopped-using-smart-note-taking-apps-built-own-with-plain-text-scripts/
 - https://www.xda-developers.com/formats-better-than-pdf-for-storing-documents/
+- https://www.xda-developers.com/replaced-expensive-subscriptions-with-open-source-tools/
 
 
 ## tools
