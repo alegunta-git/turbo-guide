@@ -1,3 +1,11 @@
+**Wishlist**
+- Swades
+- Missama
+- AB Sholay , Deewar
+- Devanand Movies
+- Broken Arrow
+- Other people money
+
 ## 2026 Movies
 
 Jan
@@ -36,6 +44,69 @@ Dec
 - 14 Tamil movie
 
 
+## Webseries
+
+Hotstar
+- Startup S1
+- Startup S2
+- Check out nat geo and discovery education series
+- discovery study tips doc
+
+Netflix
+| Year | Webseries    |
+|------|--------------|
+| 2022 | English maid |
+| 2022 | Delhi Crime  |
+|      | Kota Factory |
+
+
+Amazon
+| Year | Webseries          |
+|------|--------------------|
+| 2022 | Panchayat S1       |
+| 2022 | Panchayat S2       |
+| 2024 | Panchayat S3       |
+| 2025 | Panchayat S4       |
+| 2022 | Medical Series     |
+| 2022 | Telugu Series      |
+| 2024 | Bandish bandits S2 |
+|      | Family Man         |
+
+
+Sonyliv , 400 /mo
+| Year | Webseries                          |
+|------|------------------------------------|
+| 2025 | Scam 1992: The Harshad Mehta Story |
+| 2025 | Rocket boys                        |
+| 2025 | The Whistleblower                  |
+|      | Cubicles                           |
+|      | Bench Life                         |
+|      | Scam 2003 - The Telgi Story        |
+|      | Gullak                             |
+|      | Undekhi                            |
+|      | Maharani                           |
+|      | Freedom at Midnight                |
+|      | Girls Hostel                       |
+|      | Raisinghani vs Raisinghani         |
+|      | Good Bad Girl                      |
+|      | Family Aaj Kal                     |
+
+
+
+## Movie Review
+Dragon movie
+nice theme , loose the race and how to stage comeback msg
+good to have supportive fathers , no matter what
+48 subj 35 theory ( refer pyq , start imp q) 13 practical ,attend pass
+
+Super 30
+High talent , limited resources , hero unable to visit oxford
+Iit prep money making opp rich ppl , class divide , poor dont have access
+Next time do revision and stage the act 
+Sad part : kids not having food , child labor themes
+Street smart , solve problems - thinking in mind 
+10 second rule for mcq
+Coaching mafia , education is road to heaven 
 
 
 
