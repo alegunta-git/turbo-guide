@@ -1,3 +1,10 @@
+**India’s youth are a force for global good,**
+- Staying away from distractions and practising self-discipline.
+- Continuous learning and upskilling to remain relevant in a fast-changing world.
+- Physical and moral courage in the face of challenges, drawing inspiration from heroes such as Lt Arun Khetarpal and Capt Mahendra Nath Mulla.
+- To become a team player – ‘One for all, all for one’.
+- Never Give Up
+
 **AB**
 'Amitabh Bachchan would read Bhagavad Gita every morning, write letters to his parents every night,' reveals Ranjeet as he opens up on the actor's discipline | Hindi Movie News - The Times of India https://share.google/jj3q92qANgWsq0M4r
 
