@@ -17,6 +17,8 @@
 11. Make your boss look good in front of their bosses.
 12. Make sure every task you get is solved. Either because you solve it or follow up with the right team or person to solve it.
 
+Kirk Borne on X: "“Machine Learning” by Tom Mitchell — download PDF of this classic ML book here: https://t.co/NvhXgR38DR In 1998, when I read the first sentence in this book, I paused, reread it, and pondered “what sort of mathematics is this?” I had many years of advanced math in physics https://t.co/LhVzmP5uiD" / X https://share.google/671kW0a50vWJApaAu
+
 ## Management
 Amazon
 - Working Backwards : Write Press Release (feature/benefits) , FAQ
