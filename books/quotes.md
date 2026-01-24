@@ -60,6 +60,7 @@ God grant me the serenity to accept the things I cannot change, courage to chang
 * We must beware of a certain craze for collecting which sometimes takes possession of those who make notes.... That is a deplorable practice. —A.G. Sertillanges, O.P., The Intellectual Life
 * "Trade money for time, not time for money. You're going to run out of time first," says Investor & AngelList Founder Naval Ravikant
 * An expert is a person who has made all the mistakes that can be made in a very narrow field
+* The art of conversation is in listening and not talking. Listen thrice, think twice and speak once. That is the golden rule that will help you create impact 
 
 ## Problem Solving
 * [simplest thing](https://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork) That WORKS !!
