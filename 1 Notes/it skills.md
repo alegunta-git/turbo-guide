@@ -1,12 +1,30 @@
-**SDLC**
-| Area   | Topic                                                       |
-|--------|-------------------------------------------------------------|
-| PM     |  Anti patterns , WSR templates , prj finance                |
-| Reqs   | Req Patterns , User Story , use case                        |
-| Design | FE (Web)  , BE (Database)   , API Spec , mobile ios/Android |
-| Coding | DSA  , System Design , OOAD , DP                            |
-| QA     | Test Automation . test Scenarios                            |
-| SCM    | Devops                                                      |
+## IT Skills
+**Top Tech**
+* Adv Tech :Big Data  , Machine Learning  NLP Computer Vision
+* Top Skills-1 :UI , UX , Full Stack  Network , Security , Mobile
+* Top Skills-2 : BSA , IT PM , Cloud Architect Data science , CMS
+
+**Web tech**
+* OOAD/UML , RDBMS/ER ,  Core java , 
+* HTML/CSS , Javascript, Ajax , Jquery
+* Struts , Hibernate, Spring 
+* SQL , PLSQL , shell,pl
+* JSP , Servlets , EJB , JDBC , JMS , RMI 
+
+**DCX Domain**
+* UX and UI : HTML5/CSS3 , JS , Jquery , React, Angular  , NodeJS
+* Content: Drupal ,  PHP 
+* Mobile : MFP , IOS , Android , Xamarin , React Native 
+* Commerce : SAP Hybris ,  Magento  ,  E-Comm Tools
+* CRM : CRM(Salesforce) , EAI(mulesoft)
+* RPA : UI Path , Browser Automation
+
+**Infy skills**
+* Misc : Globus , Domain (BSA) , PTFT(QA)
+* Systems : Open Sys , Telecom , RTOS/Embedded , PDM
+* Mainframe : Mainframe , AS400
+* Web Apps : MS Web RDBMS DWBI
+* Enterprise Apps : ERP , CRM , EAI
 
 ## IT Cert 
 | Role             | Exams                                             |
@@ -58,9 +76,19 @@
 |IMP White Papers  | MapReduce , ProtocolBuffers ,  BigTable , Thrift , Hadoop ,REST API         |
 
 
-## SDLC Role skills
+## SDLC skills
 
-## PM Role
+**SDLC**
+| Area   | Topic                                                       |
+|--------|-------------------------------------------------------------|
+| PM     |  Anti patterns , WSR templates , prj finance                |
+| Reqs   | Req Patterns , User Story , use case                        |
+| Design | FE (Web)  , BE (Database)   , API Spec , mobile ios/Android |
+| Coding | DSA  , System Design , OOAD , DP                            |
+| QA     | Test Automation . test Scenarios                            |
+| SCM    | Devops                                                      |
+
+## PM Project Manager
 - Experience
   - Tech stack worked upon (MS.net , Java , Digital , Cloud)
   - Responsibilities , Project Delivery , Challenges faced
@@ -111,27 +139,14 @@
   - Microservices / AWS Cloud /Test Automation (Selenium)
   - Digital Marketing :  G Analytics , G Adwords , FB , Twitter /YT/Pinterest , CPC 
 
-## Agile
-* Agile & SAFE glossary
-* Process : Kanban , Lean , LESS ,SAFE  
-* Release Plan , How to Release : MVP , MMF 
-* User Story Mapping : Themes - Features - Epics - User Stories - Tasks
-* Grooming : Backlog grooming (Product/Sprint) 
-* User Stories (INVEST/Acceptance Criteria) ,
-* Sprint Rituals : Sprint Planning / Sprint Review /Demo/ Daily Stand up 
-* Sprint Retro : www/wci,Mad Sad Glad , radial graph
-* Personas ,Spike , Timeboxing , DoD , DOR ,Dependency , Impediment , Technical Debt  ,TDD , BDD , FDD 
-* Information Radiator : Burndown Chart ,  Scrum Board , Story Points ,Capacity, Velocity 
-
-
-## PM Role at Emid Expectations
+**PM Role at Emid Expectations**
 - Monitor and handle the risks internally , before client is aware 
 - Quantify with number the issue list and action taken 
 - Ensure the BDD is followed for Front End and ff documents 
 - Resolution of nfr requirements 
 - As a TPM , be aware of CI CD , TDD and BDD 
 
-## TPM Role Expectations
+**TPM Role Expectations**
 - Monitor and handle risks internally , before client team is aware
 - Quantify Issues with numbers/impact , take corrective action(s) and document steps
 - As a TPM , be aware of CI CD , TDD and BDD , ensure the BDD (Front End components) 
@@ -151,7 +166,39 @@
 - Release management 
 - Value-Adds : Best practices , Agile audit ( Quality and metrics analysis ) , Knowledge Management
 
-## BSA 
+
+
+## Agile
+* Agile & SAFE glossary
+* Process : Kanban , Lean , LESS ,SAFE  
+* Release Plan , How to Release : MVP , MMF 
+* User Story Mapping : Themes - Features - Epics - User Stories - Tasks
+* Grooming : Backlog grooming (Product/Sprint) 
+* User Stories (INVEST/Acceptance Criteria) ,
+* Sprint Rituals : Sprint Planning / Sprint Review /Demo/ Daily Stand up 
+* Sprint Retro : www/wci,Mad Sad Glad , radial graph
+* Personas ,Spike , Timeboxing , DoD , DOR ,Dependency , Impediment , Technical Debt  ,TDD , BDD , FDD 
+* Information Radiator : Burndown Chart ,  Scrum Board , Story Points ,Capacity, Velocity 
+
+## Devops /SCM
+* Continuous Integration 
+* Continuous Deployment , Martin Fowler Series
+* Setup and Configure Environment pipeline : Dev -> Test -> Prod 
+* Maven , Junit
+* **Build : Jenkins** , Azure pipeline
+* Src code control/ Repository : **Github**
+* Deployment : **Docker** , Kubernetes
+* Code Configuration : Chef , Puppet , **Ansible**
+* Test Automation  : Selenium , Playwright , Katalon
+* Monitoring : Nagios
+* End to end tracing : New relic
+* Devops patterns
+* SRE Site Reliability Engineering
+* Scalability
+* Cybersecurity
+
+## BSA Business Analyst 
+
 **BSA skills**
 * Reqs ,Requirements Elicitation/Workshop , Document Reqs 
 * Knowledge of Req patterns , Interfaces , Data modeling
@@ -173,51 +220,6 @@
 * Test Automation : Selenium , Playwright 
 * API Testing : SOAP / Postman / DB Testing / Mobile / Security Testing
 
-## Devops /SCM
-* Continuous Integration 
-* Continuous Deployment , Martin Fowler Series
-* Setup and Configure Environment pipeline : Dev -> Test -> Prod 
-* Maven , Junit
-* **Build : Jenkins** , Azure pipeline
-* Src code control/ Repository : **Github**
-* Deployment : **Docker** , Kubernetes
-* Code Configuration : Chef , Puppet , **Ansible**
-* Test Automation  : Selenium , Playwright , Katalon
-* Monitoring : Nagios
-* End to end tracing : New relic
-* Devops patterns
-* SRE Site Reliability Engineering
-* Scalability
-* Cybersecurity
-
-## IT Skills
-
-**Top Tech**
-* Adv Tech :Big Data  , Machine Learning  NLP Computer Vision
-* Top Skills-1 :UI , UX , Full Stack  Network , Security , Mobile
-* Top Skills-2 : BSA , IT PM , Cloud Architect Data science , CMS
-
-**Web tech**
-* OOAD/UML , RDBMS/ER ,  Core java , 
-* HTML/CSS , Javascript, Ajax , Jquery
-* Struts , Hibernate, Spring 
-* SQL , PLSQL , shell,pl
-* JSP , Servlets , EJB , JDBC , JMS , RMI 
-
-**DCX Domain**
-* UX and UI : HTML5/CSS3 , JS , Jquery , React, Angular  , NodeJS
-* Content: Drupal ,  PHP 
-* Mobile : MFP , IOS , Android , Xamarin , React Native 
-* Commerce : SAP Hybris ,  Magento  ,  E-Comm Tools
-* CRM : CRM(Salesforce) , EAI(mulesoft)
-* RPA : UI Path , Browser Automation
-
-**Infy skills**
-* Misc : Globus , Domain (BSA) , PTFT(QA)
-* Systems : Open Sys , Telecom , RTOS/Embedded , PDM
-* Mainframe : Mainframe , AS400
-* Web Apps : MS Web RDBMS DWBI
-* Enterprise Apps : ERP , CRM , EAI
 
 ## IT Roles and Competencies
 **Business Knowledge**
