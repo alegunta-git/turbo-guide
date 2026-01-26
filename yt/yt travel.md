@@ -118,7 +118,7 @@ Countries
 * karaj vlog lepkashi https://youtu.be/zvmTv279Xnk?si=edddYN5vh-h-TVkZ
 * Hyd places to visit https://youtu.be/6uwWI64ItFk?si=OztZ6Z7uOTRYRru8
 * Haridwar to Badrinath : https://youtu.be/GG3el2JO-5o?si=zEsoImryp1tSbkbO
-
+* 2d kashi https://youtu.be/a74cGVDTAng?si=wMApnw8_CfRcwpAX
 
 **yt Links World**
 * namaste america : https://www.youtube.com/watch?v=mvC7*m8q5hk&list=WL&index=7&pp=gAQBiAQB
