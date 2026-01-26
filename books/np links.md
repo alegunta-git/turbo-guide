@@ -1,4 +1,5 @@
 ## xda
+- **https://www.makeuseof.com/best-kindle-uses-beyond-reading-books/**
 - https://www.xda-developers.com/notebooklm-feature-to-turn-hours-of-youtube-lectures-into-searchable-study-guide/
 - https://www.xda-developers.com/open-source-tools-for-students-to-save-money-and-time/
 - https://www.xda-developers.com/notebooklm-feature-to-turn-hours-of-youtube-lectures-into-searchable-study-guide/
@@ -21,6 +22,7 @@
 - https://www.xda-developers.com/stopped-using-smart-note-taking-apps-built-own-with-plain-text-scripts/
 - https://www.xda-developers.com/formats-better-than-pdf-for-storing-documents/
 - https://www.xda-developers.com/replaced-expensive-subscriptions-with-open-source-tools/
+- 
 
 
 ## tools
