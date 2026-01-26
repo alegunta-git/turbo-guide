@@ -1,3 +1,15 @@
+## 2026 Reading
+Jan
+- 15 yt Self study guy 6 vid
+- 16 Ui pattern 
+- 17 Yt firefox , jira define agile 
+- 18 bk PARA 
+- 19 yt bhanu jira 
+- 21 yt onsite bsa shorts 2hrs , opera browser docs 
+- 22 yt ux sme glean ux 1.5h
+- 25 yt github(Npl) , bk dont make me think , blog test cases
+
+
 ## 2025 Reading
 Aug 
 - Machine learning 
@@ -64,15 +76,6 @@ Dec
 - Mobile patterns 
 - Yt rapido 
 
-## 2026 Reading
-Jan
-- 15 yt Self study guy 6 vid
-- 16  Ui pattern 
-- 17 Yt firefox , jira define agile 
-- 18  bk PARA 
-- 19 yt bhanu jira 
-- 21 yt onsite bsa shorts 2hrs , opera browser docs 
-- 22 yt ux sme glean ux 1.5h 
 
 
 
