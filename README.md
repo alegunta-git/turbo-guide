@@ -178,3 +178,6 @@ Note Page for links
 * [Guide screener](https://www.screener.in/guides/creating-screens/)
 * [Quora CL Stock](https://www.quora.com/What-is-your-investment-checklist-before-you-buy-a-stock)
 * [dividend stocks](https://www.equitymaster.com/detail.asp?date=12/22/2023&story=2&title=Highest-Dividend-Paying-Stocks-in-India-2024-for-Long-Term-Investment)
+
+## edu
+* BIE AP https://bie.ap.gov.in/
