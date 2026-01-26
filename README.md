@@ -26,13 +26,18 @@ Note Page for links
 * https://indianexpress.com/profile/columnist/tavleen-singh/
 * https://www.nytimes.com/
 
-
 ## Finance
 * https://www.google.com/finance/?hl=en
 * https://economictimes.indiatimes.com/?from=mdr
 * https://www.financialexpress.com/
 * Jagoinvestor Wealth Club Budget Sheet  https://youtu.be/dQHyj5NOCYo?si=je9Lvr4KZiakDnh-
 
+
+## tutorials
+* [udemy popular topics](https://www.udemy.com/featured-topics/)
+* https://www.udemy.com/
+* http://www.w3schools.com/
+* https://www.tutorialspoint.com/
 
 ## Amazon
 * https://www.amazon.in/
