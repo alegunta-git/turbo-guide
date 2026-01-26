@@ -10,6 +10,7 @@ Note Page for links
 * MEA : https://www.mea.gov.in/press-releases.htm?51/Press_Releases
 * Amazon Press Release : https://press.aboutamazon.com/press-release-archive
 * Google Blogs : https://blog.google/intl/en-in/
+* https://www.thehindu.com/profile/author/sahana-venugopal-16644/
 
 ## The Hindu editorial
 * vishnu ias https://youtube.com/@vishnuiasacademy?si=k9IBoZp4ssU4G5Oc
