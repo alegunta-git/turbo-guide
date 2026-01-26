@@ -4,34 +4,6 @@
 * smartphone trg : https://youtu.be/pWAjtuRU1-o?si=vXROu7JHDoCfNh4r
 * Connect mouse phone https://youtu.be/QVOj-eUN1x0?si=XZOxUcYnAhcteuA6
 
-## Enterprise apps
-* [Goldmine Training](https://www.goldmine.com/training/training_videos_basics.html)
-* [CFMS reconciliation](https://youtu.be/qqlgn7Y881k?si=e_Zra6DwHSVNMXZl)
-* [pay bill herb](https://youtu.be/mRwOUuMKdjI?si=-4347Kol5rXCmGCu)
-* https://profitbooks.net/27-best-free-software-tools-for-small-businesses/
-* goldmine Training : https://www.goldmine.com/training/training_videos_dashboards.html
-* tract invoice flow : https://youtu.be/gvctU4I7gd0?si=1GvYdCcJIoDdH-KB
-
-## Amazon
-* Top 17 Most Popular Selling Items On Amazon : https://qikink.com/blog/most-popular-selling-items-on-amazon/
-* [yt Amz Primemovies](https://www.youtube.com/watch?v=ztcxcg9Zeb4&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=30&pp=gAQBiAQB)
-* [Search Movies Amz Prime](https://www.youtube.com/watch?v=ztcxcg9Zeb4&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=13)
-* [How to Deregister Amazon Device - YouTube](https://www.youtube.com/watch?v=moZIhH-9Pqw&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=8)
-* [yt buy amazon](https://www.youtube.com/watch?v=x0cESERAp2M&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=14&pp=gAQBiAQB)
-* [Buy Amazon](https://www.youtube.com/watch?v=x0cESERAp2M&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=10)
-* search kadhai : https://youtu.be/v64HLjkz1UI?si=3OnAZRn4aTLD-FQJ
-* prd categories : https://www.youtube.com/watch?v=kNB6kGjmypw&list=LL&index=11&pp=gAQBiAQB
-* buy prd : https://www.youtube.com/watch?v=37P87hQDxpk&list=LL&index=12&pp=gAQBiAQB
-* search phone : https://www.youtube.com/watch?v=EErbeN7IaaQ&list=LL&index=13&pp=gAQBiAQB
-* search prd : https://www.youtube.com/watch?v=CLQDroDf4sY&list=LL&index=14&pp=gAQBiAQB
-
-## Shopping Apps
-* paytm
-* urbanclap
-* mg
-* bigbasket
-* swiggy
-* bbdaily
 
 ## Mobile Provider
 * Jio
@@ -44,8 +16,6 @@
 * Camera ,  Gallery ,  Video 
 * VoiceRecorder , Settings
 * pdf labs feature https://youtu.be/NMRAZUtDNjU?si=r0ejDV9GVZqkvrWR
-
-
 
 **Pinterest**
 * [yt Pinterest](https://www.youtube.com/watch?v=Q_YSFv4jWxY&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=18&pp=gAQBiAQB)
@@ -129,28 +99,7 @@ Reddit
 * Telegram
 * Zoom
 * FB Messenger
-
-## Meals
-* Zomato
-* Swiggy
-* Grab 
-* Foodpanda
-
-## Bill Payment
-* Paytm
-* PhonePe
-* AmazonPay
-* MyGate
-
-## Shopping
-* etsy
-* Flipart
-* Myntra 
-* BigBasket
-* Blinkit 
-* DailyNinja
-* Lazada
-* Walmart                                 
+                            
         
 
 ## Travel
