@@ -22,7 +22,7 @@
 - https://www.xda-developers.com/stopped-using-smart-note-taking-apps-built-own-with-plain-text-scripts/
 - https://www.xda-developers.com/formats-better-than-pdf-for-storing-documents/
 - https://www.xda-developers.com/replaced-expensive-subscriptions-with-open-source-tools/
-- 
+- https://www.makeuseof.com/open-source-web-apps-no-install-required/
 
 
 ## tools
