@@ -13,50 +13,6 @@ Current Affairs
 * [byju gist of yojana](https://byjus.com/free-ias-prep/gist-of-yojana/)
 
 
-## YT links coaching
-Mrunal
-* [yt mrunal eco](https://www.youtube.com/@TheMrunalPatel/playlists)
-* [yt mrunal geo](https://www.youtube.com/watch?v=SMPO60DOTKQ&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=3&pp=gAQBiAQB)
-
-Polity
-* [mind map polity](https://www.youtube.com/clip/UgkxgVnuzqgszPMJaUsuClhRyTFJwWHuTC8A)
-* [yt mm polity](https://youtu.be/XPsg5HJBjNU?si=QlFVnGczRGc1mO2x)
-* [yt polity](https://www.youtube.com/playlist?list=PLyJOCsfjaYTx5KtDcTR3fODRdxrnLaqIC)
-
-geography
-* [yt Geo Amit Sengupta](https://www.youtube.com/@amitsengupta01/playlists) Read Class 11 Phy Geo
-* [yt pl geo](https://www.youtube.com/clip/UgkxFjAVtgVMKepIWUYEMZgeKJjRElYCHSHB)
-* [yt rivers](https://www.youtube.com/watch?v=B-M6-sjXBCw&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy)
-* [yt mapping](https://www.youtube.com/watch?v=buUtYhRrG-M)
-
-Reference
-* [yt reports and indices](https://youtu.be/RHcf2tDe1As?si=oZKC5HU91nL9f46i)
-* [yt studyq iq courses](https://www.youtube.com/@studyiqofficial/courses)
-* [yt main src](https://youtu.be/tkuvdHodmEA?si=euwL9LGumL0p5VaB)
-* [tw insights ias](https://twitter.com/Insights_ias?t=CvtraKnDg7U3Xu4upDNvcw&s=08)
-
-art and culture
-* [yt art and culture](https://www.youtube.com/watch?v=VxG4MgN7P7k&list=WL&index=5&pp=gAQBiAQB)
-* [yt indian a&c](https://www.youtube.com/playlist?list=PLpuxPG4TUOR70G1tUjk4ibxuP4js8BQlj)
-
-history
-* British Mughal empire : https://www.youtube.com/watch?v=4-f21r6KvJQ
-* ottoman e debt trap https://youtu.be/Ib5Q4Mwt3sc?si=J7ZLNnJpc0h3uNV8
-
-Int Relations
-* [yt IR1](https://www.youtube.com/watch?v=buUtYhRrG-M&list=WL&index=4&pp=gAQBiAQB)
-* [yt IR2](https://www.youtube.com/watch?v=29NuyPR8KbY&list=WL&index=6&pp=gAQBiAQB)
-
-sci and tech
-* [yt sci & tech](https://www.youtube.com/watch?v=B-z8dVzbCXc&list=WL&index=3&pp=gAQBiAQB)
-* [yt Disaster Mgmt](https://youtu.be/r5Xk6OIoxwo?si=nwK9tgfvNLVm0V5J)
-
-Plans
-* [upsc syllabus](https://vajiramandravi.com/upsc-syllabus/)
-* [yt 1yr plan](https://www.youtube.com/watch?v=5ks1UHwXrK8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=8&pp=gAQBiAQB)
-* https://www.upscprep.com/plans/
-* https://anujjindal.in/upsc-syllabus-for-ias-exam/
-
 Maps
 * [asia maps](https://www.infoplease.com/atlas/asia)
 
@@ -65,6 +21,11 @@ Study Aids
 * [vikaspedia](https://vikaspedia.in/InDG)
 * [arthapedia](http://www.arthapedia.in/index.php/Category:Concepts)
 
+Plans
+* [upsc syllabus](https://vajiramandravi.com/upsc-syllabus/)
+* [yt 1yr plan](https://www.youtube.com/watch?v=5ks1UHwXrK8&list=PLmMyXRtEtJEa6xb8Aoox6hsqQEbD8udUy&index=8&pp=gAQBiAQB)
+* https://www.upscprep.com/plans/
+* https://anujjindal.in/upsc-syllabus-for-ias-exam/
 
 ## Books
 * [git upsc](https://github.com/utsingh/upsc)
