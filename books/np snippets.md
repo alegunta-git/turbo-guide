@@ -157,6 +157,12 @@ The numbers were stark. Across three days, I rode 105 km on a TVS 125 cc scooter
 With a low base pay (around Rs 35-Rs 55 per order, depending on distance), algorithmic systems that nudge delivery workers to accept more orders and cover longer distances, rising fuel costs, no social security benefits and a largely faceless management, the growth of India’s quick-delivery economy — which is expected to employ over 23 million by 2030 — has come at the cost of increasingly precarious worker earnings.
 
 
+**Tavleen Singh writes: Money spent on Davos holidays could be used to clean up our cities | The Indian Express**
+"The reason why the richest people in the world are happy to pay to attend the WEF annual meeting is because for that one week it is as if Davos becomes the centre of the world. Everything new that is happening in technology, urbanisation, governance and geopolitics is discussed. I remember sending my first email in Davos at a time when the world knew almost nothing about the Internet. Then when AI came along, it was in Davos that its implications were discussed by the world’s leading experts."
+
+"If our politicians attended these sessions where the most important issues of the day are discussed and came home with new ideas, it might be worth allowing them to go. They attend only the sessions in which they are participants because they think of themselves as too grand to listen to other people. There are exceptions who genuinely go to learn about the world’s changes and new developments, but I can count them on the fingers of one hand.
+
+As someone who remembers the WEF annual meeting from 30 years ago, trust me when I tell you that so few Indians came then that Rahul Bajaj, one of the first Indians to go to Davos, would have a small dinner for the Indian contingent on the day we arrived. There were rarely any politicians in attendance and those that did come were misfits and embarrassing. Meaningless, meandering speeches are not encouraged in Davos and rarely heard. But it was these that our chief ministers came armed with, clearly written by bureaucrats who never learned the word precis. It was truly mortifying to see them ramble on aimlessly."
 
 
 
