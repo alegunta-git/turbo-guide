@@ -1,12 +1,4 @@
 Note Page for links 
-## gh 
-* code https://github.com/alegunta-git/turbo-guide
-* gh https://github.com/alegunta-git/turbo-guide
-* wi https://github.com/alegunta-git/turbo-guide/wiki
-* https://table-magic.guntrip.co.uk/
-* https://www.ilovepdf.com/jpg_to_pdf
-* https://textcleaner.net/
-* [alt sw](https://alternative.me/)
 
 ## Calendar
 * Almanac : Update Dates for Pournami , Amavasya , Pradosha
@@ -18,6 +10,12 @@ Note Page for links
 * MEA : https://www.mea.gov.in/press-releases.htm?51/Press_Releases
 * Amazon Press Release : https://press.aboutamazon.com/press-release-archive
 * Google Blogs : https://blog.google/intl/en-in/
+
+## The Hindu editorial
+* vishnu ias https://youtube.com/@vishnuiasacademy?si=k9IBoZp4ssU4G5Oc
+* The Hindu Newspaper Analysis LIVE https://youtube.com/playlist?list=PLJxZBt-LTVo8Q8X9QzRg5HqJK4rbYcIwt&si=BgNNuVBlA86meluf
+* The hindu editorial : https://chahalacademy.com/the-hindu-editorial-analysis
+* th np analysis pl https://youtube.com/playlist?list=PLJxZBt-LTVo8Q8X9QzRg5HqJK4rbYcIwt&si=I7FBUF9zJdlQc-NV
 
 ## News
 * https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en
@@ -31,6 +29,15 @@ Note Page for links
 * https://economictimes.indiatimes.com/?from=mdr
 * https://www.financialexpress.com/
 * Jagoinvestor Wealth Club Budget Sheet  https://youtu.be/dQHyj5NOCYo?si=je9Lvr4KZiakDnh-
+
+## gh 
+* code https://github.com/alegunta-git/turbo-guide
+* gh https://github.com/alegunta-git/turbo-guide
+* wi https://github.com/alegunta-git/turbo-guide/wiki
+* https://table-magic.guntrip.co.uk/
+* https://www.ilovepdf.com/jpg_to_pdf
+* https://textcleaner.net/
+* [alt sw](https://alternative.me/)
 
 
 ## tutorials
