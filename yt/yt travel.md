@@ -1,14 +1,3 @@
-## Travel
-Pilgrim Tour
-* Tirupathi , 
-* Srisailam ,
-* Rayara Place  
-
-prep work
-* Nirmala travels
-* Ask Annaya garu about LIC spoc travel prep tips
-* read amz book , lonely planet series
-
 ## India States
 * Andhra Pradesh
 * Arunachal Pradesh
@@ -65,21 +54,6 @@ Countries
 * Japan
 
 
-**yt Top 10 travel vloggers IN**
-* These travel vloggers share their exciting adventures and cultural experiences from around the world!
-* Mallu Traveller (Shakir Subhan) https://www.youtube.com/@MalluTraveler/playlists
-* Traveling Desi (Mohit Manocha) https://www.youtube.com/@TravelingDesi/playlists
-* Mountain Trekker (Varun Vagish) https://www.youtube.com/@mountaintrekker/playlists
-* Nomadic Indian (Deepanshu Sangwan) https://www.youtube.com/@NomadicIndian/playlists
-* Harish Bali Visa2Explore https://www.youtube.com/@visa2explore/playlists
-* Nomad Shubham (Shubham Kumar) https://www.youtube.com/@NomadShubham/playlists
-* Yatri Doctor (Navankur Chaudhary) https://www.youtube.com/@yatridoctor/playlists
-* Mithilesh Backpacker (Mithilesh Yadav) https://www.youtube.com/@MithileshBackpacker/playlists
-* Tanya Khanijow https://www.youtube.com/@TanyaKhanijow/playlists
-* Ankit Bhatia https://www.youtube.com/@AnkitBhatiaFilms/playlists
-* Travel Jo https://www.youtube.com/@TravelwithJo
-* A Tyagi https://www.youtube.com/@Anushka_Tyagi
-  
 ## Blogs
 * mapping world : https://www.youtube.com/watch?v=buUtYhRrG-M&list=WL&index=6&pp=gAQBiAQB
 * [wiki India Tourism state](https://en.m.wikipedia.org/wiki/Tourism_in_India_by_state)
@@ -100,6 +74,24 @@ Countries
 * [Kerala](https://www.backpacknxplore.com/flexible-kerala-itinerary)
 * https://pondicherrytourism.co.in/places-to-visit-in-pondicherry
 
+
+**yt Top 10 travel vloggers IN**
+* These travel vloggers share their exciting adventures and cultural experiences from around the world!
+* Mallu Traveller (Shakir Subhan) https://www.youtube.com/@MalluTraveler/playlists
+* Traveling Desi (Mohit Manocha) https://www.youtube.com/@TravelingDesi/playlists
+* Mountain Trekker (Varun Vagish) https://www.youtube.com/@mountaintrekker/playlists
+* Nomadic Indian (Deepanshu Sangwan) https://www.youtube.com/@NomadicIndian/playlists
+* Harish Bali Visa2Explore https://www.youtube.com/@visa2explore/playlists
+* Nomad Shubham (Shubham Kumar) https://www.youtube.com/@NomadShubham/playlists
+* Yatri Doctor (Navankur Chaudhary) https://www.youtube.com/@yatridoctor/playlists
+* Mithilesh Backpacker (Mithilesh Yadav) https://www.youtube.com/@MithileshBackpacker/playlists
+* Tanya Khanijow https://www.youtube.com/@TanyaKhanijow/playlists
+* Ankit Bhatia https://www.youtube.com/@AnkitBhatiaFilms/playlists
+* Travel Jo https://www.youtube.com/@TravelwithJo
+* A Tyagi https://www.youtube.com/@Anushka_Tyagi
+  
+
+
 **yt links India**
 * **nandas journey** : https://www.youtube.com/watch?v=1lsiIXQBaag&list=WL&index=2&pp=gAQBiAQB
 * **Manis Solanki** : https://www.youtube.com/@ManishSolankiVlogs/playlists
@@ -119,6 +111,7 @@ Countries
 * Hyd places to visit https://youtu.be/6uwWI64ItFk?si=OztZ6Z7uOTRYRru8
 * Haridwar to Badrinath : https://youtu.be/GG3el2JO-5o?si=zEsoImryp1tSbkbO
 * 2d kashi https://youtu.be/a74cGVDTAng?si=wMApnw8_CfRcwpAX
+* Ind norway tour https://youtube.com/shorts/kW_k1QpFSFo?si=nTZuhWTRrBOHOUiQ
 
 **yt Links World**
 * namaste america : https://www.youtube.com/watch?v=mvC7*m8q5hk&list=WL&index=7&pp=gAQBiAQB
