@@ -1,0 +1,88 @@
+## Daal and k groceries
+- Appalam
+- Cardamom 
+- Cinnamom 
+- Cloves 
+- Chillies Red
+- Coconut oil 
+- Groundnut oil Refined
+- Coriander Powder
+- Cow Peas 
+- Green Gram / peas
+- Dal ( Bengal G / Black G) 
+- Dry Coconut
+- Essence
+- Fenugreek 
+- Poppy Seed
+- Gingelly / Castor Oil 
+- Mustard oil
+- Gram Flour
+- Jaggery ( Ball Square)
+- Jeera 
+- Asafotedia
+- Jowar 
+- Ragi
+- Pepper
+- Rajma /Kabul Gram
+- Rice (Basmati / Red / White)
+- Rice Flour 
+- Wheat
+- Salt Sugar
+- Soji Bansi / Soji Idly 
+- Maida 
+- Tamarind
+- Toor Dal 
+- Masoor / 
+- Vanaspathi
+
+
+## Vegetables
+- Aloo/Potato
+- Amaranthus
+- Amla
+- Arvi
+- Ash Gourd
+- Baby Potato
+- Bamboo Shoot
+- Basil
+- Beans
+- Brinjal ( Blue , Green)
+- Broccoli
+- Cabbage
+- Capsicum
+- Carrot
+- Cauliflower
+- Celery
+- Chow Chow
+- Cucumber
+- Curry Leaves
+- Drum Stick
+- Garlic
+- Ginger Adrak
+- Gongura
+- Kakar kaya
+- Kothimera
+- Lemon
+- Lettuce
+- Methi Fenugreek
+- Mint
+- Mirchi
+- Chilly Green
+- Mushroom
+- Neem Leaves
+- Okra Lady Finger
+- Onion
+- Palak Spinach
+- Pumpkin
+- Radish
+- Raw Banana
+- Sorakaya
+- Spring Onion
+- Sprouts
+- Sweet Corn
+- Tamarind
+- Tendli 
+- Donda kaya
+- Tomato
+- Yam
+- Zucchini
