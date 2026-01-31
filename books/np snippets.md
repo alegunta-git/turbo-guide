@@ -1,3 +1,8 @@
+"Anurag is more categorical. “You don’t read newspapers just for facts. You read them to learn how to write — English, grammar, opinions, and perspectives,” he says. “Relying on AI for newspaper summaries is a blunder."
+
+**AB**
+'Amitabh Bachchan would read Bhagavad Gita every morning, write letters to his parents every night,' reveals Ranjeet as he opens up on the actor's discipline | Hindi Movie News - The Times of India https://share.google/jj3q92qANgWsq0M4r
+
 **India’s youth are a force for global good,**
 - Staying away from distractions and practising self-discipline.
 - Continuous learning and upskilling to remain relevant in a fast-changing world.
@@ -5,8 +10,7 @@
 - To become a team player – ‘One for all, all for one’.
 - Never Give Up
 
-**AB**
-'Amitabh Bachchan would read Bhagavad Gita every morning, write letters to his parents every night,' reveals Ranjeet as he opens up on the actor's discipline | Hindi Movie News - The Times of India https://share.google/jj3q92qANgWsq0M4r
+
 
 10 Samurai Life Rules For How To Be Mentally Strong, According to Miyamoto Musashi - New Trader U https://share.google/Ta66vjhISCs7s3RNW
 
