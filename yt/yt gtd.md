@@ -2,6 +2,7 @@
 * [culture code things](https://culturedcode.com/things/features/)
 * https://culturedcode.com/things/features/
 * [Apple Things](https://www.youtube.com/watch?v=2R6o5t0VK_A&list=WL&index=3&pp=gAQBiAQB)
+* Get It Gone Paper Flow  https://youtu.be/dmNW7lMhYto?si=GzzU6HYGThOH0end
 
 **WAP**
 * wap 7 https://www.youtube.com/watch?v=Z0c019fyEow&list=LL&index=6&pp=gAQBiAQBsAgC
