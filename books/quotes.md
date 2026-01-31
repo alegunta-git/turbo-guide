@@ -20,6 +20,17 @@
 * Steal like an Artist - look for patterns ( Steve J) , Know First principles( Elon M )
 * DSA : divide and conquer pbm space , MVP , scale what works , dynamic programming , binary search log n , merge sort pivot
 
+Writing, like coding, is everywhere in our projects. We just
+don't always notice it.
+● User stories
+● README fil
+● Commit messages
+● Pull request descriptions
+● Meeting agendas and notes
+● Bug and incident reports
+● Product releases
+● Client emails
+
 ## Poems 
 * Robert Frost
 * Matthew 7:7 
