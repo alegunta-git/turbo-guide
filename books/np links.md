@@ -23,6 +23,8 @@
 - https://www.xda-developers.com/formats-better-than-pdf-for-storing-documents/
 - https://www.xda-developers.com/replaced-expensive-subscriptions-with-open-source-tools/
 - https://www.makeuseof.com/open-source-web-apps-no-install-required/
+- https://www.xda-developers.com/raindrop-second-brain/
+- https://www.makeuseof.com/i-fixed-lag-on-my-phone-without-a-factory-reset/
 
 
 ## tools
