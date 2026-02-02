@@ -20,6 +20,10 @@ Tips
 * How to Extract Text from a PDF or Image using the New Microsoft Edge https://youtu.be/IKNiW_3QDkY?si=6JrvrEu0Cr8B2Hte
 * How to Open/View PDF file with Chrome in Android  https://youtu.be/JeIgBYVyfyg?si=-Ou1dJ94oqtprhN8
 * chrome dev tools : https://youtu.be/oIrDcE4tG5A?si=4Db-3evbIYnqMUAz
+* Did You Know? https://youtube.com/playlist?list=PL5aqr5w5fRe7eKglZSaCdRc5HnLMFbP8D&si=IOivtlAfLqQ_xkhv
+* 30 Seconds https://youtube.com/playlist?list=PL198E4172D8B008DC&si=uXZwCM-DUoHZrG_-
+* Google Chrome Quick Tips on Features  https://youtube.com/playlist?list=PLB35F86BF661AF6BE&si=vIshYws9aHQf5WgQ
+
 
 **Chrome**
 * Address Bar : Use Icons on Menu Bar for copy paste
@@ -41,6 +45,7 @@ Tips
 * Settings : Autofill , Privacy & Security , Appearance ,SearchEngine , Default Browser , OnStartup, Lang, Downloads
 * Settings : Accessibility , System , Reset and Clean-up , WebStore , Extensions
 * Guest profile , password Manager , Dev tools
+
 
 bookmarks
 * [yt export bkmrk txt](https://www.youtube.com/watch?v=pAB0sDpL-ls&list=WL&index=18)
