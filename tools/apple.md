@@ -12,6 +12,15 @@
 * notes tips : https://www.youtube.com/watch?v=yeypOg858NU
 * mac finder : https://www.youtube.com/watch?v=TY_ViHj4gFU
 
+
+apple support
+* use mac trackpad https://youtu.be/FrKiQ6Zay5k?si=yl33R7n3_rmSIxSN
+* share apple intelligence https://youtu.be/GGMhQkHCjxo?si=19lJ3WSvFTBd0qXX
+* mac sc keys https://youtu.be/jAyd89j0B58?si=b2oN4trwQArOPQ93
+* send file format https://youtu.be/7lH7y3YBNBk?si=C2Mv-saVeYxm9G3i
+* delete app https://youtu.be/U8s5Y0R-DQQ?si=t3ylml3hM1v3hcN4
+
+
 **new to mac**
 * [new to mac](https://www.youtube.com/watch?v=3jeeFc2Vo1U&list=WL&index=2)
 * macbook prodvty : https://www.youtube.com/watch?v=7CXmAzZWGyg&list=WL&index=6&pp=gAQBiAQB
