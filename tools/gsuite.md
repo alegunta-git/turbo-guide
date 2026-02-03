@@ -4,8 +4,8 @@
 * use gdocs and keep : https://youtu.be/xbvDyFV2UAI?si=ZGmmbqRdKhzEeinc
 * How To Share Google Keep Notes With Others : https://youtu.be/hFyd_se1Ch0?si=3u2yJEvIrMIKTFGm
 * How to Find Your Files in Google Drive https://youtu.be/1iG0x_HpPKc?si=mNJCf6ChszjN_yf0
-
-
+* https://searchingthe.world/
+* Digital Literacy https://youtube.com/playlist?list=PLRsndPpfc7j_1mP1cjWO84hG1s4zJUHWJ&si=tyEkmU5gxuDWz479
 
   
 ## G Finance
