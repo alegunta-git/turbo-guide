@@ -1,3 +1,7 @@
+## g trends
+* use g trends https://youtu.be/UaLX8pEIPu0?si=0C9ERurq1qZlZfU8
+
+
 ## g suite
 * org files gd https://youtu.be/eWcRnl0WZjI?si=Sc4zT0SWdEaF-VR-
 * tidy gd https://youtu.be/LBF_4rD6eqs?si=bKbd2vOuqeUMX12r
@@ -6,20 +10,25 @@
 * How to Find Your Files in Google Drive https://youtu.be/1iG0x_HpPKc?si=mNJCf6ChszjN_yf0
 * https://searchingthe.world/
 * Digital Literacy https://youtube.com/playlist?list=PLRsndPpfc7j_1mP1cjWO84hG1s4zJUHWJ&si=tyEkmU5gxuDWz479
-
+* google effcntly https://www.youtube.com/watch?v=-EUCJaIp_xQ&list=LL&index=4&pp=iAQB0gcJCZEKAYcqIYzvsAgC
+* @bookmarks https://www.youtube.com/watch?v=ZREz_xXvXgI&list=LL&index=2&pp=iAQBsAgC
   
 ## G Finance
 * create portfolio , custom watch list , rename/delete , playground p/f
 * 2 step verification , currency , add shares/mf to p/f , add index , remove investment
 * see p/f balance , browse news p/f , view returns , highlights , compare p/f to assets
+* https://youtu.be/RfdFP_c82dU?si=O3vVOZArU4SejaKU
+* gf tamil https://youtu.be/-Gh4NsoBmXU?si=A6_e-a_EZcRkw_Tf
+
+## gemini
+* notebook llm gemini https://youtu.be/YutbQkgOZ-s?si=ogHEQPDZLiFkSx0i
 
 ## G News
 **G News**
 * save Stories , how news works , personalize news , 
 * change settings , notifications
 * local news , news widget , digital subscriptions np/content,
-
-**g news**
+* find stories https://youtu.be/PjViayASLwg?si=fUkELZ4Zkt1Kn_cF
 * [yt gnews](https://www.youtube.com/watch?v=FtSeAwRhPKs&pp=ygUWZ29vZ2xlIGFkdmFuY2VkIHNlYXJjaA%3D%3D)
 * [yt gnews adv](https://youtu.be/FtSeAwRhPKs?si=AKuo_GFeXaXGPivt)
 
