@@ -8,7 +8,8 @@
 * https://github.com/GunterMueller/Books-3
 * https://www.freegurukul.org/blog/vedamulu-pdf/
 * https://theswissbay.ch/pdf/Gentoomen%20Library/
-* https://libgen.is/ , pdfdrive , it ebooks , zlib , annas archive 
+* https://libgen.is/ , pdfdrive , it ebooks , zlib , annas archive
+* https://github.com/bharaniabhishek123/some-investment-books
 
 
 misc mv this to docs
