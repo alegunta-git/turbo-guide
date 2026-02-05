@@ -1,6 +1,6 @@
 ## g trends
 * use g trends https://youtu.be/UaLX8pEIPu0?si=0C9ERurq1qZlZfU8
-
+* Advanced Google Search  https://youtu.be/jtmQTKVHZ3g?si=hHYNAl3w4YMQR7S9
 
 ## g suite
 * org files gd https://youtu.be/eWcRnl0WZjI?si=Sc4zT0SWdEaF-VR-
@@ -12,7 +12,9 @@
 * Digital Literacy https://youtube.com/playlist?list=PLRsndPpfc7j_1mP1cjWO84hG1s4zJUHWJ&si=tyEkmU5gxuDWz479
 * google effcntly https://www.youtube.com/watch?v=-EUCJaIp_xQ&list=LL&index=4&pp=iAQB0gcJCZEKAYcqIYzvsAgC
 * @bookmarks https://www.youtube.com/watch?v=ZREz_xXvXgI&list=LL&index=2&pp=iAQBsAgC
-  
+* In-Depth Tour of Google Sheets  https://youtu.be/hEYnEtyYvjM?si=O_kCk2PV1lcBqG7T
+
+
 ## G Finance
 * create portfolio , custom watch list , rename/delete , playground p/f
 * 2 step verification , currency , add shares/mf to p/f , add index , remove investment
@@ -22,6 +24,9 @@
 
 ## gemini
 * notebook llm gemini https://youtu.be/YutbQkgOZ-s?si=ogHEQPDZLiFkSx0i
+* https://www.makeuseof.com/hidden-google-tv-features-worth-using/
+* https://www.91mobiles.com/reviews/motorola-signature-best-feature-software-support-opinion/
+
 
 ## G News
 **G News**
