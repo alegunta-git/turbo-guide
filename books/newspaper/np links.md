@@ -25,6 +25,10 @@
 - https://www.makeuseof.com/open-source-web-apps-no-install-required/
 - https://www.xda-developers.com/raindrop-second-brain/
 - https://www.makeuseof.com/i-fixed-lag-on-my-phone-without-a-factory-reset/
+- https://www.xda-developers.com/para-zettelkasten-and-other-systems-i-abandoned-within-six-months/
+- Voice to Text with Al - Live Demonstration https://www.youtube.com/live/SFWb7wjavSA?si=D03fqfdssOZ-ba8-
+- https://www.makeuseof.com/browser-based-open-source-whiteboards/
+- Amazing PDF Tools in Edge Browser https://youtu.be/2nXAiJ1U4cY?si=dcvKa1SfsomS-1v2
 
 
 ## tools
