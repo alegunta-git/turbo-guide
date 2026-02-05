@@ -1,3 +1,29 @@
+**Meta AI summary Here are 21 key points from "Eat That Frog!" by Brian Tracy:**
+1. *Eat the frog*: Tackle the most important task first thing in the morning.
+2. *Set clear goals*: Define what you want to achieve.
+3. *Plan your day*: Decide on tasks and prioritize them.
+4. *Focus on high-impact tasks*: Do tasks that have the greatest impact.
+5. *Use a "stop doing" list*: Identify tasks that aren't essential or can be delegated.
+6. *Practice single-tasking*: Avoid multitasking and focus on one task at a time.
+7. *Create a "launching system"*: Develop a routine to get started on tasks quickly.
+8. *Use the 80/20 rule*: Focus on 20% of tasks that generate 80% of results.
+9. *Break tasks into smaller steps*: Make big tasks manageable.
+10. *Set deadlines*: Create a sense of urgency.
+11. *Use a task list*: Write down tasks and check them off.
+12. *Prioritize tasks*: Focus on most important tasks first.
+13. *Avoid procrastination*: Identify reasons for procrastination and overcome them.
+14. *Use the "2-minute rule"*: If a task takes less than 2 minutes, do it now.
+15. *Create a "not-to-do" list*: Identify tasks that aren't worth doing.
+16. *Delegate tasks*: Ask for help when possible.
+17. *Use technology to your advantage*: Automate tasks and save time.
+18. *Focus on outcomes*: Think about the end result, not just the task.
+19. *Practice the "10-10-10 rule"*: Consider how a decision will impact you in 10 minutes, 10 months, and 10 years.
+20. *Review and adjust*: Regularly review progress and adjust plans.
+21. *Develop self-discipline*: Build habits to stay focused and productive.
+
+Want more details or specific tips from the book? 😊
+
+
 **Org G Era**: 
 * PRINCIPLES OF ORGANIZATION—A RECAP 
 * Organize your life to minimize brain strain. 
