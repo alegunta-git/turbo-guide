@@ -10,7 +10,8 @@
 - To become a team player – ‘One for all, all for one’.
 - Never Give Up
 
-
+## CBSE exam prep
+"Preparation plays a crucial role, but how one prepares matters more than how much. Do not learn by simply reading solutions. Solve problems and keep writing formulas. Last-minute cramming often increases anxiety and confusion. Instead, revise key formulas, standard results, and frequently tested concepts to reinforce confidence. Solve a few representative problems from each chapter, as this is far more effective than hurriedly attempting many new ones just before the exam. The more the practice, the faster the calculation pace during the examination."
 
 10 Samurai Life Rules For How To Be Mentally Strong, According to Miyamoto Musashi - New Trader U https://share.google/Ta66vjhISCs7s3RNW
 
@@ -167,6 +168,5 @@ With a low base pay (around Rs 35-Rs 55 per order, depending on distance), algor
 "If our politicians attended these sessions where the most important issues of the day are discussed and came home with new ideas, it might be worth allowing them to go. They attend only the sessions in which they are participants because they think of themselves as too grand to listen to other people. There are exceptions who genuinely go to learn about the world’s changes and new developments, but I can count them on the fingers of one hand.
 
 As someone who remembers the WEF annual meeting from 30 years ago, trust me when I tell you that so few Indians came then that Rahul Bajaj, one of the first Indians to go to Davos, would have a small dinner for the Indian contingent on the day we arrived. There were rarely any politicians in attendance and those that did come were misfits and embarrassing. Meaningless, meandering speeches are not encouraged in Davos and rarely heard. But it was these that our chief ministers came armed with, clearly written by bureaucrats who never learned the word precis. It was truly mortifying to see them ramble on aimlessly."
-
 
 
