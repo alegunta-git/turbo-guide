@@ -104,6 +104,20 @@ God grant me the serenity to accept the things I cannot change, courage to chang
 
 Thus, things lying around messily are reminders of tasks and goals that you haven’t achieved yet. But, these reminders are not effective reminders because your focus is scattered all over the place. When you declutter your space, you are, in effect, prioritizing your goals in your mind as well. This will help you focus much better on each goal, achieving it, and then moving on to the next.
 
+## misc
+Inspect & adapt—ask in retros: “Are these practices helping us deliver value?” If not, change them.
+
+You can never cross the ocean until you have the courage to lose sight of the shore.’ Christopher Columbus
+
+The great aim of education is not knowledge but action.'—Herbert Spencer
+
+‘ The best time to plant a tree was twenty years ago. The second best time is now.’ Chinese
+
+Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbour, catch the trade winds inyour sails. Explore, Dream, Discover.’ Mark
+
+
+
+
 
 
 
