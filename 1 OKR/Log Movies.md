@@ -1,8 +1,6 @@
 **Wishlist**
 - Swades
-- Missama
 - AB Sholay , Deewar
-- Devanand Movies
 - Broken Arrow
 - Other people money
 
@@ -14,6 +12,10 @@ Jan
 - 10 Andhra King 
 - 17 Vara Prasad , Nari Narii NM
 - 23 Mardani 2 , 120 Bahadur
+
+Feb
+- 08 missamma yt
+- 15 gundamma yt
 
 ## 2025 Movies
 Sep
