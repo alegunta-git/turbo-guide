@@ -44,6 +44,16 @@
 * Web Apps : MS Web RDBMS DWBI
 * Enterprise Apps : ERP , CRM , EAI
 
+## Glossary
+* [pm glossary](https://www.smartsheet.com/complete-glossary-project-management-terminology)
+* [Agile glossary](https://www.aha.io/roadmapping/guide/agile/agile-glossary)
+* [SAFE glossary](https://scaledagileframework.com/glossary/)
+* Testing glossary : https://www.lambdatest.com/learning-hub/glossary
+* [api glossary](https://rapidapi.com/blog/api-glossary/)
+* [logistics](https://www.inboundlogistics.com/logistics-glossary/)
+
+
+
 ## Roadmap
 * [Ref passit](https://passit.bg/en/certification-roadmaps/)
 * [Dev Roadmap](https://roadmap.sh/)
