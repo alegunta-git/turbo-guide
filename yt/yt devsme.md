@@ -2,6 +2,10 @@ cto
 * cto mindset : https://www.youtube.com/watch?v=MWzdHlLUsZs&list=WL&index=5&pp=gAQBiAQB
 * bad estimate https://youtu.be/2-QCqbMsPDc?si=ELYkKtjMqJisFw5B
 
+exec assitant
+* The 7 Traits of a Platinum Assistant https://youtu.be/uGrVUEkb7fc?si=f6f49QTj1ILIgORD
+
+
 tips
 * Use Other People's Code on GitHub in 15 Min  : https://youtu.be/CT1zTWyZX5w?si=8j9pEu-E2SstcfRU
 * self learn topic : https://www.youtube.com/watch?v=d-xOE_wgIoo&list=WL&index=4&pp=gAQBiAQB
