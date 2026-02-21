@@ -1,6 +1,9 @@
-PIB 2026
+## PIB 2026
 * CERT https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217537&reg=3&lang=1
 * ODOP https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217539&reg=3&lang=1
+* ai IN action https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230668&reg=3&lang=1
+* AI saas https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230979&reg=3&lang=1
+* Ref graph dgci indices https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230845&reg=3&lang=1
 
 PIB 2025 
 * World Health Day 2025 : https://pib.gov.in/PressReleasePage.aspx?PRID=2119577
