@@ -1,5 +1,7 @@
 ## xda
 - **https://www.makeuseof.com/best-kindle-uses-beyond-reading-books/**
+- https://www.androidpolice.com/app-purge-fixed-my-relationship-with-my-phone/
+- https://www.androidpolice.com/gemini-favorite-google-productivity-tool-saves-me-hours/
 - https://www.xda-developers.com/notebooklm-feature-to-turn-hours-of-youtube-lectures-into-searchable-study-guide/
 - https://www.xda-developers.com/open-source-tools-for-students-to-save-money-and-time/
 - https://www.xda-developers.com/notebooklm-feature-to-turn-hours-of-youtube-lectures-into-searchable-study-guide/
