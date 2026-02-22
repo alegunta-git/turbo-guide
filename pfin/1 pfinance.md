@@ -309,5 +309,52 @@ Notes
 
 
 
+dhirendra
+* invest 1 cr https://youtu.be/9MM9hfhqYLo?si=dBKNbIw2vS6i1EXa
+* LF Arb 1 cr https://youtu.be/SFOICa3c2Do?si=Lun3O4joWDzemZ-O
+
+
+## SME Stories
+* [G kothari mf master class](https://www.youtube.com/watch?v=qqipukZ25GA&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=19&pp=gAQBiAQB)
+* [wlth creation](https://www.youtube.com/watch?v=vVZl9n7fgg0&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=7&pp=gAQBiAQB)
+* [smart investing](https://www.youtube.com/watch?v=Zbonc-tQZhQ&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=8&pp=gAQBiAQB)
+* [where spend money](https://www.youtube.com/watch?v=Lf7XEqz2HYk&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=10&pp=gAQBiAQB)
+* [4 golden rules](https://www.youtube.com/watch?v=ZVuhdiOcKqw&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=11&pp=gAQBiAQB)
+* [fin free](https://www.youtube.com/watch?v=6i4iKxVcFmQ&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=8&pp=gAQBiAQB)
+* [how to invest](https://www.youtube.com/watch?v=4WN6qVpOLxM&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=9&pp=gAQBiAQB)
+* [investment low sal](https://www.youtube.com/watch?v=eLTgu4YfyFg&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=7&pp=gAQBiAQB)
+* [dhirendra tech usage pfin](https://www.youtube.com/watch?v=yYkI-JVgxYg&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=13&pp=gAQBiAQB)
+* [civil engr](https://www.youtube.com/watch?v=wEvbI-ToHZw&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=14&pp=gAQBiAQB)
+* [1% club](https://www.youtube.com/watch?v=dUYRdW6fYTk&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=22&pp=gAQBiAQB)
+* Wint wealth PL : https://www.youtube.com/@WintWealthYT/playlists
+* ankur w : https://www.youtube.com/watch?v=j5FFBAgP8Vo&list=WL&index=18&pp=gAQBiAQB
+* inv plan : https://www.youtube.com/watch?v=4S55rt-Qx8c&list=WL&index=13&pp=gAQBiAQB
+* fin plan kamra : https://www.youtube.com/watch?v=Dn5tpWXLp-w&list=WL&index=10&pp=gAQBiAQB
+* chandoo inc src : https://www.youtube.com/watch?v=LhR8WZiPEZI&list=WL&index=9&pp=gAQBiAQB
+* ind trader : https://www.youtube.com/watch?v=yBusipDZhp4&list=WL&index=8&pp=gAQBiAQB
+* grow sme https://youtu.be/NtcBdhSXZH0?si=7i6C7yIMuJ_nz9cY
+
+
+links
+* Ankur w fin adv https://youtu.be/BdBwCjE9U6A?si=aSnVY_-TJ9s2pwVu
+* Suck percentage  https://youtu.be/SbjoJT_ELnk?si=ujxvNHKHyLS_XXV5
+* License raj https://youtu.be/ASdaJffxJog?si=jckTKD45Lu_A3FX1
+* Starbucks ceo exp https://youtu.be/DMyrZ2re-DM?si=oLHhnLvXB4eazluy
+* 3 bhk mumbai https://youtu.be/m73HqEvlT6k?si=HmnchidXkQBwYTNG
+* Arnold s real estates  https://youtu.be/IlM-mbS_gaE?si=RuV-erym8oxp3BNF
+* mit fin s https://www.youtube.com/shorts/pzQxbyURhco
+* int value https://youtu.be/-UaF72YoCD0?si=iKNoVmIgXLCknyst
+* int value pe https://youtu.be/06vYGPTlVX0?si=47JaQ7ONK6O8gCxc
+* mf types https://www.youtube.com/shorts/kaIVeeIhsq4
+* hotel sme https://youtu.be/LpiKdOYGN44?si=N-jgl276rzUM4CnJ
+
+
+
+
+
+
+
+
+
 
 
