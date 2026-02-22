@@ -1,11 +1,5 @@
-**Wishlist**
-- Swades
-- AB Sholay , Deewar
-- Broken Arrow
-- Other people money
 
 ## 2026 Movies
-
 Jan
 - 09 Single S
 - 10 90s middle class
@@ -16,6 +10,14 @@ Jan
 Feb
 - 08 missamma yt
 - 15 gundamma yt
+
+
+**Wishlist**
+- Other people money
+- Broken Arrow
+- AB Sholay , Deewar
+- Swades
+
 
 ## 2025 Movies
 Sep
