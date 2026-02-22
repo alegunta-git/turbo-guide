@@ -5,3 +5,5 @@
 ## Tablets
 * Mi pad 7 vs Redmi pad pro for study https://youtu.be/Jbeic8GZZII?si=T-0umJvevJbhO-r7
 * Super Useful Moto Pad 60 Neo Tips & Tricks |  https://youtu.be/xfO_bl7u0pg?si=g8nWZyVVNVjU8wLr
+* https://youtube.com/shorts/nBoRhqHEKpo?si=IxGuDm5QjSy0elQF
+
