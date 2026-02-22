@@ -24,3 +24,13 @@ Credit card usage has exploded in particular. Over the last 13 years, spending o
 | Educational Loan | Age 16-35                 | 9-12%  | 50l , 15yr 180 EMIs    |
 | Auto Loan        | Age 21-60 , 3l /yr salary | 9-14%  | 25l , 12-60 months     |
 | Home Loan        | Age 21-65 , 10000 pm      | 7-9%   | 20-30 yr , 240-360 EMI |
+
+
+
+## yt links
+* [sbi retail](https://retail.onlinesbi.sbi/npersonal/rinb_videos.html)
+* [sb ac](https://www.youtube.com/watch?v=wpwwvk8tq9c&list=PLmMyXRtEtJEZQgDhfwzneVk0C8deVJHCA&index=16&pp=gAQBiAQB)
+* Invest Track : https://youtu.be/talrsy-3NZs?si=h-XaD2vWxATxROhB
+* How to use HDFC MFOnline : https://youtu.be/5ZxbJ38SHe0?si=Mmm3U4tX9U_EBeZp
+* SIP Series – Investor Awareness Initiative : https://youtube.com/playlist?list=PL24irhV4I_tdsLHFGmDOjavTVokVlxl4U&si=9wiaZ93g33Re2SnW
+* Sip Beginners : https://youtube.com/playlist?list=PLpRxxGjml2K9EZMDy4knFc8jBahVD3G4F&si=rBjy-Xx546NhjR76
