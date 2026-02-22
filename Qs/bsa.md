@@ -31,12 +31,16 @@
 * Navigation Map , Org Chart , Performance Report 
 
 
+**BSA Qs**
+* [BSA Qs](https://www.mygreatlearning.com/blog/business-analyst-interview-questions/)
+
 ## BSA blogs
 * [22 BSA Visual Models](https://www.bridging-the-gap.com/22-visual-models-used-by-business-analysts/)
 * [BSA Tools](https://www.softwaretestinghelp.com/business-analysis-tools/)
 * [BSA docs](https://thebusinessanalystjobdescription.com/documents-created-by-a-business-analyst/)
 * [blog aotstudios](https://aoteastudios.com/blog/)
 * [blog modernanalyst](https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/2687/Enhancing-the-A-in-Business-Analysis.aspx)
+
   
 ## yt bsa
 * [Domain K](https://www.businessanalystlearnings.com/blog/2015/2/2/improve-your-domain-knowledge-with-this-list-of-free-courses?expand_article=1)
