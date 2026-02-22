@@ -19,8 +19,11 @@ The Serenity Prayer, often attributed to Reinhold Niebuhr
 * The best time to plant a tree was twenty years ago. The second best time is now.’ Chinese
 * The great aim of education is not knowledge but action.'—Herbert Spencer
 
-
 Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbour, catch the trade winds inyour sails. Explore, Dream, Discover.’ Mark
+
+Charlie Munger on Reading Habit.
+"Advocating for the virtue of reading, Munger said, “In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time -- none, zero.” .
+“You'd be amazed at how much Warren reads--and at how much I read. My children laugh at me. They think I'm a book with a couple of legs sticking out,” he added.
 
 
 ## Productivity Hacks
