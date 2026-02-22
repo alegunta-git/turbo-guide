@@ -31,9 +31,11 @@
 - Voice to Text with Al - Live Demonstration https://www.youtube.com/live/SFWb7wjavSA?si=D03fqfdssOZ-ba8-
 - https://www.makeuseof.com/browser-based-open-source-whiteboards/
 - Amazing PDF Tools in Edge Browser https://youtu.be/2nXAiJ1U4cY?si=dcvKa1SfsomS-1v2
+- https://www.xda-developers.com/stop-overengineering-notes/
 
 
 ## tools
+- https://www.makeuseof.com/google-search-tips-that-actually-work/
 - https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/
 - https://www.makeuseof.com/open-source-windows-tools-that-are-too-good/
 - https://www.androidpolice.com/google-drive-search-use-like-a-pro/
@@ -43,6 +45,16 @@
 - https://www.androidpolice.com/google-keep-was-enough-until-paired-it-with-gemini/
 - https://python.plainenglish.io/50-python-projects-to-make-you-job-ready-the-journey-that-changed-everything-a6f1f249fb43
 - 7 Android features I forgot existed — but now can't live without https://share.google/4jZVza7Dnml9QsQTr
+- Chrome split pdf https://youtu.be/W0NlXkUMhS0?si=u8GWd-lkLwbBaKfz
+- Host site github https://youtube.com/shorts/TCYT1sI5IqM?si=oYclbZU411Rs8fMQ
+- https://www.howtogeek.com/ways-ereaders-are-objectively-better-than-paper-books/
+- https://www.pocket-lint.com/kindle-collections-batch-adding-is-easy-if-you-use-this-hack/
+- Free AI Training (Day 2) https://www.youtube.com/live/EbXuWl-gYfg?si=X0gDEkQrL1NgnFS1
+- AI in Excel https://www.microsoft.com/en-us/microsoft-365/excel/ai-for-excel
+
+
+
+
 
 ## llm and ai
 - https://www.telegraphindia.com/india/iits-iims-and-universities-struggle-to-tackle-rising-student-use-of-generative-ai-tools-prnt/cid/2128628
