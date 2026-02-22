@@ -3,6 +3,18 @@
 **AB**
 'Amitabh Bachchan would read Bhagavad Gita every morning, write letters to his parents every night,' reveals Ranjeet as he opens up on the actor's discipline | Hindi Movie News - The Times of India https://share.google/jj3q92qANgWsq0M4r
 
+## Narayan Murthy 
+"He once said, “Growth is painful. Change is painful. But, nothing is as painful as staying stuck where you do not belong.”"
+
+https://www.moneycontrol.com/lifestyle/quote-of-the-day-by-nr-narayana-murthy-growth-is-painful-change-is-painful-but-nothing-is-as-painful-article-13828356.html#:~:text=He%20once%20said%2C%20%E2%80%9CGrowth%20is%20painful.%20Change%20is%20painful.%20But%2C%20nothing%20is%20as%20painful%20as%20staying%20stuck%20where%20you%20do%20not%20belong.%E2%80%9D
+
+
+**NRI moves to Bengaluru, shocked by colleagues' eating, zero exercise: ‘Running on chai and trauma’ | Trending**
+"In his post, the employee wrote that he shifted to Bengaluru a few weeks ago and was surprised to see his entire team “grinding like crazy” at work while surviving on Mysore bondas, vadas and biryani “literally every hour”. He added that his colleagues take “zero steps, zero sunlight and zero water” during the day.
+
+According to him, he began going to the gym before work to stay mentally balanced, but said his co-workers looked at him “like I’m doing a TED talk” whenever he mentioned fitness. He said he wanted to encourage the team to adopt basic health habits. '' I really wanna push my team towards basic health stuff without sounding like that NRI clown,'' he added"
+
+
 **India’s youth are a force for global good,**
 - Staying away from distractions and practising self-discipline.
 - Continuous learning and upskilling to remain relevant in a fast-changing world.
@@ -60,10 +72,6 @@ Why studying at MIT gives you an unbeatable edge in the job market - Times of In
 **Movies Ups and Downs**
 "Talking to SCREEN, Mona recalled meeting Aamir and director Advait Chandan on the movie’s release day at Aamir’s home. She was emotional and admitted, “I was crying, of course; I always begin to weep in such moments. And it’s for the good only, as it loosens up the heart and cleanses your mind of all the worries.” During this time, Aamir reminded her, “This is what the movie business is about; you get just one Friday to prove yourself.” She felt the pressure of that statement deeply, explaining, “I was really like, this is not done. That one Friday is the only day when people decide whether it’s good or bad; that’s so much pressure for anyone to take.” Reflecting on this, she expressed her preference for OTT platforms now, saying, “That’s why I enjoy OTT now; people can watch your stuff whenever you want.”"
 
-**NRI moves to Bengaluru, shocked by colleagues' eating, zero exercise: ‘Running on chai and trauma’ | Trending**
-"In his post, the employee wrote that he shifted to Bengaluru a few weeks ago and was surprised to see his entire team “grinding like crazy” at work while surviving on Mysore bondas, vadas and biryani “literally every hour”. He added that his colleagues take “zero steps, zero sunlight and zero water” during the day.
-
-According to him, he began going to the gym before work to stay mentally balanced, but said his co-workers looked at him “like I’m doing a TED talk” whenever he mentioned fitness. He said he wanted to encourage the team to adopt basic health habits. '' I really wanna push my team towards basic health stuff without sounding like that NRI clown,'' he added"
 
 **BJP leader Amarinder Singh calls BJP ‘rigid,’ praises Congress’s flexibility - The Hindu** 
 "Talking to select media, Mr. Singh said “..Punjab is a different area. Look at it, everywhere the BJP is pulling through, why not in Punjab? See previous elections, how many seats have some, hardly any.”
