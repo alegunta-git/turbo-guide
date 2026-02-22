@@ -8,11 +8,31 @@
 
 https://www.moneycontrol.com/lifestyle/quote-of-the-day-by-nr-narayana-murthy-growth-is-painful-change-is-painful-but-nothing-is-as-painful-article-13828356.html#:~:text=He%20once%20said%2C%20%E2%80%9CGrowth%20is%20painful.%20Change%20is%20painful.%20But%2C%20nothing%20is%20as%20painful%20as%20staying%20stuck%20where%20you%20do%20not%20belong.%E2%80%9D
 
+**N Narayana Murthy**
+I observed how in a western country even the socialists understood that wealth has first to be created before it can be distributed; 
+that there could only be a few leaders to create wealth. And that it’s the job of the government to create an environment
+
+After admitting he uses ChatGPT, Narayana Murthy says management and technology graduates are same for him - India Today 
+
+Different approaches, shared goals in problem-solving
+The 78-year-old industry pioneer outlined the distinct yet interconnected roles each group plays in organisational success. "One asks 'what,' while the other focuses on 'how.' Technical people look at 'how,' and the management graduates look at 'what,'" he clarified, highlighting how both perspectives are essential for comprehensive problem-solving.
+
+https://share.google/ns1uPU8P4VxyesGvT
+
 
 **NRI moves to Bengaluru, shocked by colleagues' eating, zero exercise: ‘Running on chai and trauma’ | Trending**
 "In his post, the employee wrote that he shifted to Bengaluru a few weeks ago and was surprised to see his entire team “grinding like crazy” at work while surviving on Mysore bondas, vadas and biryani “literally every hour”. He added that his colleagues take “zero steps, zero sunlight and zero water” during the day.
 
 According to him, he began going to the gym before work to stay mentally balanced, but said his co-workers looked at him “like I’m doing a TED talk” whenever he mentioned fitness. He said he wanted to encourage the team to adopt basic health habits. '' I really wanna push my team towards basic health stuff without sounding like that NRI clown,'' he added"
+
+
+## Philanthrophy
+Blackstone founder Stephen Schwarzman plans to donate his entire $48 billion fortune to a major philanthropic foundation | World News - The Times of India https://share.google/IbE10Ya4kZmrJ1Vjn.
+
+"Schwarzman has also cited family influences on his approach to giving. He has said his grandfather regularly sent medical supplies to children overseas, while his father extended credit to newly arrived immigrants while running a small business in Philadelphia. He has described these experiences as shaping his view of philanthropy as both a responsibility and a privilege."
+https://timesofindia.indiatimes.com/world/us/blackstone-founder-stephen-schwarzman-plans-to-donate-his-entire-48-billion-fortune-to-a-major-philanthropic-foundation/articleshow/128482163.cms#:~:text=Schwarzman%20has%20also,and%20a%20privilege.
+
+Jeff Bezos' ex-wife MacKenzie Scott, who has donated about 58 million Amazon shares, on who she thinks of every time she makes a huge donation | - The Times of India https://share.google/3DXV3UxpEjwHHyFRl.
 
 
 **India’s youth are a force for global good,**
@@ -136,16 +156,7 @@ All three service providers have had recent outages, significantly impacting dig
 "Nvidia CEO Jensen Huang recently opened up about his personal use of artificial intelligence (AI) tools, saying he switches between platforms depending on the tasks. Speaking at an interview in London recently, Huang said that among Elon Musk’s Grok, OpenAI’s ChatGPT, Perplexity and Google’s Gemini, his favorite “depends on what I’m doing”. Explaining further, the Nvidia CEO said “For something more technical I will use Gemini. If I’m doing something where it’s a bit more artistic, I prefer Grok. If it’s very fast information access I prefer Perplexity—it does a really good job of presenting research to me. And for near everyday use I enjoy using ChatGPT”."
 
 
-**N Narayana Murthy**
-I observed how in a western country even the socialists understood that wealth has first to be created before it can be distributed; 
-that there could only be a few leaders to create wealth. And that it’s the job of the government to create an environment
 
-After admitting he uses ChatGPT, Narayana Murthy says management and technology graduates are same for him - India Today 
-
-Different approaches, shared goals in problem-solving
-The 78-year-old industry pioneer outlined the distinct yet interconnected roles each group plays in organisational success. "One asks 'what,' while the other focuses on 'how.' Technical people look at 'how,' and the management graduates look at 'what,'" he clarified, highlighting how both perspectives are essential for comprehensive problem-solving.
-
-https://share.google/ns1uPU8P4VxyesGvT
 
 ## Indigo Crisis , Dec 2025
 * https://www.telegraphindia.com/business/indias-largest-airline-nosedives-where-is-rakesh-gangwal-when-indigo-needs-him-most/cid/2136500#goog_rewarded
