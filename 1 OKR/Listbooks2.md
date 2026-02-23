@@ -1,45 +1,4 @@
-## MBBS Books
-Topics
-- General physician 
-- Endocrinology 
-- Dentist 
-- Orthopedic 
-  - Back , Neck , Joint Pain , Osteoarthritis , Bone fractures  
-  - Carpal Tunnel Syndrome , Gout ,  
-  - Sciatica , Frozen Shoulder , Cervical Spondylosis  
-- ENT 
-- Eye Specialist 
-- Gynecology 
-- Pediatrics 
-- Gastroentrologist
-- Urologist 
-- Pulmonologist 
-- Cardiologist  
-- Radiology
-- Neuro (Anxiety , Stress , Depression )
-
-
-## MBBS Text books
-- Grays anatomy
-- Human Anatomy ( B D Chaurasia) , General Anatomy , Selective Anatomy ( Vishram Singh)
-- Medical Physiology ( Guton and Hall) , K Sembulingam , G K Pal , 
-- Biochemisty ( Pankaja Naik) , DM Vasudevan
-- Pharmacology ( K D Tripathi) , Shanbag
-- Basic Pathology ( Robbins and Kumar) , Harsh Mohan , Ramadas Nayak 
-- Medical Microbilogy ( Apurba)
-- Forensic and Medical Toxicology , Dekal
-- ENT  P L Dhingra
-- Preventive and Social medicine , Park
-- ENT Hack
-- Gynecology , DC Dutta
-- Manipal Manual of Surgery , Shriram Bhat
-- Orthopaedics , Maheshwari & MHaskar
-
-
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # list of mbbs textbooks all subjects
-
 Here is a comprehensive list of standard textbooks recommended for MBBS (Bachelor of Medicine, Bachelor of Surgery) covering all main subjects as structured in the Indian medical curriculum. These are widely used by students and recommended by faculty across top institutions.[^1][^2][^3][^4][^5][^6]
 
 ### Anatomy
