@@ -1,11 +1,17 @@
+## Android
+* android 101 : https://www.youtube.com/playlist?list=PLPRhQEDGqsFC4NL3DiYpPVnDKP9o1dnTw
+* https://www.thesuccessmanual.in/chapter/android-for-seniors-basics-examples-specific-scenarios
+* smartphone trg : https://youtu.be/pWAjtuRU1-o?si=vXROu7JHDoCfNh4r
+* Connect mouse phone https://youtu.be/QVOj-eUN1x0?si=XZOxUcYnAhcteuA6
+* Organizing and Sharing Digital Images - https://youtu.be/WphtTm3Sk0c?si=P9BC6ccCzeMoLaGx
+
 ## Enterprise apps
 * [Goldmine Training](https://www.goldmine.com/training/training_videos_basics.html)
+* goldmine Training : https://www.goldmine.com/training/training_videos_dashboards.html
+* tract invoice flow : https://youtu.be/gvctU4I7gd0?si=1GvYdCcJIoDdH-KB
 * [CFMS reconciliation](https://youtu.be/qqlgn7Y881k?si=e_Zra6DwHSVNMXZl)
 * [pay bill herb](https://youtu.be/mRwOUuMKdjI?si=-4347Kol5rXCmGCu)
 * https://profitbooks.net/27-best-free-software-tools-for-small-businesses/
-* goldmine Training : https://www.goldmine.com/training/training_videos_dashboards.html
-* tract invoice flow : https://youtu.be/gvctU4I7gd0?si=1GvYdCcJIoDdH-KB
-
 
 ## Samsung Apps
 * Contacts , Phone , Messages , Calendar , Calculator
@@ -15,43 +21,15 @@
 * VoiceRecorder , Settings
 * pdf labs feature https://youtu.be/NMRAZUtDNjU?si=r0ejDV9GVZqkvrWR
 
-## Android
-* android 101 : https://www.youtube.com/playlist?list=PLPRhQEDGqsFC4NL3DiYpPVnDKP9o1dnTw
-* https://www.thesuccessmanual.in/chapter/android-for-seniors-basics-examples-specific-scenarios
-* smartphone trg : https://youtu.be/pWAjtuRU1-o?si=vXROu7JHDoCfNh4r
-* Connect mouse phone https://youtu.be/QVOj-eUN1x0?si=XZOxUcYnAhcteuA6
-
-
 ## Mobile Provider
 * Jio
 * Airtel
 
-**Pinterest**
-* [yt Pinterest](https://www.youtube.com/watch?v=Q_YSFv4jWxY&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=18&pp=gAQBiAQB)
-* [move Pins to another board](https://www.youtube.com/watch?v=L9YMI-8YeYw&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=22)
-* [print pinterest board](https://www.youtube.com/watch?v=o-SspDWtwuU&list=WL&index=7&pp=gAQBiAQB)
-* bulk saver : https://youtu.be/2wMqfqNdi0I?si=piwinRCmWkn7xKZ_
-
-**Twitter**
-* [yt Social nw pl](https://www.youtube.com/@howtechweb/playlists)
-* [How To Use Twitter (2022) - YouTube](https://www.youtube.com/watch?v=3-2Xomw92TQ&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=19)
-* [yt twitter](https://www.youtube.com/watch?v=3-2Xomw92TQ&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=17&pp=gAQBiAQB)
-* [Using Twitter](https://help.twitter.com/en/using-twitter)
-* Twitter userguide https://youtube.com/playlist?list=PLc7vt8YmJoYtSKU3sE47gf0NrLxwb1TJz&si=iev7X60FRJ9vLqJD
-
-
-**WhatsApp**
-* [yt Whatsapp](https://www.youtube.com/watch?v=d3VWmsb0ZXA&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=31&pp=gAQBiAQB)
-* [WA Tips](https://www.lifewire.com/whatsapp-tricks-and-tips-4782877)
-* [The 12 Best WhatsApp Tricks and Tips in 2022](https://www.lifewire.com/whatsapp-tricks-and-tips-4782877)
-* [How to use WhatsApp: A step-by-step beginner's guide - Android Authority](https://www.androidauthority.com/how-to-use-whatsapp-1097088/)
-* [WA  ui](https://faq.whatsapp.com/1690350561340616/?helpref=hc_global_nav)
-* [All tips and tricks about WhatsApp) - YouTube](https://www.youtube.com/watch?v=d3VWmsb0ZXA&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=3)
-* [yt share PowerPoint Presentation on WA](https://www.youtube.com/watch?v=-1yXbX1u8jY&list=WL&index=26)
-
-
-## Images
-* Organizing and Sharing Digital Images - https://youtu.be/WphtTm3Sk0c?si=P9BC6ccCzeMoLaGx
+## Meals
+* Zomato
+* Swiggy
+* Grab 
+* Foodpanda
 
 ## Amazon
 * Top 17 Most Popular Selling Items On Amazon : https://qikink.com/blog/most-popular-selling-items-on-amazon/
@@ -67,6 +45,29 @@
 * search prd : https://www.youtube.com/watch?v=CLQDroDf4sY&list=LL&index=14&pp=gAQBiAQB
 
 
+## WhatsApp
+* [yt Whatsapp](https://www.youtube.com/watch?v=d3VWmsb0ZXA&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=31&pp=gAQBiAQB)
+* [WA Tips](https://www.lifewire.com/whatsapp-tricks-and-tips-4782877)
+* [The 12 Best WhatsApp Tricks and Tips in 2022](https://www.lifewire.com/whatsapp-tricks-and-tips-4782877)
+* [How to use WhatsApp: A step-by-step beginner's guide - Android Authority](https://www.androidauthority.com/how-to-use-whatsapp-1097088/)
+* [WA  ui](https://faq.whatsapp.com/1690350561340616/?helpref=hc_global_nav)
+* [All tips and tricks about WhatsApp) - YouTube](https://www.youtube.com/watch?v=d3VWmsb0ZXA&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=3)
+* [yt share PowerPoint Presentation on WA](https://www.youtube.com/watch?v=-1yXbX1u8jY&list=WL&index=26)
+
+## Pinterest
+* [yt Pinterest](https://www.youtube.com/watch?v=Q_YSFv4jWxY&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=18&pp=gAQBiAQB)
+* [move Pins to another board](https://www.youtube.com/watch?v=L9YMI-8YeYw&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=22)
+* [print pinterest board](https://www.youtube.com/watch?v=o-SspDWtwuU&list=WL&index=7&pp=gAQBiAQB)
+* bulk saver : https://youtu.be/2wMqfqNdi0I?si=piwinRCmWkn7xKZ_
+
+## Twitter
+* [yt Social nw pl](https://www.youtube.com/@howtechweb/playlists)
+* [How To Use Twitter (2022) - YouTube](https://www.youtube.com/watch?v=3-2Xomw92TQ&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=19)
+* [yt twitter](https://www.youtube.com/watch?v=3-2Xomw92TQ&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=17&pp=gAQBiAQB)
+* [Using Twitter](https://help.twitter.com/en/using-twitter)
+* Twitter userguide https://youtube.com/playlist?list=PLc7vt8YmJoYtSKU3sE47gf0NrLxwb1TJz&si=iev7X60FRJ9vLqJD
+
+
 ## Bill Payment
 * Paytm
 * PhonePe
@@ -74,57 +75,48 @@
 * MyGate
 
 ## Shopping Apps
-* paytm
 * urbanclap
-* mg
 * bigbasket
-* swiggy
-* bbdaily
 * etsy
 * Flipart
 * Myntra 
-* BigBasket
 * Blinkit 
 * DailyNinja
 * Lazada
 * Walmart
 
-## Meals
-* Zomato
-* Swiggy
-* Grab 
-* Foodpanda
+
+## Social 
+* Facebook
+* Instagram
+* TikTok
+* SnapChat
+* Telegram
+* Zoom
+* FB Messenger
 
 
+## StackOverflow
 
+## Medium
 
-## Q and A Portals
-* StackOverflow
-* Medium
-* Slideshare                                                                                                          
+## Slideshare                                                                                                          
 
-Quora
+## Quora
 * [Bypass Quora](https://www.youtube.com/watch?v=6dLvjxliEwE&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=14)
 
-Wolfram Appha
+## Wolfram Appha
 * [A Quick Intro to Wolfram](https://www.youtube.com/watch?v=iYUGqX-qO_8&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=16)
 
-Wikipedia
+## Wikipedia
 * [yt wikipedia](https://www.youtube.com/watch?v=mslALFQMT_0&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=29&pp=gAQBiAQB)
 * [use Wikipedia - YouTube](https://www.youtube.com/watch?v=mslALFQMT_0&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=4)
 * [Search on Wikipedia - YouTube](https://www.youtube.com/watch?v=K6IlAwaC8dw&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=14)
 
-Reddit
+## Reddit
 * [yt Reddit](https://www.youtube.com/watch?v=bxekpNmEClU&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=14&pp=gAQBiAQB)
 * [5min Reddit](https://www.youtube.com/watch?v=bxekpNmEClU&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=22)
 
-
-
-## Job Search
-* [How to Use Indeed - 10 Ways to Use Indeed Like a Pro - YouTube](https://www.youtube.com/watch?v=1qzEIU8A-6A)
-* [Indeed resume search techniques - YouTube](https://www.youtube.com/watch?v=pQ7q8EvPxmY&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=27)
-* Naukri
-* Linkedin
 
 ## Streaming
 * [yt music](https://www.youtube.com/watch?v=CRJj3D_SAP0&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=18&pp=gAQBiAQB)
@@ -136,23 +128,11 @@ Reddit
 * SoundCloud
 * Amazon Music
 
-
-
-## Social 
-* Facebook
-* Instagram
-* TikTok
-* SnapChat
-
-
-## Instant Messemger
-* Telegram
-* Zoom
-* FB Messenger
-                            
-        
+                      
+     
 
 ## Travel
+* booking.com 
 * Ola
 * Uber
 * Rapido
@@ -162,12 +142,8 @@ Reddit
 * FlightRadar24 
 * Redbus
 
-
 ## ebooks
 * ReadEra
-
-## Tickets
-* booking.com 
 
 ## Video player
 * VLC
