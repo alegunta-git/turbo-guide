@@ -39,6 +39,20 @@ Charlie Munger on Reading Habit.
 * Steal like an Artist - look for patterns ( Steve J) , Know First principles( Elon M )
 * DSA : divide and conquer pbm space , MVP , scale what works , dynamic programming , binary search log n , merge sort pivot
 
+Edge 
+* screen shot
+* collections
+* integration w/ copilot
+* hl yellow pdf docs 
+
+Firefox
+* default search eng , add site keyword , 
+* F9 for clean reading , 
+* right click screenshot easy way
+* ff : search bar 
+* Cust search engine (dict , maps, g img amazon , wiki , yt , thes , twtr , yelp)
+
+
 ## Tips
 * **Apple : Simplify , simplify , simplify** 
 * OPM , OPK , OPE Other People Money , Knowledge , Effort
