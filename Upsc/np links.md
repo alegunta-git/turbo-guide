@@ -1,4 +1,6 @@
 ## xda
+- https://www.xda-developers.com/joplin-tools-workflow/
+- https://www.xda-developers.com/tried-dozens-productivity-apps-always-come-back-to-google-keep/
 - **https://www.makeuseof.com/best-kindle-uses-beyond-reading-books/**
 - https://www.androidpolice.com/app-purge-fixed-my-relationship-with-my-phone/
 - https://www.androidpolice.com/gemini-favorite-google-productivity-tool-saves-me-hours/
@@ -51,8 +53,11 @@
 - https://www.pocket-lint.com/kindle-collections-batch-adding-is-easy-if-you-use-this-hack/
 - Free AI Training (Day 2) https://www.youtube.com/live/EbXuWl-gYfg?si=X0gDEkQrL1NgnFS1
 - AI in Excel https://www.microsoft.com/en-us/microsoft-365/excel/ai-for-excel
-
-
+- https://www.makeuseof.com/best-free-pdf-tool-pdf24/
+- https://www.makeuseof.com/turned-phone-into-document-scanner/
+- https://www.makeuseof.com/creative-ways-repurpose-old-tablet/
+- Why There's Simply No Need For A Kindle Anymore https://share.google/qoYePaPJN4i1fYe6b
+- The Best Kindle Accessorieshttps://share.google/jwfkn7AWr1MyA4sdc
 
 
 
