@@ -1,19 +1,36 @@
-## g trends
-* use g trends https://youtu.be/UaLX8pEIPu0?si=0C9ERurq1qZlZfU8
-* Advanced Google Search  https://youtu.be/jtmQTKVHZ3g?si=hHYNAl3w4YMQR7S9
 
-## g suite
-* org files gd https://youtu.be/eWcRnl0WZjI?si=Sc4zT0SWdEaF-VR-
-* tidy gd https://youtu.be/LBF_4rD6eqs?si=bKbd2vOuqeUMX12r
-* use gdocs and keep : https://youtu.be/xbvDyFV2UAI?si=ZGmmbqRdKhzEeinc
-* How To Share Google Keep Notes With Others : https://youtu.be/hFyd_se1Ch0?si=3u2yJEvIrMIKTFGm
-* How to Find Your Files in Google Drive https://youtu.be/1iG0x_HpPKc?si=mNJCf6ChszjN_yf0
+
+## Others
+* https://www.youtube.com/@digginetblog
+* wunderlist yt
+* ict guide : https://sites.google.com/moe.edu.sg/ictguide/video-conference
+* [digital literacy searching online](https://www.youtube.com/watch?v=p0hxhy2C6l0&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=9)
+* [Top Of Google - Search Snippet - YouTube](https://www.youtube.com/watch?v=9MVhnoRnFoE&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=26)
+* [What teachers don't want students to know](https://www.youtube.com/watch?v=wVc_ilWtA6g&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=32)
+* [complete productivity system with google - YouTube](https://www.youtube.com/watch?v=I4nd57FQmWE&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=13)
+* [800+ g svc](https://www.youtube.com/watch?v=WRepw27cUMc&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=23)
 * https://searchingthe.world/
 * Digital Literacy https://youtube.com/playlist?list=PLRsndPpfc7j_1mP1cjWO84hG1s4zJUHWJ&si=tyEkmU5gxuDWz479
 * google effcntly https://www.youtube.com/watch?v=-EUCJaIp_xQ&list=LL&index=4&pp=iAQB0gcJCZEKAYcqIYzvsAgC
 * @bookmarks https://www.youtube.com/watch?v=ZREz_xXvXgI&list=LL&index=2&pp=iAQBsAgC
 * In-Depth Tour of Google Sheets  https://youtu.be/hEYnEtyYvjM?si=O_kCk2PV1lcBqG7T
 
+
+## GSuite help docs 
+* [G Keep help](https://support.google.com/keep/?hl=en#topic=6262468)
+* [G Calendar help](https://support.google.com/calendar/?hl=en#topic=10509740)
+* [G Drive help](https://support.google.com/drive/?hl=en#topic=14940)
+* [G Mail help](https://support.google.com/mail/?hl=en#topic=7065107)
+* [G Seo](https://developers.google.com/search/docs)
+* [g sheets](https://support.google.com/a/users/answer/9282959)
+* [g docs](https://support.google.com/a/users/answer/9282664?visit_id=638558829940772340-4019882282&hl=en&rd=1)
+* [G Merchant Center](https://support.google.com/merchants/answer/7052112?visit_id=638486059717068181-155628677&hl=en&rd=1)
+* [G guide](https://www.googleguide.com/category/query-input/)
+
+
+## G Trends
+* use g trends https://youtu.be/UaLX8pEIPu0?si=0C9ERurq1qZlZfU8
+* Advanced Google Search  https://youtu.be/jtmQTKVHZ3g?si=hHYNAl3w4YMQR7S9
 
 ## G Finance
 * create portfolio , custom watch list , rename/delete , playground p/f
@@ -22,14 +39,12 @@
 * https://youtu.be/RfdFP_c82dU?si=O3vVOZArU4SejaKU
 * gf tamil https://youtu.be/-Gh4NsoBmXU?si=A6_e-a_EZcRkw_Tf
 
-## gemini
+## G Gemini
 * notebook llm gemini https://youtu.be/YutbQkgOZ-s?si=ogHEQPDZLiFkSx0i
 * https://www.makeuseof.com/hidden-google-tv-features-worth-using/
 * https://www.91mobiles.com/reviews/motorola-signature-best-feature-software-support-opinion/
 
-
 ## G News
-**G News**
 * save Stories , how news works , personalize news , 
 * change settings , notifications
 * local news , news widget , digital subscriptions np/content,
@@ -63,6 +78,8 @@ G Keep
 * [Google Keep: Upgrade Your To-Do List! - YouTube](https://www.youtube.com/watch?v=PKMSbBymA70&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=2)
 * image to text : https://www.youtube.com/watch?v=Sg2dDI5JBTA
 * https://www.makeuseof.com/google-keep-hidden-features-make-work-easier/
+* use gdocs and keep : https://youtu.be/xbvDyFV2UAI?si=ZGmmbqRdKhzEeinc
+* How To Share Google Keep Notes With Others : https://youtu.be/hFyd_se1Ch0?si=3u2yJEvIrMIKTFGm
 
 
 ## G lens
@@ -99,6 +116,9 @@ G Lens
 * text from scanned pdf w/ chrome : https://youtu.be/3MnE6nVncHc?si=8qXtjrRDwYF35-j_
 * gd star files : https://youtu.be/7QFH_6haYu4?si=DebfPN8dM7KQMQXp
 * gd sc : https://youtu.be/7baCEh0kaPU?si=RTAoH9QKo-J9Heah
+* org files gd https://youtu.be/eWcRnl0WZjI?si=Sc4zT0SWdEaF-VR-
+* tidy gd https://youtu.be/LBF_4rD6eqs?si=bKbd2vOuqeUMX12r
+* How to Find Your Files in Google Drive https://youtu.be/1iG0x_HpPKc?si=mNJCf6ChszjN_yf0
 
 
 ## G Cal
@@ -117,6 +137,7 @@ G Lens
 
 
 ## G Mail
+
 **GMail**
 * s star msg , # del select mesg , c compose msg , l label msg, g + i    inbox  ,   g + s   starred
 * sign in , security , privacy , username , read em , org em , find em , fwd em
@@ -132,8 +153,7 @@ G Lens
 * drag and drop gm to gk : https://www.youtube.com/shorts/vmFL5ljm4Uc
 
 
-
-## gbooks
+## G Books
 * [yt G Books](https://www.youtube.com/watch?v=0wy8fbawzsw&list=WL&index=10)
 * [yt g playbooks](https://www.youtube.com/watch?v=W84ZD31GV6I&list=WL&index=3&pp=gAQBiAQB)
 
@@ -214,7 +234,7 @@ YT
 * Thriller  ,  nonfiction  , Comedy  ,  Crime Drama  , Dark Fantasy
 
 
-youtube viewers
+**youtube viewers**
 * recommendations https://youtu.be/Wn9twYUXw6w?si=WlofLRR26v8MF5pj
 * pinch zoom https://youtu.be/-o81n-heK-A?si=jn_N_iWMewhRRq3l
 * full screen https://youtu.be/xRtHEHfkCck?si=DqeMUWmHVfrD5HZN
@@ -224,10 +244,7 @@ youtube viewers
 * ask ai 2 https://youtu.be/aLXFWDhSK2g?si=pXcJvpSGjAwYWnOc
 * precise seeking aunty lea https://youtube.com/shorts/YGgdDzQMJgI?si=uTln248z7FmPz3E_
 
-yt for edu
-* tbd
-
-## youtube
+**yt links**
 * https://www.androidpolice.com/youtube-settings-instantly-upgraded-viewing-experience/
 * [yt controls](https://www.youtube.com/watch?v=ixlrN1_XvRc&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=21&pp=gAQBiAQB)
 * [29 Shortcuts for Youtube Player](https://shortcutworld.com/Youtube-Player/win/Youtube-Player_Shortcuts)
@@ -264,26 +281,6 @@ yt for edu
 * [How to download YouTube playlist videos | Technology Gatherings - YouTube](https://www.youtube.com/watch?v=OsuRpP55QyI)
 * [Download YouTube Videos with youtube-dl](https://davidwalsh.name/download-youtube-videos)
 * I stopped chasing the algorithm and started enjoying YouTube again https://www.androidpolice.com/stop-chasing-the-youtube-algorithm/
-
-
-## gsuite help docs 
-* https://www.youtube.com/@digginetblog
-* wunderlist yt
-* ict guide : https://sites.google.com/moe.edu.sg/ictguide/video-conference
-* [G Keep help](https://support.google.com/keep/?hl=en#topic=6262468)
-* [G Calendar help](https://support.google.com/calendar/?hl=en#topic=10509740)
-* [G Drive help](https://support.google.com/drive/?hl=en#topic=14940)
-* [G Mail help](https://support.google.com/mail/?hl=en#topic=7065107)
-* [G Seo](https://developers.google.com/search/docs)
-* [g sheets](https://support.google.com/a/users/answer/9282959)
-* [g docs](https://support.google.com/a/users/answer/9282664?visit_id=638558829940772340-4019882282&hl=en&rd=1)
-* [G Merchant Center](https://support.google.com/merchants/answer/7052112?visit_id=638486059717068181-155628677&hl=en&rd=1)
-* [G guide](https://www.googleguide.com/category/query-input/)
-* [digital literacy searching online](https://www.youtube.com/watch?v=p0hxhy2C6l0&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=9)
-* [Top Of Google - Search Snippet - YouTube](https://www.youtube.com/watch?v=9MVhnoRnFoE&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=26)
-* [What teachers don't want students to know](https://www.youtube.com/watch?v=wVc_ilWtA6g&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=32)
-* [complete productivity system with google - YouTube](https://www.youtube.com/watch?v=I4nd57FQmWE&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=13)
-* [800+ g svc](https://www.youtube.com/watch?v=WRepw27cUMc&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=23)
 
 
 ## Chrome
@@ -388,20 +385,9 @@ tips
 * [Downloading all images from google image search](https://www.youtube.com/watch?v=fRmGqxOEBi4&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=17)
 * [Productivity Tips for Google Chrome - YouTube](https://www.youtube.com/watch?v=ytT8GU1ywgE&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=18)
 
-Edge 
-* screen shot
-* collections
-* integration w/ copilot
-* hl yellow pdf docs 
 
-Firefox
-* default search eng , add site keyword , 
-* F9 for clean reading , 
-* right click screenshot easy way
-* ff : search bar 
-* Cust search engine (dict , maps, g img amazon , wiki , yt , thes , twtr , yelp)
 
-**MS Edge**
+## MS Edge
 * [9 Microsoft Edge Features Chrome Doesn't Have (...yet) - YouTube](https://www.youtube.com/watch?v=-O-10X-HFB0)
 * [Highlight Text In PDF Document Using Edge Browser In Windows 10 - YouTube](https://www.youtube.com/watch?v=u1-wYKnhoNA)
 * pdf editing : https://www.youtube.com/watch?v=42tXxHrkgxE&list=WL&index=6&pp=gAQBiAQB
@@ -412,11 +398,9 @@ Firefox
 * [Samsung Internet Browser](https://www.youtube.com/watch?v=LyEyLPhsEf0&pp=ygUhc2Ftc3VuZyBpbnRlcm5ldCBicm93c2VyIHR1dG9yaWFs)
 * hihglight sc : https://www.youtube.com/watch?v=SgA5O_RnE9Q
 
-Opera
+
+## Firefox
 * https://help.opera.com/en/latest/
-
-
-**Firefox**
 * [firefox features](https://www.youtube.com/watch?v=HlHwB7KOTOc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=17&pp=gAQBiAQB)
 * [Firefox Quick Search ](https://www.youtube.com/watch?v=pmtRBE5iFzY&list=PLmMyXRtEtJEYDIIpS02idBayhY-00iZwY&index=8)
 * [How to search IMDB, Wikipedia from the address bar](https://support.mozilla.org/en-US/kb/how-search-from-address-bar)
