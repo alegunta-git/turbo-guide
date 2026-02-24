@@ -106,6 +106,68 @@ Adding these tips and insights to your portfolio of skills can help you manage t
 - What are the various states of a project? – RYG what do the various states stand for ? how do you move a Red to Green? 
 - The importance of data and how you have used data analytics in previous roles You missed a project deadline. How would you handle it?
 
+## Behavioral
+* [300 Behavioral Qs](https://www.mockrabbit.com/300-behavioral-questions-interviewer/)
+* [101 behavioral qs](https://cleverism.com/102-behavioral-interview-questions-including-answers/)
+* https://projectbliss.net/project-manager-behavioral-interview-questions/
+* [www.va.gov/pbi/questions.asp](http://www.va.gov/pbi/questions.asp)
+
+
+**G Kayle Behavioral Q’s** 
+- Challenges : Tell me about a challenge you've faced. How did you overcome it?
+- Setbacks : Tell me about a setback you've faced. How did you handle it? 
+- Failures : Tell me about a difficult failure you experienced. 
+- Mistakes : Tell me about a mistake you made. What happened, and what did you learn from it?
+- Influencing a Team : Tell me about a time when you influenced a team 
+- Decision Making : Tell me about a time when you had to make a tough decision
+- Disagreement : Tell me about a time when you disagreed with someone. 
+- Conflict Management : Tell me about a challenging interaction with a team member.
+- Building a Team : Tell me about a time when you had to build or motivate a team.
+- Teamwork Style : if I called up your teammates, how do you think they would describe you? 
+
+**Behavioral or Situational Interview Questions For PMs** 
+- All you need to do is have 5 to 8 different stories/project ready which you can use for various questions. Common questions
+- Describe a situation where used your leadership skills to help your project team meet a difficult challenge. 
+- Describe a situation where you should you technical aptitude and solved an issue. Describe a situation where you negotiated a win-win situation. 
+- Describe a situation where you changed the process to make it better and more productive Describe the most complex project you have managed from start to finish and what were the challenges you encountered during your path. 
+- How have you managed risk in a project? 
+- What was a tough situation you faced and how did you overcome it? 
+- You will find a thousand more when you google but if you have real projects that you have executed well you should be able to answer all of these with ease. 
+- Always use the STAR methodology – Situation, Task, Action, Result. Be clear and detailed in your answers. 
+- Ask the interviewer if he is following along and if your answer was what he was looking for. 
+
+## Qs To Ask 
+- Do you have any concerns about my candidacy? 
+- Do you have concerns about me? Do you have hesitations? Is there anything that’s holding you back from advocating for me? 
+- What happens next 
+- When will I hear next and what will I hear?
+- What is the chain of command? 
+- Who will I be reporting to? 
+- What does one need to do to advance? 
+- What improvements do you want to make here and how can I help you make them? What is the timetable for a decision? 
+- You want to know | Why the position is open. 
+- How many people have held this position in the last three years? Why did they leave? If there is a high rate of turnover in the 
+- In your opinion, how does this company compare to its major competitors, like Activate, Pump, and Dragon Works? 
+- In preparing for the interview you should have researched the prospective employer. When you ask this question, you are saying to the interviewer 
+- “Look at the research I’ve done. I know who your competitors are.” The answer to this question will also help you learn more about the company. 
+- I know you sell hair-care products. What are the demographics of your customers? Your reason for asking this question is similar to your reason for asking the prior one. If you have experience with the demographic this company targets, that is something you can talk about in your thank-you letter or in any follow-up interviews. 
+- Why is this opportunity available? 
+- In what way will you know you made the right decision after the first 90 days? What makes you happy when you arrive at the office each morning? 
+- What’s just happened or is happening now that makes this the time to fill this position? Did someone get promoted? Did they quit? Is the market expanding? Are they trying to get better performance from an area in the company? 
+- How the groups you’ll interact with and rely on feel about working with people in this position How do others in the company respond to this team? How has it been working with others you rely on? How do they feel about this role being filled (relieved, threatened, skeptical). What a good candidate looks like 
+- What does a successful person in the group look like? 
+- If there are issues the interviewer is holding back 
+- If “you’re overqualified” comes out - How will that show up on the job? What part of the hiring process or job performance will that effect and how? 
+- Good luck! 
+
+## Qs Never To Ask 
+- How much money will I make?
+- Money should never be discussed on a job interview. You should hold off on discussing salary until you receive a job offer, when you will be able to negotiate. Even if the employer brings it up first, it is best to avoid getting into an extensive conversation about it at this point. What are the health benefits like? 
+- While you may need this information to help you decide whether or not to accept a job offer, the interview isn’t the time to obtain it. Hold off on this discussion until you receivea job offer. The person interviewing you may not even know a lot about company benefits other than those he has. 
+- How much vacation time will I have? 
+- You haven’t even started working and already you want to know about time off. Your goal during the interview is to demonstrate to the employer that you will be a productive employee.Asking about vacation time will not help you reach that goal. 
+- Can I take time off for religious observance? 
+- An employer is required by law to give you time off for religious observance, so you have no reason to ask about it during the interview. It should never be brought up in the interview usually anytime before you begin working 
 
 
 
@@ -210,3 +272,91 @@ Topics
 * [Trunk based dev](https://paulhammant.com/2013/04/05/what-is-trunk-based-development/)
 * [Devops trg](https://www.devopsschool.com/courses/)
 * [DevOps with AWS - 81S Session 4 | User Management Explained | @JoinDevOps-siva - YouTube](https://www.youtube.com/watch?v=0p9fALlaaN8&list=WL&index=10&pp=gAQBiAQB)
+
+
+
+## DSA Cheatsheet
+* https://www.bigocheatsheet.com/
+* https://algs4.cs.princeton.edu/cheatsheet/
+* https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd
+* 10 algo : https://hbfs.wordpress.com/2008/12/23/the-10-classes-of-algorithms-every-programmer-must-know-about/
+* https://cheatography.com/
+* https://www.crackingthecodinginterview.com/resources.html
+* https://fpcastle.com/2021/10/03/coding-interviews.html
+* https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms
+* [Top10Algo](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+* [Stevey Blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+* [Google Java](https://google.github.io/styleguide/javaguide.html)
+* [Google Test](https://testing.googleblog.com/search/label/TotT)
+* [Google dev SG](https://developers.google.com/style)
+
+## leetcode
+* **leetcode input size : https://youtu.be/eB7SMsE6qEc?si=SuSP-duzzs7VBHTS**
+* recognize lc patterns https://youtu.be/LAnEeffb5zI?si=1zarQ0od_U1iOyOh
+* faang algos analysis https://youtu.be/deJBbSdLzjo?si=zApYfWBw7g5DhhVp
+* LC patterns : https://www.youtube.com/watch?v=RYT08CaYq6A&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
+* [14 patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+* [20 coding patterns](https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3)
+* [Top Leetcode Ptrns](https://dev.to/arslan_ah/top-leetcode-patterns-for-faang-coding-interviews-1on4)
+* yt leet code patterns : https://youtu.be/RYT08CaYq6A?si=0OZ-meWDAr4WdsPz
+* yt leetcode 5 hrs : https://youtu.be/lvO88XxNAzs?si=O5_ThoA1yMlREAlp
+* [yt 70 ltc](https://www.youtube.com/watch?v=lvO88XxNAzs&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=6&pp=gAQBiAQB)
+* [solve ctc timer](https://www.youtube.com/watch?v=dTOyWh0YlJk&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=32&pp=gAQBiAQB)
+* [solve ltc tip](https://www.youtube.com/watch?v=IrWwsfHWl_M&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=40&pp=gAQBiAQB)
+* [start ltc ](https://www.youtube.com/watch?v=G5_Q2_yRFsY&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=34&pp=gAQBiAQB)
+* [ltc strategy](https://www.youtube.com/watch?v=l0FvnARfGKg&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=33&pp=gAQBiAQB)
+* 5 artiles coding : https://youtu.be/Bq48TgQfHBU?si=qwTxLeufbkFWXoI_
+
+
+## YT DSA
+* [big o](https://www.youtube.com/watch?v=x2CRZaN2xgM&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=10&pp=gAQBiAQB)
+* yt coding interview cheatsheet : https://youtu.be/3l8FY_L0_ic?si=_DJP-Kr_7Wcei60B
+* [yt algo sylbs](https://www.youtube.com/watch?v=BchPukWb0CU&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=3&pp=gAQBiAQB)
+* [yt dsa sheet](https://www.youtube.com/watch?v=Az3kEDm5b_k&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=4&pp=gAQBiAQB)
+* [master dsa](https://www.youtube.com/watch?v=F-ao3Q6I2Fc&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=36&pp=gAQBiAQB)
+* DSA - mycoding school : https://www.youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC
+* * DSA : https://www.youtube.com/watch?v=CBYHwZcbD-s&list=PLmMyXRtEtJEaf-vkcod10dwgGSHs7gB72&index=1
+* dsa nan s : https://www.youtube.com/watch?v=QD7m7NMCfrY&pp=ygURbmFuY3kgc29sYW5raSBkc2E%3D
+* [yt NPTEL narendra garg](https://youtu.be/zWg7U0OEAoE?si=Co_42DXjZOcOxMS)
+* bbg recommendation for tech intvw : https://youtu.be/wAMc7NyL4tQ?si=K6VsrZQLDKWbDQKw
+* solve dsa O(n) : https://www.youtube.com/watch?v=6j8uLDZMXUg&list=WL&index=13&pp=gAQBiAQB
+* solve dp : https://youtu.be/uUjFL0C-vY0?si=SdRSh1mzDn39Y7Wg
+* DSA : https://www.youtube.com/watch?v=wDgQL8sOgjM&t=418s
+* dsa roadmap : https://www.youtube.com/watch?v=jMpojvi504I&list=WL&index=8&pp=gAQBiAQB
+
+
+## YT Algorithms
+* [djistrika algo](https://www.youtube.com/watch?v=EFg3u_E6eHU&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=43&pp=gAQBiAQB)
+* add others tbd 
+* a* algo distance calc : https://www.youtube.com/watch?v=3tzVK2ixHEg&list=WL&index=4&pp=gAQBiAQB
+* graph theory: https://youtu.be/oXcCAAEDte0?si=6Iz35jgsX90pWepo
+* OS Algorithms https://youtu.be/O2tV9q6784k?si=4r_zXnRAso9ye159
+
+
+**DSA Courses**
+* [G Intvw](https://www.educative.io/blog/google-coding-interview)
+* [Courses](https://docs.google.com/document/d/1PeK69h4H82rwKjhactiE_sAIorCcZgXgXTY7k-nXpnE/edit#heading=h.p3wx5d6ii3r8)
+* [zhia course design](https://docs.google.com/document/d/1PeK69h4H82rwKjhactiE_sAIorCcZgXgXTY7k-nXpnE/edit#heading=h.90hg31r85qlt)
+* [DSA Course](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)
+* https://docs.google.com/document/d/1PUDQ_LD95iYp8YLDB1yeiUvs7LWlgca-5e9zQ8I1cE8/edit
+* prep : https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1
+* https://dev.to/javinpaul/top-10-free-books-and-courses-to-learn-data-structure-and-algorithms-in-2019-30gl
+* https://www.businessinsider.in/tech/news/a-self-taught-engineer-at-google-shares-the-8-best-google-programming-courses-you-can-access-for-free/amp_articleshow/113632216.cms
+
+
+
+## geeks for geeks
+* https://leetcode.com/studyplan/top-interview-150/
+* https://www.geeksforgeeks.org/10-most-important-data-structures-for-coding-interviews/
+* https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+* https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/
+* https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
+* https://www.geeksforgeeks.org/top-50-searching-coding-problems-for-interviews/
+* https://www.google.com/amp/s/www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/amp/
+* https://www.techiedelight.com/top-100-liked-data-structures-and-algorithm-problems/
+* [Interview prep](https://hackernoon.com/how-not-to-succeed-in-your-45-minute-coding-interview-2eebd46bd6ec)
+* [Reddit links](https://www.reddit.com/r/e/comments/2lzc4h/big_collection_of_interview_preparation_links/?rdt=58725)
+* [Answer Tech Qs](https://www.dice.com/career-advice/answer-technical-interview-question)
+* [must do qs](https://www.codingninjas.com/studio/library/must-do-coding-interview-questions-for-product-based-companies)
+
+
