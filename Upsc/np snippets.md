@@ -189,3 +189,11 @@ With a low base pay (around Rs 35-Rs 55 per order, depending on distance), algor
 As someone who remembers the WEF annual meeting from 30 years ago, trust me when I tell you that so few Indians came then that Rahul Bajaj, one of the first Indians to go to Davos, would have a small dinner for the Indian contingent on the day we arrived. There were rarely any politicians in attendance and those that did come were misfits and embarrassing. Meaningless, meandering speeches are not encouraged in Davos and rarely heard. But it was these that our chief ministers came armed with, clearly written by bureaucrats who never learned the word precis. It was truly mortifying to see them ramble on aimlessly."
 
 
+
+**OpenAI CEO Sam Altman to startup founders: ‘No one cares about your...'; urges them to focus on execution.**
+"He said even if a detailed plan were handed directly to a major industry leader, the chances of it being copied meaningfully are low because successful execution requires focus, persistence, and real-world problem solving.
+
+Altman’s core message was simple: ideas are abundant, but building something that works — and continues to work — is what truly creates value."
+
+
+
