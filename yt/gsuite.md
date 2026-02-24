@@ -413,6 +413,7 @@ tips
 * [FF Search keyword](https://support.mozilla.org/en-US/kb/how-search-from-address-bar)
 * [Search Archives - The Den | The Den](https://blog.mozilla.org/theden/tag/search/)
 * [yt vivaldi multiple charts](https://www.youtube.com/watch?v=0r2xNBij0aM&list=WL&index=20)
+* MUST See Browser Tips https://youtube.com/playlist?list=PLl2X0ObMTMDOC2eEwhNDgbHVfRvgFbG5Z&si=1aBNXNgONRtq8uTd
 
 
 
