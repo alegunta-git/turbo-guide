@@ -51,4 +51,5 @@
 * pradeepa : https://www.youtube.com/watch?v=LktbfHdEm-U&list=WL&index=3&pp=gAQBiAQB
 * pl pradeepa https://www.youtube.com/playlist?list=PLb3xmJwjBYTt2M0PDoUcUo76F3t3WRLnb
 * BSA resume review https://youtu.be/_39IPJGapdQ?si=hjpe6InIumbsDbuj
+* Agile PO https://youtu.be/eSzqDbf2Kc0?si=IOyQoQWhIFKWm7AQ
 
