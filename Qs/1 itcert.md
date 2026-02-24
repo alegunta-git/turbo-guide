@@ -3,18 +3,50 @@
 |------------------|---------------------------------------------------|
 | PM               | **PMP**(PMBOK) , PMI ACP ,Rita PMP                |
 | Agile            | Agile (CSM,CSPO),SAFE                             |
+| Business Analyst | **CBAP**(BABOK)                                   |
+| Design/Architect | TOGAF                                             |
+| Dev Custom       | Oracle SQL , Oracle DBA , OCP Java                |
+| Dev EPR          | Salesforce Trail                                  |
+| QA               | ISTB                                              |
 | AWS              | AWS Cloud Practitioner,**AWS Solution Architect** |
 | GCP/Azure        | GCP Data Engineer, Cloud Architect                |
 | MS               | Azure Exam , MCSD                                 |
-| Business Analyst | **CBAP**(BABOK)                                   |
-| QA               | ISTB                                              |
-| Design/Architect | TOGAF                                             |
 | Devops           | DASA                                              |
 | JIRA             | JIRA Admin                                        |
-| Dev Custom       | Oracle SQL , Oracle DBA , OCP Java                |
-| Dev EPR          | Salesforce Trail                                  |
 | Security         | CRISC,CISSP, CISM , CISA                          |
 | Networking       | CompTIA, ITIL , CEH , Cisco                       |
+
+
+## IT Architecture
+| Tech             | Notes                                                                       |
+|------------------|-----------------------------------------------------------------------------|
+| Front-End tech   | HTML5 , CSS/CSS3 , Jquery , Javascript , NodeJS                             |
+| Prog Lang        | Javascript , Java , PHP , Python , Rust   |
+| Prog Lang        | Ruby , C C++ Haskell/Erlang, Scala   |
+| Java Frameworks  | Spring , Struts , Hibernate                                                 |
+| Web Frameworks   | React LAMP , MERN , Angular JS |
+| Web Frameworks   | Ruby on Rails  , Django , D3/Express , Bootstrap  |
+| Microservices    | Spring Bot                                                                  |
+| API              | REST API ,  Integration(FB,Twitter, G Maps)                                 |
+|                  | Docs(Parse ,Stripe, Spotify ,Paypal) ,                                      |
+| Mobile           | IOS , Android                                                               |
+| WebServer        | Apache , IIS ,  Tomcat , Nginx                                              |
+| Messaging        | AMPQ , Kafka                                                                |
+| Caching          | Redis , memcache                                                            |
+| Database         | MySQL , Oracle , SQL Lite postgres , MS SQL server                          |
+| Database NOSQL   | mongodb , Cassandra                                                         |
+| Search           | Elastic Search , Solr , Lucene , ELK , Splunk                               |
+| Cloud            | AWS , Azure , Google Cloud ,  Heroku                                        |
+| Devops           | Docker , Kubernetes , Chef , Puppet , Ansible                               |
+| Networking       | HTTPS , TCPIP                                                               |
+| Operating System | Windows , macOS ,  Unix , Linux                                             |
+| CRM              | Salesforce , open CRM                                                       |
+| eCommerce        | Magento                                                                     |
+| Big Data         | Hadoop , Map Reduce , HDFS ,  Spark , Splunk , Storm                        |
+|                  | Scoop , HBase , Hive Kafka , Tableau ,Redshift                              |
+|IMP White Papers  | MapReduce , ProtocolBuffers ,  BigTable , Thrift , Hadoop ,REST API         |
+
+
 
 ## IT Skills
 **Top Tech**
@@ -43,6 +75,18 @@
 * Mainframe : Mainframe , AS400
 * Web Apps : MS Web RDBMS DWBI
 * Enterprise Apps : ERP , CRM , EAI
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Glossary
 * [pm glossary](https://www.smartsheet.com/complete-glossary-project-management-terminology)
