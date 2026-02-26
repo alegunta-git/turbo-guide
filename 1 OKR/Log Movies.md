@@ -1,29 +1,33 @@
-
-## 2026 Movies
-Jan
-- 09 Single S
-- 10 90s middle class
-- 10 Andhra King 
-- 17 Vara Prasad , Nari Narii NM
-- 23 Mardani 2 , 120 Bahadur
-
-Feb
-- 08 missamma yt
-- 15 gundamma yt
-- 22 yt clips OPM , Other people money
-
-
-**Wishlist**
+## Wishlist movies
 - Broken Arrow
 - AB Sholay , Deewar
 - Swades
-
 
 ## Hotstar
 - Startup S1
 - Startup S2
 - Check out nat geo and discovery education series
 - discovery study tips doc
+
+## Sonyliv , 400 /mo
+| Year | Webseries                          |
+|------|------------------------------------|
+| 2025 | Scam 1992: The Harshad Mehta Story |
+| 2025 | Rocket boys                        |
+| 2025 | The Whistleblower                  |
+|      | Cubicles                           |
+|      | Bench Life                         |
+|      | Scam 2003 - The Telgi Story        |
+|      | Gullak                             |
+|      | Undekhi                            |
+|      | Maharani                           |
+|      | Freedom at Midnight                |
+|      | Girls Hostel                       |
+|      | Raisinghani vs Raisinghani         |
+|      | Good Bad Girl                      |
+|      | Family Aaj Kal                     |
+
+
 
 ## Netflix
 | Year | Webseries    |
@@ -46,24 +50,18 @@ Feb
 |      | Family Man         |
 
 
-## Sonyliv , 400 /mo
-| Year | Webseries                          |
-|------|------------------------------------|
-| 2025 | Scam 1992: The Harshad Mehta Story |
-| 2025 | Rocket boys                        |
-| 2025 | The Whistleblower                  |
-|      | Cubicles                           |
-|      | Bench Life                         |
-|      | Scam 2003 - The Telgi Story        |
-|      | Gullak                             |
-|      | Undekhi                            |
-|      | Maharani                           |
-|      | Freedom at Midnight                |
-|      | Girls Hostel                       |
-|      | Raisinghani vs Raisinghani         |
-|      | Good Bad Girl                      |
-|      | Family Aaj Kal                     |
+## 2026 Movies
+Jan
+- 09 Single S
+- 10 90s middle class
+- 10 Andhra King 
+- 17 Vara Prasad , Nari Narii NM
+- 23 Mardani 2 , 120 Bahadur
 
+Feb
+- 08 missamma yt
+- 15 gundamma yt
+- 22 yt clips OPM , Other people money
 
 
 ## 2025 Movies
