@@ -18,12 +18,9 @@ The Serenity Prayer, often attributed to Reinhold Niebuhr
 * You can never cross the ocean until you have the courage to lose sight of the shore.’ Christopher Columbus
 * The best time to plant a tree was twenty years ago. The second best time is now.’ Chinese
 * The great aim of education is not knowledge but action.'—Herbert Spencer
-
-Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbour, catch the trade winds inyour sails. Explore, Dream, Discover.’ Mark
-
-Charlie Munger on Reading Habit.
-"Advocating for the virtue of reading, Munger said, “In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time -- none, zero.” .
-“You'd be amazed at how much Warren reads--and at how much I read. My children laugh at me. They think I'm a book with a couple of legs sticking out,” he added.
+* The trouble with retirement is that you never get a day off. — Abe Lemons —
+* The sole meaning of life is to serve humanity. — Leo Tolstoy —
+* Tiny drops of writing become puddles become rivulets become  streams become deep ponds
 
 
 ## Productivity Hacks
@@ -94,6 +91,22 @@ Firefox
 * [Organize  w/ LATCH](https://parsonsdesign4.wordpress.com/resources/latch-methods-of-norganization/)
 * LATCH == Location/AZ/Time/Category/Hierarchy , (1) Use LATCH principle (2) Organize for Findability (3) Easy Accessibility
 
+**At the end of each tracking period, ask: **
+- Which keywords improved, and why?
+- Which categories delivered visibility?
+- Is my sales trend growing, flat, or declining?
+- Did any promotions or ads noticeably impact rankings?
+- What’s my #1 priority for next month?
+
+
+## Snippets
+Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbour, catch the trade winds inyour sails. Explore, Dream, Discover.’ Mark
+
+Charlie Munger on Reading Habit.
+"Advocating for the virtue of reading, Munger said, “In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time -- none, zero.” .
+“You'd be amazed at how much Warren reads--and at how much I read. My children laugh at me. They think I'm a book with a couple of legs sticking out,” he added.
+
+
 
 ## Declutter
 "In the words of Francine Jay, “Remember: you are not what you own. Storing all those books doesn’t make you any smarter; it just makes your life more cluttered.”
@@ -101,6 +114,16 @@ Firefox
 We must beware of a certain craze for collecting which sometimes takes possession of those who make notes.... That is a deplorable practice. —A.G. Sertillanges, O.P., The Intellectual Life
 
 Thus, things lying around messily are reminders of tasks and goals that you haven’t achieved yet. But, these reminders are not effective reminders because your focus is scattered all over the place. When you declutter your space, you are, in effect, prioritizing your goals in your mind as well. This will help you focus much better on each goal, achieving it, and then moving on to the next.
+
+**Writing Tool #37: Long Projects**
+But also read for form. If you want to write better photo captions, read old issues of LIFE magazine. If you want to become a better explainer, read a great cookbook. If you want to  write clever headlines, read the big city tabloids. If you want to write witty short features, read Talk of the Town in The New Yorker magazine.
+
+Breaking a big project into small parts makes it easier to start writing. Break long projects into parts,  long stories into chapters. Anne Lamott's great book "Bird by Bird" gets its title from an anecdote about her brother. At  the age of 10, he struggled with a school report on birds. Lamott describes him as  "immobilized by the hugeness of the task ahead." But then, "my father sat down beside him, 
+put his arm around my brother's shoulder, and said, 'Bird by bird, buddy. Just take it bird by  bird.'"  We all need such coaching to remind us to break long projects into parts, long stories into  chapters, long chapters into episodes. Such advice is both encouraging and practical. 
+
+Where writers gather, I often ask this question: "How many of you have ever run a marathon?"  In a group of 100, maybe one or two will raise a hand. "If properly trained and motivated, how  many of you think you could run 26 miles?" A half-dozen more. "What if I gave you 52 days to  do it, so you only had to run a half mile a day?" Most of the hands in the room go up. 
+Donald Murray puts it this way: "A page a day is a book a year." 
+When my children were young, I volunteered to teach writing in their elementary school.  After each class, I would scribble notes in a journal, never taking more than 10 minutes to  complete the task. What had I learned that day? How did the children respond? Why was  Bonnie not writing? After three years, I thought I might have a book in me about teaching  children to write. I had never written a book before and did not know how to begin, so I  transcribed my journal entries. The result was about 250 pages of typed text, not yet a book,  but a sturdy foundation for what was to become "Free to Write: A Journalist Teaches Young  Writers."
 
 
 ## Work
