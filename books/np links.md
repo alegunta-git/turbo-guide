@@ -1,4 +1,6 @@
 ## xda
+- I turned my scattered notes into a searchable knowledge base https://share.google/zGpbvzqxrgYci04vP
+- https://getgumbo.com/emergency-department-staff-burnout/
 - https://www.xda-developers.com/joplin-tools-workflow/
 - https://www.xda-developers.com/tried-dozens-productivity-apps-always-come-back-to-google-keep/
 - **https://www.makeuseof.com/best-kindle-uses-beyond-reading-books/**
@@ -58,6 +60,8 @@
 - https://www.makeuseof.com/creative-ways-repurpose-old-tablet/
 - Why There's Simply No Need For A Kindle Anymore https://share.google/qoYePaPJN4i1fYe6b
 - The Best Kindle Accessorieshttps://share.google/jwfkn7AWr1MyA4sdc
+- https://javarevisited.substack.com/p/how-im-learning-ai-and-machine-learning
+- How to Use AI Effectively in Your Dev Projects https://share.google/Kiqvu4rIEao1Zy0qT
 
 
 
@@ -106,3 +110,5 @@
 -  https://www.ndtv.com/offbeat/your-time-has-zero-value-woman-slams-indias-delays-compares-with-japan-9793561
 -  https://timesofindia.indiatimes.com/technology/tech-news/im-one-of-one-of-those-people-who-google-ceo-sundar-pichai-explains-how-he-measures-the-success-of-its-product-launches/articleshow/125716480.cms
 -  https://www.moneycontrol.com/news/trends/cognizant-techie-in-uk-says-she-doesn-t-miss-india-s-cutthroat-work-culture-focus-is-on-work-life-balance-13777715.html
+-  https://siliconcanals.com/j-a-if-a-man-in-his-40s-suddenly-starts-going-to-the-gym-every-day-cooking-his-own-meals-and-spending-time-alone-something-important-is-happening-and-its-almost-always-the-opposite-of-a-crisis/
+
