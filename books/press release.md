@@ -4,8 +4,9 @@
 * ai IN action https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230668&reg=3&lang=1
 * AI saas https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230979&reg=3&lang=1
 * Ref graph dgci indices https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230845&reg=3&lang=1
+* https://www.mea.gov.in/press-releases.htm?dtl/40810/AI_Impact_Summit_2026_Concludes_with_Adoption_of_New_Delhi_Declaration
 
-PIB 2025 
+## PIB 2025 
 * World Health Day 2025 : https://pib.gov.in/PressReleasePage.aspx?PRID=2119577
 * India’s Fight Against Anemia : https://pib.gov.in/PressReleasePage.aspx?PRID=2122623
 * Trainee ias officer : https://pib.gov.in/PressReleasePage.aspx?PRID=2123043
@@ -29,7 +30,7 @@ PIB 2025
 * https://thebetterindia.com/civil-service/best-of-2025-ias-ifs-civil-service-officers-people-first-governance-education-sustainability-india-10947650
 
 
-AMZ 2025
+## AMZ 2025
 * https://press.aboutamazon.com/aws/2025/10/aeroporti-di-roma-transforms-passenger-experience-with-ai-virtual-assistant-powered-by-aws-and-storm-reply
 * Aus ai guidelines https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf
 
