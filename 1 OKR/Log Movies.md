@@ -2,6 +2,7 @@
 - Broken Arrow
 - AB Sholay , Deewar
 - Swades
+- https://www.gqindia.com/content/these-international-spy-thrillers-on-netflix-are-so-addictive-i-suggest-you-add-them-to-your-watchlist
 
 ## Hotstar
 - Startup S1
@@ -35,6 +36,7 @@
 | 2022 | English maid |
 | 2022 | Delhi Crime  |
 |      | Kota Factory |
+
 
 
 ## Amazon
