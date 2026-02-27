@@ -1,8 +1,8 @@
 **Imp Quotes**
 * **Serenity Prayer** :God grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference. 
-The Serenity Prayer, often attributed to Reinhold Niebuhr
 * **Newton :"If I have seen further, it is by standing on the shoulders of giants."**
-* Matthew 7:7 : "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.For everyone who asks."
+* **Matthew 7:7 : "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.For everyone who asks."**
+* Jeff Bezos : "To invent you have to experiment, and if you know in advance that it’s going to work, it’s not an experiment.” The way Amazon achieves its risk acceptance mentality,"
 * Give me a lever long enough and a fulcrum on which to place it, and I shall move the world._
 * “Lack of time is not the problem. Lack of direction is the problem. ” — Zig Ziglar
 * 'Good artists copy, great artists steal.'
