@@ -145,6 +145,142 @@
 * Ind SME
 
 
+## CSE
+**CSE Core Subjects**
+* **Data Structures and Algorithms**  
+* **Algorithms Design**  
+* **Machine Learning** 
+* AI and NLP 
+* **Data Mining**
+* **DWBI**  
+* **DBMS**
+* OOAD
+* **Operating Systems**
+* Discrete Math 
+* Statistics
+* Probability
+* Networking
+
+**Algorithm**
+* The Design and Analysis of Computer Algorithms, Aho, Hopcroft, Ullman. 
+* SICP Structure and Interpretation of Computer Programs 51 ( Harold Abelson)***
+* MIT : CLRS videos , Sicp ,
+* Algorithm Design Manual ( S Skiena)
+* J. Kleinberg and E. Tardos, Algorithm Design, Addison*Wesley.
+* Michael T. Goodrich and Roberto Tamassia, Algorithm Design:
+* Introduction to Algorithms, second edition, T. H. Cormen, C.E. Leiserson, R. L. Rivest, (* CLRS 3e : 1*4 , 6*8 , 10*12 , 15, 16 , 22*24 , 34)
+* Algorithms (Sedgewick)
+* Data Structures using C – A. S.Tanenbaum, Y. Langsam, and M.J. Augenstein, PHI/Pearson 
+* Fundamentals of Computer Algorithms, Ellis Horowitz, Satraj Sahni and Rajasekharan, 
+* Udi Manber, Introduction to Algorithms: A Creative Approach, Addison*Wesley.
+* R. G. Dromey, How to Solve it by Computer 
+* Programming Pearls (2nd Edition)***
+* Grokking Algorithms
+* Concepts of Programming Languages Robert. W. Sebesta 10/E, Pearson Education.
+* J. A. Bondy and U. S. R. Murty. Graph Theory with Applications.
+* Schaum's Outlines Graph Theory, Balakrishnan, TMH
+* Graph Theory w Applications  Engineering And Computer Science, Narsing Deo, PHI
+
+**AI NLP Machine learning**
+* Tom M Mitchell, ―Machine Learning, First Edition, McGraw Hill Education, 2013. 
+* MACHINE LEARNING(R17A0534).pdf
+* Pattern Recognition and Machine Learning
+* Ethem Alpaydin, ―Introduction to Machine Learning 3e (Adaptive Computation and Machine 
+* Learning Series), Third Edition, MIT Press, 2014
+* Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press. 
+* The Elements of Statistical Learning. Hastie, R. Tibshirani, and J. Friedman, Springer. 
+* Bishop, C., M., Pattern Recognition and Machine Learning, Springer, 2006. 
+* Artificial Intelligence: A Modern Approach, Third Edition, Stuart Russell and Peter Norvig, 
+* Artificial Intelligence, 3rd Edn, E. Rich and K. Knight (TMH) 
+* Speech and Natural Language Processing - Daniel Jurafsky & James H Martin, Pearson
+* Natural Language Processing and Information Retrieval: Tanvier Siddiqui, U.S. Tiwary.
+* Chris Manning and Hinrich Schuetze, Foundations of Statistical Natural LP, MIT
+
+**OS**
+* OS : 1*15
+* Discrete Mathematical Structures with Applications  J.P. Tremblay, R.  Manohar 
+* Discrete and Combinatorial Mathematics - an applied introduction: Ralph.P. Grimald, Pearson 
+* education, 5th edition. 
+* Operating System Principles- Abraham Silberchatz, Peter B. Galvin, Greg Gagne 7th Edition, 
+* Advanced programming in the UNIX environment, W.R. Stevens, Pearson education. 
+* UNIX programming environment, Kernighan and Pike, PHI/ Pearson Education 
+* UNIX Internals -The New Frontiers, U. Vahalia, Pearson Education.
+* Unix System Concepts and Applications * Sumithabha Das
+* The Unix Programming Environment * Kerningham& Pike
+* Maurice Bach, Design of the Unix Operating Systems, Prentice*Hall of India.
+
+**DBMS Datamining** ,
+* Fundamentals of Database Systems, Elmasri Navrate, Pearson Education
+* Database System Concepts, Silberschatz, Korth, McGraw hill, V edition.3rd Edition
+* Introduction to Database Systems, C.J. Date, Pearson Education
+* Raghu Ramakrishnan
+* Henry Korth ,Korth : 1*4 , 6*8 , 10 , 11 , 14 , 15
+* Building the Data Warehouse by William H Inmon, John Wiley & Sons Inc, 2005.
+* Data Warehousing Fundamentals for IT Professionals : Ponniah, Paulraj
+* The Data Warehouse Life cycle Tool kit, Ralph Kimball Wiley Student edition
+* Introduction to Data Mining * Pang Ning Tan*
+* Han, Jiawei et al *
+* Web mining , Information Retrieval Soumen Chakrabarti , Baezza Yates
+* Data Mining Techniques Michael Berry and Gordon Linoff 
+* Data Mining Cookbook: Modeling Data for Marketing, Risk, and CRM
+* Manning, Raghavan eta al ,Introduction to Information Retrieval, CUPress.
+* Baeza*Yates and Ribeiro*Neto, Modern Information Retrieval, Addison*Wesley.
+* Mining of Massive Datasets, Jure Leskovec Stanford Univ. Anand 
+* Information Storage and Retrieval Systems – Gerald J. Kowalski, Mark T. Maybury, Springer 
+* Modern Information Retrieval by Yates and Neto Pearson Education
+
+
+**OOAD SW Engg** ,  
+* Grokking OOAD
+* Erich Gamma et al., Design Patterns: Elements of Reusable 00 Software,
+* Grady Booch, Object Oriented Analysis and Design, Addison*Wesley.
+* Grady Booch, James Rumbaugh and Ivar Jacobson, UML Guide,
+* Bertrand Meyer, Object Oriented Software Construction, Prentice*Hall.
+* The unified modeling language user guide Grady Booch, James Rambaugh, Ivar Jacobson,
+* Software Engineering, A practitioner’s Approach- Roger S. Pressman, 6th edition,
+* Software Engineering- Sommerville, 7th edition, Pearson Education.
+* The unified modeling language user guide Grady Booch, James Rambaugh, Ivar Jacobson, 
+* Fundamentals of object-oriented design using UML Meiler page-Jones: Pearson Education
+* Analysis and Design of Information Systems , Stenn 
+* Software Engineering, A practitioner's Approach* Roger S. Pressman, 6" edition, Mc Graw Hill
+* Sorting Things Out: Classification and Its Consequences, by Geoffrey C. Bowker
+* Practical Information Architecture, by Eric L. Reiss (Addison*Wesley, 2000).
+
+
+**English**
+- TOEFL & GRE (KAPLAN, AARCO & BARRONS, USA, Cracking GRE by CLIFFS) 
+- Oxford Advanced Learner’s Dictionary, 10th Edition 
+- Cambridge Advanced Learner’s Dictionary 
+
+**Tech**
+* K and R The C Programming Language,PHI.
+* Thinking in Java
+* Learning Python, Mark Lutz, O'reilly
+* "Basic Python for Data Management, Finance, and Marketing" Art Yudin
+* Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, PHI 
+* Byron Gottfried, Schaum’s Outline of Programming with C, McGraw-Hill
+* Professional Android 4 Application Development, Reto Meier, Wiley India, (Wrox), 2012 
+* Marco L. Napoli, Beginning Flutter: A Hands-on Guide to App Development
+* Practical DevOps, Packt Publishing, 2016. 
+* Deepak Gaikwad, Viral Thakkar. DevOps Tools from Practitioner's Viewpoint. Wiley Len Bass, Ingo Weber, Liming Zhu.  Addison  Wesley
+* Brad Dayley, Brendan Dayley, Caleb Dayley., [Node.js](http://node.js/), MongoDB and Angular Web 
+* Development, 2nd Edition, Addison-Wesley, 2019. 
+* Mark Tielens Thomas, React in Action, 1st Edition, Manning Publications. 
+* React and Redux, 2nd edition, Addison-Wesley Professional, 2018.
+* Jon Duckett, Beginning HTML, XHTML, CSS, and JavaScript, Wrox Publications, 2010 
+* Kathy Sierra and Bert Bates, Head First Servlets and JSP, O’Reilly Media, 2e
+* Java the complete reference, 7th edition, Herbert schildt, TMH. 
+* Understanding OOP with Java, updated edition, T. Budd, Pearson education. 
+* Core Java 2, Vol 1, Fundamentals, Cay.S. Horstmann and Gary Cornell, eighth Edition, 
+* Core Java 2, Vol 2, Advanced Features, Cay.S. Horstmann and Gary Cornell,
+* Oracle 9i * A Beginners Guide * Abbey Michael
+* Oca/ocp Oracle 9i Dba Fundamentals * Study Guide * Biju Thomas
+* Oracle 9i Database Performance Tuning Student Vol1*Oracle Press
+* Oracle 9i Database Performance Tuning Student Vol2*Oracle Press
+* Oracle SQL Tuning by Mark Gurry
+* Oracle PL/SQL Best Practices and Tuning by Steven Feuerstein
+
+
 ## ML Books as per ai 
 
 **ML Interview**
@@ -174,132 +310,6 @@
 * Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 * Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto
 * Machine Learning: A Probabilistic Perspective by Kevin P. Murphy:
-
-
-## CSE
-**CSE Core Subjects**
-* **Data Structures and Algorithms**  
-* **Algorithms Design**  
-* **Machine Learning** 
-* AI and NLP 
-* **Data Mining**
-* **DWBI**  
-* **DBMS**
-* OOAD
-* **Operating Systems**
-* unix Internals - maurice j bach , yellow bk
-* Discrete Math 
-* Statistics
-* Probability
-* Networking
-
-## syllabus
-* [iitg cse syllabus format](https://www.iitgoa.ac.in/~sreejithav/20Aug/cs220.html#time-and-plac)
-* [CSE Washington Uni syllabus](https://www.cs.washington.edu/education/courses)
-* [cse jntu](https://jntuh.ac.in/uploads/academics/R18B.Tech.CSESyllabus.pdf)
-* [Web Design](https://highereducation.mp.gov.in/Uploaded%20Document/Web%20Designing.pdf)
-* [Python Training](https://www.tertiarycourses.com.sg/python-3-essential-training-in-singapore.html)
-* [vignan bio tech](https://www.vignan.ac.in/r22/R22%20B.Tech(BT)%20Course%20Structure%20and%20Contents.pdf)
-
-**Data Structures and Algorithms**
-* CLRS T. H. Cormen, C. L. Leiserson, Introduction to Algorithms, MIT Press.(* CLRS 3e : 1*4 , 6*8 , 10*12 , 15, 16 , 22*24 , 34)
-* Algorithms (Sedgewick)
-* Udi Manber, Introduction to Algorithms: A Creative Approach, Addison*Wesley.
-* R. G. Dromey, How to Solve it by Computer 16
-* Data Structures using C ” A. S. Tanenbaum, Y. Langsam, and M. J. Augenstein, PH//Pearson*
-
-
-**Algorithms Design** 
-* Algorithm Design Manual ( S Skiena)
-* J. Kleinberg and E. Tardos, Algorithm Design, Addison*Wesley.
-* Michael T. Goodrich and Roberto Tamassia, Algorithm Design:
-
-**Prog languages**
-* K and R The C Programming Language,PHI.
-* Thinking in Java
-* "Basic Python for Data Management, Finance, and Marketing" Art Yudin
-
-**Operating Systems(unix Internals)**
-* OS : 1*15
-
-**DBMS** ,
-* Fundamentals of Database Systems, Elmasri Navrate, Pearson Education
-* Introduction to Database Systems, C.J. Date, Pearson Education
-* Raghu Ramakrishnan
-* Henry Korth ,Korth : 1*4 , 6*8 , 10 , 11 , 14 , 15
-  
-**DWBI** ,
-* Building the Data Warehouse by William H Inmon, John Wiley & Sons Inc, 2005.
-* Data Warehousing Fundamentals for IT Professionals : Ponniah, Paulraj
-* The Data Warehouse Life cycle Tool kit, Ralph Kimball Wiley Student edition
-
-**Data Mining**
-* Introduction to Data Mining * Pang Ning Tan*
-* Han, Jiawei et al *
-* Web mining , Information Retrieval Soumen Chakrabarti , Baezza Yates
-* Data Mining Techniques Michael Berry and Gordon Linoff 
-* Data Mining Cookbook: Modeling Data for Marketing, Risk, and CRM
-* Manning, Raghavan eta al ,Introduction to Information Retrieval, CUPress.
-* Baeza*Yates and Ribeiro*Neto, Modern Information Retrieval, Addison*Wesley.
-* Mining of Massive Datasets, Jure Leskovec Stanford Univ. Anand 
-
-
-**OOAD** ,  
-* Grokking OOAD
-* Erich Gamma et al., Design Patterns: Elements of Reusable 00 Software,
-* Grady Booch, Object Oriented Analysis and Design, Addison*Wesley.
-* Grady Booch, James Rumbaugh and Ivar Jacobson, UML Guide,
-* Bertrand Meyer, Object Oriented Software Construction, Prentice*Hall.
-* The unified modeling language user guide Grady Booch, James Rambaugh, Ivar Jacobson,
-
-
-**AI and NLP**
-* Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach,
-* Nils J. Nilsson, Artificial Intelligence: A New Sythesis, Morgan*Kaufmann. 
-* Speech & Natural Language Processing * Daniel Jurafsky & James H Martin, Pearson
-* Chris Manning and Hinrich Schuetze, Foundations of Statistical Natural LP, MIT
-
-**Machine Learning**
-* Tom Mitchell, Machine Learning, McGraw*Hill.
-* MACHINE LEARNING(R17A0534).pdf
-* Pattern Recognition and Machine Learning
-
-
-Others
-* SICP Structure and Interpretation of Computer Programs 51 ( Harold Abelson)***
-* MIT : CLRS videos , Sicp ,
-* Programming Pearls (2nd Edition)***
-* Grokking Algorithms
-* Concepts of Programming Languages Robert. W. Sebesta 10/E, Pearson Education.
-* J. A. Bondy and U. S. R. Murty. Graph Theory with Applications.
-* Schaum's Outlines Graph Theory, Balakrishnan, TMH
-* Graph Theory w Applications  Engineering And Computer Science, Narsing Deo, PHI
-* Analysis and Design of Information Systems , Stenn 
-* Software Engineering, A practitioner's Approach* Roger S. Pressman, 6" edition, Mc Graw Hill
-* Sorting Things Out: Classification and Its Consequences, by Geoffrey C. Bowker
-* Practical Information Architecture, by Eric L. Reiss (Addison*Wesley, 2000).
-
-Oracle
-* Oracle 9i * A Beginners Guide * Abbey Michael
-* Oca/ocp Oracle 9i Dba Fundamentals * Study Guide * Biju Thomas
-* Oracle 9i Database Performance Tuning Student Vol1*Oracle Press
-* Oracle 9i Database Performance Tuning Student Vol2*Oracle Press
-* Oracle SQL Tuning by Mark Gurry
-* Oracle PL/SQL Best Practices and Tuning by Steven Feuerstein
-
-Unix
-* Unix System Concepts and Applications * Sumithabha Das
-* The Unix Programming Environment * Kerningham& Pike
-* Maurice Bach, Design of the Unix Operating Systems, Prentice*Hall of India.
-
-
-
-API Design
-* yt postman
-* books Rest API
-* API Spec eFax
-* LivePrj reqs
-
 
 ## IT SDLC
 * The Mythical Man Month , 39
