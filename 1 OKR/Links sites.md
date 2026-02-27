@@ -1,3 +1,37 @@
+## gh m
+* https://github.com/alegunta-git/turbo-guide/tree/master/yt
+* https://github.com/alegunta-git/turbo-guide/tree/master/pfin
+* https://github.com/alegunta-git/turbo-guide/tree/master/books
+* https://github.com/alegunta-git/turbo-guide/tree/master/Whitepapers
+* https://github.com/alegunta-git/turbo-guide/tree/master/Qs
+* https://github.com/alegunta-git/turbo-guide/tree/master/Checklist
+
+
+## Google
+* https://images.google.com/
+* https://www.google.co.in/maps ( G Maps : travel , buildings , floor plans)
+* https://www.google.com/travel/flights?gl=IN&hl=en
+* G Shopping : https://shopping.google.com/?pli=1
+* [G books](https://books.google.com/)
+* [G Scholar](https://scholar.google.com/)
+
+## Amazon
+* https://www.amazon.in/
+* https://www.amazon.com/s?k=pixel&ref=nb_sb_noss
+* https://www.flipkart.com/books-store
+* https://www.amazon.com/sendtokindle
+* https://read.amazon.in/landing
+* https://kindle.amazon.com/your_highlights
+* [goodreads](https://www.goodreads.com/)
+* [crossword](https://www.crossword.in/collections/books)
+
+## Tools 
+* code https://github.com/alegunta-git/turbo-guide
+* wi https://github.com/alegunta-git/turbo-guide/wiki
+* https://table-magic.guntrip.co.uk/
+* https://www.ilovepdf.com/jpg_to_pdf
+* https://textcleaner.net/
+* [alt sw](https://alternative.me/)
 
 ## Utils
 * https://mail.rediff.com/cgi-bin/login.cgi
