@@ -20,10 +20,6 @@ Topics List
 * How to find a job
 * cope with failure 
 
-
-## Shoppping
-* [J Shopping](https://www.youtube.com/watch?v=2cJC6OXsvV0&list=WL&index=11&pp=gAQBiAQB)
-
 ## 2w  Driving
 * How to Drive Safely , 
 * How to Use a Map 
@@ -38,31 +34,38 @@ Topics List
 * [Hand signals](https://www.youtube.com/watch?v=rx5MfkfSYQQ&list=WL&index=4&pp=gAQBiAQB)
 * [Car Left and right](https://www.youtube.com/watch?v=pm-XV0JkYU4&list=WL&index=3&pp=gAQBiAQB)
 
-## House Construction
+## EPC
 * [Blog House construction](https://houseconstructiontips.com/)
 * [House Plan](https://www.homeplansindia.com/stages-of-house-construction-in-india.html)
 * DIY Balcony Makeover https://youtube.com/shorts/X43_laR5juI?si=47yd7tSgqc0OVUuh
-
-## Electrician
 * [UrbanFix](https://urbanfix.co.in/ac-installation-service-bangalore/)
 * [Gapoon Svc](https://www.gapoon.com/bangalore/electrician)
-
-## Plumbing
 * [yt skilltrain - plumbing](https://www.youtube.com/watch?v=-YCp-msm3oM&list=PLmMyXRtEtJEba7aQjFMh0E-sI8KPcC6Ds&index=9&pp=gAQBiAQB)
 * [yt skilltrain pl](https://www.youtube.com/@SkillTrainIndia/playlists)
 * creative jilani pl : https://www.youtube.com/@CreativeJilani/playlists
-
-## Carpentry
 * Carpenter : https://hometriangle.com/
 
-## Tailoring
+## LIG Skills
 * [yt dress well](https://www.youtube.com/watch?v=R9BP1loyA7Y&list=PLmMyXRtEtJEbpcDHcySTAefGOFKPA_e_z&index=4&pp=gAQBiAQB)
 * TAILORING CLASS - BASIC COURSE : https://youtube.com/playlist?list=PLs4myZ6tmF0bNfY5VOOBexJCuq25BhZ8s&si=GYnYqVTbuyPCgC3k
-
-## Mobile repair
-* https://sctvesd.wb.gov.in/files/academic/viii_stc/new/Junior%20Mobile%20and%20Smartphone%20Repairing%20Person_MSPRA.pdf?utm_source=perplexity
-
-## Laptop repair
+* Mobile repair https://sctvesd.wb.gov.in/files/academic/viii_stc/new/Junior%20Mobile%20and%20Smartphone%20Repairing%20Person_MSPRA.pdf?utm_source=perplexity
 * GL Tally Ovw : https://youtu.be/nySwxjRMXZU?si=-O_stDFffAhqnI8C
 
+## Shoppping
+* [J Shopping](https://www.youtube.com/watch?v=2cJC6OXsvV0&list=WL&index=11&pp=gAQBiAQB)
+* Samsung setting https://youtu.be/Qg5588ppA-c?si=Vojo-M0JUNE3XYsz
+* Nothing Phone 3a vs Motorola Edge 60 Fusion vs Motorola Edge 60 Pro : Specs Comparison, Price Difference  https://www.91mobiles.com/compare/Nothing/Phone+3a/vs/Motorola/Edge+60+Fusion/vs/Motorola/Edge+60+Pro.html
+* Mi pad 7 vs Redmi pad pro for study https://youtu.be/Jbeic8GZZII?si=T-0umJvevJbhO-r7
+* Super Useful Moto Pad 60 Neo Tips & Tricks |  https://youtu.be/xfO_bl7u0pg?si=g8nWZyVVNVjU8wLr
+* https://youtube.com/shorts/nBoRhqHEKpo?si=IxGuDm5QjSy0elQF
+
+## Bangalore
+Learn Kannada
+* 250 kannada sentences https://youtu.be/8ts-20nLdX4?si=wWOh9Vp-f7nSqv-J
+* kannda in 5 days https://youtu.be/PoQ9m16d7QA?si=vMh-cVBWhTQk2gjY
+
+Links tvl
+* https://www.holidify.com/places/bangalore/sightseeing-and-things-to-do.html
+* https://www.newindianexpress.com/cities/bengaluru/2025/Nov/22/caught-in-a-cultural-web-website-on-malleswaram-set-for-launch#webview=1
+* Landmarks in Basavanagudi : https://youtu.be/B1oqWZMttGc?si=VSHXTwSTpM0IFzH
 
