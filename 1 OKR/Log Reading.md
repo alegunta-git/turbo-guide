@@ -1,25 +1,30 @@
-## Sources
-* Prayer books
-* Daily pib Press release , amz press release ,
-* Daily NP TH headlines , NP underline key pts , yt  analysis , TH Post 
-* Week end : NP eenadu , etw
-* R18 ebooks , kindle books 
+## Reading SOP
+**2025 reading Approach**
+  1. Daily 2 hr rdg ,2-3x revision
+  1. books gd/offline 
+  1. refer to gi and yt videos backup info
+
+**Source of Reading**
+* Prayer Books
+* Newspaper
 * yt videos , github docs , blogs 
-
-**Text**
-* Basic Sanskrit ,  Meaning Daily Prayer Stotrams
-* 1001 names meaning , Bhagvad Gita
-
-**To Learn**
-* Consultant : Mck Deck , Issue tree
-* PM : WBS  , Finance Modeling
-* PDM : Roadmap
-
-**ofc KT**
-* Prcl User guide , videos , Test cases
-* Cx user guide , videos , Form processor docs
-* Prcl PR SME review comments TB GD SP
-
+* Books (novels , DIY , non fiction , fiction)
+* Textbooks ( CSE , UPSC , MBBS , PFin)
+* MOOC (MIT press , udemy , yt edu videos ) 
+* Magazines , White Papers , Journals
+* R18 books IMP
+* Kindle books
+* **Daily Reading**
+  * Read Hindu Np editorials , scan headlines , underline key pts , co yt analysis , rvw TH Post
+* **Weekly Reading**
+  * PIB Press release , cp links
+  * Amz Press release , google blogs
+  * Read Tech and Fin ebooks (refer to Reading plan)
+* **w/e Reading**
+  * TH sunday np 
+  * eenadu booklet 
+  * etw magazine
+  
 ## LIG
 * Cooking
 * Driving 2w , Driving Car ,Car 2w repair ,
@@ -34,6 +39,22 @@
 * English Grammar  , elos , APA Format ,  Essay Writing
 * Book : write a book / ebook / book publishing , Copy Editor
 * Consultant : Writing , Mckinsey deck , email writings , Va skills
+
+## Wishlist
+**Text**
+* Basic Sanskrit ,  Meaning Daily Prayer Stotrams
+* 1001 names meaning , Bhagvad Gita
+
+**To Learn**
+* Consultant : Mck Deck , Issue tree
+* PM : WBS  , Finance Modeling
+* PDM : Roadmap
+
+**ofc KT**
+* Prcl User guide , videos , Test cases
+* Cx user guide , videos , Form processor docs
+* Prcl PR SME review comments TB GD SP
+
 
 ## R1 UPSC
 * The hindu editorial , PIB press release
