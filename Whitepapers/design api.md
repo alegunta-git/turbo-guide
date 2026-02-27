@@ -1,4 +1,11 @@
 
+**API Design**
+* yt postman
+* books Rest API
+* API Spec eFax
+* LivePrj reqs
+
+
 **yt api**
 * [How to Design Good API](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32713.pdf)
 * [REST API tutorial](https://www.restapitutorial.com/)
