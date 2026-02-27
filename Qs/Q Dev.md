@@ -1,7 +1,8 @@
 ## Top 10 whiteboard challenges
 * A majority of questions boil down to these. , If you’re not good at all of them, you’re probably not ready for interviews.
 * Dynamic Programming
-* Recursion ,  Memoization (with Recursion) ,**Backtracking (with Recursion)**
+* Recursion ,  Memoization (with Recursion)
+* **Backtracking (with Recursion)**
 * Depth-first Search ,
 * Breadth-first search
 * Binary Search ,
@@ -16,6 +17,34 @@
 * Dynamic Programming (Matrix chain Multiplication, 0/1 Knapsack, Bellman ford Algorithm)
 * All pairs shortest path, Travelling sales man problem, Longest Common sub sequence, Subset Sum)
 * Complexity Classes
+
+## Leetcode Patterns
+* 0/1 Knapsack (DP)
+* Backtracking ,  
+* Bitwise XOR 
+* Cyclic Sort
+* Divide and Conquer
+* Dynamic Programming
+* Fast & Slow Pointers , 
+* Greedy
+* In-place Reversal LL 
+* Island (Matrix Traversal) ,
+* K-way Merge
+* Merge Intervals , 
+* Modified Binary Search 
+* Monotonic Stack ,
+* Prefix Sum
+* Recursion
+* Sliding Window
+* Subsets , 
+* Top 'K' Elements , 
+* Topological Sort ,  
+* Tree Breadth First Search , 
+* Tree Depth First Search 
+* Trie 
+* Two Heaps , 
+* Two Pointers ,
+
 
 ## DSA roadmap
 - Week1: Arrays (1D, 2D), Strings,
@@ -109,32 +138,7 @@ Got it—you want to nail DSA by focusing on the 20 % of concepts that deliver
 
 Finish each day with a one‑sentence summary of the pattern you learned. That repetition is the “20 % effort” that yields the “80 % payoff.”
 
-## Leetcode Patterns
-* 0/1 Knapsack (DP)
-* Backtracking ,  
-* Bitwise XOR 
-* Cyclic Sort
-* Divide and Conquer
-* Dynamic Programming
-* Fast & Slow Pointers , 
-* Greedy
-* In-place Reversal LL 
-* Island (Matrix Traversal) ,
-* K-way Merge
-* Merge Intervals , 
-* Modified Binary Search 
-* Monotonic Stack ,
-* Prefix Sum
-* Recursion
-* Sliding Window
-* Subsets , 
-* Top 'K' Elements , 
-* Topological Sort ,  
-* Tree Breadth First Search , 
-* Tree Depth First Search 
-* Trie 
-* Two Heaps , 
-* Two Pointers ,
+
 
 ## Dev 
 **Dev Interview Topics**
