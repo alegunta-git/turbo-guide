@@ -34,14 +34,12 @@ mock int
 * 10 GitHub Repositories to Ace Any Tech Interview https://share.google/uG5Bjpt99anlGVm99
 
 resume
-* https://github.com/VGraupera/manager-resources
+* https://mgoyal.com/
+* [PM CV samples](https://resumeworded.com/project-manager-resume-examples)
+* dev cv : https://www.youtube.com/watch?v=KUoHNaQ7RDo&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=15&pp=gAQBiAQB
+* cv prep : https://www.youtube.com/watch?v=wEwaHjbcxD4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=38&pp=gAQBiAQB
 * [yt recruiter cv](https://www.youtube.com/watch?v=xFngomrq58o&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=7&pp=gAQBiAQB)
 * [yt cv rewrite](https://www.youtube.com/watch?v=ut90408hjhc&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=10&pp=gAQBiAQB)
 * [yt resume](https://www.youtube.com/watch?v=I12R4MwRM6A&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=9&pp=gAQBiAQB)
 * [Prep Resume Consulting Applications - YouTub](https://www.youtube.com/watch?v=qbkLns3tP7U&list=WL&index=10)
 
-## cv samples
-* https://mgoyal.com/
-* [PM CV samples](https://resumeworded.com/project-manager-resume-examples)
-* dev cv : https://www.youtube.com/watch?v=KUoHNaQ7RDo&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=15&pp=gAQBiAQB
-* cv prep : https://www.youtube.com/watch?v=wEwaHjbcxD4&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=38&pp=gAQBiAQB
