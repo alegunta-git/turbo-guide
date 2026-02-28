@@ -4,6 +4,23 @@
 - Swades
 - https://www.gqindia.com/content/these-international-spy-thrillers-on-netflix-are-so-addictive-i-suggest-you-add-them-to-your-watchlist
 
+## 2026 Movies
+Jan
+- 09 Single S
+- 10 90s middle class
+- 10 Andhra King 
+- 17 Vara Prasad , Nari Narii NM
+- 23 Mardani 2 , 120 Bahadur
+
+Feb
+- 08 missamma yt
+- 15 gundamma yt
+- 22 yt clips OPM , Other people money
+- 27 ikkis
+
+
+
+
 ## Hotstar
 - Startup S1
 - Startup S2
@@ -52,18 +69,6 @@
 |      | Family Man         |
 
 
-## 2026 Movies
-Jan
-- 09 Single S
-- 10 90s middle class
-- 10 Andhra King 
-- 17 Vara Prasad , Nari Narii NM
-- 23 Mardani 2 , 120 Bahadur
-
-Feb
-- 08 missamma yt
-- 15 gundamma yt
-- 22 yt clips OPM , Other people money
 
 
 ## 2025 Movies
