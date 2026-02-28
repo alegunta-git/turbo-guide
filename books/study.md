@@ -1,3 +1,20 @@
+## Study Ramblings
+**IIT prepwork**
+- Chasing 2 many books  instead of reading  core textbooks 
+- No 'Weekly 'Revision' , minimal “note taking” 
+- Not Joining Coaching Centre for Doubt clarification 
+- Didn't solve model Tests w/ time limit (dress rehearsal , analyze the mistakes)
+- Pressure due to target IIT failure , never thought on alternatives
+- Finals Stress blanked out
+- Made same mistakes for Cat prep ignoring CSE Studies
+
+**upsc prep exam mistakes**
+- relied on class notes rather than ncert
+- was not studying deeply , need concepts ( coaching will not provide)
+- Not Revising ( not able to retain info) 
+- impact 5 yrs , only study , min socializing , gain weight , books , thoughts , missed lig opportunities
+
+
 ## Study Skills
 **Golden Book - notebook imp points - revision on weekends**
 * Tables till 20, Factorials till 10, Square roots till 10,
@@ -132,16 +149,6 @@ organized by the steps of the reading process (often referred to as a variation 
 * **Index:** An alphabetical list of keywords, names, and topics in the book with their page numbers.
 * **Author Biography** (or "About the Author").
 
-
-
-## IIT Prep
-**iit prep links**
-* https://www.scribd.com/document/318490609/Micro-Schedule
-* https://mystudycart.com/best-books-for-iit-jee-preparation
-* https://www.jagranjosh.com/articles/jee-advanced-physics-formula-sheet-pdf-1747221995-1
-* https://www.vidyalankar.org/iitjee/recommended-books
-* https://www.susanrigetti.com/physics
-* Math notes https://drive.google.com/drive/folders/1DxhP6ZpFr9H_2797Tb2pcXiaoz7WdBQh
 
 ## IIT
 **IIT Book – Som Paul**
