@@ -43,6 +43,10 @@
 * Easily Highlight NCERT in pdf https://youtu.be/1tTnmfBiz1w?si=UEy3ne_2Opy4NNAb
 * gd highlight pdf https://www.youtube.com/shorts/UVrRzXwdMmw
 
+**pdf,readwise**
+* Readwise https://youtube.com/@readwise-official?si=xEDhL0Nn3jTAGp2b
+
+
 **chet chat**
 * yt pl chet : https://www.youtube.com/@ChetChat101/playlists
 * paper presentation tips : https://youtu.be/jTVUqDyTQg8?si=oYfWX0Q-LRPqcq95
