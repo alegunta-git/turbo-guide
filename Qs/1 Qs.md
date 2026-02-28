@@ -6,6 +6,14 @@
 * Glassdoor Qs PM
 * 300 qs
 
+**BSA Qs**
+* [BSA Qs](https://www.mygreatlearning.com/blog/business-analyst-interview-questions/)
+* [22 BSA Visual Models](https://www.bridging-the-gap.com/22-visual-models-used-by-business-analysts/)
+* [BSA Tools](https://www.softwaretestinghelp.com/business-analysis-tools/)
+* [BSA docs](https://thebusinessanalystjobdescription.com/documents-created-by-a-business-analyst/)
+* [blog aotstudios](https://aoteastudios.com/blog/)
+* [blog modernanalyst](https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/2687/Enhancing-the-A-in-Business-Analysis.aspx)
+
 **Behavioral**
 * [300 Behavioral Qs](https://www.mockrabbit.com/300-behavioral-questions-interviewer/)
 * [101 behavioral qs](https://cleverism.com/102-behavioral-interview-questions-including-answers/)
