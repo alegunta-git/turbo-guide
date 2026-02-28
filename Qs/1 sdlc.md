@@ -168,6 +168,20 @@
 - Release management 
 - Value-Adds : Best practices , Agile audit ( Quality and metrics analysis ) , Knowledge Management
 
+## BSA Business Analyst 
+
+**BSA skills**
+* Reqs ,Requirements Elicitation/Workshop , Document Reqs 
+* Knowledge of Req patterns , Interfaces , Data modeling
+* Use cases , User Stories , User Guides , Diagrams ,
+* Cert : BABOK
+
+## QA
+**QA Testing skills**
+* Test Plan , Test Scenarios  ,
+* Test Cases ( Functional/Negative/Regression )
+* Test Automation : Selenium , Playwright 
+* API Testing : SOAP / Postman / DB Testing / Mobile / Security Testing
 
 
 ## Agile
@@ -199,14 +213,7 @@
 * Scalability
 * Cybersecurity
 
-## BSA Business Analyst 
 
-**BSA skills**
-* Reqs ,Requirements Elicitation/Workshop , Document Reqs 
-* Knowledge of Req patterns , Interfaces , Data modeling
-* Use cases , User Stories , User Guides , Diagrams ,
-* Cert : BABOK
-  
 ## Developer
 **Design**
 * Front End: UI Patterns , Web Design  
@@ -215,12 +222,6 @@
 * Back End : DB Design , DB Models OLTP , DWBI | Effective Effective SQL Query and Performance Tuning
 * Integration : Cloud  Native Patterns , EAI
 
-## QA
-**QA Testing skills**
-* Test Plan , Test Scenarios  ,
-* Test Cases ( Functional/Negative/Regression )
-* Test Automation : Selenium , Playwright 
-* API Testing : SOAP / Postman / DB Testing / Mobile / Security Testing
 
 
 
@@ -320,9 +321,6 @@
 * High tolerance for lots of meetings 
 * Concise email writing , Good external presenter , 
 * Start-up experience , Rapid learning capabilities , Self-directed
-
-
-
 
 
 ## IT Roles and Competencies
