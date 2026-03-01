@@ -1,6 +1,17 @@
 **Unstructured Data** 
 This is where AI shines. Unstructured data includes text (news stories, analyst reports), audio (earnings call recordings), video (CEO interviews), and online chatter (tweets, Reddit posts). 
 
+Hiring Process
+- Job Description
+- Résumé Review
+- Phone Screen
+- In-House Interview
+- Written Feedback
+- Debrief/Hiring Meeting
+- Reference Check
+- Offer Through Onboarding
+
+
 **Amazon Categories**
 - All Categories , 
 - Alexa Skills , 
