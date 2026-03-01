@@ -8,6 +8,7 @@
 * site:lh.com keyboard shortcuts , site:ms.com win security 
 * filetype ft:xls checkbook , ft:pdf search cheat sheet
 * learn 101 blog titles , id the top 30 content types
+* gk hindi text https://youtu.be/5DmTR1SCGgc?si=lzo0cN_QAgW1TzRq
 
 ## Browser
 * Browser basics : https://youtu.be/FxirRVJWUTs?si=Du_mphenwjEtgDeM
@@ -23,6 +24,10 @@
 * Did You Know? https://youtube.com/playlist?list=PL5aqr5w5fRe7eKglZSaCdRc5HnLMFbP8D&si=IOivtlAfLqQ_xkhv
 * 30 Seconds https://youtube.com/playlist?list=PL198E4172D8B008DC&si=uXZwCM-DUoHZrG_-
 * Google Chrome Quick Tips on Features  https://youtube.com/playlist?list=PLB35F86BF661AF6BE&si=vIshYws9aHQf5WgQ
+* 10 chrome https://youtu.be/Xlh8gSF_hhE?si=T_8324fufkYRCXVc
+* full page screenshot https://youtu.be/ttG0K74DoAw?si=OyoLyYQoS6lcmoeD
+* ff screenshot https://youtu.be/YrANsYVIVrc?si=RxJUj5pwYlVUnJ3m
+* ggl a day https://youtu.be/X9X2iFKn01c?si=W1vWz7lF6frHLsRH
 
 ## windows search
 * win navigation : https://www.youtube.com/watch?v=Ot8KYCrX4hI&list=WL&index=8
@@ -33,6 +38,9 @@
 * cmd box MS teams : https://youtu.be/Fz7b17XHY5s?si=sbGmUV4p1Dbp-wS_
 * New folder https://youtu.be/b1O6KAfmlCs?si=Kd1jddynLgP_0xQa
 * iGot https://share.google/YS5fIPg4ZwDszimgy
+* delete whole sentence mac https://youtu.be/0LxqUoGNokU?si=z49aSEST0R6cbtUY
+* win 11 start menu https://youtu.be/-AMFWNC1E4E?si=Uo9giqrvhFmFiY_v
+* wa read deleted msg https://youtu.be/spVJycy9HvA?si=9CtQp1N6q1vCZAX5
 
 
 ## G Search adv
