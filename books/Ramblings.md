@@ -1,7 +1,9 @@
 ## CRF
 * Career : Skillset , Interview Prep , List Projects
 * R : Pujas , Traveling (Hols)
-* Finance : bill pmt  , IE AL , online calc , **List of Tasks**
+* Finance : bill pmt  , IE AL , online calc ,
+
+**List of Tasks**
 * Home imp : EPC , PCB 
 * Health : Walk , BLSD 
 * Task M: Tracker , Tickler ( Tools : G Keep , notes)
