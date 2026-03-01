@@ -54,7 +54,12 @@
 
 ## PDF
 * **Print pdf : select custom range to print pages you like**
+* readdle live pdf expert pl https://youtube.com/playlist?list=PLyC_Pxe0Wh5q4_EpkQCSCHVGbctAZ5fzi&si=KTiV3hFATH-ZRk4s
 * Use MS edge to highlight text in pdf
+* annotate pdf gd https://youtu.be/1LpfbqzvzQM?si=eGtTWbrCm0Rk76il
+* read annotate pdf https://youtu.be/UgJbkNIzE24?si=DgUZ9k8itVjql7kO
+* hl text https://youtu.be/BVLdRrUVKzA?si=4trW339tzmgH37mg
+* pdf readwise https://youtu.be/oAVRt-YAuPE?si=mshi6hPuQamJ3Nze
 *  [How to Save Individual Pages of a PDF ✂️ | TUTORIAL *  YouTube](https://www.youtube.com/watch?v=Irc_620LcaE&list=WL&index=45)
 *  [How To Convert JPG to PDF in Windows 10 *  Save Image to PDF *  YouTube](https://www.youtube.com/watch?v=8ZQGSVVasuE)
 *  [How to merge multiple imagesinto one PDF file](https://www.youtube.com/watch?v=bBQe7cAkOfw&list=WL&index=7)
@@ -67,6 +72,9 @@
 *  How to Extract Text Playlist https://youtube.com/playlist?list=PLmut-6B2zPJS3JR9ODqimDNi07AeyudzD&si=uyobKPpojzvrtz_r
 * kindle to pdf calibre https://youtu.be/Ls_TOAkbGiI?si=1pB8mAdZ85TXFmC9
 
+
+## Sharepoint
+* add home page https://youtu.be/goy-84UMIOc?si=oyZAywDrB_cFJ1Gu
 
 ## Notepad++
 * yt pl : https://youtu.be/PzjPu5F9K9Y?si=CgcLvtmlfMmh-bTk
