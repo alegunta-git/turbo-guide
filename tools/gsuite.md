@@ -1,3 +1,7 @@
+## bookshop
+* store https://youtu.be/TkNeicy_xdw?si=GvX5MMC94SvR6f6o
+* listetning https://youtu.be/DI0ITMDBSRQ?si=72nqNKfz4hn3s69g
+
 
 ## Others
 * https://www.youtube.com/@digginetblog
@@ -40,6 +44,10 @@
 * notebook llm gemini https://youtu.be/YutbQkgOZ-s?si=ogHEQPDZLiFkSx0i
 * https://www.makeuseof.com/hidden-google-tv-features-worth-using/
 * https://www.91mobiles.com/reviews/motorola-signature-best-feature-software-support-opinion/
+* chrome gemini https://youtu.be/56b9uHAcHYc?si=NEaJj04LkY0po0Fu
+* gm https://youtu.be/QdnbNH3YMWc?si=sP5WsMSiTC3UrbV2
+* ask search https://youtu.be/sxUBThVQLjU?si=s3tzQO579UG9thfL
+* https://youtu.be/fpEh15TZN40?si=RJN7fceh3jxAuhS8
 
 ## G News
 * [yt gnews](https://www.youtube.com/watch?v=FtSeAwRhPKs&pp=ygUWZ29vZ2xlIGFkdmFuY2VkIHNlYXJjaA%3D%3D)
@@ -48,6 +56,7 @@
 
 ## G Keep
 * **save docs to g keep** : https://www.youtube.com/watch?v=LtBsIohTe5Y&list=WL&index=7&pp=gAQBiAQB
+* 3 hacks https://youtu.be/kWQMXvMlbMQ?si=MUxYqh1hB63nu-AD
 * [cp content g keep](https://www.youtube.com/watch?v=4hK_y24T8BI&list=PLmMyXRtEtJEb5Av4MVfnJsdJ7gEJ5QCZV&index=2&pp=gAQBiAQB)
 * Create Checklists in Google keep notes app https://youtu.be/WdWnWIwsqys?si=m43qSCiI_zoRT21u
 * gkeep : https://youtu.be/ZPovcDlJ64k?si=LX204fCpHTSRD9CI&t=150
