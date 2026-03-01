@@ -29,6 +29,8 @@
 * The trouble with retirement is that you never get a day off. — Abe Lemons —
 * The sole meaning of life is to serve humanity. — Leo Tolstoy —
 * Tiny drops of writing become puddles become rivulets become  streams become deep ponds
+* "Less quantity. More focus. Higher quality."
+* "being busy is not the same as being productive.""
 
 
 ## Productivity Hacks
