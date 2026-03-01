@@ -194,6 +194,7 @@ Print , Share , Export (doc/pdf) , Send , Account , insert files , pdf ,screen c
 
 
 
+
 **ms outlook topics**  
 Basics : Email account , QAT , Ribbon   
 Email Messages : reading pane ,  preview email  , Format message , auto correct ,attach files  
