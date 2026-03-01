@@ -1,8 +1,49 @@
-
-
-
 **Unstructured Data** 
 This is where AI shines. Unstructured data includes text (news stories, analyst reports), audio (earnings call recordings), video (CEO interviews), and online chatter (tweets, Reddit posts). 
+
+**Amazon Categories**
+- All Categories , 
+- Alexa Skills , 
+- Amazon Devices , 
+- Amazon Fashion
+- Amazon Fresh , 
+- Amazon Pharmacy
+- Appliances , 
+- Apps & Games ,
+- Audible Audiobooks
+- Baby ,
+- Beauty , 
+- Books
+- Car & Motorbike , 
+- Clothing & Accessories
+- Collectibles ,
+- Computers & Accessories
+- Deals , 
+- Electronics
+- Furniture , 
+- Garden & Outdoors
+- Gift Cards , 
+- Grocery & Gourmet Foods
+- Health & Personal Care , Home & Kitchen
+- Industrial & Scientific , Jewellery
+- Kindle Store , 
+- Luggage & Bags
+- Luxury Beauty , 
+- Movies & TV Shows
+- MP3 Music , 
+- Music , Musical Instruments
+- Office Products , 
+- Pet Supplies
+- Prime Video
+- Shoes & Handbags
+- Software
+- Sports, Fitness & Outdoors
+- Subscribe & Save
+- Tools & Home Improvement
+- Toys & Games
+- Under ₹500
+- Video Games
+- Watches
 
 
 **Most searched things google**
