@@ -90,6 +90,7 @@ resources
 * https://www.timesnownews.com/lifestyle/books/12-self-help-books-you-can-finish-in-one-sitting-that-actually-make-a-difference-article-153635658
 * https://framework.scaledagile.com/recommended-reading
 * https://www.newtraderu.com/2026/02/12/warren-buffetts-essential-reading-list-10-books-he-recommends-the-most/
+* https://www.newtraderu.com/2026/02/27/top-7-books-warren-buffett-and-charlie-munger-both-respected/
 
 
 ## Book download
