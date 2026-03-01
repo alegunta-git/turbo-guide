@@ -102,3 +102,115 @@ G Lens
 * Settings : Autofill , Privacy & Security , Appearance ,SearchEngine , Default Browser , OnStartup, Lang, Downloads
 * Settings : Accessibility , System , Reset and Clean-up , WebStore , Extensions
 * Guest profile , password Manager , Dev tools
+
+
+## youtube
+YT 
+* download yt playlist , edx and udemy to view content offline 
+* Organize yt songs and prayer playlist
+* go ad free , id the topics to learn , add pl , watch them , if reqd loop video , ask gemini to summarize video 
+* filter for view count , channel , pl
+  
+**Youtube menu**
+- YT ads - Use brave browser
+- Explore menu (Gaming, News, Music, Movies, Fashion & Beauty, Learning, Sports, Podcasts, and Shopping)
+- trending , adv search (filters) , official cards , search glass , mic , explore yt ,
+- Watch Videos ( find videos , change settings , diff devices )
+- comment/subscribe , save/share playlist , purchase movies/tv shows) ,
+- hashtags , watch later , captions ,slider
+- playlists (long/short create , add/remove videos , save , edit , explore you tab) ,
+- play/pause , next , prev , mute/unmute , vol slider , cc ,annotations ,
+- playback speed , quality , theater mode , full screen
+- dark theme , pic in pic , mini player , pinch to zoom , control video volume
+- chapter/grabber , location setting , siri
+- Accounts settings , supervised experience , yt premium ,
+- billing , policies , ads monetization , loop videos
+- Channel ( upload/edit videos , shorts , yt create , manage channel
+- analytics , subtitles , captions , live stream
+
+**youtube viewers**
+* recommendations https://youtu.be/Wn9twYUXw6w?si=WlofLRR26v8MF5pj
+* pinch zoom https://youtu.be/-o81n-heK-A?si=jn_N_iWMewhRRq3l
+* full screen https://youtu.be/xRtHEHfkCck?si=DqeMUWmHVfrD5HZN
+* jump ahead https://youtu.be/oozRsI-EUic?si=VsMGZI-hBiXaeRFf
+* queue https://youtu.be/n8TfNMEcSGY?si=6ymiBEkeA7teJinb
+* ask ai https://youtu.be/WPHtKet27ic?si=h7BWawGLH-i7lBZe
+* ask ai 2 https://youtu.be/aLXFWDhSK2g?si=pXcJvpSGjAwYWnOc
+* precise seeking aunty lea https://youtube.com/shorts/YGgdDzQMJgI?si=uTln248z7FmPz3E_
+
+**G Photos**
+Search by people , places , HDR , default gallery , featured memories
+Print Store : Photo books , Photo/Canvas prints , pmt info , transfer photos (gd)
+Share photos & videos , Stop sharing an album , Show photos TV(Chromecast) , Label face group
+edit photos and videos , discover creations , collages , backup photos (Storage)
+edit photo albums , suggestion cards , archive , info surroundings , download photos
+
+
+**MS Photo**  
+Edit Image , Rotate , Flip , Delete , File info , Start Slideshow ,  
+Create video clipchamp, Resize image , print , Copy  
+Full screen , zoom to size , Crop , Adjustment (Light , color) , Spot fix , Auto enhance ,
+
+
+**MS project topics**  
+Project schedule : Baseline , Scheduled and actual Values , Review Critical Path  
+Creating Tasks :  Manual , Automatic , Linking  | Creating Resources : Duration , Work and Units , Overallocation  
+View And Report Project Information : View , Project  Status ,  Schedule Progress problems , Cost Problems , Working with Graphical Reports
+
+
+**MS Paint**  
+File : New , open , save , save as , print (page setup , preview), from scanner ,  
+send in email , set as bg , properties  
+Home : Paste , paste from , Cut copy , crop , resize , rotate ( left , right , 180 , flip v ,flip h)  
+Home: select ( rectangular sel , free form sel , select all , invert sel , delete, transparent selection)  
+Home : Tools ( pencil , fill color , text (opaque/transparent), eraser , color picker , magnifier  
+Home : brushes , shapes , outline(no fill/solid /crayon/marker/oil/pencil/watercolor)  
+Home : fill , size , color 1 , color 2 , colors , edit colors , edit w/ paint 3d  
+View : zoom in , zoom out , 100% , rulers , gridlines , status bar , full screen ,thumbnail
+
+
+**File Explorer**  
+File : open new window , open shell , help , search options  
+Home : Pin quick access , copy , paste , cut , copy path , past sc , move to , copy to , delete , rename , new folder/item  
+Home : open w/ , edit , history , select all , select none , invert selection  
+Share : share , email , zip , print , fax , adv security  
+view : navigation/preview/deails pane , layout (details) , sort by , grp by , add col , checkboxes , file name extn , hidden items , options
+
+**Notepad**  
+File : New , New Window , Open..., Save , Page Setup.., Print... , Exit  
+Edit : Undo , Cut Copy Paste Delete , Search with Bing , Find..  
+Edit : Find Next , Find Previous , Replace.. , Go To.., Select All , Time/Date  
+Format : Word Wrap , Font  
+View : Zoom , Zoom In , Zoom Out , Restore Zoom , Status Bar  
+Help : View Help , Send Feedback , About
+
+**MS Onenote topics**  
+Notebooks , Sections , Section group , merge section ,  Notes , renaming  , move/copy page   
+Quick launch bar , Tabs , Search bar , delete pages/notes , syncing a/c  
+Draw , Pen , erasers , Shapes , edit , extract text , create notes templates  
+Views , page setup , zoom , window , Table   
+Formatting notes (text , styles , tags , email) , insert images , audio/video , send onenote  
+Print , Share , Export (doc/pdf) , Send , Account , insert files , pdf ,screen clip , 
+
+
+
+**ms outlook topics**  
+Basics : Email account , QAT , Ribbon   
+Email Messages : reading pane ,  preview email  , Format message , auto correct ,attach files  
+organize email message : mailtips , color categories , flag message , quick steps , folders , contacts    
+calendar : views , appointments , recurrence , event , categories , schedule meeting , tasks , notes , voting email   
+Others: multiple sorting ,  find message , filter message , message rules , holiday , add timezone , signatures
+
+
+**Adobe reader**  
+File : Open., Reopen Pdfs , Create PDF , Combine Files , Insert Pages , Save As , Convert to Word , Save as Text  
+Compress File , Password Protect , Request e-sign , Share File , Close File , Properties , Print, Exit Application  
+Edit : Undo,Redo , Cut , Copy , Paste , Delete , Select All , Deselect All , Copy File to Clipboard , Take a Snapshot  
+Edit a PDF , Add Text , Delete Pages , Rotate Pages , Redact Text and Images  
+Find , Advanced Search , Check Spelling , Protection , Accessibility , Preferences (Ctrl K)  
+View : Rotate View , Page Navigation(First , Next , last , Previous , Goto)  
+Previous View , Next View , Page Display , Zoom , Tools , Display Theme , Display size  
+Read Mode , Full Screen Mode , Read out loud  
+Sign : Fill and Sign ,Request E-signatures , Managed All Agreements  
+Window : New Window , Cascade Tile , Minimize All Windows  
+Help : Tutorials , About , Plug-ins , Manage Account , Sign In , Repair Installation , Check for Updates
