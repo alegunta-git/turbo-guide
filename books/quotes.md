@@ -6,6 +6,12 @@
   * Omitted , all the voyage of their life is bound in shallows and in miseries
   * On such a full sea ae we now afloat , And we must take the current when it serves , or Lose our ventures
 
+
+Reading
+Effective Reading by Choosing the Right Books As illustrated in the graph on reading success, reading the right books in the right way is key. Actively retaining and applying the material greatly enhances efficient reading. However, to read effectively, it’s essential to learn only the details you need now or in the near future. For other topics, it’s sufficient to gain an overview, so you have a general understanding and can return to the material when you need it. Aim to spend about half of your reading time on books that address a current problem or goal, as these books will be easier to remember and immediately apply. The other half of your reading time can be spent exploring new topics that might be useful or interesting in the future. Conclusion
+
+
+
 ## Imp Quotes
 * **Serenity Prayer** :God grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference. 
 * **Newton :"If I have seen further, it is by standing on the shoulders of giants."**
