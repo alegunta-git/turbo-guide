@@ -91,6 +91,17 @@
 - Ofc OKR , leave plans
 - Tasks office
 
+## CRF 2025
+|      | Q1 | Q2 | Q3 | Q4 |
+|------|----|---:|----|----|
+| C    | 1  | 2  | 3  | 3  |
+| R    | 3  | 2  | 2  | 2  |
+| F    | 1  | 1  | 1  | 1  |
+| H    | 2  | 3  | 3  | 3  |
+| Himp | 1  | 1  | 1  | 1  |
+| TM   | 3  | 3  | 3  | 3  |
+
+1: Poor , 2: Fair , 3: Good , 4: Very Good , 5: Excellent 
 
 
 
