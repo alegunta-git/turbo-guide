@@ -1,49 +1,47 @@
-To Read
-* working backwards blogs
-* aws help for amazon prd 
-* philip web apps , sql*
-
-## Blogs
-**CTO Working Backwards**
+## Working Backwards
 * https://www.allthingsdistributed.com/2006/11/working_backwards.html
 * [Adrian C blog](http://perfcap.blogspot.com/2012/03/ops-devops-and-noops-at-netflix.html)
 * VC https://clusterone.blogspot.com/
 
-AMZ Blog
+
+## Philippe sw Blogs
+* [philip Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
+* web publishing : https://philip.greenspun.com/panda/
+* https://philip.greenspun.com/sql/
+* https://philip.greenspun.com/materialism/money
+* https://philip.greenspun.com/humor/graduate-student-emotion-check-list.text
+* Philip gs https://philip.greenspun.com/site-map
+
+## Amazon blog
 * Amazon Whitepapers : https://aws.amazon.com/whitepapers/
 * [Amazon Help bill payment](https://www.amazon.in/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GXT32ZG3PV7UZCFA)
 * [AWS Faq](https://aws.amazon.com/faqs/?nc1=f_dr)
 * [yelp support topics](https://biz.yelp.com/support-center)
 * https://fibery.io/blog/product-management/amazon-6-pager/
 * PRFAQ : https://youtu.be/5ZQVeno3daw?si=HcPYTl1vcpEvkWTZ
+
+## Work blog
 * wb : https://youtu.be/aFdpBqmDpzM?si=SmKw-zN7c0FXhYO6
-
-philip sw Blogs
-* Philip gs https://philip.greenspun.com/site-map
-* https://philip.greenspun.com/humor/graduate-student-emotion-check-list.text
-* https://philip.greenspun.com/sql/
-* https://philip.greenspun.com/materialism/money
-* web publishing : https://philip.greenspun.com/panda/
-* [philip Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
-
-
-
-**Work blog**
 * [how i work](https://money.cnn.com/popups/2006/fortune/how_i_work/frameset.exclude.html)
 * [billg work](https://money.cnn.com/2006/03/30/news/newsmakers/gates_howiwork_fortune/)
 * [expert field](https://www.sqlservercentral.com/blogs/how-to-become-an-expert-in-your-field)
 * [100ways](https://www.dragosroua.com/100-ways-to-live-a-better-life/#at_pco=smlrebh-1.0&at_si=5512be859a79f80b&at_ab=per-12&at_pos=1&at_tot=auto)
 * [smart](https://www.youtube.com/watch?v=BDoiZLkUCQw&list=WL&index=3)
 * [7 Years of Learning in 10 Minutes](https://www.youtube.com/watch?v=eOUcRYHukwk)
+* [Cold calling scripts](https://www.pipedrive.com/en/blog/cold-calling-scripts)
+* https://www.drdobbs.com/offshore-by-the-numbers/184415074
+* work culture infosys https://youtu.be/o5a-AuibJ4k?si=A4iWqfiwXbEa84Oh
+* [Manoj Bhargava](https://youtu.be/x46-XiMOoJE?si=BPuUtz0rl5OMnXgM)
+* [Karan Bajaj blog](https://www.karanbajaj.com/how-to-take-major-risks-after-kids/)
+* [Neil Kakkar blog](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
 
-**Manager blogs**
+
+## PM blog
 * [Sincera Metrics](https://www.sincera.in/five-sales-performance-metrics-key-to-successful-business-operations/)
 * [MgrClub](https://www.managersclub.com/rich-archbold/)
 * https://www.slideshare.net/slideshow/giving-presentations-to-senior-managers/2707336
 * https://randsinrepose.com/archives/
 * https://engineeringbolt.com/tech/meta-facebook-engineering-manager-checklist-maximizing-efficiency-and-productivity/
-
-**PM blog**
 * [1page Plan](https://www.brightwork.com/blog/project-management-101-one-page-plan-project-basics)
 * [Status Report CL](https://www.softwareadvice.com/resources/project-status-report-checklist/)
 * [Status Report](https://www.brightwork.com/blog/do-you-know-how-to-create-a-good-quality-successful-project-status-report#.WDVrnh597IU)
@@ -57,7 +55,7 @@ philip sw Blogs
 * [Fixed price](http://anurajsoni.blogspot.com/2013/02/engagement-models-in-it-services.html)
 * [Delivery Manager](https://itsadeliverything.com/delivery-manager-a-new-role-for-an-agile-world)
 
-**Dev blogs**
+## Dev blogs
 * [MM repeatable process](https://docs.mattermost.com/guides/repeatable-processes.html)
 * [Dev Top sites](https://hashnode.com/post/what-are-top-10-developer-websites-you-visit-everyday-cj12216d1009xlh53bsooaams)
 * [Dev sites](https://dev.to/envoy_/best-websites-every-programmer-should-visit-540a)
@@ -67,8 +65,7 @@ philip sw Blogs
 * [Free for Dev](https://github.com/ripienaar/free-for-dev/)
 * [Code search](https://blogs.bing.com/search-quality-insights/2018-07/Intelligent-search-Coding-answers-at-your-fingertips)
 * [yt free courses](https://www.youtube.com/watch?v=uoW8t2WTVhs&t=17s)  
-* https://en.wikipedia.org/wiki/List_of_software_development_philosophies
-* https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+
 
 **data visualization**
 * [angel vc 1p slide](http://christophjanz.blogspot.com/2014/12/introducing-one-slide-update-deck.html)
@@ -77,12 +74,3 @@ philip sw Blogs
 * [PPT Templates](https://flevy.com/browse/business-document/sales-battlecard-template-78)
 * https://www.moneyworks4me.com/best-index/bse-stocks/top-100-companies-in-india/page/1
 * https://www.visualcapitalist.com/the-price-of-entertainment-subscription-services/
-
-**sme blogs**
-* [Manoj Bhargava](https://youtu.be/x46-XiMOoJE?si=BPuUtz0rl5OMnXgM)
-* [Karan Bajaj blog](https://www.karanbajaj.com/how-to-take-major-risks-after-kids/)
-* [Neil Kakkar blog](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
-* [Cold calling scripts](https://www.pipedrive.com/en/blog/cold-calling-scripts)
-* https://www.drdobbs.com/offshore-by-the-numbers/184415074
-* work culture infosys https://youtu.be/o5a-AuibJ4k?si=A4iWqfiwXbEa84Oh
-  
