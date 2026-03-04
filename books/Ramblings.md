@@ -329,3 +329,19 @@ Finance
 - Digital notes  : Photo recipe , Restaurant menu , Wish list , to research ,urls ,
 - Digital notes : store hours , to visit , store hours , home inventory ( s no) 
 - note taking - record and summarize  (use onenote) , cornell (Cue/notes/summaries) ,g voice notes (mic) , g lens
+
+## Study Ramblings
+**IIT prepwork**
+- Chasing 2 many books  instead of reading  core textbooks 
+- No 'Weekly 'Revision' , minimal “note taking” 
+- Not Joining Coaching Centre for Doubt clarification 
+- Didn't solve model Tests w/ time limit (dress rehearsal , analyze the mistakes)
+- Pressure due to target IIT failure , never thought on alternatives
+- Finals Stress blanked out
+- Made same mistakes for Cat prep ignoring CSE Studies
+
+**upsc prep exam mistakes**
+- relied on class notes rather than ncert
+- was not studying deeply , need concepts ( coaching will not provide)
+- Not Revising ( not able to retain info) 
+- impact 5 yrs , only study , min socializing , gain weight , books , thoughts , missed lig opportunities
