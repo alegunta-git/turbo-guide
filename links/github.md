@@ -47,6 +47,7 @@ Machine Learning
 * https://github.com/chiphuyen/machine-learning-systems-design/blob/master/README.md
 * https://github.com/binhnguyennus/awesome-scalability?tab=readme-ov-file
 * https://github.com/checkcheckzz/system-design-interview?tab=readme-ov-file
+* https://github.com/aadi1011/AI-ML-Roadmap-from-scratch/tree/main?tab=readme-ov-file#module-8---natural-language-processing
 
 resources
 * https://github.com/moparisthebest
