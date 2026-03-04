@@ -1,11 +1,3 @@
-## gh m
-* https://github.com/alegunta-git/turbo-guide/tree/master/yt
-* https://github.com/alegunta-git/turbo-guide/tree/master/pfin
-* https://github.com/alegunta-git/turbo-guide/tree/master/books
-* https://github.com/alegunta-git/turbo-guide/tree/master/Whitepapers
-* https://github.com/alegunta-git/turbo-guide/tree/master/Qs
-* https://github.com/alegunta-git/turbo-guide/tree/master/Checklist
-
 
 ## Google
 * https://images.google.com/
