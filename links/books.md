@@ -38,5 +38,4 @@
 * https://github.com/rahff/Software_book
 * https://balasahebtarle.wordpress.com/wp-content/uploads/2020/01/machine-learning-algorithms_text-book.pdf
 * [2102.05242] Patterns, predictions, and actions: A story about machine learning https://share.google/hOLJKVhNaAnSX7nbD
-
-
+* https://oa.upm.es/84328/1/book_english_version.pdf
