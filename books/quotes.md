@@ -10,6 +10,16 @@
 Reading
 Effective Reading by Choosing the Right Books As illustrated in the graph on reading success, reading the right books in the right way is key. Actively retaining and applying the material greatly enhances efficient reading. However, to read effectively, it’s essential to learn only the details you need now or in the near future. For other topics, it’s sufficient to gain an overview, so you have a general understanding and can return to the material when you need it. Aim to spend about half of your reading time on books that address a current problem or goal, as these books will be easier to remember and immediately apply. The other half of your reading time can be spent exploring new topics that might be useful or interesting in the future. Conclusion
 
+Here are some questions that you can ask yourself after reading. 
+1. What is the main idea in the text? 
+2. What details are presented to support or contradict the main idea? 
+3. How are the ideas arranged?
+
+“By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.” -Confucius
+
+“Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.” -Dale Carnegie
+
+
 
 
 ## Imp Quotes
@@ -37,6 +47,10 @@ Effective Reading by Choosing the Right Books As illustrated in the graph on rea
 * Tiny drops of writing become puddles become rivulets become  streams become deep ponds
 * "Less quantity. More focus. Higher quality."
 * "being busy is not the same as being productive.""
+* Time plus direction equals speed.
+* "You are the problem, and you are the solution."
+* “Worrying is like paying a debt you don’t owe.” -Mark Twain
+
 
 
 ## Productivity Hacks
@@ -239,7 +253,6 @@ Dont argue w Client
 * Pro-cons-Fixes ,
 * Sorting/Chronologies/Timelines 
 * Decision Matrix/Probability tree
-* N Equilibrium theory
 * Johari Window
 * Get things done 1.0 ^365 = 1 , 1.01 ^ 365 = 37.7
 * Real est : Location , Location , Location , Renovation , Renovation (aka maintenance)
@@ -271,6 +284,8 @@ Maths
 **Economics**
 * Law of diminishing returns , 1767 , This law says that after a point, increases in effort or investment result in diminishing returns; that is, the incremental value declines. To a hungry woman, a loaf of bread has high value. ,The tenth may have very little value.
 * "Simon’s theory of clumps and lumps : Why do cities organize themselves like this?  But one idea that Herbert Simon came up with nearly a half-century ago, which may well be right, is that whatever size cities start out, they will then attract to themselves a similar proportion of any subsequent increase in population. Each existing city is a ‘clump’ of whatever size. When population increases, it does so in ‘lumps,’ not just through the excess of new births over deaths, but through lumps of new arrivals (by immigration in the case of the US; in many other countries by people drifting from the countryside). But each new lump will tend to attach itself to a clump in proportion to the existing size of the lump. Simon explains this by the availability of employment, and by the observed fact that most entrepreneurs (who provide the employment) stay near where they started."
+
+
 
 
 
