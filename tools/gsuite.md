@@ -80,11 +80,15 @@
 
 ## G lens
 * [G Lens guide](https://www.theedublogger.com/google-lens-guide/)
+* Solve homework https://www.youtube.com/shorts/qIJG_-VoeeE
 * g lens hindi : https://youtu.be/i9gDjvoo7ZU?si=tk0okpqFi919B-jm
 * convert photo to pdf w g lens : https://youtu.be/i2ySYld-i6s?si=jLZfHpSPJ3kwqNBW
 * copy text from book : https://www.youtube.com/watch?v=x_i7yNjCiRE&list=LL&index=6&pp=gAQBiAQB
 * copy text from image android : https://youtu.be/OxM4cL7B6hU?si=zWjsz6u39O7ikVcS
 
+
+## G translate
+* text https://www.youtube.com/shorts/v32L5dF185o
 
 ## G Drive
 * [yt GDrive Tutorial](https://www.youtube.com/watch?v=G5B6ksOKlYI&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=12)
