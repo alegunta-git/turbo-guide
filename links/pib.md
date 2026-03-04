@@ -1,5 +1,10 @@
 ## People
 * https://en.wikipedia.org/wiki/Janaki_Ammal
+* TN Seshan : Bought Reforms in Indian Election Commission and SOP for elections
+* Saurabh Gaur : edu(cloud based tech ans scripts evaluation , engage Byju for 8-10 class ) 
+* Ashok Kemka : Enquiry of key cases , most transferrred
+* Divya Mittal : 9m get water UP Village 
+* Toppers tips : Abhinash mishra , bhavesh mishra (Quora) 
 
 ## PIB 2026
 * CERT https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217537&reg=3&lang=1
