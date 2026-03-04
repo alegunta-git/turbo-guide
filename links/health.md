@@ -1,0 +1,14 @@
+## health
+- https://www.yogajournal.com/pose-finder/pose-finder/
+- https://www.usc.edu.au/media/1000574/Exercises-for-Computer-Users-and-Office-Workers.pdf
+- Squats after meal : https://youtu.be/CBnHcZTnv_s?si=Q1uIr7mc-Ni7h1WR
+- https://indianexpress.com/article/lifestyle/health/4-warning-signs-gut-asking-for-help-nutritionist-9821488/
+- https://timesofindia.indiatimes.com/blogs/small-changes-big-differences/18-a-lifestyle-approach-to-improving-hba1c-and-sustainable-weight-loss/
+- Late dinners, 1 on 10’: https://share.google/jMCaoODQ3aRsUCmnp
+- https://gizmodo.com/semaglutide-helps-your-heart-even-if-the-scale-doesnt-budge-study-shows-2000676206
+- https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/how-to-reverse-pre-diabetes-in-21-days-metabolic-doctor-shares-complete-plan/photostory/124952988.cms
+- https://timesofindia.indiatimes.com/life-style/health-fitness/weight-loss/prices-of-ozempic-vs-mounjaro-vs-wegovy-how-much-they-cost-around-the-world/articleshow/125009115.cms#webview=1
+- https://www.bbc.com/news/articles/c5yplj4j0l5o
+- https://m.economictimes.com/magazines/panache/dogwalker-rs-5000-cook-rs-8000-total-heart-bypass-cost-rs-5-lakh-delhi-cardiologist-shares-the-real-price-of-modern-comfort/articleshow/125215511.cms#amp_tf=From%20%251%24s&aoh=17628483842698&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fm.economictimes.com%2Fmagazines%2Fpanache%2Fdogwalker-rs-5000-cook-rs-8000-total-heart-bypass-cost-rs-5-lakh-delhi-cardiologist-shares-the-real-price-of-modern-comfort%2Farticleshow%2F125215511.cms
+- https://www.business-standard.com/health/how-sitting-too-long-raises-blood-sugar-even-if-you-exercise-daily-125111700526_1.html
+- https://timesofindia.indiatimes.com/city/bengaluru/healthy-cops-happier-force-wellness-drive-brings-visible-change-in-three-months-in-bengaluru/articleshow/126082659.cms#webview=1
