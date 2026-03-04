@@ -1,6 +1,7 @@
 ## xda
 - https://www.androidauthority.com/ways-using-ai-for-hobbies-3624877/
 - https://www.androidpolice.com/started-using-gemini-to-create-notes-in-google-keep/
+- https://www.androidpolice.com/gmail-storage-almost-full-cleaned-it-instead-of-upgrading-google-one/
 - https://www.androidpolice.com/app-purge-fixed-my-relationship-with-my-phone/
 - https://www.androidpolice.com/gemini-favorite-google-productivity-tool-saves-me-hours/
 - https://www.androidpolice.com/google-drive-search-use-like-a-pro/
