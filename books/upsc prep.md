@@ -187,35 +187,10 @@ Plans
 * [Toppers notes](https://www.insightsonindia.com/2020/08/14/toppers-notes-e-notes-of-rushikesh-reddy-rank-95-cse-2020/)
 * [Sociology notes](https://handwrittennotes.in/2020/08/17/kshitij-tyagi-sociology-notes-pdf/
 
-
-
 ## Topics
 * The Hindu editorial
 * PIB Press release
 * ARC Reports
-
-**upsc exam prep g search commands**
-* gst upsc
-* gst wiki 
-* pt 365
-* padma award winners 2025 
-* geography previous years upsc prelims questions topic wise 
-* upsc prelims history topic wise questions
-* financial intelligence unit upsc
-* upsc previous years toppers answer booklet download
-* upsc monthly current affairs pdf
-* upsc mains gs2 ngo
-* child marriage amendment bill 2021 prs india
-* recent government policies
-* women reservation bill prs india
-
-
-## IAS Officers
-* TN Seshan : Bought Reforms in Indian Election Commission and SOP for elections
-* Saurabh Gaur : edu(cloud based tech ans scripts evaluation , engage Byju for 8-10 class ) 
-* Ashok Kemka : Enquiry of key cases , most transferrred
-* Divya Mittal : 9m get water UP Village 
-* Toppers tips : Abhinash mishra , bhavesh mishra (Quora) 
 
 ## 2024 Prep work Playbook
 * sabbatical from office 2 weeks Feb
