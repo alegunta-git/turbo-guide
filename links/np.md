@@ -1,4 +1,5 @@
 ## np
+- https://timesofindia.indiatimes.com/technology/tech-news/intel-ceo-lip-bu-tan-i-was-shocked-to-find-chinas-huawei-has-hired-100s-of-engineers-who-can-/articleshow/128909038.cms#webview=1
 - https://m.economictimes.com/magazines/panache/stop-wasting-rs-40000-on-food-delivery-apps-ca-shares-the-smarter-switch-that-saves-rs-5-6-lakh/articleshow/125649996.cms#webview=1
 - https://timesofindia.indiatimes.com/technology/tech-news/perplexity-ceo-aravind-srinivas-number-one-skill-you-need-as-a-ceo-is-to-learn-to-make-/articleshow/124765224.cms
 - https://timesofindia.indiatimes.com/education/careers/news/turn-off-that-phone-says-ex-google-ceo-3-weekend-habits-he-swears-by-for-success/articleshow/124861716.cms
