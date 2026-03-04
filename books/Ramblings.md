@@ -1,3 +1,23 @@
+**why do we need process**
+| Chaos             | Predictability          | Scaling                       |
+|-------------------|-------------------------|-------------------------------|
+| No Planning ,     | Planning ( WBS/Roadmap) | 3 yr roadmap wrt scalability  |
+| Dive into action  | Defined SOP             | Innovation                    |
+| Lots of surprises |                         | Automation/ Use of Technology |
+
+**Analyze Problem**
+| Problem Statement | Why RCA        | What done/changes | How to fix     |
+|-------------------|----------------|-------------------|----------------|
+| blah blah blah    | blah blah blah | blah blah blah    | blah blah blah |
+
+| From State                                                       | To State                                                               |
+|------------------------------------------------------------------|------------------------------------------------------------------------|
+| Bills not sorted - spread across all files                       | Arrange bills by subject area - clip it - use xls trackers (reminders) |
+| No suggested reading list                                        | 1pager for reading list , yt tracker                                   |
+| Reading randomly - no tracker to check books read and yt videos  | Sort reading material - file it - label it                             |
+| Np and fin articles jumbled up in bags                           | Start using g drive - trackers                                         |
+
+
 ## CRF
 * Career : Skillset , Interview Prep , List Projects
 * R : Pujas , Traveling (Hols)
@@ -8,16 +28,6 @@
 * Health : Walk , BLSD 
 * Task M: Tracker , Tickler ( Tools : G Keep , notes)
 * Reading : PFin , Tech , Misc (Take online notes , Revision)
-
-## Office tips
-* Office KFAs : Delivery ( 90d OKR's) , Process Imp, Knowledge Management ( wiki , training) , Collaboration w/ Peers
-* The Importance of Having a _Business Playbook_ - Sterling Woods Group
-* _Product Roadmap_ , Scorecard , OKR's , Measure What Matters
-* PM Tips : JW : 1p task list , MM : Problem , solution analysis essay , BN : onenote ( mtg notes , action items , Top down bullet sub bullets) 
-* How to Handle Crisis as per Gene Kranz
-* Relied on personal Checklist & Training ,so that I had my mind made up as to what i would do in the first 60,90 seconds of a crisis 
-* Read Amazon Press release / FAQ / Google blogs / PIB notes
-
 
 ## GTD notes
 **Task Management**
@@ -49,6 +59,31 @@
 * **Konmari Method** : Commit Yourself , Imagine  Ideal Lifestyle , **Finish Discarding First** , Ask Yourself If It Sparks Joy
 * Tidy by Category, NOT location : Seq -> Clothes , Books ,Paper , Komono , Sentimental items 
 
+## GTD
+**Monday W/o roadmap** 
+- No Plan for the week :  what to do next ,
+- where is the Prioritized list of tasks
+- no visible dashboard ,  
+- Not using to-do list / MIT tasks , 
+- **DRIFTING** and reactive wrt task implementation 
+
+**GTD,Task Management**
+- Not updating trackers 
+- Same old story - investment no trackers < less than 30 min per week to review docs
+- Since 2024 , Too much time on the wiki scrub and gd - why dont we find a structure
+- GTD too much time on scrub activities , minimize this
+- Task mgmt  use trackers to sequence implementation
+
+**Poor time management** 
+- _NOT Disciplined_ , Not Updating Diary , Not getting up early , 
+- No Naming convention for files stored on PC/g drive 
+- Waking up at 9am , Exercise in evening , 
+- Drift 8am to 12 noon, Bath  at 12pm , start work at 6pm  12-6pm wasted hours
+- Not Having COntacts List  for Key Vendors 
+- Not scrubbing Receipts 
+- Not tracking the address list of Key Relations 
+- Skipping Exercise (30 min per day)  
+- Delaying S tests 
 
 ## How to stay organized
 
@@ -123,31 +158,41 @@ Finance
 - Too many revision of g blog entries ( picking wrong tool , not aware of github wiki)
 - Wasting Time in searching Files/Paper/Bills 
 
-## GTD
-**Monday W/o roadmap** 
-- No Plan for the week :  what to do next ,
-- where is the Prioritized list of tasks
-- no visible dashboard ,  
-- Not using to-do list / MIT tasks , 
-- **DRIFTING** and reactive wrt task implementation 
 
-**GTD,Task Management**
-- Not updating trackers 
-- Same old story - investment no trackers < less than 30 min per week to review docs
-- Since 2024 , Too much time on the wiki scrub and gd - why dont we find a structure
-- GTD too much time on scrub activities , minimize this
-- Task mgmt  use trackers to sequence implementation
 
-**Poor time management** 
-- _NOT Disciplined_ , Not Updating Diary , Not getting up early , 
-- No Naming convention for files stored on PC/g drive 
-- Waking up at 9am , Exercise in evening , 
-- Drift 8am to 12 noon, Bath  at 12pm , start work at 6pm  12-6pm wasted hours
-- Not Having COntacts List  for Key Vendors 
-- Not scrubbing Receipts 
-- Not tracking the address list of Key Relations 
-- Skipping Exercise (30 min per day)  
-- Delaying S tests 
+## WORK
+
+**Office tips**
+* Office KFAs : Delivery ( 90d OKR's) , Process Imp, Knowledge Management ( wiki , training) , Collaboration w/ Peers
+* The Importance of Having a _Business Playbook_ - Sterling Woods Group
+* _Product Roadmap_ , Scorecard , OKR's , Measure What Matters
+* PM Tips : JW : 1p task list , MM : Problem , solution analysis essay , BN : onenote ( mtg notes , action items , Top down bullet sub bullets) 
+* How to Handle Crisis as per Gene Kranz
+* Relied on personal Checklist & Training ,so that I had my mind made up as to what i would do in the first 60,90 seconds of a crisis 
+* Read Amazon Press release / FAQ / Google blogs / PIB notes
+
+**Office work guidelines**
+- Work on items as per JD (Don’t try innovation ) , 
+- Minimize time spent on non ROI items (Admin work , LND)
+- Dont brood about office work at home 
+- Stick to office timings 11m to 8 pm , Optimize WFH and Commute time 
+- Say more Yes Sir , Minimize arguments , Stay friendly w/ Team members
+- SWOT your  boss and team members
+- STOP  flirting with idea to join a startup , we dont have the capability !!!
+
+**Use tools effectively**
+- Project plan , Roadmap , Estimation , Meeting notes(Onenote
+- Effective search w/ google , Usage of ppt and excel
+- Learn latest technologies as per demand list 
+
+**UK Management** 
+- 1Guy Does Big picture thinking , 1 writes SOP, 8 follow the SOP 
+- steady and predictable
+
+**USA management**
+- Chaos ride , top and bottom , peak and valleys , 
+- no SOP and respect for quality , minimal KT to new comers
+
 
 ## Job Search
 
@@ -176,53 +221,8 @@ Finance
 **Interview Prep**
 - project manager interview checklist 
 - Upload Q bank ( Dev , BA , PM , PdM) 
-- Bookmark Qs and revise on a  weekly basis 
+- Bookmark Qs and revise on a  weekly basis
 
-
-## WORK
-**Office work guidelines**
-- Work on items as per JD (Don’t try innovation ) , 
-- Minimize time spent on non ROI items (Admin work , LND)
-- Dont brood about office work at home 
-- Stick to office timings 11m to 8 pm , Optimize WFH and Commute time 
-- Say more Yes Sir , Minimize arguments , Stay friendly w/ Team members
-- SWOT your  boss and team members
-- STOP  flirting with idea to join a startup , we dont have the capability !!!
-
-**Use tools effectively**
-- Project plan , Roadmap , Estimation , Meeting notes(Onenote
-- Effective search w/ google , Usage of ppt and excel
-- Learn latest technologies as per demand list 
-
-**UK Management** 
-- 1Guy Does Big picture thinking , 1 writes SOP, 8 follow the SOP 
-- steady and predictable
-
-**USA management**
-- Chaos ride , top and bottom , peak and valleys , 
-- no SOP and respect for quality , minimal KT to new comers
-
-
-## Thoughts
-
-**why do we need process**
-| Chaos             | Predictability          | Scaling                       |
-|-------------------|-------------------------|-------------------------------|
-| No Planning ,     | Planning ( WBS/Roadmap) | 3 yr roadmap wrt scalability  |
-| Dive into action  | Defined SOP             | Innovation                    |
-| Lots of surprises |                         | Automation/ Use of Technology |
-
-**Analyze Problem**
-| Problem Statement | Why RCA        | What done/changes | How to fix     |
-|-------------------|----------------|-------------------|----------------|
-| blah blah blah    | blah blah blah | blah blah blah    | blah blah blah |
-
-| From State                                                       | To State                                                               |
-|------------------------------------------------------------------|------------------------------------------------------------------------|
-| Bills not sorted - spread across all files                       | Arrange bills by subject area - clip it - use xls trackers (reminders) |
-| No suggested reading list                                        | 1pager for reading list , yt tracker                                   |
-| Reading randomly - no tracker to check books read and yt videos  | Sort reading material - file it - label it                             |
-| Np and fin articles jumbled up in bags                           | Start using g drive - trackers                                         |
 
 
 ## SOP Reading
