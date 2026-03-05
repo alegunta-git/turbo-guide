@@ -1,10 +1,9 @@
+* Wa tenant rent 
+* meals card : enable txn how ? , chk dmart 
+
 ## Health Insurance Renewal
 * call rep
 * ask options , amt
-
-Next
-* Wa tenant rent 
-* meals card : enable txn how ? , chk dmart 
 
 
 ## Backlog
