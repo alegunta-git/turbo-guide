@@ -1,3 +1,38 @@
+## Reading
+“By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.” -Confucius
+
+Here are some questions that you can ask yourself after reading. 
+1. What is the main idea in the text? 
+2. What details are presented to support or contradict the main idea? 
+3. How are the ideas arranged?
+
+Effective Reading by Choosing the Right Books As illustrated in the graph on reading success, reading the right books in the right way is key. Actively retaining and applying the material greatly enhances efficient reading. However, to read effectively, it’s essential to learn only the details you need now or in the near future. For other topics, it’s sufficient to gain an overview, so you have a general understanding and can return to the material when you need it. Aim to spend about half of your reading time on books that address a current problem or goal, as these books will be easier to remember and immediately apply. The other half of your reading time can be spent exploring new topics that might be useful or interesting in the future. Conclusion
+
+**At the end of each tracking period, ask: **
+- Which keywords improved, and why?
+- Which categories delivered visibility?
+- Is my sales trend growing, flat, or declining?
+- Did any promotions or ads noticeably impact rankings?
+- What’s my #1 priority for next month?
+
+Charlie Munger on Reading Habit.
+"Advocating for the virtue of reading, Munger said, “In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time -- none, zero.” .
+“You'd be amazed at how much Warren reads--and at how much I read. My children laugh at me. They think I'm a book with a couple of legs sticking out,” he added.
+
+## Writing
+* Shorthand notation : Sir Isaac Pitman invented shorthand after finding that just 700 words made up a staggering 70 percent of conversation. Including derivatives of these words, the Dictionary lists more than half a million words. fewer than 1 percent of words make up 80 percent of word usage. This pattern is very similar to that of the movies. 20% movies make 80% revenue
+
+**Writing, like coding, is everywhere in our projects. We just don't always notice it**.
+User stories , README files , Commit messages , Pull request descriptions , Meeting agendas and notes , Bug and incident reports , Product releases , Client emails
+
+But also read for form. If you want to write better photo captions, read old issues of LIFE magazine. If you want to become a better explainer, read a great cookbook. If you want to  write clever headlines, read the big city tabloids. If you want to write witty short features, read Talk of the Town in The New Yorker magazine.
+
+Breaking a big project into small parts makes it easier to start writing. Break long projects into parts,  long stories into chapters. Anne Lamott's great book "Bird by Bird" gets its title from an anecdote about her brother. At  the age of 10, he struggled with a school report on birds. Lamott describes him as  "immobilized by the hugeness of the task ahead." But then, "my father sat down beside him, 
+put his arm around my brother's shoulder, and said, 'Bird by bird, buddy. Just take it bird by  bird.'"  We all need such coaching to remind us to break long projects into parts, long stories into  chapters, long chapters into episodes. Such advice is both encouraging and practical. 
+
+Where writers gather, I often ask this question: "How many of you have ever run a marathon?"  In a group of 100, maybe one or two will raise a hand. "If properly trained and motivated, how  many of you think you could run 26 miles?" A half-dozen more. "What if I gave you 52 days to  do it, so you only had to run a half mile a day?" Most of the hands in the room go up. 
+Donald Murray puts it this way: "A page a day is a book a year." 
+When my children were young, I volunteered to teach writing in their elementary school.  After each class, I would scribble notes in a journal, never taking more than 10 minutes to  complete the task. What had I learned that day? How did the children respond? Why was  Bonnie not writing? After three years, I thought I might have a book in me about teaching  children to write. I had never written a book before and did not know how to begin, so I  transcribed my journal entries. The result was about 250 pages of typed text, not yet a book,  but a sturdy foundation for what was to become "Free to Write: A Journalist Teaches Young  Writers."
 
 ## Study Skills
 **Golden Book - notebook imp points - revision on weekends**
