@@ -1,4 +1,4 @@
-## India States
+## States and UT
 * Andhra Pradesh
 * Arunachal Pradesh
 * Assam
@@ -27,18 +27,46 @@
 * Uttar Pradesh
 * Uttarakhand
 * West Bengal.
+* UT National Capital Territory of Delhi.
+* UT Dadra and Nagar Haveli 
+* UT Daman and Diu
+* UT Jammu and Kashmir
+* UT Ladakh
+* UT Andaman and Nicobar Islands
+* UT Lakshadweep
+* UT Puducherry
+* UT Chandigarh
 
- 
-## India UT
-* National Capital Territory of Delhi.
-* Dadra and Nagar Haveli 
-* Daman and Diu
-* Jammu and Kashmir
-* Ladakh
-* Andaman and Nicobar Islands
-* Lakshadweep
-* Puducherry
-* Chandigarh
+## Tourist Places
+
+| State / Union Territory | Popular Places to Visit                                                       |
+|-------------------------|-------------------------------------------------------------------------------|
+| Andhra Pradesh          | Tirupati, Visakhapatnam, Borra Caves, Amaravati, Srisailam, Horsley Hills     |
+| Arunachal Pradesh       | Tawang, Ziro Valley, Bomdila, Namdapha National Park                          |
+| Assam                   | Guwahati, Kaziranga National Park, Jorhat, Majuli Island                      |
+| Bihar                   | Patna, Nalanda, Gaya, Bodh Gaya (Mahabodhi Temple)                            |
+| Chandigarh (UT)         | Rock Garden, Sukhna Lake, Rose Garden                                         |
+| Delhi (NCR)             | Red Fort, Qutub Minar, India Gate, Lotus Temple, Humayun's Tomb               |
+| Goa                     | Panaji, Baga & Calangute Beaches, Old Goa Churches, Palolem, Dudhsagar Falls  |
+| Gujarat                 | Ahmedabad, Dwarka, Somnath, Rann of Kutch, Sasan Gir, Saputara                |
+| Haryana                 | Kurukshetra, Panipat, Sultanpur Bird Sanctuary                                |
+| Himachal Pradesh        | Shimla, Manali, Kullu, Dharamshala, Dalhousie, Spiti Valley, Kasol            |
+| Jammu & Kashmir         | Srinagar, Gulmarg, Pahalgam, Sonamarg, Vaishno Devi                           |
+| Jharkhand               | Ranchi, Deoghar, Hazaribagh, Jamshedpur                                       |
+| Karnataka               | Bangalore, Mysore, Hampi, Coorg, Gokarna, Jog Falls, Badami                   |
+| Kerala                  | Munnar, Alleppey (Backwaters), Kochi, Wayanad, Varkala, Thekkady              |
+| Ladakh (UT)             | Leh, Pangong Lake, Nubra Valley, Khardung La, Hemis Monastery                 |
+| Madhya Pradesh          | Bhopal, Indore, Khajuraho, Gwalior, Kanha & Bandhavgarh (Wildife), Sanchi     |
+| Maharashtra             | Mumbai, Pune, Ajanta & Ellora Caves, Mahabaleshwar, Lonavala, Shirdi          |
+| Odisha                  | Bhubaneswar, Puri (Jagannath Temple), Konark Sun Temple, Chilika Lake         |
+| Punjab                  | Amritsar (Golden Temple), Wagah Border, Anandpur Sahib                        |
+| Rajasthan               | Jaipur, Udaipur, Jodhpur, Jaisalmer, Ajmer, Pushkar, Mount Abu                |
+| Sikkim                  | Gangtok, Tsomgo Lake, Nathula Pass, Pelling                                   |
+| Tamil Nadu              | Chennai, Ooty, Kodaikanal, Madurai, Rameshwaram, Kanniyakumari, Mahabalipuram |
+| Telangana               | Hyderabad (Charminar), Warangal, Nagarjuna Sagar                              |
+| Uttarakhand             | Rishikesh, Haridwar, Nainital, Mussoorie, Jim Corbett, Badrinath, Kedarnath   |
+| Uttar Pradesh           | Agra (Taj Mahal), Varanasi, Lucknow, Mathura, Prayagraj (Allahabad)           |
+| West Bengal             | Kolkata, Darjeeling, Sundarbans, Shantiniketan, Digha                         |
 
 ## Travel vloggers
 * **nandas journey** : https://www.youtube.com/watch?v=1lsiIXQBaag&list=WL&index=2&pp=gAQBiAQB
