@@ -1,5 +1,30 @@
+**India’s youth are a force for global good,**
+- Staying away from distractions and practising self-discipline.
+- Continuous learning and upskilling to remain relevant in a fast-changing world.
+- Physical and moral courage in the face of challenges, drawing inspiration from heroes such as Lt Arun Khetarpal and Capt Mahendra Nath Mulla.
+- To become a team player – ‘One for all, all for one’.
+- Never Give Up
+
+**tablets in village school**
+Today the students in Pashtepada zila parishad school are free from schoolbags. Each child has a tablet with pdf textbooks and references uploaded on them. Individual tablets also store student’s worksheets and the projects they undertake in the school. This has enabled evaluation. Examinations are conducted online. Hence the results are instant. The students do their homework in notebooks so that their writing skills are retained and improved.
+
+**Google Translate's** Live Translate feature has become increasingly powerful, allowing you to have real-time conversations in over 70 languages with audio and on-screen translations simultaneously. Whether you're traveling, meeting new people, or trying to communicate across language barriers, this feature transforms your phone into a live translation machine. The AI is smart enough to understand most pauses and naturally switch between languages, making conversations feel a lot more norm"
+
+
+**An economy allergic to failure': Tech CEO says UPSC is where India buries its ambition - BusinessToday**
+
+"With its vast syllabus, unpredictable questions, and multi-stage eliminations, UPSC demands immense intellectual energy. But Singhal’s point is clear: that same energy could help power India’s next wave of innovation—if it weren’t stuck in exam halls.
+
+“India doesn’t lack talent,” he concluded. “Its efforts are misplaced.”"
+
+
+**CBSE exam prep**
+"Preparation plays a crucial role, but how one prepares matters more than how much. Do not learn by simply reading solutions. Solve problems and keep writing formulas. Last-minute cramming often increases anxiety and confusion. Instead, revise key formulas, standard results, and frequently tested concepts to reinforce confidence. Solve a few representative problems from each chapter, as this is far more effective than hurriedly attempting many new ones just before the exam. The more the practice, the faster the calculation pace during the examination."
+
 ## Reading
 “By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.” -Confucius
+
+"Anurag is more categorical. “You don’t read newspapers just for facts. You read them to learn how to write — English, grammar, opinions, and perspectives,” he says. “Relying on AI for newspaper summaries is a blunder."
 
 Here are some questions that you can ask yourself after reading. 
 1. What is the main idea in the text? 
