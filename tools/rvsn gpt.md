@@ -46,6 +46,8 @@
 * Comparing “Compare Tesla, BYD, and Rivian in terms of EV market share and battery technology.” 
 * Strategy Planning “Create a 90-day marketing plan for a new fitness app targeting Gen Z.”
 
+"You are a senior business analyst. Read the following document and produce an executive summary of no more than 250 words. Structure it as: one-sentence overview, three to five key findings as bullet points, and a one-sentence recommended next action. Avoid jargon. Write for a C-suite audience. Document: {INSERT DOCUMENT TEXT}" For teams working with
+
 
 ## Developer
 Functions
