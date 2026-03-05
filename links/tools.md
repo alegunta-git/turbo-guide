@@ -1,3 +1,11 @@
+## kindle
+- https://www.makeuseof.com/best-kindle-uses-beyond-reading-books/
+- https://www.pocket-lint.com/kindle-collections-batch-adding-is-easy-if-you-use-this-hack/
+- Why There's Simply No Need For A Kindle Anymore https://share.google/qoYePaPJN4i1fYe6b
+- The Best Kindle Accessorieshttps://share.google/jwfkn7AWr1MyA4sdc
+- I will never buy these books on Kindle https://share.google/nybMrgRorJCi7Bf2C
+
+
 ## xda
 - https://www.androidauthority.com/ways-using-ai-for-hobbies-3624877/
 - https://www.androidpolice.com/started-using-gemini-to-create-notes-in-google-keep/
@@ -8,7 +16,6 @@
 - https://www.androidpolice.com/google-keep-was-enough-until-paired-it-with-gemini/
 - https://www.androidpolice.com/surprising-ways-use-google-maps-nothing-to-do-with-navigation/
 - https://www.makeuseof.com/best-free-pdf-tool-pdf24/
-- https://www.makeuseof.com/best-kindle-uses-beyond-reading-books/
 - https://www.makeuseof.com/browser-based-open-source-whiteboards/
 - https://www.makeuseof.com/creative-ways-repurpose-old-tablet/
 - https://www.makeuseof.com/google-keep-idea-capture-workflow/
@@ -56,11 +63,8 @@
 - https://timesofindia.indiatimes.com/education/news/5-math-problem-solving-strategies-every-student-should-master-by-age-14/photostory/125081439.cms
 - https://www.moneycontrol.com/artificial-intelligence/how-google-reclaimed-the-ai-crown-article-13702328.html
 - https://www.howtogeek.com/ways-ereaders-are-objectively-better-than-paper-books/
-- https://www.pocket-lint.com/kindle-collections-batch-adding-is-easy-if-you-use-this-hack/
 - Free AI Training (Day 2) https://www.youtube.com/live/EbXuWl-gYfg?si=X0gDEkQrL1NgnFS1
 - AI in Excel https://www.microsoft.com/en-us/microsoft-365/excel/ai-for-excel
-- Why There's Simply No Need For A Kindle Anymore https://share.google/qoYePaPJN4i1fYe6b
-- The Best Kindle Accessorieshttps://share.google/jwfkn7AWr1MyA4sdc
 - https://javarevisited.substack.com/p/how-im-learning-ai-and-machine-learning
 - How to Use AI Effectively in Your Dev Projects https://share.google/Kiqvu4rIEao1Zy0qT
 
