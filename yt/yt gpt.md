@@ -1,23 +1,26 @@
-Tools
-* chatgpt , open ai docs
-* perplexity , docs 
-* copilot 
-* claude
-* comet browser
+## mcp
+* agents mcp : https://youtu.be/OmJAtDFcSZY?si=lFs3inraUVAPuE5O
+* mcp server : https://www.youtube.com/shorts/4nvrdYEvR_k
 
-markdown to pdf
-* pdf to md https://youtu.be/h8TK4g4ugtc?si=MTivic4W0vrQv1Ld
-* w python https://youtu.be/8mN16cORwkc?si=4kcej0-pdiJuunsF
+## gemini
+* ask google ai : https://youtu.be/sxUBThVQLjU?si=mQUzSJvJ5M9QeEo8
+* image to table : https://www.youtube.com/watch?v=I7QUi8Kyqo8&list=WL&index=2&pp=gAQBiAQB
+* resume gemini : https://www.youtube.com/watch?v=KIWdgg_0TlI&list=WL&index=11&t=120s&pp=gAQBiAQB
+* ask qs study : https://www.youtube.com/watch?v=P7vhAF9Dr4o&list=WL&index=4&pp=gAQBiAQB
+* sonnet : https://www.youtube.com/watch?v=Tdg_lkCMzY0&list=LL&index=1&pp=gAQBiAQB
+* dsa ai hacks : https://youtu.be/dHVq7pK83QE?si=EAMJStMwOH2fkddq
+* https://blog.google/products-and-platforms/products/education/gemini-features-for-students/
 
 
-## Claude
-* Claude chrome : https://youtu.be/mCj4kx_P2Ak?si=rM9myKbFqi1olg7k
-* claude browser https://youtu.be/rBJnWMD0Pho?si=KPirH-kl-paYuB8C
-
+## notebook llm
+* use llm : https://www.youtube.com/watch?v=w-urtJiCKhw&list=WL&index=8&pp=gAQBiAQB
+* llm and perplexity : https://www.youtube.com/watch?v=tiM8Bk_pOdg&list=WL&index=9&pp=gAQBiAQB
+* summarize files : https://www.youtube.com/watch?v=mVykl3Pz368&list=WL&index=10&pp=gAQBiAQB
+* research tool : https://share.google/UsLEDIOKtqksCiWTL
+* programming : https://www.xda-developers.com/ways-i-use-notebooklm-for-programming/
   
 ## meta ai
 * Meta ai wa https://youtu.be/mEuBrfS3A34?si=DZ3kPpoJUFkOdOrp
-* Copy paste from gpt https://youtu.be/wbHeOOAFHSc?si=FL*ufxZpIQiflELw
 * How To Use Meta AI for Business in 2025 https://www.webfx.com/blog/ai/meta-ai/
 * use meta wa uspc https://www.youtube.com/live/sUyY59WlQjg?si=lZspBol1NOSpLJBt
 
@@ -27,39 +30,11 @@ markdown to pdf
 * copilot : https://www.youtube.com/playlist?list=PL_dhPga7ruudNJa_Tzx_7go8b24dGjqEJ
 * copilot tips :  https://www.youtube.com/watch?v=MuocazjjZmc&list=WL&index=10&pp=gAQBiAQB
 
-
-## gemini
-* ask google ai : https://youtu.be/sxUBThVQLjU?si=mQUzSJvJ5M9QeEo8
-* image to table : https://www.youtube.com/watch?v=I7QUi8Kyqo8&list=WL&index=2&pp=gAQBiAQB
-* resume gemini : https://www.youtube.com/watch?v=KIWdgg_0TlI&list=WL&index=11&t=120s&pp=gAQBiAQB
-* ask qs study : https://www.youtube.com/watch?v=P7vhAF9Dr4o&list=WL&index=4&pp=gAQBiAQB
-* sonnet : https://www.youtube.com/watch?v=Tdg_lkCMzY0&list=LL&index=1&pp=gAQBiAQB
-* dsa ai hacks : https://youtu.be/dHVq7pK83QE?si=EAMJStMwOH2fkddq
-* 10 Gemini prompts to help you keep your New Year's resolutions https://share.google/E0jwJWxzc3cHRgt
-* https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html
-* https://blog.google/products-and-platforms/products/education/gemini-features-for-students/
-* https://www.xda-developers.com/cancelled-gemini-chatgpt-perplexity-subscriptions-to-go-back-to-this-ai-tool/
-* 5 Useful Google Chrome Features You Should Be Using In 2026 https://share.google/MHgba8mWVvHuPRW3O
-
-
-## perplexity 
-* perplexity tasks for stock mkt news snippet : https://youtu.be/EK-CsG8gKA8?si=P63Er3CEEek9Ttek
-* tech g : https://youtu.be/xVUV9gFq0YA?si=VkjJvmHqLITfff2B
-* airtel perplexity : https://www.youtube.com/watch?v=geq51VcnOPw&list=LL&index=34&pp=gAQBiAQB0gcJCbIJAYcqIYzv
-* export threads to gdocs : https://www.youtube.com/watch?v=X8Pgs9PLz0c&list=LL&index=12&pp=gAQBiAQB0gcJCbIJAYcqIYzv
-* voice assistant : https://www.youtube.com/watch?v=cMTzqBLcUyc&list=LL&index=28&pp=gAQBiAQB
-* p doc : https://www.youtube.com/shorts/TrscW0hhx3E
-* https://www.makeuseof.com/perplexity-like-google-it-can-do-more/
-* p ovw 30 min : https://youtu.be/Z5EjbBPri-c?si=XIaQuwd9MuyCP3mp
-* p pro : https://www.youtube.com/shorts/cXv2KCN7gFI
-
 ## Chatgpt
+* Copy paste from gpt https://youtu.be/wbHeOOAFHSc?si=FL*ufxZpIQiflELw
 * dan martell 23 ways gpt https://youtu.be/7zPQV1BSH_k?si=rhm7-QMvLUoNY2Qz
 * gpt demo 2024 gl : https://www.youtube.com/watch?v=_3vCzIDNxEU&list=WL&index=2&t=15896s&pp=gAQBiAQB
 * gpt demo 2025 : https://www.youtube.com/watch?v=mnULGqkVONI&list=WL&index=3&pp=gAQBiAQB
-* https://quickref.me/chatgpt#research
-* https://it.ie/wp-content/uploads/2025/04/Microsoft-Copilot-Cheatsheet.pdf
-* https://www.algonquincollege.com/its/files/2024/03/Copilot-Cheat-Sheet.pdf
 * t tube chatgpt : https://www.youtube.com/playlist?list=PL_dhPga7ruuf4tmDAmBmcjcoqrrD_N_fK
 * apps gpt : https://youtu.be/2C4Cs6503gw?si=-h71qfxvqn4oEaos
 * 10 gpt hacks : https://www.youtube.com/watch?v=-fopYsgFdzc&list=WL&index=10&pp=gAQBiAQB
@@ -83,24 +58,35 @@ markdown to pdf
 * g maps gpt https://youtube.com/shorts/_cvAfo5O8ig?si=6YKawZif_2eEiI9V
 
 
-## notebook llm
-* use llm : https://www.youtube.com/watch?v=w-urtJiCKhw&list=WL&index=8&pp=gAQBiAQB
-* llm and perplexity : https://www.youtube.com/watch?v=tiM8Bk_pOdg&list=WL&index=9&pp=gAQBiAQB
-* summarize files : https://www.youtube.com/watch?v=mVykl3Pz368&list=WL&index=10&pp=gAQBiAQB
-* research tool : https://share.google/UsLEDIOKtqksCiWTL
-* programming : https://www.xda-developers.com/ways-i-use-notebooklm-for-programming/
 
+## perplexity 
+* perplexity tasks for stock mkt news snippet : https://youtu.be/EK-CsG8gKA8?si=P63Er3CEEek9Ttek
+* tech g : https://youtu.be/xVUV9gFq0YA?si=VkjJvmHqLITfff2B
+* airtel perplexity : https://www.youtube.com/watch?v=geq51VcnOPw&list=LL&index=34&pp=gAQBiAQB0gcJCbIJAYcqIYzv
+* export threads to gdocs : https://www.youtube.com/watch?v=X8Pgs9PLz0c&list=LL&index=12&pp=gAQBiAQB0gcJCbIJAYcqIYzv
+* voice assistant : https://www.youtube.com/watch?v=cMTzqBLcUyc&list=LL&index=28&pp=gAQBiAQB
+* p doc : https://www.youtube.com/shorts/TrscW0hhx3E
+* https://www.makeuseof.com/perplexity-like-google-it-can-do-more/
+* p ovw 30 min : https://youtu.be/Z5EjbBPri-c?si=XIaQuwd9MuyCP3mp
+* p pro : https://www.youtube.com/shorts/cXv2KCN7gFI
 
-## mcp
-* https://www.infoworld.com/article/4063670/model-context-protocol-mcp-certification-when-will-it-arrive-and-what-will-it-mean.html
-* agents mcp : https://youtu.be/OmJAtDFcSZY?si=lFs3inraUVAPuE5O
-* mcp server : https://www.youtube.com/shorts/4nvrdYEvR_k
-* https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/
-* MCP in Practice | Towards Data Science https://towardsdatascience.com/mcp-in-practice/
+## Claude
+* Claude chrome : https://youtu.be/mCj4kx_P2Ak?si=rM9myKbFqi1olg7k
+* claude browser https://youtu.be/rBJnWMD0Pho?si=KPirH-kl-paYuB8C
 
 
 
 ## yt ai tools
+* https://quickref.me/chatgpt#research
+* https://it.ie/wp-content/uploads/2025/04/Microsoft-Copilot-Cheatsheet.pdf
+* https://www.algonquincollege.com/its/files/2024/03/Copilot-Cheat-Sheet.pdf
+* 10 Gemini prompts to help you keep your New Year's resolutions https://share.google/E0jwJWxzc3cHRgt
+* https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html
+* https://www.xda-developers.com/cancelled-gemini-chatgpt-perplexity-subscriptions-to-go-back-to-this-ai-tool/
+* 5 Useful Google Chrome Features You Should Be Using In 2026 https://share.google/MHgba8mWVvHuPRW3O
+* https://www.infoworld.com/article/4063670/model-context-protocol-mcp-certification-when-will-it-arrive-and-what-will-it-mean.html
+* https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/
+* MCP in Practice | Towards Data Science https://towardsdatascience.com/mcp-in-practice/
 * https://www.livemint.com/technology/tech-news/8-chatgpt-prompts-that-could-help-you-master-a-new-language-in-30-days-reveals-ai-expert-11759122124403.html
 * AI Utils : Remove.bg , 12ft.io ,Otter.ai(transcribe) , Hemingwayapp.com ( editor) , QuillBot.com Paraphrase , Overleaf : Cv prep
 * [best ai tools](https://youtu.be/eFy8tepEByw?si=U13WBIEPfgUUyNdy)
@@ -111,3 +97,11 @@ markdown to pdf
 * free ai tools : https://www.youtube.com/shorts/FZml4h4uXJU
 * ai tool study : https://youtube.com/shorts/ERfRgG1PoRI?si=IVhIC2N5HCvE5Zyo
 * Day 13 - Leeco AI: The Most Powerful AI Tool You’re Not Using Yet! https://youtube.com/shorts/gWbtkUw1IDA?si=zJtPl_ykG7bmvGmM
+
+
+Tools
+* chatgpt , open ai docs
+* perplexity , docs 
+* copilot 
+* claude
+* comet browser
