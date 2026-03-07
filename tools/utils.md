@@ -135,7 +135,7 @@
 * git data:https://www.youtube.com/watch?v=kAUS7YIi7Fk&list=WL&index=4&pp=gAQBiAQB
 * add gif to repo : https://www.youtube.com/watch?v=EF6fqnnl3Uk&list=WL&index=9&pp=gAQBiAQB
 * git tutorial:https://www.youtube.com/watch?v=LbanWJyLMnA&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=30&pp=gAQBiAQB
-
+* Planning and tracking work for your team or project - GitHub Docs https://share.google/FQko09gVlEGcJFJ5V
 
 ## MS project
 * [ms prj tutorial](https://www.youtube.com/watch?v=BYR_S6ktoFc)
