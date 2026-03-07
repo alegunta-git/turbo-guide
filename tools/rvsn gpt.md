@@ -280,6 +280,8 @@ ChatGPT can generate:
 * sonnet : https://www.youtube.com/watch?v=Tdg_lkCMzY0&list=LL&index=1&pp=gAQBiAQB
 * dsa ai hacks : https://youtu.be/dHVq7pK83QE?si=EAMJStMwOH2fkddq
 * https://blog.google/products-and-platforms/products/education/gemini-features-for-students/
+* The ONLY Google Gemini Tutorial You Need https://youtu.be/KSk8SOob79Q?si=DaWezp-W4rTVr_mc
+* How To Enable Help Me Write in Gmail,H https://youtu.be/RTJPy4yn8Z0?si=Q1Q7aTTj6RtB9w9b
 
 
 ## notebook llm
@@ -288,6 +290,7 @@ ChatGPT can generate:
 * summarize files : https://www.youtube.com/watch?v=mVykl3Pz368&list=WL&index=10&pp=gAQBiAQB
 * research tool : https://share.google/UsLEDIOKtqksCiWTL
 * programming : https://www.xda-developers.com/ways-i-use-notebooklm-for-programming/
+* https://www.makeuseof.com/notebooklm-data-tables-feature/
   
 ## meta ai
 * Meta ai wa https://youtu.be/mEuBrfS3A34?si=DZ3kPpoJUFkOdOrp
@@ -326,6 +329,11 @@ ChatGPT can generate:
 * gpt qa : https://www.youtube.com/watch?v=0PqHyqA1PJU&list=WL&index=8
 * quiz q gpt : https://youtube.com/shorts/UVwRFCHAYmk?si=pOik95CaboaZ3UJK
 * g maps gpt https://youtube.com/shorts/_cvAfo5O8ig?si=6YKawZif_2eEiI9V
+* ChatGPT For Project Management https://youtu.be/chPAPzOIT6A?si=cVdc7wLp3R_-wfiK
+* How To Save ChatGPT Conversation as PDF https://youtu.be/RexXH2Zz384?si=W4brcc0i1xfO-FdO
+* https://www.chatpdf.com/
+* The most underutilized feature in ChatGPT https://youtu.be/bJfWrm9DocQ?si=Uo-9ZfFUfpPOWzC8
+* 11 ChatGPT Tips and Tricks  https://youtu.be/HjUrz_epSTI?si=DEFU8W3JfJ-sAmB3
 
 
 
@@ -369,6 +377,8 @@ ChatGPT can generate:
 * Day 13 - Leeco AI: The Most Powerful AI Tool You’re Not Using Yet! https://youtube.com/shorts/gWbtkUw1IDA?si=zJtPl_ykG7bmvGmM
 * https://dev.to/extinctsion/the-art-of-talking-to-ai-prompts-that-actually-work-for-coding-4fpe
 * https://anthropic.skilljar.com/
+* ai tools pl https://youtube.com/playlist?list=PL459T66GqbuyFTOxCOba_6D3I6SFi8ENM&si=gvAWlRjkFhQdTEi4
+* Prompt Engineering Full Course  https://youtu.be/YhRfgYH_AoU?si=c1hhkvpszKgDN0AX
 
 
 
