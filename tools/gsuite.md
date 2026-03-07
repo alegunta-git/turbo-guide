@@ -14,6 +14,8 @@
 * [800+ g svc](https://www.youtube.com/watch?v=WRepw27cUMc&list=PLmMyXRtEtJEaqENzpkEig2KfPsOkfhQWX&index=23)
 * Digital Literacy https://youtube.com/playlist?list=PLRsndPpfc7j_1mP1cjWO84hG1s4zJUHWJ&si=tyEkmU5gxuDWz479
 * In-Depth Tour of Google Sheets  https://youtu.be/hEYnEtyYvjM?si=O_kCk2PV1lcBqG7T
+* Microsoft Edge Kyun Use Karein https://youtu.be/6hg2YG85LAk?si=eewJoLJ2yYJkqlU5
+* हाथ से लिखे नोट्स को बिना टाइप किए MS Word में कैसे कन्वर्ट करें? https://youtu.be/Goupg6tB0kQ?si=eB_K2Z8P0a0py3Wj
 
 
 ## GSuite help docs 
