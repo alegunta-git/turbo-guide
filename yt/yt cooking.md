@@ -16,6 +16,7 @@
 * cookinghome https://www.youtube.com/shorts/OmTteJEiQcs
 * cloud kitchen https://www.youtube.com/shorts/gIdzTwLCNoA
 * Indian food london https://youtu.be/xUXorfFZzZQ?si=n1paMQCMnsZJcwzI
+* అన్ని ఒకేసారి కుక్కర్ లో వేసుకుని మూత పెట్టుకుంటే రెడీ https://youtu.be/lZMuB6KAbZM?si=xg5OZfTdDJJTxPlv
 
 
 ## Chutney
