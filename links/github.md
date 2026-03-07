@@ -14,6 +14,7 @@ sysdesign
 * https://github.com/arkapg211002/System-Design-Preparation
 * https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file
 * https://www.enjoyalgorithms.com/blog/implement-least-recently-used-cache
+* 10 GitHub Repositories to Master System Design - KDnuggets https://share.google/xrGbtjNYqKa5MPZcO
 
 dsa
 * https://leetcode.com/studyplan/top-interview-150/
