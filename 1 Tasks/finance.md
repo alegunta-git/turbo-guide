@@ -1,13 +1,11 @@
-* Wa tenant rent 
-* meals card : enable txn how ? , chk dmart 
-
 ## Health Insurance Renewal
 * call rep
 * ask options , amt
 
-
 ## Backlog
+* Wa tenant rent 
 * ppf amt pmt : pwd , amt 
+* meals card : enable txn how ? , chk dmart 
 * wh is inv tracker
 * bbmp Kht correction vst aro (hrmv) , chng
 * ofc h insurance Check docs , print 
