@@ -27,6 +27,7 @@
 * "You are the problem, and you are the solution."
 * “Worrying is like paying a debt you don’t owe.” -Mark Twain
 * Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbour, catch the trade winds inyour sails. Explore, Dream, Discover.’ Mark
+* When Systems Fail, So Do Habits The biggest enemy of habit formation is friction. No matter how excellent a tool, if there's friction to use it, you won't stick with it.
 
 
 ## Philanthrophy
