@@ -18,6 +18,10 @@
 * ff screenshot https://youtu.be/YrANsYVIVrc?si=RxJUj5pwYlVUnJ3m
 * ggl a day https://youtu.be/X9X2iFKn01c?si=W1vWz7lF6frHLsRH
 
+
+## gpt 
+* copilot basics https://youtu.be/5niZpsVPlC4?si=MLNxmzhDY4gF5-YA
+
 ## windows search
 * win navigation : https://www.youtube.com/watch?v=Ot8KYCrX4hI&list=WL&index=8
 * win 10 search : https://www.youtube.com/watch?v=CBFiFkyBufo&list=LL&index=1&pp=gAQBiAQB0gcJCbIJAYcqIYzv
