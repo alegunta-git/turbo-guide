@@ -33,8 +33,9 @@
 
 
 ## G Search adv
+* https://search.google/intl/en-IN/tips-tricks/
+* list and collection https://youtu.be/mg91_trV4hY?si=vpSVYdRR82CavIci
 * [art of googling](https://www.youtube.com/watch?v=bNbPtThW2fM&list=WL&index=2&pp=gAQBiAQB)
-* Self Learning Basics https://youtube.com/playlist?list=PLkW9FMxqUvya_GWnQ-xpdwe7BKVg4m7_x&si=9AI0TIJHufxQ6IKh
 * [yt g adv search](https://youtube.com/watch?v=JciRHpvtgK8&si=5QT2d6Xeqmr3RFS7)
 * [use ggl](https://www.youtube.com/watch?v=bFANqJb7XGo&pp=ygUNZ29vZ2xlIHNlYXJjaA%3D%3D)
 * [VA 10 google search hacks](https://www.youtube.com/watch?v=Bp1AdmiMHn4)
@@ -51,6 +52,11 @@
 * [gdorks](https://exposingtheinvisible.org/en/guides/google-dorking/)
 * [g search reunion](https://youtu.be/gHGDN9*oFJE?si=Ddl0Rez84DM5OYNc)
 * filter copy g search :https://youtu.be/8tZuRKsfCps?si=EKqpcwEcI4XObapZ
+* Self Learning Basics https://youtube.com/playlist?list=PLkW9FMxqUvya_GWnQ-xpdwe7BKVg4m7_x&si=9AI0TIJHufxQ6IKh
+
+
+**mobile**
+* apple iphone user guide https://support.apple.com/en-in/guide/iphone/iph9e04f3be2/ios
 
 
 **youtube viewers**
