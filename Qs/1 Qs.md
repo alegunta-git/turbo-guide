@@ -1,11 +1,3 @@
-**R4 PM Topics**
-* WBS
-* Estimation (prcl)
-* PMBOK
-* Rita PMP
-* Glassdoor Qs PM
-* 300 qs
-
 ## syllabus
 * [iitg cse syllabus format](https://www.iitgoa.ac.in/~sreejithav/20Aug/cs220.html#time-and-plac)
 * [CSE Washington Uni syllabus](https://www.cs.washington.edu/education/courses)
